@@ -228,17 +228,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
           fnSection.innerHTML = `
             <div class="footnotes-title-bar">
-              <span class="fn-title-icon">📚</span>
-              <h4>Nota Kaki & Rujukan Bab (${ch.footnotes.length})</h4>
+              <div class="fn-title-group">
+                <div class="fn-title-icon-wrap" aria-hidden="true">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+                  </svg>
+                </div>
+                <div class="fn-title-text">
+                  <h4>Nota Kaki & Rujukan Ilmiah</h4>
+                  <span class="fn-arabic-subtitle">المراجع والهوامش</span>
+                </div>
+              </div>
+              <span class="fn-total-pill">${ch.footnotes.length} Rujukan</span>
             </div>
             <div class="footnotes-list-box">
               ${ch.footnotes.map(fn => `
                 <div id="fn-item-${fn.id}" class="footnote-card">
-                  <div class="fn-card-meta">
-                    <span class="fn-card-badge">[${fn.id}]</span>
-                    <button type="button" class="fn-back-btn" data-fn-id="${fn.id}" title="Kembali ke perenggan [${fn.id}] untuk sambung bacaan">
-                      <span class="fn-back-icon">↩</span>
-                      <span class="fn-back-text">Kembali [${fn.id}]</span>
+                  <div class="fn-card-topbar">
+                    <div class="fn-card-badge-wrap">
+                      <span class="fn-islamic-star" aria-hidden="true">❖</span>
+                      <span class="fn-card-badge">[${fn.id}]</span>
+                    </div>
+                    <button type="button" class="fn-back-btn" data-fn-id="${fn.id}" aria-label="Kembali ke perenggan [${fn.id}] untuk sambung bacaan" title="Kembali ke perenggan [${fn.id}]">
+                      <svg class="fn-return-svg" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                        <path d="M7.5 5L2.5 10L7.5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2.5 10H13.5C15.7091 10 17.5 11.7909 17.5 14V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                      </svg>
+                      <span class="fn-back-text">Kembali ke teks</span>
+                      <span class="fn-back-pill">[${fn.id}]</span>
                     </button>
                   </div>
                   <div class="fn-card-body">${fn.text}</div>
@@ -249,6 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
           contentBody.appendChild(fnSection);
         }
+
 
         // 1. Attach interactive Click Handlers on in-text Footnote Citations (.fn-ref)
         contentBody.querySelectorAll('.fn-ref').forEach(el => {
