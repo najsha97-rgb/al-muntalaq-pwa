@@ -1148,156 +1148,126 @@ body {
   transform: translateX(6px);
 }
 
-/* Card Topbar: Badge + Return Button */
+/* Card Topbar: Simplified to Left Return Badge Button */
 .fn-card-topbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+  justify-content: flex-start;
+  margin-bottom: 2px;
 }
 
-/* Islamic Rub-El-Hizb Number Badge */
-.fn-card-badge-wrap {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.fn-islamic-star {
-  color: var(--gold-primary);
-  font-size: 0.85rem;
-  line-height: 1;
-}
-
-.fn-card-badge {
-  font-family: 'Outfit', sans-serif;
-  font-weight: 700;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  color: var(--gold-light);
-  background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(16, 185, 129, 0.12));
-  border: 1px solid rgba(212, 175, 55, 0.35);
-  padding: 3px 9px;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-}
-
-[data-theme="light"] .fn-card-badge {
-  color: #8c6b00;
-  background: rgba(212, 175, 55, 0.16);
-  border-color: rgba(180, 138, 28, 0.4);
-}
-
-/* BUTANG COMEL KEMBALI KE TEKS (PREMIUM ISLAMIC PILL BUTTON) */
-.fn-back-btn {
+/* Islamic Rub-El-Hizb Left Badge Button (Click to return to text) */
+.fn-card-badge-btn {
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  padding: 6px 14px;
-  min-height: 36px;
-  border-radius: 20px;
-  background: linear-gradient(135deg, rgba(6, 78, 59, 0.6) 0%, rgba(15, 23, 42, 0.8) 100%);
-  border: 1px solid rgba(212, 175, 55, 0.45);
-  color: #34d399;
+  padding: 5px 12px;
+  min-height: 32px;
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.16) 0%, rgba(6, 78, 59, 0.35) 100%);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 8px;
+  color: var(--gold-light);
   font-family: 'Outfit', -apple-system, sans-serif;
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.3px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
   cursor: pointer;
   outline: none;
   transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
   user-select: none;
 }
 
-.fn-back-btn:focus-visible {
+.fn-card-badge-btn:hover {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.28) 0%, rgba(5, 150, 105, 0.5) 100%);
+  border-color: var(--gold-light);
+  color: #ffffff;
+  transform: translateY(-1.5px);
+  box-shadow: 0 4px 14px rgba(212, 175, 55, 0.35), 0 0 12px rgba(16, 185, 129, 0.3);
+}
+
+.fn-card-badge-btn:active {
+  transform: translateY(0) scale(0.97);
+}
+
+.fn-card-badge-btn:focus-visible {
   box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.5), 0 0 12px rgba(16, 185, 129, 0.4);
 }
 
-.fn-back-btn .fn-return-svg {
+.fn-card-badge-btn .fn-islamic-star {
+  color: var(--gold-primary);
+  font-size: 0.82rem;
+  line-height: 1;
+  transition: transform 0.25s ease, color 0.2s ease;
+}
+
+.fn-card-badge-btn:hover .fn-islamic-star {
+  transform: rotate(45deg);
+  color: var(--gold-light);
+}
+
+.fn-card-badge-btn .fn-badge-arrow {
   width: 14px;
   height: 14px;
   flex-shrink: 0;
-  color: var(--gold-light);
-  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+  color: #34d399;
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1), color 0.2s ease;
 }
 
-.fn-back-btn .fn-back-text {
-  color: var(--text-main);
-  transition: color 0.2s ease;
-}
-
-.fn-back-btn .fn-back-pill {
-  font-size: 0.72rem;
-  font-weight: 700;
-  color: var(--gold-light);
-  background: rgba(212, 175, 55, 0.2);
-  border: 1px solid rgba(212, 175, 55, 0.35);
-  padding: 1px 6px;
-  border-radius: 10px;
-  line-height: 1.2;
-}
-
-/* Hover & Active States */
-.fn-back-btn:hover {
-  background: linear-gradient(135deg, #059669 0%, #047857 100%);
-  border-color: var(--gold-light);
-  color: #ffffff;
-  transform: translateY(-2px) scale(1.02);
-  box-shadow: 0 6px 18px rgba(5, 150, 105, 0.45), 0 0 12px rgba(212, 175, 55, 0.35);
-}
-
-.fn-back-btn:hover .fn-return-svg {
+.fn-card-badge-btn:hover .fn-badge-arrow {
   color: #ffffff;
   transform: translateX(-3px);
 }
 
-.fn-back-btn:hover .fn-back-text {
+.fn-card-badge-btn .fn-card-badge-num {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: var(--gold-light);
+  line-height: 1;
+  transition: color 0.2s ease;
+}
+
+.fn-card-badge-btn:hover .fn-card-badge-num {
   color: #ffffff;
 }
 
-.fn-back-btn:hover .fn-back-pill {
-  background: rgba(255, 255, 255, 0.25);
-  border-color: rgba(255, 255, 255, 0.5);
-  color: #ffffff;
-}
-
-.fn-back-btn:active {
-  transform: translateY(0) scale(0.97);
-}
-
-/* Light Mode Back Button */
-[data-theme="light"] .fn-back-btn {
-  background: linear-gradient(135deg, #ffffff 0%, #f0fdf4 100%);
+/* Light Mode Badge Button */
+[data-theme="light"] .fn-card-badge-btn {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(240, 253, 244, 0.9) 100%);
   border: 1px solid rgba(180, 138, 28, 0.45);
-  color: #047857;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
-[data-theme="light"] .fn-back-btn .fn-return-svg {
+[data-theme="light"] .fn-card-badge-btn .fn-islamic-star {
   color: #b48a1c;
 }
 
-[data-theme="light"] .fn-back-btn .fn-back-text {
-  color: #1e293b;
+[data-theme="light"] .fn-card-badge-btn .fn-badge-arrow {
+  color: #047857;
 }
 
-[data-theme="light"] .fn-back-btn .fn-back-pill {
+[data-theme="light"] .fn-card-badge-btn .fn-card-badge-num {
   color: #8c6b00;
-  background: rgba(212, 175, 55, 0.15);
-  border-color: rgba(180, 138, 28, 0.35);
 }
 
-[data-theme="light"] .fn-back-btn:hover {
-  background: linear-gradient(135deg, #059669 0%, #047857 100%);
-  border-color: #047857;
-  color: #ffffff;
+[data-theme="light"] .fn-card-badge-btn:hover {
+  background: linear-gradient(135deg, #fefce8 0%, #dcfce7 100%);
+  border-color: #b48a1c;
+  box-shadow: 0 4px 12px rgba(180, 138, 28, 0.25);
 }
 
-[data-theme="light"] .fn-back-btn:hover .fn-back-text,
-[data-theme="light"] .fn-back-btn:hover .fn-return-svg,
-[data-theme="light"] .fn-back-btn:hover .fn-back-pill {
-  color: #ffffff;
+[data-theme="light"] .fn-card-badge-btn:hover .fn-card-badge-num {
+  color: #064e3b;
+}
+
+[data-theme="light"] .fn-card-badge-btn:hover .fn-badge-arrow {
+  color: #047857;
+}
+
+/* Redundant Right Button Hidden */
+.fn-back-btn {
+  display: none !important;
 }
 
 /* Footnote Card Body Text */

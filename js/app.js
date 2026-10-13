@@ -246,17 +246,13 @@ document.addEventListener('DOMContentLoaded', () => {
               ${ch.footnotes.map(fn => `
                 <div id="fn-item-${fn.id}" class="footnote-card">
                   <div class="fn-card-topbar">
-                    <div class="fn-card-badge-wrap">
+                    <button type="button" class="fn-card-badge-btn" data-fn-id="${fn.id}" aria-label="Kembali ke perenggan [${fn.id}] untuk sambung bacaan" title="Kembali ke perenggan [${fn.id}] (Klik untuk sambung bacaan)">
                       <span class="fn-islamic-star" aria-hidden="true">❖</span>
-                      <span class="fn-card-badge">[${fn.id}]</span>
-                    </div>
-                    <button type="button" class="fn-back-btn" data-fn-id="${fn.id}" aria-label="Kembali ke perenggan [${fn.id}] untuk sambung bacaan" title="Kembali ke perenggan [${fn.id}]">
-                      <svg class="fn-return-svg" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                      <svg class="fn-badge-arrow" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                         <path d="M7.5 5L2.5 10L7.5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                         <path d="M2.5 10H13.5C15.7091 10 17.5 11.7909 17.5 14V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                       </svg>
-                      <span class="fn-back-text">Kembali ke teks</span>
-                      <span class="fn-back-pill">[${fn.id}]</span>
+                      <span class="fn-card-badge-num">[${fn.id}]</span>
                     </button>
                   </div>
                   <div class="fn-card-body">${fn.text}</div>
@@ -296,8 +292,8 @@ document.addEventListener('DOMContentLoaded', () => {
           });
         });
 
-        // 2. Attach Click Handlers to the "Butang Comel" (.fn-back-btn) to jump back to text
-        contentBody.querySelectorAll('.fn-back-btn').forEach(btn => {
+        // 2. Attach Click Handlers to the Left Badge Button (.fn-card-badge-btn) to jump back to text
+        contentBody.querySelectorAll('.fn-card-badge-btn, .fn-back-btn').forEach(btn => {
           btn.addEventListener('click', (e) => {
             e.preventDefault();
             const fnId = btn.getAttribute('data-fn-id');
