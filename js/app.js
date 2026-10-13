@@ -234,7 +234,13 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="footnotes-list-box">
               ${ch.footnotes.map(fn => `
                 <div id="fn-item-${fn.id}" class="footnote-card">
-                  <span class="fn-card-badge">[${fn.id}]</span>
+                  <div class="fn-card-meta">
+                    <span class="fn-card-badge">[${fn.id}]</span>
+                    <button type="button" class="fn-back-btn" data-fn-id="${fn.id}" title="Kembali ke perenggan [${fn.id}] untuk sambung bacaan">
+                      <span class="fn-back-icon">↩</span>
+                      <span class="fn-back-text">Kembali [${fn.id}]</span>
+                    </button>
+                  </div>
                   <div class="fn-card-body">${fn.text}</div>
                 </div>
               `).join('')}
@@ -244,14 +250,23 @@ document.addEventListener('DOMContentLoaded', () => {
           contentBody.appendChild(fnSection);
         }
 
-        // Attach interactive Footnote Click Handlers
+        // 1. Attach interactive Click Handlers on in-text Footnote Citations (.fn-ref)
         contentBody.querySelectorAll('.fn-ref').forEach(el => {
+          const fnId = el.getAttribute('data-fn-id');
+          if (!el.id) {
+            el.id = `fnref-${fnId}`;
+          }
+          el.setAttribute('role', 'button');
+          el.setAttribute('tabindex', '0');
+          el.title = el.getAttribute('title') || `Lihat Nota Kaki [${fnId}]`;
+
           el.addEventListener('click', (e) => {
             e.preventDefault();
-            const fnId = el.getAttribute('data-fn-id');
             const targetFn = document.getElementById(`fn-item-${fnId}`);
             if (targetFn) {
               targetFn.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              targetFn.classList.remove('fn-highlight');
+              void targetFn.offsetWidth; // trigger reflow for animation
               targetFn.classList.add('fn-highlight');
               setTimeout(() => targetFn.classList.remove('fn-highlight'), 3000);
             }
@@ -261,6 +276,38 @@ document.addEventListener('DOMContentLoaded', () => {
             }
           });
         });
+
+        // 2. Attach Click Handlers to the "Butang Comel" (.fn-back-btn) to jump back to text
+        contentBody.querySelectorAll('.fn-back-btn').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            e.preventDefault();
+            const fnId = btn.getAttribute('data-fn-id');
+            const targetRef = document.getElementById(`fnref-${fnId}`) || contentBody.querySelector(`.fn-ref[data-fn-id="${fnId}"]`);
+            if (targetRef) {
+              targetRef.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+              // Denyutan warna emas/hijau pada nombor rujukan dalam perenggan
+              targetRef.classList.remove('fn-ref-return-highlight');
+              void targetRef.offsetWidth; // trigger reflow
+              targetRef.classList.add('fn-ref-return-highlight');
+              setTimeout(() => targetRef.classList.remove('fn-ref-return-highlight'), 3200);
+
+              // Kilauan lembut pada perenggan agar mudah menyambung bacaan
+              const parentBlock = targetRef.closest('.reader-paragraph, .reader-quran-box, .quote-highlight-box, .arabic-text, p');
+              if (parentBlock) {
+                parentBlock.classList.remove('para-return-glow');
+                void parentBlock.offsetWidth;
+                parentBlock.classList.add('para-return-glow');
+                setTimeout(() => parentBlock.classList.remove('para-return-glow'), 2500);
+              }
+
+              showToast(`Kembali ke perenggan [${fnId}] • Sila sambung bacaan 📖`);
+            } else {
+              showToast(`Perenggan rujukan [${fnId}] tidak ditemui pada paparan ini.`);
+            }
+          });
+        });
+
 
       } else {
         contentBody.innerHTML = '<p class="text-muted">Tiada teks lanjutan bagi bab ini.</p>';
