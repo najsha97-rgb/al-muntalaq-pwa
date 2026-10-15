@@ -1023,8 +1023,14 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="hikmah-card-footer">
           <span class="hikmah-card-chapter" title="Buka bab ini">${item.chapterNumber}</span>
           <div class="hikmah-card-actions">
-            <button class="hikmah-card-btn btn-copy-card" title="Salin kata hikmah ini">📋 Salin</button>
-            <button class="hikmah-card-btn btn-read-card" style="color: var(--gold-light);" title="Baca bab lengkap">📖 Bab</button>
+            <button class="hikmah-card-btn btn-copy-card" title="Salin kata hikmah ini">
+              <span>📋</span>
+              <span>Salin</span>
+            </button>
+            <button class="hikmah-card-btn btn-read-card" title="Buka bab lengkap">
+              <span>📖</span>
+              <span>Bab</span>
+            </button>
           </div>
         </div>
       `;
