@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v8-emerald-1792059000';
+const CACHE_NAME = 'almuntalaq-v9-emblem-20261015';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -6,6 +6,7 @@ const ASSETS_TO_CACHE = [
   './js/app.js',
   './data/almuntalaq_data.js',
   './data/almuntalaq_data.json',
+  './almuntalaq_islamic_icon.jpg',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
