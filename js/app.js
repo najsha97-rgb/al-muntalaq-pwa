@@ -493,10 +493,10 @@ document.addEventListener('DOMContentLoaded', () => {
   function formatQuoteText(text) {
     const names = [
       'Rasulullah SAW', 'Nabi SAW', 'Sayyidina Umar', 'Umar bin al-Khattab',
-      'Muadz bin Jabal', 'Mu\'az bin Jabal', 'Ibnu Taimiyyah', 'Ibn Taimiyyah',
+      'Muadz bin Jabal', 'Mu\'az bin Jabal', 'Ibnu Taimiyah', 'Ibn Taimiyah',
       'Iqbal', 'Muhammad Iqbal', 'Imam Ahmad', 'Fudhail bin \'Iyadh',
       'Abdullah bin al-Mubarak', 'Yahya bin Mu\'aaz', 'Ibnu al-Qayyim',
-      'Maimun bin Mahran', 'Asy-Syatibi', 'Hassan al-Banna', 'Syed Qutb'
+      'Maimun bin Mahran', 'Asy-Syatibi', 'Hasan al-Banna', 'Hasan al-Hudhaibi', 'Syed Qutb'
     ];
     let formatted = text;
     names.forEach(name => {
@@ -852,7 +852,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="hikmah-filter-chips" id="hikmahFilterChips">
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'all' ? 'active' : ''}" data-cat="all">Semua (${allHikmahQuotes.length})</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'sahabat' ? 'active' : ''}" data-cat="sahabat">Sahabat & Khulafa' RA</button>
-        <button class="hikmah-chip-btn ${activeHikmahCategory === 'banna' ? 'active' : ''}" data-cat="banna">Imam Hassan Al-Banna</button>
+        <button class="hikmah-chip-btn ${activeHikmahCategory === 'banna' ? 'active' : ''}" data-cat="banna">Imam Hasan Al-Banna</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'qutb' ? 'active' : ''}" data-cat="qutb">Sayyid Qutb</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'salaf' ? 'active' : ''}" data-cat="salaf">Ulama & Tabi'in</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'rasyid' ? 'active' : ''}" data-cat="rasyid">Syeikh Ar-Rasyid</button>

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v6-1792047500';
+const CACHE_NAME = 'almuntalaq-v7-1792049000';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
