@@ -1,7 +1,7 @@
 {
   "name": "Al-Muntalaq | Titik Tolak Dakwah",
   "short_name": "Al-Muntalaq",
-  "description": "Aplikasi PWA Al-Muntalaq (المنطلق) - Titik Tolak Dakwah & Landasan Harakah Islamiyyah karya As-Syeikh Muhammad Ahmad Ar-Rasyid.",
+  "description": "Aplikasi PWA Al-Muntalaq (المنطلق) - Titik Tolak Dakwah & Landasan Harakah Islamiyah karya As-Syeikh Muhammad Ahmad Ar-Rasyid.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#080d1a",

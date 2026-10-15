@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v2-1792034845';
+const CACHE_NAME = 'almuntalaq-v3-1792040500';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -15,7 +15,7 @@ const ASSETS_TO_CACHE = [
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      console.log('[ServiceWorker] Caching app shell');
+      console.log('[ServiceWorker] Caching app shell v3');
       return cache.addAll(ASSETS_TO_CACHE);
     }).then(() => self.skipWaiting())
   );
@@ -35,11 +35,44 @@ self.addEventListener('activate', (e) => {
 });
 
 self.addEventListener('fetch', (e) => {
+  // Hanya proses request kaedah GET
+  if (e.request.method !== 'GET') return;
+
+  const url = new URL(e.request.url);
+
+  // Strategi Network-First untuk Navigasi (HTML), Data JS/JSON, dan App JS
+  const isHtml = e.request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname.endsWith('/') || url.search.includes('v=');
+  const isDynamicContent = url.pathname.includes('/data/') || url.pathname.includes('/js/');
+
+  if (isHtml || isDynamicContent) {
+    e.respondWith(
+      fetch(e.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const responseClone = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(e.request, responseClone));
+          }
+          return networkResponse;
+        })
+        .catch(() => {
+          // Bila tiada internet (offline), gunakan cache
+          return caches.match(e.request).then((cachedResponse) => {
+            return cachedResponse || (isHtml ? caches.match('./index.html') : null);
+          });
+        })
+    );
+    return;
+  }
+
+  // Cache-First untuk aset statik (imej, ikon, css, pdf)
   e.respondWith(
     caches.match(e.request).then((response) => {
-      return response || fetch(e.request).catch(() => {
-        // Fallback if offline
-        return caches.match('./index.html');
+      return response || fetch(e.request).then((networkResponse) => {
+        if (networkResponse && networkResponse.status === 200 && e.request.url.startsWith('http')) {
+          const responseClone = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(e.request, responseClone));
+        }
+        return networkResponse;
       });
     })
   );
