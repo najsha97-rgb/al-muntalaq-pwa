@@ -1395,3 +1395,498 @@ body {
   margin-bottom: 0.6rem;
   line-height: 1.75;
 }
+
+/* ==========================================================================
+   MUTIARA HIKMAH DAKWAH (LAYER 3 & SIDEBAR PROMO)
+   ========================================================================== */
+
+/* 1. Sidebar Promo Card */
+.sidebar-hikmah-promo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  margin: 10px 14px 16px 14px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.12) 0%, rgba(16, 185, 129, 0.08) 100%);
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar-hikmah-promo:hover {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.22) 0%, rgba(16, 185, 129, 0.16) 100%);
+  border-color: var(--gold-light);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(212, 175, 55, 0.25);
+}
+
+.hikmah-promo-icon {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: rgba(212, 175, 55, 0.18);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  flex-shrink: 0;
+}
+
+.hikmah-promo-info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+}
+
+.hikmah-promo-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  line-height: 1.2;
+}
+
+.hikmah-promo-sub {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  line-height: 1.2;
+  margin-top: 2px;
+}
+
+.hikmah-promo-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 12px;
+  background: var(--gold-primary);
+  color: #0b132b;
+  letter-spacing: 0.5px;
+}
+
+/* 2. Mutiara Hikmah Main Container */
+.hikmah-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* 3. Featured Hero Random Quote Card */
+.hikmah-hero-card {
+  position: relative;
+  background: linear-gradient(145deg, rgba(14, 23, 42, 0.95) 0%, rgba(8, 13, 26, 0.98) 100%);
+  border: 1.5px solid rgba(212, 175, 55, 0.4);
+  border-radius: var(--radius-lg);
+  padding: 2.2rem;
+  box-shadow: 0 15px 35px -10px rgba(0, 0, 0, 0.5), 0 0 25px rgba(212, 175, 55, 0.15);
+  overflow: hidden;
+  backdrop-filter: blur(16px);
+  transition: all 0.3s ease;
+}
+
+[data-theme="light"] .hikmah-hero-card {
+  background: linear-gradient(145deg, #ffffff 0%, #fdfbf7 100%);
+  border-color: rgba(212, 175, 55, 0.5);
+  box-shadow: 0 15px 35px -10px rgba(212, 175, 55, 0.15), 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.hikmah-hero-card::before {
+  content: '“';
+  position: absolute;
+  top: -20px;
+  right: 20px;
+  font-family: 'Amiri', serif;
+  font-size: 11rem;
+  color: rgba(212, 175, 55, 0.07);
+  line-height: 1;
+  pointer-events: none;
+  user-select: none;
+}
+
+.hikmah-hero-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.hikmah-tag-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.hikmah-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.25), rgba(16, 185, 129, 0.2));
+  color: var(--gold-light);
+  border: 1px solid rgba(212, 175, 55, 0.45);
+}
+
+.hikmah-speaker-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 4px 14px;
+  border-radius: 20px;
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--emerald-primary);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+
+.hikmah-hero-quote {
+  font-size: 1.28rem;
+  line-height: 1.85;
+  color: var(--text-main);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  margin-bottom: 1.6rem;
+  position: relative;
+  z-index: 2;
+}
+
+.hikmah-hero-quote .ar-quote {
+  display: block;
+  font-family: 'Amiri', serif;
+  font-size: 1.55rem;
+  line-height: 1.9;
+  color: var(--gold-light);
+  direction: rtl;
+  margin: 0.6rem 0;
+  padding: 8px 16px;
+  background: rgba(212, 175, 55, 0.08);
+  border-right: 3px solid var(--gold-primary);
+  border-radius: var(--radius-sm);
+}
+
+.hikmah-hero-source {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.86rem;
+  color: var(--text-muted);
+  margin-bottom: 1.8rem;
+}
+
+.hikmah-hero-source strong {
+  color: var(--gold-light);
+}
+
+/* Action Buttons Bar */
+.hikmah-actions-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.hikmah-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: var(--radius-md);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.hikmah-btn-primary {
+  background: linear-gradient(135deg, var(--gold-primary), var(--gold-dark));
+  color: #0b132b;
+  font-weight: 700;
+}
+
+.hikmah-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(212, 175, 55, 0.4);
+}
+
+.hikmah-btn-secondary {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-main);
+  border: 1px solid var(--border-card);
+}
+
+[data-theme="light"] .hikmah-btn-secondary {
+  background: #f1f5f9;
+  color: var(--text-main);
+  border-color: #cbd5e1;
+}
+
+.hikmah-btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: var(--gold-primary);
+  transform: translateY(-2px);
+}
+
+.hikmah-btn-emerald {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--emerald-primary);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+
+.hikmah-btn-emerald:hover {
+  background: rgba(16, 185, 129, 0.25);
+  transform: translateY(-2px);
+}
+
+/* 4. Filter & Search Bar */
+.hikmah-toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 1rem;
+}
+
+.hikmah-search-wrap {
+  position: relative;
+  width: 100%;
+}
+
+.hikmah-search-input {
+  width: 100%;
+  padding: 12px 16px 12px 42px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-card);
+  background: var(--bg-card);
+  color: var(--text-main);
+  font-size: 0.95rem;
+  outline: none;
+  transition: all 0.25s ease;
+}
+
+.hikmah-search-input:focus {
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+}
+
+.hikmah-search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  pointer-events: none;
+}
+
+.hikmah-filter-chips {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  scrollbar-width: none;
+}
+
+.hikmah-filter-chips::-webkit-scrollbar {
+  display: none;
+}
+
+.hikmah-chip-btn {
+  padding: 6px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--border-card);
+  background: var(--bg-card);
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.hikmah-chip-btn:hover {
+  border-color: var(--gold-primary);
+  color: var(--gold-light);
+}
+
+.hikmah-chip-btn.active {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(16, 185, 129, 0.15));
+  border-color: var(--gold-primary);
+  color: var(--gold-light);
+  font-weight: 700;
+}
+
+/* 5. Quotes Grid */
+.hikmah-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.4rem;
+  margin-top: 0.5rem;
+}
+
+.hikmah-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 1.4rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+}
+
+.hikmah-card:hover {
+  border-color: rgba(212, 175, 55, 0.6);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(212, 175, 55, 0.15);
+}
+
+.hikmah-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.9rem;
+}
+
+.hikmah-card-speaker {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--emerald-primary);
+  background: rgba(16, 185, 129, 0.1);
+  padding: 3px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.hikmah-card-index {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.hikmah-card-body {
+  font-size: 0.96rem;
+  line-height: 1.7;
+  color: var(--text-main);
+  flex: 1;
+  margin-bottom: 1.2rem;
+}
+
+.hikmah-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.8rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  gap: 8px;
+}
+
+[data-theme="light"] .hikmah-card-footer {
+  border-top-color: #e2e8f0;
+}
+
+.hikmah-card-chapter {
+  font-size: 0.75rem;
+  color: var(--gold-light);
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.hikmah-card-chapter:hover {
+  text-decoration: underline;
+}
+
+.hikmah-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.hikmah-card-btn {
+  padding: 5px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border-card);
+  background: transparent;
+  color: var(--text-muted);
+  transition: all 0.2s ease;
+}
+
+.hikmah-card-btn:hover {
+  color: var(--text-main);
+  border-color: var(--gold-primary);
+}
+
+/* 6. Chapter In-Text Hikmah Strip (Preview in Layer 1 & 2) */
+.chapter-hikmah-box {
+  margin: 2.5rem 0 1.5rem 0;
+  padding: 1.4rem;
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.09) 0%, rgba(16, 185, 129, 0.06) 100%);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: var(--radius-md);
+  position: relative;
+}
+
+.chapter-hikmah-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 0.8rem;
+}
+
+/* Responsive Overrides */
+@media (max-width: 768px) {
+  .hikmah-grid {
+    grid-template-columns: 1fr;
+  }
+  .hikmah-hero-card {
+    padding: 1.4rem;
+  }
+  .hikmah-hero-quote {
+    font-size: 1.1rem;
+  }
+  .layer-switcher {
+    padding: 2px;
+  }
+  .layer-btn {
+    padding: 5px 10px;
+    font-size: 0.76rem;
+    gap: 4px;
+  }
+}
+
+@media (max-width: 480px) {
+  .layer-btn span {
+    font-size: 0.72rem;
+  }
+  .hikmah-hero-badge {
+    font-size: 0.7rem;
+  }
+  .hikmah-action-btn {
+    flex: 1;
+    justify-content: center;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+}
