@@ -260,8 +260,56 @@ document.addEventListener('DOMContentLoaded', () => {
             const h3 = document.createElement('h3');
             h3.className = 'reader-subheading';
             h3.id = `sub-${state.currentChapter}-${subCounter}`;
-            h3.innerHTML = `<span class="sub-ornament">❖</span> ${pText}`;
+            
+            const thisSubCounter = subCounter;
+            const hasSummary = Boolean(para.sub_summary);
+            
+            h3.innerHTML = `
+              <div class="sub-heading-content">
+                <span class="sub-ornament">❖</span>
+                <span class="sub-heading-text">${pText}</span>
+              </div>
+              ${hasSummary ? `<button type="button" class="btn-sub-summary-toggle" data-sub-idx="${thisSubCounter}" title="Buka/Tutup Intipati Ringkasan Sub-Tajuk Ini">⚡ Intipati Ringkasan</button>` : ''}
+            `;
             contentBody.appendChild(h3);
+
+            if (hasSummary) {
+              const sumBox = document.createElement('div');
+              sumBox.className = 'sub-summary-box';
+              sumBox.id = `sub-sum-box-${state.currentChapter}-${thisSubCounter}`;
+              sumBox.style.display = 'none';
+              sumBox.innerHTML = `
+                <div class="sub-summary-box-inner">
+                  <div class="sub-summary-box-title">
+                    <span>⚡ <b>Intipati Ringkasan:</b> ${pText}</span>
+                    <button type="button" class="btn-close-subsum" aria-label="Tutup Ringkasan">✕</button>
+                  </div>
+                  <div class="sub-summary-box-body">
+                    ${formatMarkdownSummary(para.sub_summary)}
+                  </div>
+                </div>
+              `;
+              contentBody.appendChild(sumBox);
+
+              const toggleBtn = h3.querySelector('.btn-sub-summary-toggle');
+              if (toggleBtn) {
+                toggleBtn.addEventListener('click', (e) => {
+                  e.stopPropagation();
+                  const isHidden = (sumBox.style.display === 'none');
+                  sumBox.style.display = isHidden ? 'block' : 'none';
+                  toggleBtn.innerHTML = isHidden ? '▲ Tutup Ringkasan' : '⚡ Intipati Ringkasan';
+                });
+              }
+
+              const closeBtn = sumBox.querySelector('.btn-close-subsum');
+              if (closeBtn) {
+                closeBtn.addEventListener('click', () => {
+                  sumBox.style.display = 'none';
+                  if (toggleBtn) toggleBtn.innerHTML = '⚡ Intipati Ringkasan';
+                });
+              }
+            }
+
             subCounter++;
           } else if (pType === 'quran') {
             const qBox = document.createElement('div');
@@ -408,6 +456,41 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         `;
       }
+
+      // Render Subtopics Summaries Accordion (Intipati Ringkasan Setiap Sub-Tajuk)
+      if (ch.subtopics_data && ch.subtopics_data.length > 0) {
+        const subWrap = document.createElement('div');
+        subWrap.className = 'subtopics-summary-wrapper';
+        subWrap.style.marginTop = '2.5rem';
+        subWrap.innerHTML = `
+          <div class="subtopics-summary-header" style="display: flex; align-items: center; gap: 10px; margin-bottom: 1.5rem; padding-bottom: 0.8rem; border-bottom: 2px solid rgba(212, 175, 55, 0.3);">
+            <span style="font-size: 1.4rem;">📑</span>
+            <div>
+              <h3 style="color: var(--gold-light); margin: 0; font-size: 1.25rem;">Intipati Ringkasan Setiap Sub-Tajuk</h3>
+              <span style="color: var(--text-muted); font-size: 0.85rem;">Fiqh Haraki, Dalil & Aplikasi Pengurusan Gerakan</span>
+            </div>
+            <span style="margin-left: auto; background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(52, 211, 153, 0.3); padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">${ch.subtopics_data.length} Sub-Tajuk</span>
+          </div>
+          <div class="subtopics-summary-accordion">
+            ${ch.subtopics_data.map((sub, sIdx) => `
+              <details class="subtopic-summary-card" ${sIdx === 0 ? 'open' : ''} style="background: rgba(6, 21, 18, 0.6); border: 1px solid rgba(212, 175, 55, 0.25); border-radius: 10px; margin-bottom: 1rem; overflow: hidden; transition: all 0.25s ease;">
+                <summary style="padding: 14px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; font-weight: 600; color: var(--gold-light); list-style: none; user-select: none;">
+                  <span style="display: flex; align-items: center; gap: 8px;">
+                    <span style="color: #34d399; font-size: 0.9rem;">❖</span>
+                    <span>${sub.summary_title || sub.title}</span>
+                  </span>
+                  <span class="sub-toggle-arrow" style="font-size: 0.8rem; color: var(--text-muted);">▼</span>
+                </summary>
+                <div style="padding: 16px 20px; border-top: 1px solid rgba(212, 175, 55, 0.15); background: rgba(0, 0, 0, 0.2); font-size: 0.95rem; line-height: 1.75; color: var(--text-main);">
+                  ${formatMarkdownSummary(sub.summary)}
+                </div>
+              </details>
+            `).join('')}
+          </div>
+        `;
+        summaryBox.appendChild(subWrap);
+      }
+
       contentBody.appendChild(summaryBox);
     }
 
