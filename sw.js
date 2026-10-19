@@ -1,9 +1,11 @@
-const CACHE_NAME = 'almuntalaq-v18-apostrophe-agnostic-search-20261019';
+const CACHE_NAME = 'almuntalaq-v19-expanded-174-quotes-20261019';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './css/style.css',
   './js/app.js',
+  './data/almuntalaq_quotes.js',
+  './data/almuntalaq_quotes.json',
   './data/almuntalaq_data.js',
   './data/almuntalaq_data.json',
   './almuntalaq_islamic_icon.jpg',

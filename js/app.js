@@ -13,7 +13,11 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Ekstrak 46 Koleksi Mutiara Hikmah Dakwah daripada ringkasan bab
-  const allHikmahQuotes = [];
+  const allHikmahQuotes = (typeof window !== 'undefined' && window.ALMUNTALAQ_QUOTES && window.ALMUNTALAQ_QUOTES.length > 0)
+    ? window.ALMUNTALAQ_QUOTES
+    : [];
+
+  if (allHikmahQuotes.length === 0) {
   data.chapters.forEach((ch, chIdx) => {
     const s = ch.summary || '';
     if (s.includes('💎 Mutiara')) {
@@ -42,6 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   });
+
+  
+  }
 
   // App State
   const state = {
@@ -1299,7 +1306,9 @@ document.addEventListener('DOMContentLoaded', () => {
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'sahabat' ? 'active' : ''}" data-cat="sahabat">Sahabat & Khulafa' RA</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'banna' ? 'active' : ''}" data-cat="banna">Imam Hasan Al-Banna</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'qutb' ? 'active' : ''}" data-cat="qutb">Sayyid Qutb</button>
-        <button class="hikmah-chip-btn ${activeHikmahCategory === 'salaf' ? 'active' : ''}" data-cat="salaf">Ulama & Tabi'in</button>
+        <button class="hikmah-chip-btn ${activeHikmahCategory === 'salaf' ? 'active' : ''}" data-cat="salaf">Aimmah & Ulama Salaf</button>
+        <button class="hikmah-chip-btn ${activeHikmahCategory === 'syair' ? 'active' : ''}" data-cat="syair">Syair Perjuangan</button>
+        <button class="hikmah-chip-btn ${activeHikmahCategory === 'hadis' ? 'active' : ''}" data-cat="hadis">Hadis & Atsar</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'rasyid' ? 'active' : ''}" data-cat="rasyid">Syeikh Ar-Rasyid</button>
       </div>
     `;
@@ -1416,18 +1425,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // 2. Category match
       if (activeHikmahCategory === 'sahabat') {
-        const sp = item.speaker.toLowerCase();
-        return sp.includes('ra') || sp.includes('sahabat') || sp.includes('umar') || sp.includes('ali') || sp.includes('muadz') || sp.includes('khalifah') || sp.includes('rawahah');
+        return item.category === 'sahabat' || item.speaker.toLowerCase().includes('ra');
       } else if (activeHikmahCategory === 'banna') {
         return item.speaker.toLowerCase().includes('banna');
       } else if (activeHikmahCategory === 'qutb') {
         return item.speaker.toLowerCase().includes('qutb');
       } else if (activeHikmahCategory === 'salaf') {
-        const sp = item.speaker.toLowerCase();
-        return sp.includes('ibn') || sp.includes('imam') || sp.includes('syeikhul') || sp.includes('fudhail') || sp.includes('hasan al-basri') || sp.includes('syatibi') || sp.includes('salaf') || sp.includes('pujangga');
+        return item.category === 'salaf' || item.category === 'ulama';
+      } else if (activeHikmahCategory === 'syair') {
+        return item.category === 'syair';
+      } else if (activeHikmahCategory === 'hadis') {
+        return item.category === 'hadis';
       } else if (activeHikmahCategory === 'rasyid') {
-        const sp = item.speaker.toLowerCase();
-        return sp.includes('rasyid') || sp.includes('penulis') || sp.includes('syeikh ahmad');
+        return item.speaker.toLowerCase().includes('rasyid');
       }
 
       return true; // 'all'
