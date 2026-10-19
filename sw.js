@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v21-174quotes-autoreload-20261019';
+const CACHE_NAME = 'almuntalaq-v22-mutiara-wording-20261020';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
