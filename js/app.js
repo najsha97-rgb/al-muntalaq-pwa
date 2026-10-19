@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const chapterNavList = document.getElementById('chapterNavList');
   const heroCard = document.getElementById('heroCard');
   const readerContainer = document.getElementById('readerContainer');
+  const contentBody = document.getElementById('contentBody');
   
   const layerBtnLengkap = document.getElementById('btnLayerLengkap');
   const layerBtnRingkasan = document.getElementById('btnLayerRingkasan');
@@ -183,7 +184,16 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // 5. Navigate to Chapter
-  function navigateTo(chIdx) {
+  function navigateTo(chIdx, targetLayer = null) {
+    if (chIdx < 0 || chIdx >= data.chapters.length) return;
+
+    if (targetLayer && (targetLayer === 'layer1' || targetLayer === 'layer2')) {
+      state.layer = targetLayer;
+      localStorage.setItem('almuntalaq_layer', targetLayer);
+      layerBtnLengkap.classList.toggle('active', targetLayer === 'layer1');
+      layerBtnRingkasan.classList.toggle('active', targetLayer === 'layer2');
+      if (layerBtnHikmah) layerBtnHikmah.classList.remove('active');
+    }
     if (chIdx < 0 || chIdx >= data.chapters.length) return;
     state.currentChapter = chIdx;
 
@@ -536,7 +546,30 @@ document.addEventListener('DOMContentLoaded', () => {
     // Sorotan Carian Dalam Laman & Navigasi Baris (In-Page Search Highlight)
     if (state.activeSearchQuery && (state.layer === 'layer1' || state.layer === 'layer2')) {
       setTimeout(() => {
-        const matchCount = highlightTextInElement(contentBody, state.activeSearchQuery);
+        let matchCount = highlightTextInElement(contentBody, state.activeSearchQuery);
+
+        // Jika tiada padanan dalam mod semasa, semak mod satu lagi secara automatik
+        if (matchCount === 0) {
+          const otherLayer = (state.layer === 'layer1') ? 'layer2' : 'layer1';
+          const ch = data.chapters[state.currentChapter];
+          let foundInOther = false;
+
+          if (otherLayer === 'layer2') {
+            const inSum = ch.summary && ch.summary.toLowerCase().includes(state.activeSearchQuery.toLowerCase());
+            const inSubSum = ch.subtopics_data && ch.subtopics_data.some(s => (s.summary || '').toLowerCase().includes(state.activeSearchQuery.toLowerCase()));
+            if (inSum || inSubSum) foundInOther = true;
+          } else {
+            const inParas = ch.paragraphs && ch.paragraphs.some(p => (typeof p === 'string' ? p : p.text || '').toLowerCase().includes(state.activeSearchQuery.toLowerCase()));
+            if (inParas) foundInOther = true;
+          }
+
+          if (foundInOther) {
+            setLayer(otherLayer);
+            showToast(`Kata kunci ditemui dalam ${otherLayer === 'layer2' ? 'Ringkasan Eksklusif' : 'Versi Lengkap'}`);
+            return;
+          }
+        }
+
         if (matchCount > 0) {
           showFloatingSearchToolbar(state.activeSearchQuery, matchCount);
           setTimeout(() => {
@@ -545,7 +578,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
           removeFloatingSearchToolbar();
         }
-      }, 60);
+      }, 80);
     } else {
       removeFloatingSearchToolbar();
     }
@@ -641,6 +674,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const targetMark = marks[safeIdx];
     if (targetMark) {
       targetMark.classList.add('active-match');
+
+      // Auto-buka details / accordion jika match berada di dalamnya
+      const parentDetails = targetMark.closest('details');
+      if (parentDetails) {
+        parentDetails.open = true;
+      }
+
+      // Auto-buka kotak sub-summary jika match berada di dalamnya
+      const parentSubBox = targetMark.closest('.sub-summary-box');
+      if (parentSubBox) {
+        parentSubBox.style.display = 'block';
+        const closeBtn = parentSubBox.querySelector('.btn-close-subsum');
+        const parentH3 = parentSubBox.previousElementSibling;
+        if (parentH3) {
+          const tBtn = parentH3.querySelector('.btn-sub-summary-toggle');
+          if (tBtn) tBtn.innerHTML = '✕ Tutup Ringkasan';
+        }
+      }
+
       targetMark.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
 
@@ -653,7 +705,10 @@ document.addEventListener('DOMContentLoaded', () => {
   function showFloatingSearchToolbar(query, totalMatches) {
     removeFloatingSearchToolbar();
 
-    // Cari indeks bab semasa dalam senarai hasil carian keseluruhan
+    // Pastikan senarai hasil sentiasa diisi jika ada activeSearchQuery
+    if ((!state.searchResults || state.searchResults.length === 0) && query) {
+      performSearch(query);
+    }
     const totalTopics = state.searchResults ? state.searchResults.length : 0;
     let curTopicIdx = state.currentSearchResultIndex;
     if (curTopicIdx < 0 && state.searchResults) {
@@ -730,7 +785,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (state.searchResults && curTopicIdx > 0) {
           const prevRes = state.searchResults[curTopicIdx - 1];
           state.currentSearchResultIndex = curTopicIdx - 1;
-          navigateTo(prevRes.chIdx);
+          navigateTo(prevRes.chIdx, prevRes.targetLayer);
         }
       });
     }
@@ -741,7 +796,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (state.searchResults && curTopicIdx < totalTopics - 1) {
           const nextRes = state.searchResults[curTopicIdx + 1];
           state.currentSearchResultIndex = curTopicIdx + 1;
-          navigateTo(nextRes.chIdx);
+          navigateTo(nextRes.chIdx, nextRes.targetLayer);
         }
       });
     }
@@ -1019,43 +1074,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const results = [];
 
     data.chapters.forEach((ch, chIdx) => {
-      // 1. Check title or Arabic title
-      if (ch.title.toLowerCase().includes(query) || (ch.title_ar && ch.title_ar.includes(query))) {
-        results.push({
-          chIdx,
-          title: `${ch.number}: ${ch.title}`,
-          snippet: `Tajuk sepadan: ${ch.title} (${ch.title_ar || ''})`
-        });
-        return;
-      }
-
-      // 2. Check subtopics
-      if (ch.subtopics) {
-        for (let st of ch.subtopics) {
-          if (st.toLowerCase().includes(query)) {
-            results.push({
-              chIdx,
-              title: `${ch.number}: ${ch.title}`,
-              snippet: `Sub-tajuk: ${highlightText(st, query)}`
-            });
-            return;
-          }
-        }
-      }
-
-      // 3. Check summary
-      if (ch.summary && ch.summary.toLowerCase().includes(query)) {
-        const startIdx = Math.max(0, ch.summary.toLowerCase().indexOf(query) - 30);
-        const snippet = ch.summary.substring(startIdx, startIdx + 120);
-        results.push({
-          chIdx,
-          title: `${ch.number}: ${ch.title}`,
-          snippet: highlightText(snippet, query)
-        });
-        return;
-      }
-
-      // 4. Check paragraphs
+      // Utamakan perenggan penuh (Layer 1) jika ada
+      let foundInParas = false;
       if (ch.paragraphs) {
         for (let pObj of ch.paragraphs) {
           const pStr = (typeof pObj === 'string') ? pObj : (pObj.text || '');
@@ -1065,10 +1085,67 @@ document.addEventListener('DOMContentLoaded', () => {
             const snippet = cleanStr.substring(startIdx, startIdx + 130);
             results.push({
               chIdx,
+              targetLayer: 'layer1',
               title: `${ch.number}: ${ch.title}`,
               snippet: highlightText(snippet, query)
             });
+            foundInParas = true;
             break;
+          }
+        }
+      }
+      if (foundInParas) return;
+
+      // Semak tajuk atau sub-tajuk
+      if (ch.title.toLowerCase().includes(query) || (ch.title_ar && ch.title_ar.includes(query))) {
+        results.push({
+          chIdx,
+          targetLayer: 'layer1',
+          title: `${ch.number}: ${ch.title}`,
+          snippet: `Tajuk sepadan: ${ch.title} (${ch.title_ar || ''})`
+        });
+        return;
+      }
+
+      if (ch.subtopics) {
+        for (let st of ch.subtopics) {
+          if (st.toLowerCase().includes(query)) {
+            results.push({
+              chIdx,
+              targetLayer: 'layer1',
+              title: `${ch.number}: ${ch.title}`,
+              snippet: `Sub-tajuk: ${highlightText(st, query)}`
+            });
+            return;
+          }
+        }
+      }
+
+      // Semak ringkasan (Layer 2)
+      if (ch.summary && ch.summary.toLowerCase().includes(query)) {
+        const startIdx = Math.max(0, ch.summary.toLowerCase().indexOf(query) - 30);
+        const snippet = ch.summary.substring(startIdx, startIdx + 120);
+        results.push({
+          chIdx,
+          targetLayer: 'layer2',
+          title: `${ch.number}: ${ch.title}`,
+          snippet: highlightText(snippet, query)
+        });
+        return;
+      }
+
+      if (ch.subtopics_data) {
+        for (let sub of ch.subtopics_data) {
+          if (sub.summary && sub.summary.toLowerCase().includes(query)) {
+            const startIdx = Math.max(0, sub.summary.toLowerCase().indexOf(query) - 30);
+            const snippet = sub.summary.substring(startIdx, startIdx + 120);
+            results.push({
+              chIdx,
+              targetLayer: 'layer2',
+              title: `${ch.number}: ${sub.title || ch.title}`,
+              snippet: highlightText(snippet, query)
+            });
+            return;
           }
         }
       }
@@ -1105,6 +1182,7 @@ document.addEventListener('DOMContentLoaded', () => {
         item.innerHTML = `
           <div class="search-result-title" style="color: var(--gold-light); font-weight: 600;">
             ${res.title}
+            <span style="font-size: 0.72rem; padding: 1px 6px; border-radius: 4px; background: rgba(16, 185, 129, 0.2); color: #34d399; margin-left: 6px; font-weight: normal;">${res.targetLayer === 'layer2' ? 'Ringkasan' : 'Teks Penuh'}</span>
             ${isCurrentReading ? '<span class="search-result-current-badge">Sedang Dibaca 📖</span>' : ''}
           </div>
           <div class="search-result-snippet" style="color: var(--text-light); font-size: 0.9rem; margin-top: 4px;">...${res.snippet}...</div>
@@ -1116,7 +1194,7 @@ document.addEventListener('DOMContentLoaded', () => {
           state.searchResults = results;
           state.currentSearchResultIndex = rIdx;
           searchInput.value = query.trim();
-          navigateTo(res.chIdx);
+          navigateTo(res.chIdx, res.targetLayer);
         });
         searchResultsList.appendChild(item);
       });
