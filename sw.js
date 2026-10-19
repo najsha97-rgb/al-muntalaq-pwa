@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v17-standardize-jamai-20261019';
+const CACHE_NAME = 'almuntalaq-v18-apostrophe-agnostic-search-20261019';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

@@ -591,8 +591,8 @@ document.addEventListener('DOMContentLoaded', () => {
     removeHighlightsInElement(element);
 
     const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const regex = new RegExp(`(${escaped})`, 'gi');
-
+    const flexible = escaped.replace(/['\u2018\u2019\u02bb\u02bc`]/g, "['\\u2018\\u2019\\u02bb\\u02bc`]");
+    const regex = new RegExp(`(${flexible})`, 'gi');
     const textNodes = [];
     const walk = document.createTreeWalker(
       element,
@@ -1061,6 +1061,18 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // 13. Search Engine
+  function normalizeSearchText(str) {
+    return (str || '')
+      .toLowerCase()
+      .replace(/[\u2018\u2019\u02bb\u02bc`]/g, "'");
+  }
+
+  function getApostropheRegex(query) {
+    const escaped = (query || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const flexible = escaped.replace(/['\u2018\u2019\u02bb\u02bc`]/g, "['\\u2018\\u2019\\u02bb\\u02bc`]");
+    return new RegExp(`(${flexible})`, 'gi');
+  }
+
   searchInput.addEventListener('input', (e) => {
     const query = e.target.value.trim().toLowerCase();
     if (query.length < 2) {
@@ -1072,6 +1084,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function performSearch(query) {
     const results = [];
+    const normQuery = normalizeSearchText(query);
+    if (!normQuery) return;
 
     data.chapters.forEach((ch, chIdx) => {
       let foundInParas = false;
@@ -1080,9 +1094,11 @@ document.addEventListener('DOMContentLoaded', () => {
       if (ch.paragraphs) {
         for (let pObj of ch.paragraphs) {
           const pStr = (typeof pObj === 'string') ? pObj : (pObj.text || '');
-          if (pStr.toLowerCase().includes(query)) {
+          const normPStr = normalizeSearchText(pStr);
+          if (normPStr.includes(normQuery)) {
             const cleanStr = pStr.replace(/<[^>]+>/g, '');
-            const startIdx = Math.max(0, cleanStr.toLowerCase().indexOf(query) - 35);
+            const normCleanStr = normalizeSearchText(cleanStr);
+            const startIdx = Math.max(0, normCleanStr.indexOf(normQuery) - 35);
             const snippet = cleanStr.substring(startIdx, startIdx + 130);
             results.push({
               chIdx,
@@ -1098,7 +1114,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       // Semak tajuk atau sub-tajuk jika belum jumpa dalam perenggan
-      if (!foundInParas && (ch.title.toLowerCase().includes(query) || (ch.title_ar && ch.title_ar.includes(query)))) {
+      if (!foundInParas && (normalizeSearchText(ch.title).includes(normQuery) || (ch.title_ar && ch.title_ar.includes(query)))) {
         results.push({
           chIdx,
           targetLayer: 'layer1',
@@ -1111,7 +1127,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (!foundInParas && ch.subtopics) {
         for (let st of ch.subtopics) {
-          if (st.toLowerCase().includes(query)) {
+          if (normalizeSearchText(st).includes(normQuery)) {
             results.push({
               chIdx,
               targetLayer: 'layer1',
@@ -1128,8 +1144,9 @@ document.addEventListener('DOMContentLoaded', () => {
       // 2. KEUTAMAAN KEDUA: Ringkasan Eksklusif (Layer 2)
       // Hanya jika kata kunci TIDAK ditemui dalam Versi Penuh
       if (!foundInParas) {
-        if (ch.summary && ch.summary.toLowerCase().includes(query)) {
-          const startIdx = Math.max(0, ch.summary.toLowerCase().indexOf(query) - 30);
+        if (ch.summary && normalizeSearchText(ch.summary).includes(normQuery)) {
+          const normSum = normalizeSearchText(ch.summary);
+          const startIdx = Math.max(0, normSum.indexOf(normQuery) - 30);
           const snippet = ch.summary.substring(startIdx, startIdx + 120);
           results.push({
             chIdx,
@@ -1140,8 +1157,9 @@ document.addEventListener('DOMContentLoaded', () => {
           });
         } else if (ch.subtopics_data) {
           for (let sub of ch.subtopics_data) {
-            if (sub.summary && sub.summary.toLowerCase().includes(query)) {
-              const startIdx = Math.max(0, sub.summary.toLowerCase().indexOf(query) - 30);
+            if (sub.summary && normalizeSearchText(sub.summary).includes(normQuery)) {
+              const normSubSum = normalizeSearchText(sub.summary);
+              const startIdx = Math.max(0, normSubSum.indexOf(normQuery) - 30);
               const snippet = sub.summary.substring(startIdx, startIdx + 120);
               results.push({
                 chIdx,
@@ -1163,7 +1181,8 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function highlightText(text, query) {
-    const regex = new RegExp(`(${query})`, 'gi');
+    if (!text || !query) return text || '';
+    const regex = getApostropheRegex(query);
     return text.replace(regex, '<mark style="background: var(--gold-primary); color: #000; padding: 1px 4px; border-radius: 3px;">$1</mark>');
   }
 
