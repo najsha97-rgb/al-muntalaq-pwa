@@ -17,7 +17,13 @@ document.addEventListener('DOMContentLoaded', () => {
     ? window.ALMUNTALAQ_QUOTES
     : [];
 
-  if (allHikmahQuotes.length === 0) {
+  
+  // Dynamic update promo sub counter
+  const promoSubEl = document.querySelector('.hikmah-promo-sub');
+  if (promoSubEl && allHikmahQuotes.length > 0) {
+    promoSubEl.textContent = `${allHikmahQuotes.length} Kata Tokoh & Hadis Pejuang`;
+  }
+if (allHikmahQuotes.length === 0) {
   data.chapters.forEach((ch, chIdx) => {
     const s = ch.summary || '';
     if (s.includes('💎 Mutiara')) {
@@ -240,7 +246,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('chapterMainTitle').textContent = 'Mutiara Hikmah & Kata-Kata Tokoh';
 
       const modeBadge = document.getElementById('activeModeBadge');
-      modeBadge.textContent = `Koleksi 46 Mutiara Hikmah (Nukilan Tokoh Salaf, Hadis & Taujih Ar-Rasyid)`;
+      modeBadge.textContent = `Koleksi ${allHikmahQuotes.length} Mutiara Hikmah (Nukilan Tokoh Salaf, Hadis & Taujih Ar-Rasyid)`;
 
       updateBookmarkBtnStatus();
       const contentBody = document.getElementById('contentBody');
