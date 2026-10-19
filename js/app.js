@@ -48,6 +48,8 @@ document.addEventListener('DOMContentLoaded', () => {
     currentChapter: 0,
     activeSearchQuery: '',
     activeMatchIndex: -1,
+    searchResults: [],
+    currentSearchResultIndex: -1,
     layer: localStorage.getItem('almuntalaq_layer') || 'layer1', // 'layer1' = Lengkap, 'layer2' = Ringkasan
     theme: localStorage.getItem('almuntalaq_theme') || 'dark',
     fontSize: parseFloat(localStorage.getItem('almuntalaq_fontsize') || '1.05'),
@@ -651,6 +653,17 @@ document.addEventListener('DOMContentLoaded', () => {
   function showFloatingSearchToolbar(query, totalMatches) {
     removeFloatingSearchToolbar();
 
+    // Cari indeks bab semasa dalam senarai hasil carian keseluruhan
+    const totalTopics = state.searchResults ? state.searchResults.length : 0;
+    let curTopicIdx = state.currentSearchResultIndex;
+    if (curTopicIdx < 0 && state.searchResults) {
+      curTopicIdx = state.searchResults.findIndex(r => r.chIdx === state.currentChapter);
+      if (curTopicIdx >= 0) state.currentSearchResultIndex = curTopicIdx;
+    }
+
+    const hasMultiTopics = totalTopics > 0;
+    const topicLabel = hasMultiTopics ? `📋 Hasil (${Math.max(1, curTopicIdx + 1)}/${totalTopics})` : `📋 Hasil Carian`;
+
     const bar = document.createElement('div');
     bar.className = 'search-floating-bar';
     bar.id = 'searchFloatingBar';
@@ -658,12 +671,21 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="sfb-badge">
         <span class="sfb-icon">🔍</span>
         <span class="sfb-text">"<span class="sfb-query" title="${query}">${query}</span>"</span>
-        <span class="sfb-count" id="sfbCount">1/${totalMatches}</span>
+        <span class="sfb-count" id="sfbCount" title="Kedudukan baris dalam bab ini">1/${totalMatches}</span>
       </div>
       <div class="sfb-actions">
-        <button class="sfb-btn" id="sfbPrevBtn" title="Sebelumnya" aria-label="Sebelumnya">▲</button>
-        <button class="sfb-btn" id="sfbNextBtn" title="Seterusnya" aria-label="Seterusnya">▼</button>
-        <button class="sfb-btn sfb-close-btn" id="sfbCloseBtn" title="Padam Sorotan" aria-label="Padam Sorotan">✕</button>
+        <button class="sfb-btn" id="sfbPrevBtn" title="Baris Sebelumnya Dalam Bab Ini" aria-label="Baris Sebelumnya">▲</button>
+        <button class="sfb-btn" id="sfbNextBtn" title="Baris Seterusnya Dalam Bab Ini" aria-label="Baris Seterusnya">▼</button>
+        
+        ${hasMultiTopics ? `
+          <div class="sfb-divider"></div>
+          <button class="sfb-topic-btn" id="sfbTopicListBtn" title="Buka Semula Senarai Semua ${totalTopics} Hasil Carian">${topicLabel}</button>
+          <button class="sfb-btn" id="sfbPrevTopicBtn" title="Bab Hasil Carian Sebelumnya" aria-label="Bab Sebelumnya" ${curTopicIdx <= 0 ? 'disabled' : ''}>⏮</button>
+          <button class="sfb-btn" id="sfbNextTopicBtn" title="Bab Hasil Carian Seterusnya" aria-label="Bab Seterusnya" ${curTopicIdx >= totalTopics - 1 ? 'disabled' : ''}>⏭</button>
+        ` : ''}
+
+        <div class="sfb-divider"></div>
+        <button class="sfb-btn sfb-close-btn" id="sfbCloseBtn" title="Padam Sorotan & Tutup" aria-label="Padam Sorotan">✕</button>
       </div>
     `;
 
@@ -671,6 +693,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const prevBtn = bar.querySelector('#sfbPrevBtn');
     const nextBtn = bar.querySelector('#sfbNextBtn');
+    const topicListBtn = bar.querySelector('#sfbTopicListBtn');
+    const prevTopicBtn = bar.querySelector('#sfbPrevTopicBtn');
+    const nextTopicBtn = bar.querySelector('#sfbNextTopicBtn');
     const closeBtn = bar.querySelector('#sfbCloseBtn');
 
     if (prevBtn) {
@@ -687,10 +712,47 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
+    if (topicListBtn) {
+      topicListBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (state.searchResults && state.searchResults.length > 0) {
+          renderSearchResults(state.searchResults, state.activeSearchQuery);
+        } else if (state.activeSearchQuery) {
+          performSearch(state.activeSearchQuery);
+        }
+        searchOverlay.classList.add('open');
+      });
+    }
+
+    if (prevTopicBtn) {
+      prevTopicBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (state.searchResults && curTopicIdx > 0) {
+          const prevRes = state.searchResults[curTopicIdx - 1];
+          state.currentSearchResultIndex = curTopicIdx - 1;
+          navigateTo(prevRes.chIdx);
+        }
+      });
+    }
+
+    if (nextTopicBtn) {
+      nextTopicBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (state.searchResults && curTopicIdx < totalTopics - 1) {
+          const nextRes = state.searchResults[curTopicIdx + 1];
+          state.currentSearchResultIndex = curTopicIdx + 1;
+          navigateTo(nextRes.chIdx);
+        }
+      });
+    }
+
     if (closeBtn) {
       closeBtn.addEventListener('click', (e) => {
         e.stopPropagation();
         state.activeSearchQuery = null;
+        state.searchResults = [];
+        state.currentSearchResultIndex = -1;
+        searchInput.value = '';
         removeFloatingSearchToolbar();
         removeHighlightsInElement(contentBody);
       });
@@ -1012,6 +1074,8 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
+    state.searchResults = results;
+    state.activeSearchQuery = query;
     renderSearchResults(results, query);
   }
 
@@ -1031,20 +1095,27 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       `;
     } else {
-      results.forEach(res => {
+      results.forEach((res, rIdx) => {
+        const isCurrentReading = (res.chIdx === state.currentChapter);
         const item = document.createElement('div');
-        item.className = 'search-result-item';
+        item.className = 'search-result-item' + (isCurrentReading ? ' active-reading' : '');
         item.style.padding = '12px';
         item.style.borderBottom = '1px solid var(--border-card)';
         item.style.cursor = 'pointer';
         item.innerHTML = `
-          <div class="search-result-title" style="color: var(--gold-light); font-weight: 600;">${res.title}</div>
+          <div class="search-result-title" style="color: var(--gold-light); font-weight: 600;">
+            ${res.title}
+            ${isCurrentReading ? '<span class="search-result-current-badge">Sedang Dibaca 📖</span>' : ''}
+          </div>
           <div class="search-result-snippet" style="color: var(--text-light); font-size: 0.9rem; margin-top: 4px;">...${res.snippet}...</div>
         `;
         item.addEventListener('click', () => {
           searchOverlay.classList.remove('open');
           state.activeSearchQuery = query.trim();
           state.activeMatchIndex = 0;
+          state.searchResults = results;
+          state.currentSearchResultIndex = rIdx;
+          searchInput.value = query.trim();
           navigateTo(res.chIdx);
         });
         searchResultsList.appendChild(item);
@@ -1068,6 +1139,18 @@ document.addEventListener('DOMContentLoaded', () => {
           firstItem.click();
         }
       }
+    }
+  });
+
+
+  // Re-open search when clicking searchInput if query exists
+  searchInput.addEventListener('focus', () => {
+    const q = searchInput.value.trim().toLowerCase();
+    if (q.length >= 2) {
+      performSearch(q);
+    } else if (state.activeSearchQuery && state.activeSearchQuery.length >= 2) {
+      searchInput.value = state.activeSearchQuery;
+      performSearch(state.activeSearchQuery);
     }
   });
 

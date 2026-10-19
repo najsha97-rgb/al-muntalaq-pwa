@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v12-search-inpage-highlight-20261019';
+const CACHE_NAME = 'almuntalaq-v13-persistent-search-nav-20261019';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
