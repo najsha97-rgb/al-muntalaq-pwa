@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v16-standardize-default-layer1-20261019';
+const CACHE_NAME = 'almuntalaq-v17-standardize-jamai-20261019';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
