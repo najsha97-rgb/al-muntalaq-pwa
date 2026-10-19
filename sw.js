@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v22-mutiara-wording-20261020';
+const CACHE_NAME = 'almuntalaq-v23-jahiliah-20261020';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
