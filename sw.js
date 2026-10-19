@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v14-fix-highlight-visibility-20261019';
+const CACHE_NAME = 'almuntalaq-v15-standardize-dai-spelling-20261019';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
