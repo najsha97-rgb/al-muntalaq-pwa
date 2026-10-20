@@ -886,19 +886,28 @@ if (allHikmahQuotes.length === 0) {
   }
 
   function formatQuoteText(text) {
+    if (!text) return '';
+    // Protect HTML tags (especially footnote spans so title attributes are not corrupted)
+    const tokens = [];
+    let formatted = text.replace(/<[^>]+>/g, (match) => {
+      tokens.push(match);
+      return `___HTML_TOKEN_${tokens.length - 1}___`;
+    });
+
     const names = [
       'Rasulullah SAW', 'Nabi SAW', 'Sayyidina Umar', 'Umar bin al-Khattab',
-      'Muadz bin Jabal', 'Mu\'az bin Jabal', 'Ibnu Taimiyah', 'Ibn Taimiyah',
+      'Muadz bin Jabal', 'Mu\'az bin Jabal', 'Ibnu Taimiyah',
       'Iqbal', 'Muhammad Iqbal', 'Imam Ahmad', 'Fudhail bin \'Iyadh',
       'Abdullah bin al-Mubarak', 'Yahya bin Mu\'aaz', 'Ibnu al-Qayyim',
       'Maimun bin Mahran', 'Asy-Syatibi', 'Hasan al-Banna', 'Hasan al-Hudhaibi', 'Syed Qutb'
     ];
-    let formatted = text;
     names.forEach(name => {
       const regex = new RegExp(`(${name})`, 'gi');
       formatted = formatted.replace(regex, '<span class="tokoh-name" style="color: var(--gold-light); font-weight: 600;">$1</span>');
     });
-    return formatted;
+
+    // Restore protected HTML tags
+    return formatted.replace(/___HTML_TOKEN_(\d+)___/g, (_, i) => tokens[parseInt(i, 10)]);
   }
 
   // 7. Bottom Navigation (Prev / Next)

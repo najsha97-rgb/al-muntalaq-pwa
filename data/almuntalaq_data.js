@@ -1,4 +1,4 @@
-window.ALMUNTALAQ_DATA = {
+var ALMUNTALAQ_DATA = {
   "bookTitle": "AL-MUNTALAQ",
   "bookTitleMalay": "Al-Muntalaq: Titik Tolak Dakwah & Landasan Harakah Islamiyah",
   "author": "As-Syeikh Muhammad Ahmad Ar-Rasyid (الشيخ محمد أحمد الراشد رحمه الله)",
@@ -39,16 +39,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ungkapan ini kemudiannya disambut pula oleh Ibnu Rawahah. Beliau berkata kepada Abu al-Darda’ RA sambil memegang tangannya:  تعال نؤمن ساعة إن القلب أسرع تقلبا من القدر إذا استجمعت غليانا    (Marilah kita beriman sejenak. Sesungguhnya hati lebih cepat berbolak-balik daripada isi periuk yang sedang menggelegak marak)."
+          "text": "Ungkapan ini kemudiannya disambut pula oleh Ibnu Rawahah. Beliau berkata kepada Abu al-Darda’ RA sambil memegang tangannya: تعال نؤمن ساعة إن القلب أسرع تقلبا من القدر إذا استجمعت غليانا (Marilah kita beriman sejenak. Sesungguhnya hati lebih cepat berbolak-balik daripada isi periuk yang sedang menggelegak marak)."
         },
         {
           "type": "text",
-          "text": "Rentetan itu, kita mengambil teladan utama daripada mutiara kata mereka berdua. Untaian nasihat di dalam siri buku ini hakikatnya membicarakan tentang fiqh dakwah. Kita menyeru para da'i   agar meluangkan masa untuk duduk sejenak meneliti setiap pesanan ini demi memperbaharui keimanan, di samping menilai keupayaan diri, kedalaman ilmu, serta tahap kesungguhan masing-masing."
+          "text": "Rentetan itu, kita mengambil teladan utama daripada mutiara kata mereka berdua. Untaian nasihat di dalam siri buku ini hakikatnya membicarakan tentang fiqh dakwah. Kita menyeru para da'i agar meluangkan masa untuk duduk sejenak meneliti setiap pesanan ini demi memperbaharui keimanan, di samping menilai keupayaan diri, kedalaman ilmu, serta tahap kesungguhan masing-masing."
         },
         {
           "type": "heading2",
           "text": "Sisa.... Dan Harapan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Penyelesaian kemelut umat Islam hari ini tidak memerlukan penantian terhadap penghijrahan besar-besaran jutaan orang lalai. Yang mendesak ialah **menyedarkan, menyusun, dan menggembleng saf mukmin yang sedia ada** agar bangkit memikul amanah fiqh dakwah.  \n* **Prinsip Kualiti Rijal:**  \n  Bilangan orang beriman pada hari ini sudah memadai untuk melakar kejayaan dengan syarat mereka memiliki: *tajarrud* (pengabdian mutlak kepada Islam), zuhud terhadap perhiasan dunia, menjauhi fitnah, sabar menanggung mihnah, dan menguasai seni kepimpinan umat.  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam tidak boleh membuang masa meratapi kerosakan masyarakat umum; tumpukan tenaga kepada pembinaan kader teras (*solid core*) yang tahan lasak dan berdisiplin tinggi."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Penyelesaian kemelut umat Islam hari ini tidak memerlukan penantian terhadap penghijrahan besar-besaran jutaan orang lalai. Yang mendesak ialah **menyedarkan, menyusun, dan menggembleng saf mukmin yang sedia ada** agar bangkit memikul amanah fiqh dakwah. \n* **Prinsip Kualiti Rijal:** \n Bilangan orang beriman pada hari ini sudah memadai untuk melakar kejayaan dengan syarat mereka memiliki: *tajarrud* (pengabdian mutlak kepada Islam), zuhud terhadap perhiasan dunia, menjauhi fitnah, sabar menanggung mihnah, dan menguasai seni kepimpinan umat. \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam tidak boleh membuang masa meratapi kerosakan masyarakat umum; tumpukan tenaga kepada pembinaan kader teras (*solid core*) yang tahan lasak dan berdisiplin tinggi."
         },
         {
           "type": "text",
@@ -72,7 +72,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebaik-baik perkara ialah: Kata-kata lembut, yang terpancar dari lubuk jiwa yang dalam, meniti di bibir seorang yang penuh kesantunan).  <sup class=\"fn-ref\" data-fn-id=\"1\" title=\"Tarikh al-Baghdad: 14/209\">[1]</sup>"
+          "text": "Sebaik-baik perkara ialah: Kata-kata lembut, yang terpancar dari lubuk jiwa yang dalam, meniti di bibir seorang yang penuh kesantunan). <sup class=\"fn-ref\" data-fn-id=\"1\" title=\"Tarikh al-Baghdad: 14/209\">[1]</sup>"
         },
         {
           "type": "text",
@@ -92,16 +92,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kamu akan dapati kehebatan kata-kata berdasarkan kehebatan orang yang berkata, sebagaimana katanya, bahawa ia mahu menjadikan kata-katanya itu sebagai jalan kehidupan manusia dan cahaya yang menerangi kegelapan kehidupan.  <sup class=\"fn-ref\" data-fn-id=\"2\" title=\"Al-Syawarid li 'al-Zam: 340\">[2]</sup>"
+          "text": "Kamu akan dapati kehebatan kata-kata berdasarkan kehebatan orang yang berkata, sebagaimana katanya, bahawa ia mahu menjadikan kata-katanya itu sebagai jalan kehidupan manusia dan cahaya yang menerangi kegelapan kehidupan. <sup class=\"fn-ref\" data-fn-id=\"2\" title=\"Al-Syawarid li 'al-Zam: 340\">[2]</sup>"
         },
         {
           "type": "heading2",
           "text": "Puisi Menjadikan Perkataan Menarik",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kebenaran yang disulami dengan keindahan bahasa, santun adab, dan estetika sastera lebih mudah meresap ke dalam hati sanubari mad'u. Kekasaran ungkapan dan kebekuan retorik hanya menimbulkan kejemuan dan penolakan.  \n* **Nukilan Tokoh:**  \n  * **Sayyidina Ali bin Abi Talib RA & Pujangga Salaf:** *“Perkataan yang paling indah adalah kata-kata lembut yang dikeluarkan dari lautan ilmu yang dalam melalui lisan pejuang yang santun lagi ramah.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Para pendakwah mesti menguasai retorik komunikasi dakwah, menggunakan uslub yang memikat hati, dan menggabungkan ketajaman dalil dengan kelembutan tutur kata."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kebenaran yang disulami dengan keindahan bahasa, santun adab, dan estetika sastera lebih mudah meresap ke dalam hati sanubari mad'u. Kekasaran ungkapan dan kebekuan retorik hanya menimbulkan kejemuan dan penolakan. \n* **Nukilan Tokoh:** \n * **Sayyidina Ali bin Abi Talib RA & Pujangga Salaf:** *“Perkataan yang paling indah adalah kata-kata lembut yang dikeluarkan dari lautan ilmu yang dalam melalui lisan pejuang yang santun lagi ramah.”* \n* **Aplikasi Fiqh Haraki:** \n Para pendakwah mesti menguasai retorik komunikasi dakwah, menggunakan uslub yang memikat hati, dan menggabungkan ketajaman dalil dengan kelembutan tutur kata."
         },
         {
           "type": "text",
-          "text": "Aku mendapati sesetengah buku tarbiah harakah Islamiah memisahkan antara prosa dan puisi tanpa alasan yang kukuh. Ini menjadikan para murabbi (pendidik) tidak dapat menggunakan beratus-ratus rangkap dan petikan puisi yang boleh melembutkan hati atau membangkitkan semangat atau puisi yang berkaitan dengan akidah dan fikrah yang merupakan hasil karya para pemuisi yang thiqah sama ada yang lama atau moden juga para pemuisi dakwah. Seseorang berkemungkinan ketika mendengar suatu pengertian, tetapi sedikitpun tidak menyentuh perasaannya, tetapi apabila digubah dalam bentuk rentak puisi tertentu ia akan menggembirakan orang yang gundah gelana, menggerakkan orang yang lalai dan mendekatkan cita-cita yang dulunya terasa jauh.  <sup class=\"fn-ref\" data-fn-id=\"3\" title=\"Kharidah al-Qasr/Bahagian Iraq: 1/202\">[3]</sup>"
+          "text": "Aku mendapati sesetengah buku tarbiah harakah Islamiah memisahkan antara prosa dan puisi tanpa alasan yang kukuh. Ini menjadikan para murabbi (pendidik) tidak dapat menggunakan beratus-ratus rangkap dan petikan puisi yang boleh melembutkan hati atau membangkitkan semangat atau puisi yang berkaitan dengan akidah dan fikrah yang merupakan hasil karya para pemuisi yang thiqah sama ada yang lama atau moden juga para pemuisi dakwah. Seseorang berkemungkinan ketika mendengar suatu pengertian, tetapi sedikitpun tidak menyentuh perasaannya, tetapi apabila digubah dalam bentuk rentak puisi tertentu ia akan menggembirakan orang yang gundah gelana, menggerakkan orang yang lalai dan mendekatkan cita-cita yang dulunya terasa jauh. <sup class=\"fn-ref\" data-fn-id=\"3\" title=\"Kharidah al-Qasr/Bahagian Iraq: 1/202\">[3]</sup>"
         },
         {
           "type": "text",
@@ -109,7 +109,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "(Rentak dalam percakapan seumpama melagukan suara: maksud daripadanya ialah untuk mewujudkan kegembiraan hati dan jiwa yang menyebabkan kegembiraan fikiran).  <sup class=\"fn-ref\" data-fn-id=\"4\" title=\"Wahyu al-Qalam - ar Raafi'i: 3/285\">[4]</sup>"
+          "text": "(Rentak dalam percakapan seumpama melagukan suara: maksud daripadanya ialah untuk mewujudkan kegembiraan hati dan jiwa yang menyebabkan kegembiraan fikiran). <sup class=\"fn-ref\" data-fn-id=\"4\" title=\"Wahyu al-Qalam - ar Raafi'i: 3/285\">[4]</sup>"
         },
         {
           "type": "text",
@@ -117,7 +117,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bukti yang paling jelas tentang kepentingan puisi dalam menyebarkan akidah dan mempertahankannya, ialah peranan yang telah dimainkannya ketika membantu ahli-ahli bidaah untuk menyebarkan bidaah dalam kalangan masyarakat awam. Usaha-usaha ini dilakukan untuk menentang usaha-usaha Ibnu Taimiyah serta pengikut-pengikutnya ketika mereka berusaha membatalkan segala bidaah dengan hujah-hujah sunnah yang mulia. (Tidak dapat dinafikan bahawa hujah lojika yang dibawa oleh Ibnu Taimiyah telah memberikan kesannya, tetapi kekeringan lojika tidak dapat mengatasi kebasahan dan keindahan puisi sebagaimana yang dikatakan oleh penyair Islam Muhammad Iqbal.  <sup class=\"fn-ref\" data-fn-id=\"5\" title=\"Kitaan Muhammad Iqbal - Abdul Wahhab Azzam: 52\">[5]</sup>"
+          "text": "Bukti yang paling jelas tentang kepentingan puisi dalam menyebarkan akidah dan mempertahankannya, ialah peranan yang telah dimainkannya ketika membantu ahli-ahli bidaah untuk menyebarkan bidaah dalam kalangan masyarakat awam. Usaha-usaha ini dilakukan untuk menentang usaha-usaha Ibnu Taimiyah serta pengikut-pengikutnya ketika mereka berusaha membatalkan segala bidaah dengan hujah-hujah sunnah yang mulia. (Tidak dapat dinafikan bahawa hujah lojika yang dibawa oleh Ibnu Taimiyah telah memberikan kesannya, tetapi kekeringan lojika tidak dapat mengatasi kebasahan dan keindahan puisi sebagaimana yang dikatakan oleh penyair Islam Muhammad Iqbal. <sup class=\"fn-ref\" data-fn-id=\"5\" title=\"Kitaan Muhammad Iqbal - Abdul Wahhab Azzam: 52\">[5]</sup>"
         },
         {
           "type": "text",
@@ -130,7 +130,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Generasi Silam dan Pengikut",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kekuatan generasi hari ini bersandar kepada keterikatan jiwa dengan sirah para sahabat dan generasi salafussoleh. Generasi muta'akhirin bukanlah entiti terputus, melainkan sambungan rantaian kafilah keimanan merentasi kurun.  \n* **Nukilan Tokoh:**  \n  Syair tarbawi mengingatkan perasaan malu hamba di hadapan Rabbnya ketika menyembunyikan maksiat daripada makhluk tetapi menzahirkannya kepada Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Kurikulum tarbiah mesti sentiasa menghidupkan qudwah salafussoleh sebagai neraca piawaian akhlak, keteguhan prinsip, dan pengorbanan para aktivis."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kekuatan generasi hari ini bersandar kepada keterikatan jiwa dengan sirah para sahabat dan generasi salafussoleh. Generasi muta'akhirin bukanlah entiti terputus, melainkan sambungan rantaian kafilah keimanan merentasi kurun. \n* **Nukilan Tokoh:** \n Syair tarbawi mengingatkan perasaan malu hamba di hadapan Rabbnya ketika menyembunyikan maksiat daripada makhluk tetapi menzahirkannya kepada Allah. \n* **Aplikasi Fiqh Haraki:** \n Kurikulum tarbiah mesti sentiasa menghidupkan qudwah salafussoleh sebagai neraca piawaian akhlak, keteguhan prinsip, dan pengorbanan para aktivis."
         },
         {
           "type": "text",
@@ -142,23 +142,23 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "arabic",
-          "text": "إذا ما قال لي ربي      أما استحييت تعصيني"
+          "text": "إذا ما قال لي ربي أما استحييت تعصيني"
         },
         {
           "type": "arabic",
-          "text": "وتخفى الذنب من خلقي         وبالعصيان.. تأتيني"
+          "text": "وتخفى الذنب من خلقي وبالعصيان.. تأتيني"
         },
         {
           "type": "text",
-          "text": "Ketika berkata tuhan kepadaku                    Tidakkah malu maksiat terhadapku,"
+          "text": "Ketika berkata tuhan kepadaku Tidakkah malu maksiat terhadapku,"
         },
         {
           "type": "text",
-          "text": "Menyembunyikan dosa dari makhlukku        Dengan penuh noda mengadapku?"
+          "text": "Menyembunyikan dosa dari makhlukku Dengan penuh noda mengadapku?"
         },
         {
           "type": "quote",
-          "text": "Lalu beliau berkata: Ulangi sekali lagi. Berkata muridnya: Lalu aku ulangi sekali lagi, lantas Imam Ahmad bangun dan memasuki rumahnya serta menutup pintu. Ketika itu aku mendengar suara tangisannya dari dalam rumah dan beliau mengulangi puisi tadi.  <sup class=\"fn-ref\" data-fn-id=\"7\" title=\"Talbis al-Iblis – Ibnu al-Jauzi: 218\">[7]</sup>"
+          "text": "Lalu beliau berkata: Ulangi sekali lagi. Berkata muridnya: Lalu aku ulangi sekali lagi, lantas Imam Ahmad bangun dan memasuki rumahnya serta menutup pintu. Ketika itu aku mendengar suara tangisannya dari dalam rumah dan beliau mengulangi puisi tadi. <sup class=\"fn-ref\" data-fn-id=\"7\" title=\"Talbis al-Iblis – Ibnu al-Jauzi: 218\">[7]</sup>"
         },
         {
           "type": "text",
@@ -179,20 +179,20 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Bersama Fitrah Keindahan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Islam tidak menentang keindahan atau kecenderungan fitrah. Keindahan alam ciptaan Allah dan kenikmatan yang halal merupakan wasilah untuk melahirkan jiwa yang lapang, bersyukur, dan optimis dalam mengharungi kegetiran jihad.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengikis salah faham fahaman zuhud yang kelam dan menyeksa diri; da'i yang berjiwa halus dan menghayati keindahan syariat lebih berkebolehan membimbing masyarakat moden dengan wajah Islam yang segar dan berwibawa."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Islam tidak menentang keindahan atau kecenderungan fitrah. Keindahan alam ciptaan Allah dan kenikmatan yang halal merupakan wasilah untuk melahirkan jiwa yang lapang, bersyukur, dan optimis dalam mengharungi kegetiran jihad. \n* **Aplikasi Fiqh Haraki:** \n Mengikis salah faham fahaman zuhud yang kelam dan menyeksa diri; da'i yang berjiwa halus dan menghayati keindahan syariat lebih berkebolehan membimbing masyarakat moden dengan wajah Islam yang segar dan berwibawa."
         },
         {
           "type": "text",
-          "text": "Majaz <sup class=\"fn-ref\" data-fn-id=\"8\" title=\"Majaz ialah lafaz yang digunakan bukan untuk maknanya yang sebenar kerana terdapat qarinah (penunjuk\">[8]</sup> , jinas  <sup class=\"fn-ref\" data-fn-id=\"9\" title=\"Jinas ialah persamaan dua perkataan dari segi lafaz tetapi berlainan dari segi makna\">[9]</sup>   dan tasybih  <sup class=\"fn-ref\" data-fn-id=\"10\" title=\"Tasybih ialah keterangan yang menunjukkan bahawa dua perkara atau lebih, mempunyai kesamaan, samada \">[10]</sup>   adalah seperti puisi. Seseorang yang mempunyai ransangan sastera mendapati bahawa ucapan yang bersemangat akan lebih berkesan jika dihiasi dengan ilmu-ilmu balaghah (ilmu bahasa dan sastera Arab) seperti yang disebutkan di atas. Oleh kerana itu aku memetik sebahagiannya dengan menjauhi daripada yang sukar."
+          "text": "Majaz <sup class=\"fn-ref\" data-fn-id=\"8\" title=\"Majaz ialah lafaz yang digunakan bukan untuk maknanya yang sebenar kerana terdapat qarinah (penunjuk\">[8]</sup> , jinas <sup class=\"fn-ref\" data-fn-id=\"9\" title=\"Jinas ialah persamaan dua perkataan dari segi lafaz tetapi berlainan dari segi makna\">[9]</sup> dan tasybih <sup class=\"fn-ref\" data-fn-id=\"10\" title=\"Tasybih ialah keterangan yang menunjukkan bahawa dua perkara atau lebih, mempunyai kesamaan, samada \">[10]</sup> adalah seperti puisi. Seseorang yang mempunyai ransangan sastera mendapati bahawa ucapan yang bersemangat akan lebih berkesan jika dihiasi dengan ilmu-ilmu balaghah (ilmu bahasa dan sastera Arab) seperti yang disebutkan di atas. Oleh kerana itu aku memetik sebahagiannya dengan menjauhi daripada yang sukar."
         },
         {
           "type": "text",
-          "text": "(Majaz, isti'arah <sup class=\"fn-ref\" data-fn-id=\"11\" title=\"Isti'arah ialah tasybih (perbandingan) yang dibuang salah satu rukunnya (sama ada musyabbah atau pun\">[11]</sup> , kinayah  <sup class=\"fn-ref\" data-fn-id=\"12\" title=\"Kinayah ialah lafaz yang disebut tetapi yang dikehendaki daripadanya makna yang berkaitan dengannya,\">[12]</sup>   dan seumpamanya daripada uslub balaghah, tidak dapat dielak oleh jiwa yang seni, kerana ia sentiasa mahupun sesuatu yang agung, indah dan halus. Mungkin orang yang tidak berjiwa seni menganggap bahawa ini merupakan suatu keberatan dan meletakkan sesuatu bukan pada tempatnya. Hasilnya segala yang dilakukan untuk tujuan itu adalah satu kerja kosong dan tidak berfaedah. Namun demikian, sifat kesenian yang ada pada jiwa penyair berpendapat bahawa ia menambahkan lagi pengertian yang memberikan kesan yang lebih terhadap jiwa dan perasaan. Oleh itu penambahan dalam bentuk perkataan, pengolahan lafaz dan pengulangan makna tidak lain dan tidak bukan hanya bertujuan untuk memberikan penambahan terhadap jiwa dan perasaan.  <sup class=\"fn-ref\" data-fn-id=\"13\" title=\"Wahyu al-Qalam: 3/213\">[13]</sup>"
+          "text": "(Majaz, isti'arah <sup class=\"fn-ref\" data-fn-id=\"11\" title=\"Isti'arah ialah tasybih (perbandingan) yang dibuang salah satu rukunnya (sama ada musyabbah atau pun\">[11]</sup> , kinayah <sup class=\"fn-ref\" data-fn-id=\"12\" title=\"Kinayah ialah lafaz yang disebut tetapi yang dikehendaki daripadanya makna yang berkaitan dengannya,\">[12]</sup> dan seumpamanya daripada uslub balaghah, tidak dapat dielak oleh jiwa yang seni, kerana ia sentiasa mahupun sesuatu yang agung, indah dan halus. Mungkin orang yang tidak berjiwa seni menganggap bahawa ini merupakan suatu keberatan dan meletakkan sesuatu bukan pada tempatnya. Hasilnya segala yang dilakukan untuk tujuan itu adalah satu kerja kosong dan tidak berfaedah. Namun demikian, sifat kesenian yang ada pada jiwa penyair berpendapat bahawa ia menambahkan lagi pengertian yang memberikan kesan yang lebih terhadap jiwa dan perasaan. Oleh itu penambahan dalam bentuk perkataan, pengolahan lafaz dan pengulangan makna tidak lain dan tidak bukan hanya bertujuan untuk memberikan penambahan terhadap jiwa dan perasaan. <sup class=\"fn-ref\" data-fn-id=\"13\" title=\"Wahyu al-Qalam: 3/213\">[13]</sup>"
         },
         {
           "type": "heading2",
           "text": "Semangat Pemuda Islam di Permulaan Abad Baru...",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kebangkitan semula tamadun Islam di permulaan alaf baru diterajui oleh denyut nadi para pemuda yang mencampakkan kealpaan dan bangkit menyahut seruan Ilahi.  \n* **Tuntutan Terhadap Syabab:**  \n  Semangat muda (*hamasah*) wajib dipandu dengan kematangan fiqh dakwah (*wa'yu*) agar tidak tersasar menjadi radikalisme melulu atau dipadamkan oleh kekecewaan awal.  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam mesti menyediakan wadah tanzimi yang subur untuk menyalurkan tenaga, idea, dan keberanian para pemuda ke arah pembinaan tamadun Islam yang mampan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kebangkitan semula tamadun Islam di permulaan alaf baru diterajui oleh denyut nadi para pemuda yang mencampakkan kealpaan dan bangkit menyahut seruan Ilahi. \n* **Tuntutan Terhadap Syabab:** \n Semangat muda (*hamasah*) wajib dipandu dengan kematangan fiqh dakwah (*wa'yu*) agar tidak tersasar menjadi radikalisme melulu atau dipadamkan oleh kekecewaan awal. \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam mesti menyediakan wadah tanzimi yang subur untuk menyalurkan tenaga, idea, dan keberanian para pemuda ke arah pembinaan tamadun Islam yang mampan."
         },
         {
           "type": "text",
@@ -263,37 +263,37 @@ window.ALMUNTALAQ_DATA = {
           "id": "c0_s0",
           "title": "Pengenalan: Tarikan Keimanan vs Tarikan Futur",
           "summary_title": "Mukadimah: Tarikan Keimanan vs Tarikan Futur",
-          "summary": "* **Intipati & Pemahaman:**  \n  Setiap da'i sentiasa berhadapan dengan pertembungan dua daya tarikan batin: tarikan keimanan dan keikhlasan yang mendorong kepada amal salih, berlawanan dengan tarikan syaitan yang membisikkan rasa lemah semangat (*futur*), cinta dunia, kemalasan, dan angan-angan kosong.  \n* **Nukilan Tokoh & Salafussoleh:**  \n  * **Sayyidina Mu'adz bin Jabal RA:** Menegaskan asas tajdid rohani: « إِجْلِسْ بِنَا نُؤْمِنْ سَاعَةً » — *“Mari kita duduk sebentar, kita beriman sejenak.”*  \n  * **Sayyidina Abdullah bin Rawahah RA:** Mengingatkan Abu ad-Darda' RA: *“Hati manusia lebih cepat berbolak-balik daripada periuk yang sedang menggelegak mendidih.”*  \n* **Aplikasi Fiqh Haraki & Tarbawi:**  \n  Da'i wajib mengadakan sesi muhasabah dan pembaharuan iman berkala (*tajdid al-iman*) agar kesibukan tugasan harian dan tanzim tidak mengeringkan roh perjuangan dan menukarkannya menjadi rutin birokrasi yang lesu."
+          "summary": "* **Intipati & Pemahaman:** \n Setiap da'i sentiasa berhadapan dengan pertembungan dua daya tarikan batin: tarikan keimanan dan keikhlasan yang mendorong kepada amal salih, berlawanan dengan tarikan syaitan yang membisikkan rasa lemah semangat (*futur*), cinta dunia, kemalasan, dan angan-angan kosong. \n* **Nukilan Tokoh & Salafussoleh:** \n * **Sayyidina Mu'adz bin Jabal RA:** Menegaskan asas tajdid rohani: « إِجْلِسْ بِنَا نُؤْمِنْ سَاعَةً » — *“Mari kita duduk sebentar, kita beriman sejenak.”* \n * **Sayyidina Abdullah bin Rawahah RA:** Mengingatkan Abu ad-Darda' RA: *“Hati manusia lebih cepat berbolak-balik daripada periuk yang sedang menggelegak mendidih.”* \n* **Aplikasi Fiqh Haraki & Tarbawi:** \n Da'i wajib mengadakan sesi muhasabah dan pembaharuan iman berkala (*tajdid al-iman*) agar kesibukan tugasan harian dan tanzim tidak mengeringkan roh perjuangan dan menukarkannya menjadi rutin birokrasi yang lesu."
         },
         {
           "id": "c0_s1",
           "title": "Sisa.... Dan Harapan",
           "summary_title": "1. Sisa.... Dan Harapan (Fokus Membangkitkan Saf Beriman)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Penyelesaian kemelut umat Islam hari ini tidak memerlukan penantian terhadap penghijrahan besar-besaran jutaan orang lalai. Yang mendesak ialah **menyedarkan, menyusun, dan menggembleng saf mukmin yang sedia ada** agar bangkit memikul amanah fiqh dakwah.  \n* **Prinsip Kualiti Rijal:**  \n  Bilangan orang beriman pada hari ini sudah memadai untuk melakar kejayaan dengan syarat mereka memiliki: *tajarrud* (pengabdian mutlak kepada Islam), zuhud terhadap perhiasan dunia, menjauhi fitnah, sabar menanggung mihnah, dan menguasai seni kepimpinan umat.  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam tidak boleh membuang masa meratapi kerosakan masyarakat umum; tumpukan tenaga kepada pembinaan kader teras (*solid core*) yang tahan lasak dan berdisiplin tinggi."
+          "summary": "* **Intipati & Pemahaman:** \n Penyelesaian kemelut umat Islam hari ini tidak memerlukan penantian terhadap penghijrahan besar-besaran jutaan orang lalai. Yang mendesak ialah **menyedarkan, menyusun, dan menggembleng saf mukmin yang sedia ada** agar bangkit memikul amanah fiqh dakwah. \n* **Prinsip Kualiti Rijal:** \n Bilangan orang beriman pada hari ini sudah memadai untuk melakar kejayaan dengan syarat mereka memiliki: *tajarrud* (pengabdian mutlak kepada Islam), zuhud terhadap perhiasan dunia, menjauhi fitnah, sabar menanggung mihnah, dan menguasai seni kepimpinan umat. \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam tidak boleh membuang masa meratapi kerosakan masyarakat umum; tumpukan tenaga kepada pembinaan kader teras (*solid core*) yang tahan lasak dan berdisiplin tinggi."
         },
         {
           "id": "c0_s2",
           "title": "Puisi Menjadikan Perkataan Menarik",
           "summary_title": "2. Puisi Menjadikan Perkataan Menarik (Seni Retorik & Lisan Lembut)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kebenaran yang disulami dengan keindahan bahasa, santun adab, dan estetika sastera lebih mudah meresap ke dalam hati sanubari mad'u. Kekasaran ungkapan dan kebekuan retorik hanya menimbulkan kejemuan dan penolakan.  \n* **Nukilan Tokoh:**  \n  * **Sayyidina Ali bin Abi Talib RA & Pujangga Salaf:** *“Perkataan yang paling indah adalah kata-kata lembut yang dikeluarkan dari lautan ilmu yang dalam melalui lisan pejuang yang santun lagi ramah.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Para pendakwah mesti menguasai retorik komunikasi dakwah, menggunakan uslub yang memikat hati, dan menggabungkan ketajaman dalil dengan kelembutan tutur kata."
+          "summary": "* **Intipati & Pemahaman:** \n Kebenaran yang disulami dengan keindahan bahasa, santun adab, dan estetika sastera lebih mudah meresap ke dalam hati sanubari mad'u. Kekasaran ungkapan dan kebekuan retorik hanya menimbulkan kejemuan dan penolakan. \n* **Nukilan Tokoh:** \n * **Sayyidina Ali bin Abi Talib RA & Pujangga Salaf:** *“Perkataan yang paling indah adalah kata-kata lembut yang dikeluarkan dari lautan ilmu yang dalam melalui lisan pejuang yang santun lagi ramah.”* \n* **Aplikasi Fiqh Haraki:** \n Para pendakwah mesti menguasai retorik komunikasi dakwah, menggunakan uslub yang memikat hati, dan menggabungkan ketajaman dalil dengan kelembutan tutur kata."
         },
         {
           "id": "c0_s3",
           "title": "Generasi Silam dan Pengikut",
           "summary_title": "3. Generasi Silam dan Pengikut (Kesinambungan Rantaian Salaf)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kekuatan generasi hari ini bersandar kepada keterikatan jiwa dengan sirah para sahabat dan generasi salafussoleh. Generasi muta'akhirin bukanlah entiti terputus, melainkan sambungan rantaian kafilah keimanan merentasi kurun.  \n* **Nukilan Tokoh:**  \n  Syair tarbawi mengingatkan perasaan malu hamba di hadapan Rabbnya ketika menyembunyikan maksiat daripada makhluk tetapi menzahirkannya kepada Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Kurikulum tarbiah mesti sentiasa menghidupkan qudwah salafussoleh sebagai neraca piawaian akhlak, keteguhan prinsip, dan pengorbanan para aktivis."
+          "summary": "* **Intipati & Pemahaman:** \n Kekuatan generasi hari ini bersandar kepada keterikatan jiwa dengan sirah para sahabat dan generasi salafussoleh. Generasi muta'akhirin bukanlah entiti terputus, melainkan sambungan rantaian kafilah keimanan merentasi kurun. \n* **Nukilan Tokoh:** \n Syair tarbawi mengingatkan perasaan malu hamba di hadapan Rabbnya ketika menyembunyikan maksiat daripada makhluk tetapi menzahirkannya kepada Allah. \n* **Aplikasi Fiqh Haraki:** \n Kurikulum tarbiah mesti sentiasa menghidupkan qudwah salafussoleh sebagai neraca piawaian akhlak, keteguhan prinsip, dan pengorbanan para aktivis."
         },
         {
           "id": "c0_s4",
           "title": "Bersama Fitrah Keindahan",
           "summary_title": "4. Bersama Fitrah Keindahan (Memperkayakan Jiwa Da'i)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Islam tidak menentang keindahan atau kecenderungan fitrah. Keindahan alam ciptaan Allah dan kenikmatan yang halal merupakan wasilah untuk melahirkan jiwa yang lapang, bersyukur, dan optimis dalam mengharungi kegetiran jihad.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengikis salah faham fahaman zuhud yang kelam dan menyeksa diri; da'i yang berjiwa halus dan menghayati keindahan syariat lebih berkebolehan membimbing masyarakat moden dengan wajah Islam yang segar dan berwibawa."
+          "summary": "* **Intipati & Pemahaman:** \n Islam tidak menentang keindahan atau kecenderungan fitrah. Keindahan alam ciptaan Allah dan kenikmatan yang halal merupakan wasilah untuk melahirkan jiwa yang lapang, bersyukur, dan optimis dalam mengharungi kegetiran jihad. \n* **Aplikasi Fiqh Haraki:** \n Mengikis salah faham fahaman zuhud yang kelam dan menyeksa diri; da'i yang berjiwa halus dan menghayati keindahan syariat lebih berkebolehan membimbing masyarakat moden dengan wajah Islam yang segar dan berwibawa."
         },
         {
           "id": "c0_s5",
           "title": "Semangat Pemuda Islam di Permulaan Abad Baru...",
           "summary_title": "5. Semangat Pemuda Islam (Kebangkitan Generasi Pembawa Panji)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kebangkitan semula tamadun Islam di permulaan alaf baru diterajui oleh denyut nadi para pemuda yang mencampakkan kealpaan dan bangkit menyahut seruan Ilahi.  \n* **Tuntutan Terhadap Syabab:**  \n  Semangat muda (*hamasah*) wajib dipandu dengan kematangan fiqh dakwah (*wa'yu*) agar tidak tersasar menjadi radikalisme melulu atau dipadamkan oleh kekecewaan awal.  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam mesti menyediakan wadah tanzimi yang subur untuk menyalurkan tenaga, idea, dan keberanian para pemuda ke arah pembinaan tamadun Islam yang mampan."
+          "summary": "* **Intipati & Pemahaman:** \n Kebangkitan semula tamadun Islam di permulaan alaf baru diterajui oleh denyut nadi para pemuda yang mencampakkan kealpaan dan bangkit menyahut seruan Ilahi. \n* **Tuntutan Terhadap Syabab:** \n Semangat muda (*hamasah*) wajib dipandu dengan kematangan fiqh dakwah (*wa'yu*) agar tidak tersasar menjadi radikalisme melulu atau dipadamkan oleh kekecewaan awal. \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam mesti menyediakan wadah tanzimi yang subur untuk menyalurkan tenaga, idea, dan keberanian para pemuda ke arah pembinaan tamadun Islam yang mampan."
         }
       ]
     },
@@ -333,7 +333,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Wahyu ...Atau Keinginan Hawa nafsu",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Dunia ini hanya terbahagi kepada dua kutub mutlak: petunjuk wahyu Rabbaniyyah atau kegelapan hawa nafsu jahiliah. Menolak sebahagian wahyu demi menuruti selera nafsu bererti menyembah hawa nafsu sebagai tuhan.  \n* **Nukilan Tokoh:**  \n  * **Syeikhul Islam Ibnu Taimiyah:** Menegaskan bahawa sesiapa yang menolak panduan syariat kerana menuruti adat yang rosak atau tekanan massa, hakikatnya telah mempertuhankan nafsunya.  \n  * **Imam Asy-Syatibi:** Syariat diturunkan untuk mengeluarkan mukallaf daripada dorongan hawa nafsunya agar menjadi hamba Allah yang patuh sukarela.  \n* **Aplikasi Fiqh Haraki:**  \n  Pendirian harakah mestilah berasaskan dalil syarak yang qath'ie, bukan berpandukan sentimen kemarahan umum atau tuntutan politik populis."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Dunia ini hanya terbahagi kepada dua kutub mutlak: petunjuk wahyu Rabbaniyyah atau kegelapan hawa nafsu jahiliah. Menolak sebahagian wahyu demi menuruti selera nafsu bererti menyembah hawa nafsu sebagai tuhan. \n* **Nukilan Tokoh:** \n * **Syeikhul Islam Ibnu Taimiyah:** Menegaskan bahawa sesiapa yang menolak panduan syariat kerana menuruti adat yang rosak atau tekanan massa, hakikatnya telah mempertuhankan nafsunya. \n * **Imam Asy-Syatibi:** Syariat diturunkan untuk mengeluarkan mukallaf daripada dorongan hawa nafsunya agar menjadi hamba Allah yang patuh sukarela. \n* **Aplikasi Fiqh Haraki:** \n Pendirian harakah mestilah berasaskan dalil syarak yang qath'ie, bukan berpandukan sentimen kemarahan umum atau tuntutan politik populis."
         },
         {
           "type": "text",
@@ -441,12 +441,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Perhatikanlah!  Setiap ayat yang menyebut tentang hawa nafsu, ia mesti dicela dan pengikut hawa nafsu akan dikutuk. Diriwayatkan dari Ibnu Abbas bahawa beliau berkata: “Bila mana Allah menyebut perkataan nafsu ‘al-hawa’ di dalam al-Quran, pasti Dia mencelanya. Dari sini jelaslah maksud kenapa diturunkan syariat iaitu untuk mengeluarkan kita dari menjadi pengikut runtunan hawa nafsu.  <sup class=\"fn-ref\" data-fn-id=\"14\" title=\"Al-Muwafaqat, Juzu’ 6, m.s. 121\">[14]</sup>"
+          "text": "Perhatikanlah! Setiap ayat yang menyebut tentang hawa nafsu, ia mesti dicela dan pengikut hawa nafsu akan dikutuk. Diriwayatkan dari Ibnu Abbas bahawa beliau berkata: “Bila mana Allah menyebut perkataan nafsu ‘al-hawa’ di dalam al-Quran, pasti Dia mencelanya. Dari sini jelaslah maksud kenapa diturunkan syariat iaitu untuk mengeluarkan kita dari menjadi pengikut runtunan hawa nafsu. <sup class=\"fn-ref\" data-fn-id=\"14\" title=\"Al-Muwafaqat, Juzu’ 6, m.s. 121\">[14]</sup>"
         },
         {
           "type": "heading2",
           "text": "Tiada Jalan Tengah Antara Syariat dan Keinginan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Tidak wujud sebarang titik kompromi atau perdamaian palsu antara kebenaran wahyu dengan kebatilan hawa nafsu. Percubaan mencampuradukkan syariat dengan sistem sekular hanya melahirkan kemunafikan sistemik.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak tekanan untuk menggadaikan dasar perjuangan demi meraih kerusi kuasa atau mengelak tekanan politik musuh; keteguhan (*thabat*) pada prinsip adalah rahsia pertolongan Allah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Tidak wujud sebarang titik kompromi atau perdamaian palsu antara kebenaran wahyu dengan kebatilan hawa nafsu. Percubaan mencampuradukkan syariat dengan sistem sekular hanya melahirkan kemunafikan sistemik. \n* **Aplikasi Fiqh Haraki:** \n Menolak tekanan untuk menggadaikan dasar perjuangan demi meraih kerusi kuasa atau mengelak tekanan politik musuh; keteguhan (*thabat*) pada prinsip adalah rahsia pertolongan Allah."
         },
         {
           "type": "text",
@@ -466,11 +466,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Pilihlah, sama ada mahu menerima syariat Allah ataupun mengikut keinginan orang-orang yang jahil. Tiada andaian yang ketiga dan tidak ada jalan tengah antara syariat yang lurus dan hawa nafsu yang berubah-ubah. Sesiapa sahaja yang meninggalkan syariat Allah sebenarnya bertindak berhukumkan hawa nafsunya. Tiap-tiap sesuatu yang lain dari syariat Allah adalah hawa nafsu yang terperosok ke dalamnya orang yang jahil.”  <sup class=\"fn-ref\" data-fn-id=\"15\" title=\"Fi Zilal Al-Quran, Juzu’ 25, m.s. 136\">[15]</sup>"
+          "text": "“Pilihlah, sama ada mahu menerima syariat Allah ataupun mengikut keinginan orang-orang yang jahil. Tiada andaian yang ketiga dan tidak ada jalan tengah antara syariat yang lurus dan hawa nafsu yang berubah-ubah. Sesiapa sahaja yang meninggalkan syariat Allah sebenarnya bertindak berhukumkan hawa nafsunya. Tiap-tiap sesuatu yang lain dari syariat Allah adalah hawa nafsu yang terperosok ke dalamnya orang yang jahil.” <sup class=\"fn-ref\" data-fn-id=\"15\" title=\"Fi Zilal Al-Quran, Juzu’ 25, m.s. 136\">[15]</sup>"
         },
         {
           "type": "text",
-          "text": "Syariat hanyalah satu iaitu syariat Allah.  Selain dari itu hanyalah hawa nafsu yang bersumberkan kejahilan. Pendokong dakwah wajib mengikuti syariat-syariat Allah sahaja dan meninggalkan segala keinginan-keinginan hawa nafsu. Mereka tidak boleh menyeleweng dari syariat dan tidak boleh cenderung kepada hawa nafsu walau sedikitpun.  <sup class=\"fn-ref\" data-fn-id=\"16\" title=\"Ibid\">[16]</sup>"
+          "text": "Syariat hanyalah satu iaitu syariat Allah. Selain dari itu hanyalah hawa nafsu yang bersumberkan kejahilan. Pendokong dakwah wajib mengikuti syariat-syariat Allah sahaja dan meninggalkan segala keinginan-keinginan hawa nafsu. Mereka tidak boleh menyeleweng dari syariat dan tidak boleh cenderung kepada hawa nafsu walau sedikitpun. <sup class=\"fn-ref\" data-fn-id=\"16\" title=\"Ibid\">[16]</sup>"
         },
         {
           "type": "text",
@@ -495,7 +495,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Fitnah dan Kewaspadaan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Fitnah paling merbahaya adalah penyelewengan yang dibungkus dengan slogan agama yang indah. Iblis memperdayakan aktivis dengan membisikkan bahawa kemungkaran yang dilakukan kononnya demi 'kemaslahatan dakwah'.  \n* **Aplikasi Fiqh Haraki:**  \n  Setiap langkah strategi harakah mesti disemak melalui timbangan usul fiqh dan maqasid syariah yang sahih agar tidak terjerumus ke dalam jerat menghalalkan cara demi matlamat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Fitnah paling merbahaya adalah penyelewengan yang dibungkus dengan slogan agama yang indah. Iblis memperdayakan aktivis dengan membisikkan bahawa kemungkaran yang dilakukan kononnya demi 'kemaslahatan dakwah'. \n* **Aplikasi Fiqh Haraki:** \n Setiap langkah strategi harakah mesti disemak melalui timbangan usul fiqh dan maqasid syariah yang sahih agar tidak terjerumus ke dalam jerat menghalalkan cara demi matlamat."
         },
         {
           "type": "quote",
@@ -520,7 +520,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Menolak Sebahagian Daripada Syariat Allah Adalah Kufur",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Islam adalah pakej kesatuan yang sempurna (*kaffah*). Sikap mengambil aspek ibadah ritual tetapi menolak sistem politik, ekonomi, dan perundangan Islam adalah hakikat kekufuran sebagaimana yang dilakukan oleh Bani Israil.  \n* **Aplikasi Fiqh Haraki:**  \n  Dakwah wajib memperjuangkan kedaulatan syariat secara menyeluruh merangkumi perlembagaan, kehakiman, sistem kewangan, dan moral masyarakat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Islam adalah pakej kesatuan yang sempurna (*kaffah*). Sikap mengambil aspek ibadah ritual tetapi menolak sistem politik, ekonomi, dan perundangan Islam adalah hakikat kekufuran sebagaimana yang dilakukan oleh Bani Israil. \n* **Aplikasi Fiqh Haraki:** \n Dakwah wajib memperjuangkan kedaulatan syariat secara menyeluruh merangkumi perlembagaan, kehakiman, sistem kewangan, dan moral masyarakat."
         },
         {
           "type": "text",
@@ -592,7 +592,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Begitu juga Allah mencela orang yang mengaku beriman dengan seluruh kandungan kitab-kitab Allah tetapi mereka tidak menghukum dengan menggunakan al-Quran dan al-Sunnah. Mereka rela berhukum menurut taghut yang diagungkan selain dari Allah. Demikian jugalah yang terjadi pada golongan yang mengaku Islam tetapi mereka menjalankan undang- undang mengikut pandangan ahli falsafah atau mereka memerintah menurut sistem politik bukan syariat Allah. Apabila diseru kepada mereka: “Marilah kembali kepada kitab Allah dan sunnah Rasul-Nya!”, mereka palingkan muka mereka dengan bersungguh-sungguh.”  <sup class=\"fn-ref\" data-fn-id=\"19\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 12, m.s. 339\">[19]</sup>"
+          "text": "Begitu juga Allah mencela orang yang mengaku beriman dengan seluruh kandungan kitab-kitab Allah tetapi mereka tidak menghukum dengan menggunakan al-Quran dan al-Sunnah. Mereka rela berhukum menurut taghut yang diagungkan selain dari Allah. Demikian jugalah yang terjadi pada golongan yang mengaku Islam tetapi mereka menjalankan undang- undang mengikut pandangan ahli falsafah atau mereka memerintah menurut sistem politik bukan syariat Allah. Apabila diseru kepada mereka: “Marilah kembali kepada kitab Allah dan sunnah Rasul-Nya!”, mereka palingkan muka mereka dengan bersungguh-sungguh.” <sup class=\"fn-ref\" data-fn-id=\"19\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 12, m.s. 339\">[19]</sup>"
         },
         {
           "type": "text",
@@ -613,11 +613,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kita Tidak Akan Mengkafirkan Seseorang Muslim Tanpa Bukti",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Walaupun gerakan Islam menolak undang-undang jahiliah dengan tegas, kita berpegang teguh kepada manhaj Ahli Sunnah Wal Jemaah: **mengharamkan tuduhan takfir sewenang-wenangnya** ke atas orang Islam tanpa memenuhi syarat dan terhalang daripada sebarang syubhah (*mawani'*).  \n* **Aplikasi Fiqh Haraki:**  \n  Mendidik anggota jemaah agar berfikrah seimbang: tegas menentang kezaliman penguasa taghut tanpa terjebak ke dalam ideologi Khawarij yang memusnahkan saf persaudaraan Islam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Walaupun gerakan Islam menolak undang-undang jahiliah dengan tegas, kita berpegang teguh kepada manhaj Ahli Sunnah Wal Jemaah: **mengharamkan tuduhan takfir sewenang-wenangnya** ke atas orang Islam tanpa memenuhi syarat dan terhalang daripada sebarang syubhah (*mawani'*). \n* **Aplikasi Fiqh Haraki:** \n Mendidik anggota jemaah agar berfikrah seimbang: tegas menentang kezaliman penguasa taghut tanpa terjebak ke dalam ideologi Khawarij yang memusnahkan saf persaudaraan Islam."
         },
         {
           "type": "quote",
-          "text": "Kemudian terdapat pula penyelewengan dan kesesatan yang lebih ringan dan lebih kecil daripada yang dinyatakan di atas. Ibnu Taimiyah telah berkata: “Ramai ahli salaf telah berkata: كفر دون كفر  Ada satu kufur tidak sampai kepada kekufuran, satu nifaq yang tidak sampai kepada munafiq dan satu syirik tidak sampai kepada syirik.”  <sup class=\"fn-ref\" data-fn-id=\"20\" title=\"Ibid, Juzu’ 11, m.s. 140\">[20]</sup>"
+          "text": "Kemudian terdapat pula penyelewengan dan kesesatan yang lebih ringan dan lebih kecil daripada yang dinyatakan di atas. Ibnu Taimiyah telah berkata: “Ramai ahli salaf telah berkata: كفر دون كفر Ada satu kufur tidak sampai kepada kekufuran, satu nifaq yang tidak sampai kepada munafiq dan satu syirik tidak sampai kepada syirik.” <sup class=\"fn-ref\" data-fn-id=\"20\" title=\"Ibid, Juzu’ 11, m.s. 140\">[20]</sup>"
         },
         {
           "type": "text",
@@ -633,15 +633,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Segala maksiat adalah urusan jahiliah dan pembuat maksiat tidak menjadi kafir dengan melakukannya kecuali maksiat syirik. Ini semua berdasarkan Rasulullah SAW bersabda: “Sesungguhnya engkau seorang yang ada padamu sisa-sisa jahiliah.”  <sup class=\"fn-ref\" data-fn-id=\"21\" title=\"Sahih al-Bukhari, Juzu’ 1, m.s. 15\">[21]</sup>"
+          "text": "“Segala maksiat adalah urusan jahiliah dan pembuat maksiat tidak menjadi kafir dengan melakukannya kecuali maksiat syirik. Ini semua berdasarkan Rasulullah SAW bersabda: “Sesungguhnya engkau seorang yang ada padamu sisa-sisa jahiliah.” <sup class=\"fn-ref\" data-fn-id=\"21\" title=\"Sahih al-Bukhari, Juzu’ 1, m.s. 15\">[21]</sup>"
         },
         {
           "type": "text",
-          "text": "Kamu dapati bahawa hadis Nabi SAW yang dijadikan dalil oleh Imam al-Bukhari ini adalah jelas dan benar. Sabda itu ditujukan kepada Abu Dzar r.a. tatkala beliau mengejek Bilal dan ibunya yang berkulit hitam. Padahal Abu Dzar itu daripada kalangan sahabat-sahabat yang hebat dan mulia. Satu maksiat sahaja adalah satu cabang dari cabang-cabang jahiliah sebagaimana maksud sabda Rasulullah SAW tersebut. Oleh kerana itu, setiap kali maksiat seorang Muslim bertambah, bertambahlah kadar jahiliah yang ada padanya. Tetapi dia tidaklah menjadi jahiliah seluruhnya, kecuali jika dia mensyirikkan Allah dalam ibadahnya atau dia beriktikad bahawa sebahagian dari perkara yang diharamkan Allah adalah halal atau beriktikad bahawa sebahagian daripada yang dihalalkan Allah adalah haram dan beriman hanya pada sebahagian daripada syariat Allah dan kufur pada sebahagian yang lain."
+          "text": "Kamu dapati bahawa hadis Nabi SAW yang dijadikan dalil oleh Imam al-Bukhari ini adalah jelas dan benar. Sabda itu ditujukan kepada Abu Dzar RA tatkala beliau mengejek Bilal dan ibunya yang berkulit hitam. Padahal Abu Dzar itu daripada kalangan sahabat-sahabat yang hebat dan mulia. Satu maksiat sahaja adalah satu cabang dari cabang-cabang jahiliah sebagaimana maksud sabda Rasulullah SAW tersebut. Oleh kerana itu, setiap kali maksiat seorang Muslim bertambah, bertambahlah kadar jahiliah yang ada padanya. Tetapi dia tidaklah menjadi jahiliah seluruhnya, kecuali jika dia mensyirikkan Allah dalam ibadahnya atau dia beriktikad bahawa sebahagian dari perkara yang diharamkan Allah adalah halal atau beriktikad bahawa sebahagian daripada yang dihalalkan Allah adalah haram dan beriman hanya pada sebahagian daripada syariat Allah dan kufur pada sebahagian yang lain."
         },
         {
           "type": "text",
-          "text": "Inilah rahsianya mengapa Rasulullah SAW memberi amaran agar berhati-hati ketika mengkafirkan individu yang telah zahir keIslamannya, sebagaimana sabda baginda yang bermaksud: “Barangsiapa yang berkata kepada saudaranya: “Wahai si kafir!” Kembalilah kufur itu kepada salah seorang dari mereka. Jika benar, maka kafirlah orang yang dikatakan. Kalau tidak, kembalilah kufur itu kepadanya. <sup class=\"fn-ref\" data-fn-id=\"22\" title=\"Jika saudaranya bukan kafir, maka dialah yang menjadi kafir lantaran kata-katanya itu.\">[22]</sup> ”  <sup class=\"fn-ref\" data-fn-id=\"23\" title=\"Sahih Muslim, Juzu’ 1, m.s. 57\">[23]</sup>"
+          "text": "Inilah rahsianya mengapa Rasulullah SAW memberi amaran agar berhati-hati ketika mengkafirkan individu yang telah zahir keIslamannya, sebagaimana sabda baginda yang bermaksud: “Barangsiapa yang berkata kepada saudaranya: “Wahai si kafir!” Kembalilah kufur itu kepada salah seorang dari mereka. Jika benar, maka kafirlah orang yang dikatakan. Kalau tidak, kembalilah kufur itu kepadanya. <sup class=\"fn-ref\" data-fn-id=\"22\" title=\"Jika saudaranya bukan kafir, maka dialah yang menjadi kafir lantaran kata-katanya itu.\">[22]</sup> ” <sup class=\"fn-ref\" data-fn-id=\"23\" title=\"Sahih Muslim, Juzu’ 1, m.s. 57\">[23]</sup>"
         },
         {
           "type": "text",
@@ -649,11 +649,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Janganlah kita mengkafirkan seorang Islam yang berikrar dengan dua kalimah syahadah dan beramal mengikut tuntutannya dan menyempurnakan apa yang difardukan kepadanya berdasarkan satu  pendapat yang dipegangnya atau satu maksiat yang dilakukannya; kecuali jika dia mengaku dengan kalimah kufur atau menyangkal perkara yang perlu dan sepatutnya diketahui tentang agama, mendustakan keterangan al-Quran, atau mentafsirkannya mengikut satu perspektif yang tidak menepati uslub bahasa Arab tentang sesuatu perkara, atau membuat satu amalan yang tidak membawa pengertian lain selain daripada kufur.”"
+          "text": "“Janganlah kita mengkafirkan seorang Islam yang berikrar dengan dua kalimah syahadah dan beramal mengikut tuntutannya dan menyempurnakan apa yang difardukan kepadanya berdasarkan satu pendapat yang dipegangnya atau satu maksiat yang dilakukannya; kecuali jika dia mengaku dengan kalimah kufur atau menyangkal perkara yang perlu dan sepatutnya diketahui tentang agama, mendustakan keterangan al-Quran, atau mentafsirkannya mengikut satu perspektif yang tidak menepati uslub bahasa Arab tentang sesuatu perkara, atau membuat satu amalan yang tidak membawa pengertian lain selain daripada kufur.”"
         },
         {
           "type": "quote",
-          "text": "Demikianlah pengertian yang dapat diambil daripada buku “al-Sharh al-’Iraqi li al-Usul al-’Isyrin” (Penjelasan al-Iraqi Terhadap Dua Puluh Usul). Beliau berkata: Mengkafirkan seorang Muslim dalam ertikata mengeluarkannya dari Islam, adalah sesuatu yang sangat berbahaya. Mesti ada sesuatu yang membuktikan kekufurannya secara jelas dan terang. Contohnya, dia berkata atau melakukan sesuatu perkara yang menyebabkan kufur seperti menyangkal satu dalil yang qat'i (yang pasti) dari agama, seperti kewajipan solat, pengharaman riba’, tidak perlu berpegang kepada Islam atau mempersendakan Islam atau al-Quran, mencaci Allah dan Rasul-Nya, melumurkan  al-Quran dengan kekotoran atau menolak perkara yang terang-terang di  dalam Al-Quran, menyangkal hari akhirat atau berkata: “Syariat Islam telah lapuk, ketinggalan zaman, dan tidak layak lagi untuk dilaksanakan dan tidak lagi diperlukan pada masa kini,” serta lain-lain yang menjadikan pengucapnya atau pembuatnya sebagai kafir. Sebaliknya, apabila dia melakukan beberapa maksiat seperti minum arak walhal masih mengakui usul akidah Islam maka dia adalah Muslim yang derhaka, bukan kafir. Demikian juga sekiranya dia berkata atau melakukan sesuatu yang masih boleh ditakwilkan lagi, maka kita tidak boleh mengkafirkannya lantaran perkataan dan perbuatannya itu."
+          "text": "Demikianlah pengertian yang dapat diambil daripada buku “al-Sharh al-’Iraqi li al-Usul al-’Isyrin” (Penjelasan al-Iraqi Terhadap Dua Puluh Usul). Beliau berkata: Mengkafirkan seorang Muslim dalam ertikata mengeluarkannya dari Islam, adalah sesuatu yang sangat berbahaya. Mesti ada sesuatu yang membuktikan kekufurannya secara jelas dan terang. Contohnya, dia berkata atau melakukan sesuatu perkara yang menyebabkan kufur seperti menyangkal satu dalil yang qat'i (yang pasti) dari agama, seperti kewajipan solat, pengharaman riba’, tidak perlu berpegang kepada Islam atau mempersendakan Islam atau al-Quran, mencaci Allah dan Rasul-Nya, melumurkan al-Quran dengan kekotoran atau menolak perkara yang terang-terang di dalam Al-Quran, menyangkal hari akhirat atau berkata: “Syariat Islam telah lapuk, ketinggalan zaman, dan tidak layak lagi untuk dilaksanakan dan tidak lagi diperlukan pada masa kini,” serta lain-lain yang menjadikan pengucapnya atau pembuatnya sebagai kafir. Sebaliknya, apabila dia melakukan beberapa maksiat seperti minum arak walhal masih mengakui usul akidah Islam maka dia adalah Muslim yang derhaka, bukan kafir. Demikian juga sekiranya dia berkata atau melakukan sesuatu yang masih boleh ditakwilkan lagi, maka kita tidak boleh mengkafirkannya lantaran perkataan dan perbuatannya itu."
         },
         {
           "type": "text",
@@ -681,12 +681,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Syirik ini tidaklah mengeluarkannya daripada Islam, tetapi dia telah melakukan dosa yang amat besar. Begitulah seterusnya”  <sup class=\"fn-ref\" data-fn-id=\"24\" title=\"al-Sharh al-’Iraqi li al-Usul al-’Isyrin” (Penjelasan al-Iraqi Terhadap Dua Puluh Usul) hlm. 55\">[24]</sup>"
+          "text": "Syirik ini tidaklah mengeluarkannya daripada Islam, tetapi dia telah melakukan dosa yang amat besar. Begitulah seterusnya” <sup class=\"fn-ref\" data-fn-id=\"24\" title=\"al-Sharh al-’Iraqi li al-Usul al-’Isyrin” (Penjelasan al-Iraqi Terhadap Dua Puluh Usul) hlm. 55\">[24]</sup>"
         },
         {
           "type": "heading2",
           "text": "Jiwa Yang Beriman Itu Peka dan Sensitif",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Ciri hati yang hidup ialah berasa pedih dan terusik apabila melihat syariat Allah dipijak dan maksiat bermaharajalela. Hilangnya rasa sensitif terhadap dosa adalah tanda kematian hati.  \n* **Aplikasi Fiqh Haraki:**  \n  Menyuburkan suasana amar makruf nahi mungkar dalam kalangan aktivis agar tidak terbiasa melihat kemungkaran di sekeliling sehingga menganggapnya perkara normal."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Ciri hati yang hidup ialah berasa pedih dan terusik apabila melihat syariat Allah dipijak dan maksiat bermaharajalela. Hilangnya rasa sensitif terhadap dosa adalah tanda kematian hati. \n* **Aplikasi Fiqh Haraki:** \n Menyuburkan suasana amar makruf nahi mungkar dalam kalangan aktivis agar tidak terbiasa melihat kemungkaran di sekeliling sehingga menganggapnya perkara normal."
         },
         {
           "type": "text",
@@ -702,7 +702,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Tatkala semangat umat Islam mula luntur, Allah SWT mengutuskan Umar bin Abdul Aziz—seorang pemimpin unik yang dikurniakan jiwa yang luhur demi menyelamatkan umat ini. Beliau melihat sekecil-kecil penyelewengan dan kelesuan daripada medan dakwah serta jihad sebagai isyarat awal berlakunya penyimpangan daripada kebenaran. Beliau memandang berat susutnya daya juang dalam kalangan umat jihad, lalu menitipkan rintihan hati dengan nada penuh dukacita:” Sesungguhnya aku sedang merawat satu urusan yang tiada sesiapa dapat membantunya melainkan Allah. Sesungguhnya di bawah lembah urusan ini, golongan tua telah menemui ajal, anak-anak kecil membesar menjadi dewasa, orang Ajam <sup class=\"fn-ref\" data-fn-id=\"25\" title=\"Selain dari bangsa Arab. (Pnt)\">[25]</sup>   telah fasih berbahasa Arab dan Arab Badwi pula telah berhijrah, sehinggakan mereka menganggap perkara yang bukan agama sebagai agama. Mereka tidak melihat kebenaran selain daripada apa-apa yang mereka sangkakan itu.”  <sup class=\"fn-ref\" data-fn-id=\"26\" title=\"Ibnu Abdul Hakim, Sirah Umar bin Abdul Aziz, m.s. 37\">[26]</sup>"
+          "text": "Tatkala semangat umat Islam mula luntur, Allah SWT mengutuskan Umar bin Abdul Aziz—seorang pemimpin unik yang dikurniakan jiwa yang luhur demi menyelamatkan umat ini. Beliau melihat sekecil-kecil penyelewengan dan kelesuan daripada medan dakwah serta jihad sebagai isyarat awal berlakunya penyimpangan daripada kebenaran. Beliau memandang berat susutnya daya juang dalam kalangan umat jihad, lalu menitipkan rintihan hati dengan nada penuh dukacita:” Sesungguhnya aku sedang merawat satu urusan yang tiada sesiapa dapat membantunya melainkan Allah. Sesungguhnya di bawah lembah urusan ini, golongan tua telah menemui ajal, anak-anak kecil membesar menjadi dewasa, orang Ajam <sup class=\"fn-ref\" data-fn-id=\"25\" title=\"Selain dari bangsa Arab. (Pnt)\">[25]</sup> telah fasih berbahasa Arab dan Arab Badwi pula telah berhijrah, sehinggakan mereka menganggap perkara yang bukan agama sebagai agama. Mereka tidak melihat kebenaran selain daripada apa-apa yang mereka sangkakan itu.” <sup class=\"fn-ref\" data-fn-id=\"26\" title=\"Ibnu Abdul Hakim, Sirah Umar bin Abdul Aziz, m.s. 37\">[26]</sup>"
         },
         {
           "type": "text",
@@ -719,7 +719,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Generasi Kita yang Terpedaya (Mangsa Keadaan!)",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Sebahagian besar masyarakat yang hanyut dalam kejahilan hari ini adalah mangsa perang pemikiran (*ghazwul fikri*) dan sistem pendidikan sekular warisan penjajah, bukan penentang Islam secara hakiki.  \n* **Aplikasi Fiqh Haraki:**  \n  Mendekati masyarakat dengan jiwa kasih sayang dan belas kasihan (*rahmatan lil 'alamin*), membimbing mereka dengan hikmah dan hujah yang membebaskan minda daripada dogma penjajah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Sebahagian besar masyarakat yang hanyut dalam kejahilan hari ini adalah mangsa perang pemikiran (*ghazwul fikri*) dan sistem pendidikan sekular warisan penjajah, bukan penentang Islam secara hakiki. \n* **Aplikasi Fiqh Haraki:** \n Mendekati masyarakat dengan jiwa kasih sayang dan belas kasihan (*rahmatan lil 'alamin*), membimbing mereka dengan hikmah dan hujah yang membebaskan minda daripada dogma penjajah."
         },
         {
           "type": "text",
@@ -783,7 +783,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Serta memadamkan obor marak kita, hanya dengan hembusan nafasnya.”  <sup class=\"fn-ref\" data-fn-id=\"30\" title=\"Abdul Wahab Azzam, Buku Muhammad Iqbal, m.s. 162\">[30]</sup>"
+          "text": "Serta memadamkan obor marak kita, hanya dengan hembusan nafasnya.” <sup class=\"fn-ref\" data-fn-id=\"30\" title=\"Abdul Wahab Azzam, Buku Muhammad Iqbal, m.s. 162\">[30]</sup>"
         },
         {
           "type": "text",
@@ -795,7 +795,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Apabila ada sahaja da'i   yang menyeru kepada kemuliaan, memanggil kepada kebebasan, membangunkan jiwa yang lena dan menggerakkan semangat yang nyenyak, maka berdenyutlah kemuliaan dalam jiwanya dan menyalalah bara di dalam sekam. Bangkitlah semula sifat kemanusiaan dalam diri manusia, mereka tidak sekali-kali menerima penghinaan. Mereka pun bangkit berjihad dan melihat segala apa yang dihadapinya dalam jiliad itu lebih ringan daripada diperhambakan, malah lebih baik daripada kehidupan kebinatangan."
+          "text": "Apabila ada sahaja da'i yang menyeru kepada kemuliaan, memanggil kepada kebebasan, membangunkan jiwa yang lena dan menggerakkan semangat yang nyenyak, maka berdenyutlah kemuliaan dalam jiwanya dan menyalalah bara di dalam sekam. Bangkitlah semula sifat kemanusiaan dalam diri manusia, mereka tidak sekali-kali menerima penghinaan. Mereka pun bangkit berjihad dan melihat segala apa yang dihadapinya dalam jiliad itu lebih ringan daripada diperhambakan, malah lebih baik daripada kehidupan kebinatangan."
         },
         {
           "type": "text",
@@ -803,12 +803,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh itu, golongan taghut yang zalim sengaja menerapkan kehinaan kepada orang ramai melalui pendidikan yang hina dan asuhan agar tidak segan silu tanpa tatasusila. Mereka membentuk para belia dengan pelbagai taktik dan strategi yang bertujuan untuk mematikan hemah yang mulia dan memadamkan semangat juang agar kekuasaan sentiasa berada di tangan mereka yang zalim itu.”  <sup class=\"fn-ref\" data-fn-id=\"31\" title=\"Abdul Wahab Azzam, Al-Shawarid, m.s. 318\">[31]</sup>"
+          "text": "Oleh itu, golongan taghut yang zalim sengaja menerapkan kehinaan kepada orang ramai melalui pendidikan yang hina dan asuhan agar tidak segan silu tanpa tatasusila. Mereka membentuk para belia dengan pelbagai taktik dan strategi yang bertujuan untuk mematikan hemah yang mulia dan memadamkan semangat juang agar kekuasaan sentiasa berada di tangan mereka yang zalim itu.” <sup class=\"fn-ref\" data-fn-id=\"31\" title=\"Abdul Wahab Azzam, Al-Shawarid, m.s. 318\">[31]</sup>"
         },
         {
           "type": "heading2",
           "text": "Anak Singa Diubah Menjadi Kijang yang Pengecut",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Musuh Islam berusaha meracuni kurikulum dan media massa untuk menukar generasi anak singa umat Islam (pejuang yang berani dan berprinsip) menjadi kijang pengecut yang hanya memikirkan keselesaan perut dan takut menghadapi cabaran.  \n* **Aplikasi Fiqh Haraki:**  \n  Tarbiah harakah bertindak sebagai kilang pembinaan rijal: mengembalikan keizzahan, keberanian, dan ketahanan fizikal serta spiritual generasi muda untuk memimpin kebangkitan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Musuh Islam berusaha meracuni kurikulum dan media massa untuk menukar generasi anak singa umat Islam (pejuang yang berani dan berprinsip) menjadi kijang pengecut yang hanya memikirkan keselesaan perut dan takut menghadapi cabaran. \n* **Aplikasi Fiqh Haraki:** \n Tarbiah harakah bertindak sebagai kilang pembinaan rijal: mengembalikan keizzahan, keberanian, dan ketahanan fizikal serta spiritual generasi muda untuk memimpin kebangkitan."
         },
         {
           "type": "text",
@@ -844,7 +844,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dan seluruh ajaran mereka hanyalah penipuan para cendekiawan.  <sup class=\"fn-ref\" data-fn-id=\"32\" title=\"Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 102\">[32]</sup>"
+          "text": "Dan seluruh ajaran mereka hanyalah penipuan para cendekiawan. <sup class=\"fn-ref\" data-fn-id=\"32\" title=\"Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 102\">[32]</sup>"
         },
         {
           "type": "text",
@@ -877,19 +877,19 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Perlunya Pertolongan Segera",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Keadaan umat yang sedang lemas dalam arus sekularisme menuntut tindakan menyelamat segera. Sikap berlengah-lengah dan berdebat kosong adalah pengkhianatan terhadap amanah dakwah.  \n* **Aplikasi Fiqh Haraki:**  \n  Meningkatkan kecekapan operasi dakwah, memperluas jangkauan bimbingan masyarakat, dan mengaktifkan projek-projek kebajikan serta penerangan Islam di segenap lapangan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Keadaan umat yang sedang lemas dalam arus sekularisme menuntut tindakan menyelamat segera. Sikap berlengah-lengah dan berdebat kosong adalah pengkhianatan terhadap amanah dakwah. \n* **Aplikasi Fiqh Haraki:** \n Meningkatkan kecekapan operasi dakwah, memperluas jangkauan bimbingan masyarakat, dan mengaktifkan projek-projek kebajikan serta penerangan Islam di segenap lapangan."
         },
         {
           "type": "text",
-          "text": "Pada hari ini, da'i   Islam wajib mengambil pendirian yang dibuat oleh Umar bin Abdul Aziz. Beliau merasakan perlunya tindakan segera diambil untuk menarik kembali umat Islam yang tenggelam dalam kesesatan yang semakin jauh daripada Islam. Beliau menyedari bahawa tiada jalan lain baginya kecuali mara dan memimpin mereka meskipun mereka enggan. Meskipun tanggungjawab ini amat menyusahkan dan memerlukan pengorbanan."
+          "text": "Pada hari ini, da'i Islam wajib mengambil pendirian yang dibuat oleh Umar bin Abdul Aziz. Beliau merasakan perlunya tindakan segera diambil untuk menarik kembali umat Islam yang tenggelam dalam kesesatan yang semakin jauh daripada Islam. Beliau menyedari bahawa tiada jalan lain baginya kecuali mara dan memimpin mereka meskipun mereka enggan. Meskipun tanggungjawab ini amat menyusahkan dan memerlukan pengorbanan."
         },
         {
           "type": "text",
-          "text": "Tidak syak lagi... majoriti umat Islam hari ini telah terseleweng daripada Islam tanpa disedari dan tanpa niat sedemikian. Mereka sebenarnya layak untuk bersama- sama bekerjasama dengan para da'i   untuk mengembalikan seluruh umat ini kepada Islam. Mereka mampu berbuat demikian sekiranya mereka sedar bahawa selama ini mereka telah tertipu."
+          "text": "Tidak syak lagi... majoriti umat Islam hari ini telah terseleweng daripada Islam tanpa disedari dan tanpa niat sedemikian. Mereka sebenarnya layak untuk bersama- sama bekerjasama dengan para da'i untuk mengembalikan seluruh umat ini kepada Islam. Mereka mampu berbuat demikian sekiranya mereka sedar bahawa selama ini mereka telah tertipu."
         },
         {
           "type": "text",
-          "text": "Tetapi da'i   Islam dalam masa yang sama melihat... sama seperti apa yang dikatakan oleh Umar. Perkara ini amat sukar kerana penyelewengan sudah sebati dalam tubuh generasi ini. Oleh itu apakah yang mesti dibuat oleh da'i Islam? Berhenti berusaha? Tinggalkan dakwah dan jihad atau menangguhkannya kepada suatu masa yang lain? Tidak sekali-kali...!"
+          "text": "Tetapi da'i Islam dalam masa yang sama melihat... sama seperti apa yang dikatakan oleh Umar. Perkara ini amat sukar kerana penyelewengan sudah sebati dalam tubuh generasi ini. Oleh itu apakah yang mesti dibuat oleh da'i Islam? Berhenti berusaha? Tinggalkan dakwah dan jihad atau menangguhkannya kepada suatu masa yang lain? Tidak sekali-kali...!"
         },
         {
           "type": "text",
@@ -913,7 +913,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "sombong tatkala mendapat sesuatu dari nikmat dan kekuatan.”  <sup class=\"fn-ref\" data-fn-id=\"33\" title=\"Al-Zilal, Juzu’ 1, m.s. 90\">[33]</sup>"
+          "text": "sombong tatkala mendapat sesuatu dari nikmat dan kekuatan.” <sup class=\"fn-ref\" data-fn-id=\"33\" title=\"Al-Zilal, Juzu’ 1, m.s. 90\">[33]</sup>"
         },
         {
           "type": "text",
@@ -922,7 +922,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Bergerak Dalam Pelbagai Pendekatan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Dakwah Islam memerlukan kepelbagaian pendekatan (*tanawwu' al-wasa'il*) bersesuaian dengan kepelbagaian latar belakang masyarakat: golongan intelek, belia jalanan, wanita, pekerja kilang, dan golongan profesional.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina kepakaran dakwah khusus (*spesialisasi dakwah*) agar setiap segmen masyarakat dapat disantuni mengikut bahasa dan keperluan mereka tanpa mengabaikan prinsip thawabit syariah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Dakwah Islam memerlukan kepelbagaian pendekatan (*tanawwu' al-wasa'il*) bersesuaian dengan kepelbagaian latar belakang masyarakat: golongan intelek, belia jalanan, wanita, pekerja kilang, dan golongan profesional. \n* **Aplikasi Fiqh Haraki:** \n Membina kepakaran dakwah khusus (*spesialisasi dakwah*) agar setiap segmen masyarakat dapat disantuni mengikut bahasa dan keperluan mereka tanpa mengabaikan prinsip thawabit syariah."
         },
         {
           "type": "text",
@@ -934,11 +934,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Perlu dijelaskan juga bahawa da'i   Islam tidak perlu menghukum keseluruhan masyarakat Islam kini sebagai masyarakat jahiliah. Mereka bebas memulakan kerja-kerja dakwah secara serentak dan pelbagai pendekatan yang berbeza."
+          "text": "Perlu dijelaskan juga bahawa da'i Islam tidak perlu menghukum keseluruhan masyarakat Islam kini sebagai masyarakat jahiliah. Mereka bebas memulakan kerja-kerja dakwah secara serentak dan pelbagai pendekatan yang berbeza."
         },
         {
           "type": "text",
-          "text": "Apabila da'i   memandang kepada kerajaan dan parti politik yang mengamalkan sistem hidup yang bertentangan dengan syariat Islam, melihat individu yang memegang falsafah jahiliah, yang menghalalkan yang haram, mengharamkan yang halal dan menyangka sebahagian dari iman; mereka melihat dengan pandangan yang marah, menganggapnya kafir dan mengambil pendekatan menentang mereka dengan tegas dan keras."
+          "text": "Apabila da'i memandang kepada kerajaan dan parti politik yang mengamalkan sistem hidup yang bertentangan dengan syariat Islam, melihat individu yang memegang falsafah jahiliah, yang menghalalkan yang haram, mengharamkan yang halal dan menyangka sebahagian dari iman; mereka melihat dengan pandangan yang marah, menganggapnya kafir dan mengambil pendekatan menentang mereka dengan tegas dan keras."
         },
         {
           "type": "text",
@@ -1041,67 +1041,67 @@ window.ALMUNTALAQ_DATA = {
           "id": "c1_s0",
           "title": "Pengenalan: Menolak Sebarang Hawa Nafsu Selain Islam",
           "summary_title": "Mukadimah Bab 1: Penolakan Hawa Nafsu",
-          "summary": "* **Intipati & Pemahaman:**  \n  Teras perjuangan Islam bermula dengan pembersihan mutlak daripada sebarang dorongan hawa nafsu dan kesetiaan selain Islam. Mengikut hawa nafsu dalam perkara agama adalah punca kesesatan dan kehancuran umat.  \n* **Nukilan Tokoh:**  \n  * **Maimun bin Mahran:** *“Jauhkanlah dirimu dari sebarang hawa nafsu yang bukan bernama Islam.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Menjaga keaslian fikrah dakwah (*asalah al-fikrah*) daripada diserapi anasir ideologi ciptaan manusia, sentimen perkauman, atau fahaman pragmatisme sekular."
+          "summary": "* **Intipati & Pemahaman:** \n Teras perjuangan Islam bermula dengan pembersihan mutlak daripada sebarang dorongan hawa nafsu dan kesetiaan selain Islam. Mengikut hawa nafsu dalam perkara agama adalah punca kesesatan dan kehancuran umat. \n* **Nukilan Tokoh:** \n * **Maimun bin Mahran:** *“Jauhkanlah dirimu dari sebarang hawa nafsu yang bukan bernama Islam.”* \n* **Aplikasi Fiqh Haraki:** \n Menjaga keaslian fikrah dakwah (*asalah al-fikrah*) daripada diserapi anasir ideologi ciptaan manusia, sentimen perkauman, atau fahaman pragmatisme sekular."
         },
         {
           "id": "c1_s1",
           "title": "Wahyu ...Atau Keinginan Hawa nafsu",
           "summary_title": "1. Wahyu vs Hawa Nafsu (Dua Neraca Bertentangan)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Dunia ini hanya terbahagi kepada dua kutub mutlak: petunjuk wahyu Rabbaniyyah atau kegelapan hawa nafsu jahiliah. Menolak sebahagian wahyu demi menuruti selera nafsu bererti menyembah hawa nafsu sebagai tuhan.  \n* **Nukilan Tokoh:**  \n  * **Syeikhul Islam Ibnu Taimiyah:** Menegaskan bahawa sesiapa yang menolak panduan syariat kerana menuruti adat yang rosak atau tekanan massa, hakikatnya telah mempertuhankan nafsunya.  \n  * **Imam Asy-Syatibi:** Syariat diturunkan untuk mengeluarkan mukallaf daripada dorongan hawa nafsunya agar menjadi hamba Allah yang patuh sukarela.  \n* **Aplikasi Fiqh Haraki:**  \n  Pendirian harakah mestilah berasaskan dalil syarak yang qath'ie, bukan berpandukan sentimen kemarahan umum atau tuntutan politik populis."
+          "summary": "* **Intipati & Pemahaman:** \n Dunia ini hanya terbahagi kepada dua kutub mutlak: petunjuk wahyu Rabbaniyyah atau kegelapan hawa nafsu jahiliah. Menolak sebahagian wahyu demi menuruti selera nafsu bererti menyembah hawa nafsu sebagai tuhan. \n* **Nukilan Tokoh:** \n * **Syeikhul Islam Ibnu Taimiyah:** Menegaskan bahawa sesiapa yang menolak panduan syariat kerana menuruti adat yang rosak atau tekanan massa, hakikatnya telah mempertuhankan nafsunya. \n * **Imam Asy-Syatibi:** Syariat diturunkan untuk mengeluarkan mukallaf daripada dorongan hawa nafsunya agar menjadi hamba Allah yang patuh sukarela. \n* **Aplikasi Fiqh Haraki:** \n Pendirian harakah mestilah berasaskan dalil syarak yang qath'ie, bukan berpandukan sentimen kemarahan umum atau tuntutan politik populis."
         },
         {
           "id": "c1_s2",
           "title": "Tiada Jalan Tengah Antara Syariat dan Keinginan",
           "summary_title": "2. Tiada Jalan Tengah Antara Syariat dan Keinginan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Tidak wujud sebarang titik kompromi atau perdamaian palsu antara kebenaran wahyu dengan kebatilan hawa nafsu. Percubaan mencampuradukkan syariat dengan sistem sekular hanya melahirkan kemunafikan sistemik.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak tekanan untuk menggadaikan dasar perjuangan demi meraih kerusi kuasa atau mengelak tekanan politik musuh; keteguhan (*thabat*) pada prinsip adalah rahsia pertolongan Allah."
+          "summary": "* **Intipati & Pemahaman:** \n Tidak wujud sebarang titik kompromi atau perdamaian palsu antara kebenaran wahyu dengan kebatilan hawa nafsu. Percubaan mencampuradukkan syariat dengan sistem sekular hanya melahirkan kemunafikan sistemik. \n* **Aplikasi Fiqh Haraki:** \n Menolak tekanan untuk menggadaikan dasar perjuangan demi meraih kerusi kuasa atau mengelak tekanan politik musuh; keteguhan (*thabat*) pada prinsip adalah rahsia pertolongan Allah."
         },
         {
           "id": "c1_s3",
           "title": "Fitnah dan Kewaspadaan",
           "summary_title": "3. Fitnah dan Kewaspadaan (Membongkar Tipu Daya Halus)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Fitnah paling merbahaya adalah penyelewengan yang dibungkus dengan slogan agama yang indah. Iblis memperdayakan aktivis dengan membisikkan bahawa kemungkaran yang dilakukan kononnya demi 'kemaslahatan dakwah'.  \n* **Aplikasi Fiqh Haraki:**  \n  Setiap langkah strategi harakah mesti disemak melalui timbangan usul fiqh dan maqasid syariah yang sahih agar tidak terjerumus ke dalam jerat menghalalkan cara demi matlamat."
+          "summary": "* **Intipati & Pemahaman:** \n Fitnah paling merbahaya adalah penyelewengan yang dibungkus dengan slogan agama yang indah. Iblis memperdayakan aktivis dengan membisikkan bahawa kemungkaran yang dilakukan kononnya demi 'kemaslahatan dakwah'. \n* **Aplikasi Fiqh Haraki:** \n Setiap langkah strategi harakah mesti disemak melalui timbangan usul fiqh dan maqasid syariah yang sahih agar tidak terjerumus ke dalam jerat menghalalkan cara demi matlamat."
         },
         {
           "id": "c1_s4",
           "title": "Menolak Sebahagian Daripada Syariat Allah Adalah Kufur",
           "summary_title": "4. Kesyumulan Syariat (Menolak Pembahagian Sekular)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Islam adalah pakej kesatuan yang sempurna (*kaffah*). Sikap mengambil aspek ibadah ritual tetapi menolak sistem politik, ekonomi, dan perundangan Islam adalah hakikat kekufuran sebagaimana yang dilakukan oleh Bani Israil.  \n* **Aplikasi Fiqh Haraki:**  \n  Dakwah wajib memperjuangkan kedaulatan syariat secara menyeluruh merangkumi perlembagaan, kehakiman, sistem kewangan, dan moral masyarakat."
+          "summary": "* **Intipati & Pemahaman:** \n Islam adalah pakej kesatuan yang sempurna (*kaffah*). Sikap mengambil aspek ibadah ritual tetapi menolak sistem politik, ekonomi, dan perundangan Islam adalah hakikat kekufuran sebagaimana yang dilakukan oleh Bani Israil. \n* **Aplikasi Fiqh Haraki:** \n Dakwah wajib memperjuangkan kedaulatan syariat secara menyeluruh merangkumi perlembagaan, kehakiman, sistem kewangan, dan moral masyarakat."
         },
         {
           "id": "c1_s5",
           "title": "Kita Tidak Akan Mengkafirkan Seseorang Muslim Tanpa Bukti",
           "summary_title": "5. Menolak Sikap Takfir Melulu (Disiplin Fiqh Salaf)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Walaupun gerakan Islam menolak undang-undang jahiliah dengan tegas, kita berpegang teguh kepada manhaj Ahli Sunnah Wal Jemaah: **mengharamkan tuduhan takfir sewenang-wenangnya** ke atas orang Islam tanpa memenuhi syarat dan terhalang daripada sebarang syubhah (*mawani'*).  \n* **Aplikasi Fiqh Haraki:**  \n  Mendidik anggota jemaah agar berfikrah seimbang: tegas menentang kezaliman penguasa taghut tanpa terjebak ke dalam ideologi Khawarij yang memusnahkan saf persaudaraan Islam."
+          "summary": "* **Intipati & Pemahaman:** \n Walaupun gerakan Islam menolak undang-undang jahiliah dengan tegas, kita berpegang teguh kepada manhaj Ahli Sunnah Wal Jemaah: **mengharamkan tuduhan takfir sewenang-wenangnya** ke atas orang Islam tanpa memenuhi syarat dan terhalang daripada sebarang syubhah (*mawani'*). \n* **Aplikasi Fiqh Haraki:** \n Mendidik anggota jemaah agar berfikrah seimbang: tegas menentang kezaliman penguasa taghut tanpa terjebak ke dalam ideologi Khawarij yang memusnahkan saf persaudaraan Islam."
         },
         {
           "id": "c1_s6",
           "title": "Jiwa Yang Beriman Itu Peka dan Sensitif",
           "summary_title": "6. Jiwa Beriman Peka dan Sensitif Terhadap Kemungkaran",
-          "summary": "* **Intipati & Pemahaman:**  \n  Ciri hati yang hidup ialah berasa pedih dan terusik apabila melihat syariat Allah dipijak dan maksiat bermaharajalela. Hilangnya rasa sensitif terhadap dosa adalah tanda kematian hati.  \n* **Aplikasi Fiqh Haraki:**  \n  Menyuburkan suasana amar makruf nahi mungkar dalam kalangan aktivis agar tidak terbiasa melihat kemungkaran di sekeliling sehingga menganggapnya perkara normal."
+          "summary": "* **Intipati & Pemahaman:** \n Ciri hati yang hidup ialah berasa pedih dan terusik apabila melihat syariat Allah dipijak dan maksiat bermaharajalela. Hilangnya rasa sensitif terhadap dosa adalah tanda kematian hati. \n* **Aplikasi Fiqh Haraki:** \n Menyuburkan suasana amar makruf nahi mungkar dalam kalangan aktivis agar tidak terbiasa melihat kemungkaran di sekeliling sehingga menganggapnya perkara normal."
         },
         {
           "id": "c1_s7",
           "title": "Generasi Kita yang Terpedaya (Mangsa Keadaan!)",
           "summary_title": "7. Membongkar Perangkap Penjajahan Minda",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sebahagian besar masyarakat yang hanyut dalam kejahilan hari ini adalah mangsa perang pemikiran (*ghazwul fikri*) dan sistem pendidikan sekular warisan penjajah, bukan penentang Islam secara hakiki.  \n* **Aplikasi Fiqh Haraki:**  \n  Mendekati masyarakat dengan jiwa kasih sayang dan belas kasihan (*rahmatan lil 'alamin*), membimbing mereka dengan hikmah dan hujah yang membebaskan minda daripada dogma penjajah."
+          "summary": "* **Intipati & Pemahaman:** \n Sebahagian besar masyarakat yang hanyut dalam kejahilan hari ini adalah mangsa perang pemikiran (*ghazwul fikri*) dan sistem pendidikan sekular warisan penjajah, bukan penentang Islam secara hakiki. \n* **Aplikasi Fiqh Haraki:** \n Mendekati masyarakat dengan jiwa kasih sayang dan belas kasihan (*rahmatan lil 'alamin*), membimbing mereka dengan hikmah dan hujah yang membebaskan minda daripada dogma penjajah."
         },
         {
           "id": "c1_s8",
           "title": "Anak Singa Diubah Menjadi Kijang yang Pengecut",
           "summary_title": "8. Membebaskan Umat daripada Sifat Pengecut",
-          "summary": "* **Intipati & Pemahaman:**  \n  Musuh Islam berusaha meracuni kurikulum dan media massa untuk menukar generasi anak singa umat Islam (pejuang yang berani dan berprinsip) menjadi kijang pengecut yang hanya memikirkan keselesaan perut dan takut menghadapi cabaran.  \n* **Aplikasi Fiqh Haraki:**  \n  Tarbiah harakah bertindak sebagai kilang pembinaan rijal: mengembalikan keizzahan, keberanian, dan ketahanan fizikal serta spiritual generasi muda untuk memimpin kebangkitan."
+          "summary": "* **Intipati & Pemahaman:** \n Musuh Islam berusaha meracuni kurikulum dan media massa untuk menukar generasi anak singa umat Islam (pejuang yang berani dan berprinsip) menjadi kijang pengecut yang hanya memikirkan keselesaan perut dan takut menghadapi cabaran. \n* **Aplikasi Fiqh Haraki:** \n Tarbiah harakah bertindak sebagai kilang pembinaan rijal: mengembalikan keizzahan, keberanian, dan ketahanan fizikal serta spiritual generasi muda untuk memimpin kebangkitan."
         },
         {
           "id": "c1_s9",
           "title": "Perlunya Pertolongan Segera",
           "summary_title": "9. Kecemasan Menyelamatkan Jiwa Umat",
-          "summary": "* **Intipati & Pemahaman:**  \n  Keadaan umat yang sedang lemas dalam arus sekularisme menuntut tindakan menyelamat segera. Sikap berlengah-lengah dan berdebat kosong adalah pengkhianatan terhadap amanah dakwah.  \n* **Aplikasi Fiqh Haraki:**  \n  Meningkatkan kecekapan operasi dakwah, memperluas jangkauan bimbingan masyarakat, dan mengaktifkan projek-projek kebajikan serta penerangan Islam di segenap lapangan."
+          "summary": "* **Intipati & Pemahaman:** \n Keadaan umat yang sedang lemas dalam arus sekularisme menuntut tindakan menyelamat segera. Sikap berlengah-lengah dan berdebat kosong adalah pengkhianatan terhadap amanah dakwah. \n* **Aplikasi Fiqh Haraki:** \n Meningkatkan kecekapan operasi dakwah, memperluas jangkauan bimbingan masyarakat, dan mengaktifkan projek-projek kebajikan serta penerangan Islam di segenap lapangan."
         },
         {
           "id": "c1_s10",
           "title": "Bergerak Dalam Pelbagai Pendekatan",
           "summary_title": "10. Fleksibiliti Pendekatan & Wasilah Dakwah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Dakwah Islam memerlukan kepelbagaian pendekatan (*tanawwu' al-wasa'il*) bersesuaian dengan kepelbagaian latar belakang masyarakat: golongan intelek, belia jalanan, wanita, pekerja kilang, dan golongan profesional.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina kepakaran dakwah khusus (*spesialisasi dakwah*) agar setiap segmen masyarakat dapat disantuni mengikut bahasa dan keperluan mereka tanpa mengabaikan prinsip thawabit syariah."
+          "summary": "* **Intipati & Pemahaman:** \n Dakwah Islam memerlukan kepelbagaian pendekatan (*tanawwu' al-wasa'il*) bersesuaian dengan kepelbagaian latar belakang masyarakat: golongan intelek, belia jalanan, wanita, pekerja kilang, dan golongan profesional. \n* **Aplikasi Fiqh Haraki:** \n Membina kepakaran dakwah khusus (*spesialisasi dakwah*) agar setiap segmen masyarakat dapat disantuni mengikut bahasa dan keperluan mereka tanpa mengabaikan prinsip thawabit syariah."
         }
       ]
     },
@@ -1119,11 +1119,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Da'i   Islam enggan tunduk kepada penipuan. Mereka pantang melihat perancangan musuh berlaku di depan mata. Lantas mereka bangkit dan melaungkan suaranya kepada manusia. Tetapi, sebahagian besar manusia terus lena tidur. Di depan matanya- pendokong kebatilan dan orang yang ragu-ragu bermati-matian mahu melaksanakan rancangan mereka. Dilihat keliling, hanya segelintir sahaja orang Islam dipelihara oleh Allah yang sedar… Selebihnya hanyut dalam kelalaian."
+          "text": "Da'i Islam enggan tunduk kepada penipuan. Mereka pantang melihat perancangan musuh berlaku di depan mata. Lantas mereka bangkit dan melaungkan suaranya kepada manusia. Tetapi, sebahagian besar manusia terus lena tidur. Di depan matanya- pendokong kebatilan dan orang yang ragu-ragu bermati-matian mahu melaksanakan rancangan mereka. Dilihat keliling, hanya segelintir sahaja orang Islam dipelihara oleh Allah yang sedar… Selebihnya hanyut dalam kelalaian."
         },
         {
           "type": "text",
-          "text": "Da'i   kembali mengubati kesedihannya lantas berbicara kepada dirinya sendiri:"
+          "text": "Da'i kembali mengubati kesedihannya lantas berbicara kepada dirinya sendiri:"
         },
         {
           "type": "text",
@@ -1139,11 +1139,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "hampir-hampir menggoncangkan daku dari cita-cita dan perjuanganku.  <sup class=\"fn-ref\" data-fn-id=\"34\" title=\"Al-Amiri, Diwan Ma'a Allah, m.s. 110\">[34]</sup>"
+          "text": "hampir-hampir menggoncangkan daku dari cita-cita dan perjuanganku. <sup class=\"fn-ref\" data-fn-id=\"34\" title=\"Al-Amiri, Diwan Ma'a Allah, m.s. 110\">[34]</sup>"
         },
         {
           "type": "text",
-          "text": "Da'i   itu pun mulanya menyalahkan dirinya sendiri… takut-takut dia belum betul-betul menyampaikan dakwahnya. Tetapi, segera dia merasai bahawa dia telah melakukan apa yang termampu. Dia cuba memujuk dirinya demi menghiburkan hati dan membelai kesabarannya sambil bermadah:"
+          "text": "Da'i itu pun mulanya menyalahkan dirinya sendiri… takut-takut dia belum betul-betul menyampaikan dakwahnya. Tetapi, segera dia merasai bahawa dia telah melakukan apa yang termampu. Dia cuba memujuk dirinya demi menghiburkan hati dan membelai kesabarannya sambil bermadah:"
         },
         {
           "type": "text",
@@ -1159,7 +1159,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "yang dipenuhi jiwa-jiwa hamba yang seronok diperhambakan...  <sup class=\"fn-ref\" data-fn-id=\"35\" title=\"Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 14\">[35]</sup>"
+          "text": "yang dipenuhi jiwa-jiwa hamba yang seronok diperhambakan... <sup class=\"fn-ref\" data-fn-id=\"35\" title=\"Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 14\">[35]</sup>"
         },
         {
           "type": "text",
@@ -1171,7 +1171,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Walau bagaimana dahsyatnya kerosakan, seorang da'i   tidak boleh meninggalkan tugasnya untuk menyelamatkan manusia.  <sup class=\"fn-ref\" data-fn-id=\"36\" title=\"Dari cara hidup jahiliah kepada cara hidup Islam, mengeluarkan mereka dari kesesatan kepada hidayah\">[36]</sup>   Segala kesangsian dan putus asa dalam proses islah ini segera musnah bila sedar kedudukannya berada di tengah-tengah rombongan orang-orang yang beriman yang sedang berjalan. Ini bermula daripada para salaf, maka da'i   mengambil amanah ini daripada mereka."
+          "text": "Walau bagaimana dahsyatnya kerosakan, seorang da'i tidak boleh meninggalkan tugasnya untuk menyelamatkan manusia. <sup class=\"fn-ref\" data-fn-id=\"36\" title=\"Dari cara hidup jahiliah kepada cara hidup Islam, mengeluarkan mereka dari kesesatan kepada hidayah\">[36]</sup> Segala kesangsian dan putus asa dalam proses islah ini segera musnah bila sedar kedudukannya berada di tengah-tengah rombongan orang-orang yang beriman yang sedang berjalan. Ini bermula daripada para salaf, maka da'i mengambil amanah ini daripada mereka."
         },
         {
           "type": "text",
@@ -1179,7 +1179,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Sentiasa akan ada satu golongan dari umatku yang menegakkan kebenaran. Mereka tidak akan tergugat oleh sesiapa pun yang menentang mereka sehingga datanglah hari kiamat dan mereka tetap dalam keadaan mereka.”  <sup class=\"fn-ref\" data-fn-id=\"37\" title=\"Sahih Muslim, Jilid 6, m.s. 52\">[37]</sup>"
+          "text": "“Sentiasa akan ada satu golongan dari umatku yang menegakkan kebenaran. Mereka tidak akan tergugat oleh sesiapa pun yang menentang mereka sehingga datanglah hari kiamat dan mereka tetap dalam keadaan mereka.” <sup class=\"fn-ref\" data-fn-id=\"37\" title=\"Sahih Muslim, Jilid 6, m.s. 52\">[37]</sup>"
         },
         {
           "type": "text",
@@ -1207,7 +1207,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“… Semua peristiwa mesti tunduk kepada kitab Allah dan sunnah Rasul-Nya meskipun manusia melihat dunia tidak tunduk kepada peraturan tersebut. Agama inilah sebenarnya aturan yang ditetapkan oleh Allah kepada manusia sebagaimana Dia menetapkan hukum alam kepada matahari, bulan, haiwan dan tumbuh-tumbuhan dan kepada segala apa yang ada di langit, bumi dan apa jua yang ada padanya.”  <sup class=\"fn-ref\" data-fn-id=\"38\" title=\"Majalah al-Dakwah, Bil. 52\">[38]</sup>"
+          "text": "“… Semua peristiwa mesti tunduk kepada kitab Allah dan sunnah Rasul-Nya meskipun manusia melihat dunia tidak tunduk kepada peraturan tersebut. Agama inilah sebenarnya aturan yang ditetapkan oleh Allah kepada manusia sebagaimana Dia menetapkan hukum alam kepada matahari, bulan, haiwan dan tumbuh-tumbuhan dan kepada segala apa yang ada di langit, bumi dan apa jua yang ada padanya.” <sup class=\"fn-ref\" data-fn-id=\"38\" title=\"Majalah al-Dakwah, Bil. 52\">[38]</sup>"
         },
         {
           "type": "quote",
@@ -1235,7 +1235,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "kerana jihad pada kebenaran tidak pernah hilang walau sehari  <sup class=\"fn-ref\" data-fn-id=\"39\" title=\"Abdul Waham Azam, Diwan al-Mathani, m.s. 133\">[39]</sup>"
+          "text": "kerana jihad pada kebenaran tidak pernah hilang walau sehari <sup class=\"fn-ref\" data-fn-id=\"39\" title=\"Abdul Waham Azam, Diwan al-Mathani, m.s. 133\">[39]</sup>"
         },
         {
           "type": "text",
@@ -1271,11 +1271,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Umat Islam pada hari ini berdepan dengan berita besar ini sebagaimana yang dihadapi oleh bangsa Arab di awal kedatangannya. Mereka tidak memahami tabiat dan hubungannya dengan tabiat alam ini. Mereka tidak memikirkan kebenaran yang tersembunyi padanya sehingga mereka tidak memahami ianya adalah salah satu aspek kebenaran yang tersembunyi di binaan alam ini. Mereka tidak dapat mengesani pengaruhnya terhadap sejarah manusia dan garisan perjalanannya yang panjang. Mereka sepatutnya bersandarkan kepada pandangan yang berasingan dan bukannya bersandarkan pemikiran musuh-musuh Islam yang sentiasa memperkecil-kecilkan peranan Islam dalam pembentukan hidup manusia dan penentuan perjalanan sejarah. Oleh kerana itulah orang Islam sekarang tidak mengenali hakikat peranan mereka dulu, masakini dan akan datang; sedangkan itulah peranan yang mesti dimainkan oleh umat Islam di muka bumi hingga akhir zaman.”  <sup class=\"fn-ref\" data-fn-id=\"40\" title=\"Syed Qutb, Fi Zilal al-Qur'an, Juzu’ 23, m.s. 107\">[40]</sup>"
+          "text": "Umat Islam pada hari ini berdepan dengan berita besar ini sebagaimana yang dihadapi oleh bangsa Arab di awal kedatangannya. Mereka tidak memahami tabiat dan hubungannya dengan tabiat alam ini. Mereka tidak memikirkan kebenaran yang tersembunyi padanya sehingga mereka tidak memahami ianya adalah salah satu aspek kebenaran yang tersembunyi di binaan alam ini. Mereka tidak dapat mengesani pengaruhnya terhadap sejarah manusia dan garisan perjalanannya yang panjang. Mereka sepatutnya bersandarkan kepada pandangan yang berasingan dan bukannya bersandarkan pemikiran musuh-musuh Islam yang sentiasa memperkecil-kecilkan peranan Islam dalam pembentukan hidup manusia dan penentuan perjalanan sejarah. Oleh kerana itulah orang Islam sekarang tidak mengenali hakikat peranan mereka dulu, masakini dan akan datang; sedangkan itulah peranan yang mesti dimainkan oleh umat Islam di muka bumi hingga akhir zaman.” <sup class=\"fn-ref\" data-fn-id=\"40\" title=\"Syed Qutb, Fi Zilal al-Qur'an, Juzu’ 23, m.s. 107\">[40]</sup>"
         },
         {
           "type": "text",
-          "text": "Sekiranya mangsa-mangsa perencanaan, konspirasi dan serangan fikiran jahiliah ini tidak memahaminya... namum pasukan singa da'i   Islam mengetahuinya. Kita sering mendengar nasyid mereka yang mengalun di seluruh dunia di dalam perjalanan mereka yang aman dan dipercayai:"
+          "text": "Sekiranya mangsa-mangsa perencanaan, konspirasi dan serangan fikiran jahiliah ini tidak memahaminya... namum pasukan singa da'i Islam mengetahuinya. Kita sering mendengar nasyid mereka yang mengalun di seluruh dunia di dalam perjalanan mereka yang aman dan dipercayai:"
         },
         {
           "type": "text",
@@ -1299,7 +1299,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ketahuilah, tanda-tanda al-haq itu: wujudnya Muslim.  <sup class=\"fn-ref\" data-fn-id=\"41\" title=\"Muhammad Iqbal, Diwan al-Asrar wa al-Rumuz, m.s. 27\">[41]</sup>"
+          "text": "Ketahuilah, tanda-tanda al-haq itu: wujudnya Muslim. <sup class=\"fn-ref\" data-fn-id=\"41\" title=\"Muhammad Iqbal, Diwan al-Asrar wa al-Rumuz, m.s. 27\">[41]</sup>"
         },
         {
           "type": "text",
@@ -1367,28 +1367,28 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kemudian, berlakulah malapetaka besar itu. Malapetaka penyingkiran Islam daripada kepimpinan dan jahiliah sekali lagi mengambil alih kuasa. Jahiliah dalam pelbagai corak. Corak pemikiran materialisme yang dikagumi oleh manusia pada hari ini. Ianya umpama kanak-kanak yang kagum melihat pakaian dan permainan yang berwarna-warni dan terang warnanya.”  <sup class=\"fn-ref\" data-fn-id=\"43\" title=\"Ibid, Juzu’ 1, m.s. 9\">[43]</sup>"
+          "text": "Kemudian, berlakulah malapetaka besar itu. Malapetaka penyingkiran Islam daripada kepimpinan dan jahiliah sekali lagi mengambil alih kuasa. Jahiliah dalam pelbagai corak. Corak pemikiran materialisme yang dikagumi oleh manusia pada hari ini. Ianya umpama kanak-kanak yang kagum melihat pakaian dan permainan yang berwarna-warni dan terang warnanya.” <sup class=\"fn-ref\" data-fn-id=\"43\" title=\"Ibid, Juzu’ 1, m.s. 9\">[43]</sup>"
         },
         {
           "type": "text",
-          "text": "Tetapi penyingkiran Islam daripada kepimpinan tidak pernah didiamkan oleh da'i   Islam. Penglihatan dan pemikiran putera-puteri Islam mesti dibuka supaya mereka dapat melihat hakikat undang-undang kejadian alam ini."
+          "text": "Tetapi penyingkiran Islam daripada kepimpinan tidak pernah didiamkan oleh da'i Islam. Penglihatan dan pemikiran putera-puteri Islam mesti dibuka supaya mereka dapat melihat hakikat undang-undang kejadian alam ini."
         },
         {
           "type": "text",
-          "text": "Muslim yang sejati tidak akan dapat percaya bahawa pencinta kebendaan dan keduniaan boleh berkata yang betul.  Bagi da'i  , yang betul hanyalah apa yang turun dari langit. Mereka tidak sekali-kali berpaling dari kebenaran itu dan tidak mungkin melampauinya, sebagaimana sabda Rasulullah SAW: Kata-kata yang paling benar adalah yang diucapkan oleh penyair Lubaid: “Ketahuilah bahawa sesungguhnya segala sesuatu selain dari Allah adalah batil (mengarut dan tidak betul).”  <sup class=\"fn-ref\" data-fn-id=\"44\" title=\"Sahih al-Bukhari, Jilid 5, m.s. 53\">[44]</sup>   Pena telah diangkat dan lembaran telah pun kering."
+          "text": "Muslim yang sejati tidak akan dapat percaya bahawa pencinta kebendaan dan keduniaan boleh berkata yang betul. Bagi da'i , yang betul hanyalah apa yang turun dari langit. Mereka tidak sekali-kali berpaling dari kebenaran itu dan tidak mungkin melampauinya, sebagaimana sabda Rasulullah SAW: Kata-kata yang paling benar adalah yang diucapkan oleh penyair Lubaid: “Ketahuilah bahawa sesungguhnya segala sesuatu selain dari Allah adalah batil (mengarut dan tidak betul).” <sup class=\"fn-ref\" data-fn-id=\"44\" title=\"Sahih al-Bukhari, Jilid 5, m.s. 53\">[44]</sup> Pena telah diangkat dan lembaran telah pun kering."
         },
         {
           "type": "text",
-          "text": "Segala sesuatu yang lain daripada Allah adalah batil dan mengarut belaka. Tidak ada sistem hidup yang benar kecuali sistem hidup Islam dan segala ibadat kepada yang lain dari Allah adalah batil. Itulah yang dimaksudkan oleh Rabi'i bin ‘Amir semasa dia berkata kepada Rustum (panglima agung tentera Farsi): “Allah mendatangkan kami ke sini supaya kami mengeluarkan manusia daripada menyembah sesama manusia kepada hanya menyembah Allah.”  <sup class=\"fn-ref\" data-fn-id=\"45\" title=\"Tarikh al-Tabari, Jilid 3, m.s. 520\">[45]</sup>"
+          "text": "Segala sesuatu yang lain daripada Allah adalah batil dan mengarut belaka. Tidak ada sistem hidup yang benar kecuali sistem hidup Islam dan segala ibadat kepada yang lain dari Allah adalah batil. Itulah yang dimaksudkan oleh Rabi'i bin ‘Amir semasa dia berkata kepada Rustum (panglima agung tentera Farsi): “Allah mendatangkan kami ke sini supaya kami mengeluarkan manusia daripada menyembah sesama manusia kepada hanya menyembah Allah.” <sup class=\"fn-ref\" data-fn-id=\"45\" title=\"Tarikh al-Tabari, Jilid 3, m.s. 520\">[45]</sup>"
         },
         {
           "type": "text",
-          "text": "Sesungguhnya Islam adalah satu-satunya cara hidup yang membebaskan manusia dari perhambaan sesama manusia. <sup class=\"fn-ref\" data-fn-id=\"46\" title=\"Al-Zilal, Juzu’ 4, m.s. 206\">[46]</sup>  “Sekiranya mereka tunduk, mereka hanya tunduk kepada Allah sahaja dan sekiranya mereka mengikut undang-undang, mereka hanya taat kepada undang-undang Allah sahaja. Sekiranya mereka mengikut sesuatu sistem, mereka hanya tunduk kepada sistem Allah sahaja. Ketika itu mereka benar-benar bebas daripada perhambaan sesama hamba apabila mereka menjadi hamba-hamba kepada Allah tanpa sekutu.”  <sup class=\"fn-ref\" data-fn-id=\"47\" title=\"Ibid\">[47]</sup>"
+          "text": "Sesungguhnya Islam adalah satu-satunya cara hidup yang membebaskan manusia dari perhambaan sesama manusia. <sup class=\"fn-ref\" data-fn-id=\"46\" title=\"Al-Zilal, Juzu’ 4, m.s. 206\">[46]</sup> “Sekiranya mereka tunduk, mereka hanya tunduk kepada Allah sahaja dan sekiranya mereka mengikut undang-undang, mereka hanya taat kepada undang-undang Allah sahaja. Sekiranya mereka mengikut sesuatu sistem, mereka hanya tunduk kepada sistem Allah sahaja. Ketika itu mereka benar-benar bebas daripada perhambaan sesama hamba apabila mereka menjadi hamba-hamba kepada Allah tanpa sekutu.” <sup class=\"fn-ref\" data-fn-id=\"47\" title=\"Ibid\">[47]</sup>"
         },
         {
           "type": "heading2",
           "text": "Sujud Kemerdekaan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Sujud kepada Allah bukanlah lambang kehinaan, tetapi punca kemerdekaan hakiki yang membebaskan manusia daripada perhambaan sesama manusia dan ketakutan kepada penguasa zalim.  \n* **Aplikasi Fiqh Haraki:**  \n  Kekuatan rohani da'i yang melazimi sujud di malam hari (*qiamullail*) melahirkan keberanian luar biasa di siang hari untuk menyatakan kebenaran di hadapan kuasa kebatilan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Sujud kepada Allah bukanlah lambang kehinaan, tetapi punca kemerdekaan hakiki yang membebaskan manusia daripada perhambaan sesama manusia dan ketakutan kepada penguasa zalim. \n* **Aplikasi Fiqh Haraki:** \n Kekuatan rohani da'i yang melazimi sujud di malam hari (*qiamullail*) melahirkan keberanian luar biasa di siang hari untuk menyatakan kebenaran di hadapan kuasa kebatilan."
         },
         {
           "type": "text",
@@ -1464,7 +1464,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "di muka bumi, dengan keagungan-Nya, rahmat dan keindahan-Nya  <sup class=\"fn-ref\" data-fn-id=\"48\" title=\"Abdul Wahab Azzam, Majalah al-Muslimun, Tahun 1, m.s. 961\">[48]</sup>"
+          "text": "di muka bumi, dengan keagungan-Nya, rahmat dan keindahan-Nya <sup class=\"fn-ref\" data-fn-id=\"48\" title=\"Abdul Wahab Azzam, Majalah al-Muslimun, Tahun 1, m.s. 961\">[48]</sup>"
         },
         {
           "type": "text",
@@ -1472,11 +1472,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Dia merdeka. Hanya menerima segala tasawwur, sistem, cara hidup, syariat, undang-undang, nilai dan neraca pertimbangan dari Allah sahaja. Jadilah dia sama dengan manusia lain, berdiri pada taraf yang sama. Mengadap tuan yang satu dan tidak menjadikan sebahagian daripada mereka sebagai Tuhan, selain dari Allah.”  <sup class=\"fn-ref\" data-fn-id=\"49\" title=\"Al-Zilal, Juzu’ 3, m.s. 206\">[49]</sup>"
+          "text": "“Dia merdeka. Hanya menerima segala tasawwur, sistem, cara hidup, syariat, undang-undang, nilai dan neraca pertimbangan dari Allah sahaja. Jadilah dia sama dengan manusia lain, berdiri pada taraf yang sama. Mengadap tuan yang satu dan tidak menjadikan sebahagian daripada mereka sebagai Tuhan, selain dari Allah.” <sup class=\"fn-ref\" data-fn-id=\"49\" title=\"Al-Zilal, Juzu’ 3, m.s. 206\">[49]</sup>"
         },
         {
           "type": "text",
-          "text": "Manusia akan sentiasa menderita, kelam kabut, bimbang dan sakit selagi mereka tidak sujud seperti sujud ini dan dan berpegang dengan akidah Islam ini. Penderitaan jiwa dan kezaliman yang berterusan walaupun maju dalam kebendaan benar-benar membuktikan bahawa akal semata-mata tidak akan mampu menjadi pemandu kestabilan jika tidak dipandu oleh akidah yang benar. Akal sentiasa dipengaruhi oleh hawa nafsu sebagaimana kita selalu sebutkan. Ia hilang upaya untuk menghadapi pelbagai tekanan selagi kawalan dan pertimbangan akidah tiada di sampingnya.  <sup class=\"fn-ref\" data-fn-id=\"50\" title=\"Ibid, Juzu’ 7, m.s. 57\">[50]</sup>"
+          "text": "Manusia akan sentiasa menderita, kelam kabut, bimbang dan sakit selagi mereka tidak sujud seperti sujud ini dan dan berpegang dengan akidah Islam ini. Penderitaan jiwa dan kezaliman yang berterusan walaupun maju dalam kebendaan benar-benar membuktikan bahawa akal semata-mata tidak akan mampu menjadi pemandu kestabilan jika tidak dipandu oleh akidah yang benar. Akal sentiasa dipengaruhi oleh hawa nafsu sebagaimana kita selalu sebutkan. Ia hilang upaya untuk menghadapi pelbagai tekanan selagi kawalan dan pertimbangan akidah tiada di sampingnya. <sup class=\"fn-ref\" data-fn-id=\"50\" title=\"Ibid, Juzu’ 7, m.s. 57\">[50]</sup>"
         },
         {
           "type": "quote",
@@ -1576,7 +1576,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "dengan namanya; dialah orang yang berbahagia  <sup class=\"fn-ref\" data-fn-id=\"51\" title=\"Yusuf al-Qardhawi, Majalah al-Tarbiah al-Islamiyah, Tahun ke-6, m.s. 278\">[51]</sup>"
+          "text": "dengan namanya; dialah orang yang berbahagia <sup class=\"fn-ref\" data-fn-id=\"51\" title=\"Yusuf al-Qardhawi, Majalah al-Tarbiah al-Islamiyah, Tahun ke-6, m.s. 278\">[51]</sup>"
         }
       ],
       "footnotes": [
@@ -1659,13 +1659,13 @@ window.ALMUNTALAQ_DATA = {
           "id": "c2_s0",
           "title": "Pengenalan: Fiqh Optimisme & Sunnatullah Perjuangan",
           "summary_title": "Mukadimah Bab 2: Hakikat Gerhana (Kusuf La Ghurub)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kejatuhan dan kemunduran yang menimpa umat Islam bukanlah petanda matahari Islam telah terbenam selama-lamanya (*ghurub*), tetapi hanyalah gerhana sementara (*kusuf*). Matahari kebenaran pasti akan kembali menyinari alam.  \n* **Nukilan Tokoh:**  \n  * **Ustaz Hasan al-Hudhaibi:** *“Sunnatullah terhadap semua makhluk terus berjalan, sesaat pun tidak pernah berhenti dan berubah. Mereka yang merdeka terus berjihad pada jalan Allah, kerana jihad menegakkan kebenaran tidak pernah padam walau sehari.”*  \n  * **Dr. Abdul Wahab Azzam:** *“Kamilah pewaris yang cuba membimbing manusia... Matahari sentiasa menyuluh cahaya kepada kami.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Membasmi penyakit kekalahan jiwa (*al-hazimah an-nafsiyyah*) dalam kalangan da'i; menanamkan keyakinan mutlak terhadap janji kemenangan Allah (*tsiqah bi nasrillah*)."
+          "summary": "* **Intipati & Pemahaman:** \n Kejatuhan dan kemunduran yang menimpa umat Islam bukanlah petanda matahari Islam telah terbenam selama-lamanya (*ghurub*), tetapi hanyalah gerhana sementara (*kusuf*). Matahari kebenaran pasti akan kembali menyinari alam. \n* **Nukilan Tokoh:** \n * **Ustaz Hasan al-Hudhaibi:** *“Sunnatullah terhadap semua makhluk terus berjalan, sesaat pun tidak pernah berhenti dan berubah. Mereka yang merdeka terus berjihad pada jalan Allah, kerana jihad menegakkan kebenaran tidak pernah padam walau sehari.”* \n * **Dr. Abdul Wahab Azzam:** *“Kamilah pewaris yang cuba membimbing manusia... Matahari sentiasa menyuluh cahaya kepada kami.”* \n* **Aplikasi Fiqh Haraki:** \n Membasmi penyakit kekalahan jiwa (*al-hazimah an-nafsiyyah*) dalam kalangan da'i; menanamkan keyakinan mutlak terhadap janji kemenangan Allah (*tsiqah bi nasrillah*)."
         },
         {
           "id": "c2_s1",
           "title": "Sujud Kemerdekaan",
           "summary_title": "1. Sujud Kemerdekaan (Punca Ketinggian Jiwa Da'i)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sujud kepada Allah bukanlah lambang kehinaan, tetapi punca kemerdekaan hakiki yang membebaskan manusia daripada perhambaan sesama manusia dan ketakutan kepada penguasa zalim.  \n* **Aplikasi Fiqh Haraki:**  \n  Kekuatan rohani da'i yang melazimi sujud di malam hari (*qiamullail*) melahirkan keberanian luar biasa di siang hari untuk menyatakan kebenaran di hadapan kuasa kebatilan."
+          "summary": "* **Intipati & Pemahaman:** \n Sujud kepada Allah bukanlah lambang kehinaan, tetapi punca kemerdekaan hakiki yang membebaskan manusia daripada perhambaan sesama manusia dan ketakutan kepada penguasa zalim. \n* **Aplikasi Fiqh Haraki:** \n Kekuatan rohani da'i yang melazimi sujud di malam hari (*qiamullail*) melahirkan keberanian luar biasa di siang hari untuk menyatakan kebenaran di hadapan kuasa kebatilan."
         }
       ]
     },
@@ -1693,7 +1693,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Golongan yang kafir dan fasik berlegar-legar di sekitar sebab yang sama dan semuanya andaian bingung terhadap fenomena ini. Tetapi Muslim yang sejati hanya mempunyai satu kata putus dan pasti dalam tafsirannya. Tafsiran itu diambil daripada al-Quran dan sunnah Rasulullah SAW dan ianya telah disimpulkan oleh Amirul Mukminin Umar bin Al-Khattab r.a. dengan satu perkataan yang jamik tatkala beliau ditanya: “Adakah sesebuah negeri itu boleh musnah padahal ia makmur maju?” Beliau menjawab: “Ya, apabila orang-orang jahat menguasai orang-orang baik.”  <sup class=\"fn-ref\" data-fn-id=\"52\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi li Man Su'ila ‘An al-Dawa’ al-Syafi, m.s. 45\">[52]</sup>"
+          "text": "Golongan yang kafir dan fasik berlegar-legar di sekitar sebab yang sama dan semuanya andaian bingung terhadap fenomena ini. Tetapi Muslim yang sejati hanya mempunyai satu kata putus dan pasti dalam tafsirannya. Tafsiran itu diambil daripada al-Quran dan sunnah Rasulullah SAW dan ianya telah disimpulkan oleh Amirul Mukminin Umar bin Al-Khattab RA dengan satu perkataan yang jamik tatkala beliau ditanya: “Adakah sesebuah negeri itu boleh musnah padahal ia makmur maju?” Beliau menjawab: “Ya, apabila orang-orang jahat menguasai orang-orang baik.” <sup class=\"fn-ref\" data-fn-id=\"52\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi li Man Su'ila ‘An al-Dawa’ al-Syafi, m.s. 45\">[52]</sup>"
         },
         {
           "type": "text",
@@ -1769,11 +1769,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Termasuk dalam pengertiannya ialah orang yang tidak menyangkal kezaliman sedangkan dia mampu berbuat demikian. Mungkin mereka itu diazab di dunia dan dibangkitkan di akhirat mengikut niat mereka. Sama seperti angkatan tentera yang memerangi Baitullah lalu mereka dibinasakan seluruhnya termasuk askar-askar yang dipaksa. Mereka ini dibangkitkan dan dibalas bergantung kepada niatnya.”  <sup class=\"fn-ref\" data-fn-id=\"53\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 17, m.s. 382\">[53]</sup>"
+          "text": "Termasuk dalam pengertiannya ialah orang yang tidak menyangkal kezaliman sedangkan dia mampu berbuat demikian. Mungkin mereka itu diazab di dunia dan dibangkitkan di akhirat mengikut niat mereka. Sama seperti angkatan tentera yang memerangi Baitullah lalu mereka dibinasakan seluruhnya termasuk askar-askar yang dipaksa. Mereka ini dibangkitkan dan dibalas bergantung kepada niatnya.” <sup class=\"fn-ref\" data-fn-id=\"53\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 17, m.s. 382\">[53]</sup>"
         },
         {
           "type": "text",
-          "text": "Menurut tafsiran ayat ini, Syed Qutb menyatakan bahawa Allah S.WT. menyebut bahawa balasan mereka yang melarang daripada kejahatan, ialah selamat. Manakala balasan bagi mereka yang zalim pula ialah ditimpa azab yang keras. Adapun mereka yang menolak kejahatan dalam hati sahaja dan tidak melarang dari kemungkaran, Allah SWT tidak menerangkan kepada kita balasan terhadap mereka dan tidak memberitahu kita nasib.  Senyapnya Allah dari menceritakan nasib mereka merupakan satu balasan untuk golongan yang seperti ini."
+          "text": "Menurut tafsiran ayat ini, Syed Qutb menyatakan bahawa Allah S.WT. menyebut bahawa balasan mereka yang melarang daripada kejahatan, ialah selamat. Manakala balasan bagi mereka yang zalim pula ialah ditimpa azab yang keras. Adapun mereka yang menolak kejahatan dalam hati sahaja dan tidak melarang dari kemungkaran, Allah SWT tidak menerangkan kepada kita balasan terhadap mereka dan tidak memberitahu kita nasib. Senyapnya Allah dari menceritakan nasib mereka merupakan satu balasan untuk golongan yang seperti ini."
         },
         {
           "type": "text",
@@ -1781,11 +1781,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebahagian dari ulama mensifatkan balasan itu sebagai ‘kanun azab jama'i’ dalam sunatullah. Ianya adalah kanun yang paling menggerunkan dan menakutkan, mendorong mereka yang tahu dan faham, atau mana-mana yang berkuasa untuk segera mengubah kemungkaran yang sedang berlaku, supaya azab yang demikian tidak menimpa seluruh masyarakat.  <sup class=\"fn-ref\" data-fn-id=\"54\" title=\"Majalah al-Tarbiah al-Islamiyah, tahun Keenam, m.s. 26\">[54]</sup>"
+          "text": "Sebahagian dari ulama mensifatkan balasan itu sebagai ‘kanun azab jama'i’ dalam sunatullah. Ianya adalah kanun yang paling menggerunkan dan menakutkan, mendorong mereka yang tahu dan faham, atau mana-mana yang berkuasa untuk segera mengubah kemungkaran yang sedang berlaku, supaya azab yang demikian tidak menimpa seluruh masyarakat. <sup class=\"fn-ref\" data-fn-id=\"54\" title=\"Majalah al-Tarbiah al-Islamiyah, tahun Keenam, m.s. 26\">[54]</sup>"
         },
         {
           "type": "text",
-          "text": "Tugas ini lebih berat terutama ke atas pemerintah kerana mereka mempunyai kuasa untuk menyuruh dan melarang. Apa yang tidak dapat dicegah dengan al-Quran akan dicegah oleh Allah dengan kekuasaanNya. Sekiranya mereka memperbaiki masyarakat menurut hukum syariat Islam, membasmi kemungkaran, menegakkan keadilan dan memusnahkan punca maksiat, Maka Allah akan memberi pahala kepada mereka; dengan sebaik-baik pahala di dunia dan sebaik-baik pahala di akhirat dan seterusnya mengukuhkan kekuasaan mereka di bumi. Tetapi sekiranya mereka mengabaikan tugas ini, Allah akan menjatuhkan hukumanNya ke atas mereka dan menimpakan azab kepada mereka dan rugilah mereka di dunia dan di akhirat, semoga Allah melindungi kita dari kehinaan itu.  <sup class=\"fn-ref\" data-fn-id=\"55\" title=\"Ibid\">[55]</sup>"
+          "text": "Tugas ini lebih berat terutama ke atas pemerintah kerana mereka mempunyai kuasa untuk menyuruh dan melarang. Apa yang tidak dapat dicegah dengan al-Quran akan dicegah oleh Allah dengan kekuasaanNya. Sekiranya mereka memperbaiki masyarakat menurut hukum syariat Islam, membasmi kemungkaran, menegakkan keadilan dan memusnahkan punca maksiat, Maka Allah akan memberi pahala kepada mereka; dengan sebaik-baik pahala di dunia dan sebaik-baik pahala di akhirat dan seterusnya mengukuhkan kekuasaan mereka di bumi. Tetapi sekiranya mereka mengabaikan tugas ini, Allah akan menjatuhkan hukumanNya ke atas mereka dan menimpakan azab kepada mereka dan rugilah mereka di dunia dan di akhirat, semoga Allah melindungi kita dari kehinaan itu. <sup class=\"fn-ref\" data-fn-id=\"55\" title=\"Ibid\">[55]</sup>"
         },
         {
           "type": "text",
@@ -1793,7 +1793,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Umat Islam pada hari ini hanya tinggal Islam pada nama sahaja dan mereka telah menyeleweng jauh daripada Islam sebenar. “Seseorang Islam itu sudah cukup untuk dikatakan menyeleweng apabila dia meninggalkan jihad di jalan Allah, cenderung pada keduniaan, mencintai dunia melebihi akhirat, bencikan mati, mengikuti hawa nafsu, tunduk kepada syahwat, tenggelam dalam maksiat sehingga mereka dihina oleh Allah dengan kegagalan yang paling besar kepada mereka dan menjadikan pimpinan mereka pada tangan golongan yang menyeleweng dan merosakkan mereka.”  <sup class=\"fn-ref\" data-fn-id=\"56\" title=\"Ustaz al-Sawwaf, Ma'rakah al-Islamiah, m.s. 24\">[56]</sup>"
+          "text": "Umat Islam pada hari ini hanya tinggal Islam pada nama sahaja dan mereka telah menyeleweng jauh daripada Islam sebenar. “Seseorang Islam itu sudah cukup untuk dikatakan menyeleweng apabila dia meninggalkan jihad di jalan Allah, cenderung pada keduniaan, mencintai dunia melebihi akhirat, bencikan mati, mengikuti hawa nafsu, tunduk kepada syahwat, tenggelam dalam maksiat sehingga mereka dihina oleh Allah dengan kegagalan yang paling besar kepada mereka dan menjadikan pimpinan mereka pada tangan golongan yang menyeleweng dan merosakkan mereka.” <sup class=\"fn-ref\" data-fn-id=\"56\" title=\"Ustaz al-Sawwaf, Ma'rakah al-Islamiah, m.s. 24\">[56]</sup>"
         },
         {
           "type": "text",
@@ -1941,15 +1941,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sekiranya orang Islam memahami ayat-ayat al-Quran yang membuktikan kebenaran ‘kanun persamaan” dan yang mencela kaum yang jahat pada masa dahulu seperti Yahudi dan kaum lain kerana kejahatan dan sifat-sifat mereka yang hina dan tercela, maka mereka akan dapat mengetahui bahawa pembalasan yang menimpa orang yang jahat di zaman lalu akan menimpa mereka juga sekiranya mereka melakukan perbuatan yang pernah dilakukan oleh orang jahat yang lalu. Akibat yang buruk akan menimpa mereka sebagaimana yang telah menimpa orang-orang terdahulu. Oleh itu, mereka tidak boleh leka dengan hanya menjadi orang Islam dari sudut nama, sedangkan mereka tidak beramal dan membentuk diri mereka menurut kehendak Islam.  <sup class=\"fn-ref\" data-fn-id=\"57\" title=\"Majalah al-Tarbiah, Jilid 6, m.s. 26\">[57]</sup>"
+          "text": "Sekiranya orang Islam memahami ayat-ayat al-Quran yang membuktikan kebenaran ‘kanun persamaan” dan yang mencela kaum yang jahat pada masa dahulu seperti Yahudi dan kaum lain kerana kejahatan dan sifat-sifat mereka yang hina dan tercela, maka mereka akan dapat mengetahui bahawa pembalasan yang menimpa orang yang jahat di zaman lalu akan menimpa mereka juga sekiranya mereka melakukan perbuatan yang pernah dilakukan oleh orang jahat yang lalu. Akibat yang buruk akan menimpa mereka sebagaimana yang telah menimpa orang-orang terdahulu. Oleh itu, mereka tidak boleh leka dengan hanya menjadi orang Islam dari sudut nama, sedangkan mereka tidak beramal dan membentuk diri mereka menurut kehendak Islam. <sup class=\"fn-ref\" data-fn-id=\"57\" title=\"Majalah al-Tarbiah, Jilid 6, m.s. 26\">[57]</sup>"
         },
         {
           "type": "text",
-          "text": "Muhammad Iqbal rahimahullah menjadikan kanun ini sebagai sebahagian kaedah panduan Islam dan menjelaskannya di dalam kuliahnya yang kelima yang pernah diadakan di Madras India: “Sesungguhnya seluruh bangsa dan kumpulan manusia diambil kira mengikut amalan mereka semasa hidup di dunia. Kerana itulah al-Quran banyak menyebut kisah-kisah kaum terdahulu dan menyuruh kita meneliti pengalaman umat dahulu dan sekarang supaya kita mengambil iktibar daripadanya.”  <sup class=\"fn-ref\" data-fn-id=\"58\" title=\"Kitab Muhammad Iqbal, Abdul Wahab Azam, m.s. 120\">[58]</sup>"
+          "text": "Muhammad Iqbal rahimahullah menjadikan kanun ini sebagai sebahagian kaedah panduan Islam dan menjelaskannya di dalam kuliahnya yang kelima yang pernah diadakan di Madras India: “Sesungguhnya seluruh bangsa dan kumpulan manusia diambil kira mengikut amalan mereka semasa hidup di dunia. Kerana itulah al-Quran banyak menyebut kisah-kisah kaum terdahulu dan menyuruh kita meneliti pengalaman umat dahulu dan sekarang supaya kita mengambil iktibar daripadanya.” <sup class=\"fn-ref\" data-fn-id=\"58\" title=\"Kitab Muhammad Iqbal, Abdul Wahab Azam, m.s. 120\">[58]</sup>"
         },
         {
           "type": "text",
-          "text": "Sesungguhnya kanun yang menggerunkan ini tidak difahami oleh sebahagian besar manusia. Mereka ini tidak bersedia untuk mempercayainya. Ia hanya difahami oleh para da'i   sahaja. Golongan inilah yang mesti bangkit untuk melaksanakan tugas mengha lang dari kemungkaran yang sedang berlaku, supaya semua manusia selamat daripada malapetaka hari tersebut."
+          "text": "Sesungguhnya kanun yang menggerunkan ini tidak difahami oleh sebahagian besar manusia. Mereka ini tidak bersedia untuk mempercayainya. Ia hanya difahami oleh para da'i sahaja. Golongan inilah yang mesti bangkit untuk melaksanakan tugas mengha lang dari kemungkaran yang sedang berlaku, supaya semua manusia selamat daripada malapetaka hari tersebut."
         },
         {
           "type": "text",
@@ -2012,7 +2012,7 @@ window.ALMUNTALAQ_DATA = {
           "id": "c3_s0",
           "title": "Bahaya Kesolehan Pasif & Qanun Azab Jama'i",
           "summary_title": "1. Bahaya Kesolehan Pasif (Qanun Azab Jama'i)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kesolehan peribadi yang pasif tidak mampu menyelamatkan masyarakat daripada bala kehancuran apabila kemungkaran telah menjadi sistem yang berleluasa tanpa ada pihak yang bangkit menegurnya.  \n* **Nukilan Tokoh:**  \n  * **Syeikhul Islam Ibnu Taimiyah:** Mentafsirkan ayat fitnah (Al-Anfal: 25) bahawa mereka yang membisu daripada menegur kezaliman padahal memiliki kemampuan, dihukum sama seperti orang zalim tersebut.  \n  * **Ustaz Syed Qutb (Fi Zilal al-Quran):** Menghuraikan hakikat azab kolektif yang menimpa masyarakat yang membisu terhadap kemungkaran.  \n  * **Dr. Muhammad Iqbal:** Membuktikan berlakunya 'Undang-undang Persamaan Sejarah' (*Qanun At-Tamathul*).  \n* **Aplikasi Fiqh Haraki:**  \n  Transformasi daripada sekadar 'Soleh' (baik bersendirian) kepada 'Muslih' (pembaiki masyarakat); menyertai amal jama'i yang teratur sebagai benteng perlindungan umat daripada kehancuran."
+          "summary": "* **Intipati & Pemahaman:** \n Kesolehan peribadi yang pasif tidak mampu menyelamatkan masyarakat daripada bala kehancuran apabila kemungkaran telah menjadi sistem yang berleluasa tanpa ada pihak yang bangkit menegurnya. \n* **Nukilan Tokoh:** \n * **Syeikhul Islam Ibnu Taimiyah:** Mentafsirkan ayat fitnah (Al-Anfal: 25) bahawa mereka yang membisu daripada menegur kezaliman padahal memiliki kemampuan, dihukum sama seperti orang zalim tersebut. \n * **Ustaz Syed Qutb (Fi Zilal al-Quran):** Menghuraikan hakikat azab kolektif yang menimpa masyarakat yang membisu terhadap kemungkaran. \n * **Dr. Muhammad Iqbal:** Membuktikan berlakunya 'Undang-undang Persamaan Sejarah' (*Qanun At-Tamathul*). \n* **Aplikasi Fiqh Haraki:** \n Transformasi daripada sekadar 'Soleh' (baik bersendirian) kepada 'Muslih' (pembaiki masyarakat); menyertai amal jama'i yang teratur sebagai benteng perlindungan umat daripada kehancuran."
         }
       ]
     },
@@ -2021,7 +2021,7 @@ window.ALMUNTALAQ_DATA = {
       "title": "KEWAJIPAN DAKWAH KE JALAN ALLAH",
       "title_ar": "وجوب الدعوة إلى الله",
       "subtopics": [
-        "Dakwah dan Da'i   Daripada Sudut Bahasa dan Kata Dasarnya",
+        "Dakwah dan Da'i Daripada Sudut Bahasa dan Kata Dasarnya",
         "Dakwah Itu Adalah Tugas Para Rasul dan Pengikut Rasul.",
         "Ayat-ayat Mengenai Dakwah, Amar makruf dan Nahi Mungkar Dalam Al-Quran.",
         "Makna Fardu Kifayah – dan Menolak Sangkaan Mereka Yang Berpeluk Tubuh dan Membisu",
@@ -2043,15 +2043,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dengan ini mereka telah mewarisi tugas Rasulullah SAW yang diutus kepada manusia untuk membawa khabar gembira dan ancaman dari Allah SWT. Dengan kata lain, mereka melakukan dakwah kepada Allah. atau dengan istilah sebahagian fuqaha, mereka ialah; Orang-orang yang melaksanakan tugas hisbah  <sup class=\"fn-ref\" data-fn-id=\"59\" title=\"Hisbah ialah satu istilah Perundangan Islam yang bermaksud menguatkuasa bagi hukum syariah. (Pnt)\">[59]</sup>   dengan mengharapkan pahala dan Allah dalam melakukan nasihat, menegakkan amar makruf dan nahi mungkar."
+          "text": "Dengan ini mereka telah mewarisi tugas Rasulullah SAW yang diutus kepada manusia untuk membawa khabar gembira dan ancaman dari Allah SWT. Dengan kata lain, mereka melakukan dakwah kepada Allah. atau dengan istilah sebahagian fuqaha, mereka ialah; Orang-orang yang melaksanakan tugas hisbah <sup class=\"fn-ref\" data-fn-id=\"59\" title=\"Hisbah ialah satu istilah Perundangan Islam yang bermaksud menguatkuasa bagi hukum syariah. (Pnt)\">[59]</sup> dengan mengharapkan pahala dan Allah dalam melakukan nasihat, menegakkan amar makruf dan nahi mungkar."
         },
         {
           "type": "text",
-          "text": "Ibnu Taimiyah telah menerangkan definisi dakwah dengan katanya: “Dakwah kepada Allah ialah menyeru manusia agar beriman dengan Allah serta beriman dengan apa yang telah dibawa oleh para Rasul-Nya, membenarkan apa yang telah diberitakan oleh mereka dan taat kepada perintah mereka.”  <sup class=\"fn-ref\" data-fn-id=\"60\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, 15/157\">[60]</sup>"
+          "text": "Ibnu Taimiyah telah menerangkan definisi dakwah dengan katanya: “Dakwah kepada Allah ialah menyeru manusia agar beriman dengan Allah serta beriman dengan apa yang telah dibawa oleh para Rasul-Nya, membenarkan apa yang telah diberitakan oleh mereka dan taat kepada perintah mereka.” <sup class=\"fn-ref\" data-fn-id=\"60\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, 15/157\">[60]</sup>"
         },
         {
           "type": "heading2",
-          "text": "Dakwah dan Da'i   Daripada Sudut Bahasa dan Kata Dasarnya"
+          "text": "Dakwah dan Da'i Daripada Sudut Bahasa dan Kata Dasarnya"
         },
         {
           "type": "text",
@@ -2091,16 +2091,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Menurut Islam, orang yang menjalankan urusan dan memikul beban dakwah suapaya ianya sampai kepada manusia disebut sebagai الدَّاعِي al-da'i  e” atau الدَّاعِيَةُ al-dai'yah”. “Al-da'i  e” ialah kata nama pelaku iaitu kata nama bagi orang yang melakukan dakwah.  Manakala “al-da'i  yah” juga merupakan satu bentuk kata nama pelaku yang ditambah dengan huruf ta’ di hujungnya untuk menunjukkan erti bersangatan atau gigih berdakwah. Kata Jamaknya dikatakan دُعَاةٌ du'at” atau دَاعُونَ da'un” manakala bagi da'i   wanita yang ramai kita katakan mereka sebagai دَاعِيَاتٌ da'i  yat”.  <sup class=\"fn-ref\" data-fn-id=\"61\" title=\"Petikan artikel oleh Ustaz Rasyid al-A'zami dalam Majalah ’al-Tarbiah al-Islamiah’ Jilid 5, m.s. 471\">[61]</sup>"
+          "text": "Menurut Islam, orang yang menjalankan urusan dan memikul beban dakwah suapaya ianya sampai kepada manusia disebut sebagai الدَّاعِي al-da'i e” atau الدَّاعِيَةُ al-dai'yah”. “Al-da'i e” ialah kata nama pelaku iaitu kata nama bagi orang yang melakukan dakwah. Manakala “al-da'i yah” juga merupakan satu bentuk kata nama pelaku yang ditambah dengan huruf ta’ di hujungnya untuk menunjukkan erti bersangatan atau gigih berdakwah. Kata Jamaknya dikatakan دُعَاةٌ du'at” atau دَاعُونَ da'un” manakala bagi da'i wanita yang ramai kita katakan mereka sebagai دَاعِيَاتٌ da'i yat”. <sup class=\"fn-ref\" data-fn-id=\"61\" title=\"Petikan artikel oleh Ustaz Rasyid al-A'zami dalam Majalah ’al-Tarbiah al-Islamiah’ Jilid 5, m.s. 471\">[61]</sup>"
         },
         {
           "type": "heading2",
           "text": "Dakwah Itu Adalah Tugas Para Rasul dan Pengikut Rasul.",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Sesiapa yang mengaku mencintai Rasulullah SAW wajib membuktikannya dengan meneruskan legasi dakwah baginda mengikut manhaj wahyu yang sahih (*'ala bashirah*).  \n* **Aplikasi Fiqh Haraki:**  \n  Menelusuri sirah Nabawiyyah sebagai panduan marhalah dakwah: bermula dengan pembinaan akidah, pembentukan saf tanzimi, penyebaran syiar, sehinggalah penubuhan daulah Islam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Sesiapa yang mengaku mencintai Rasulullah SAW wajib membuktikannya dengan meneruskan legasi dakwah baginda mengikut manhaj wahyu yang sahih (*'ala bashirah*). \n* **Aplikasi Fiqh Haraki:** \n Menelusuri sirah Nabawiyyah sebagai panduan marhalah dakwah: bermula dengan pembinaan akidah, pembentukan saf tanzimi, penyebaran syiar, sehinggalah penubuhan daulah Islam."
         },
         {
           "type": "quote",
-          "text": "“Al-Rasul SAW telah menjalankan kerja dakwah ini. Baginda memerintahkan mereka dengan apa ya ng diperintahkan Allah, melarang mereka dari melakukan perkara yang dilarang Allah, menyuruh mereka kepada kebaikan dan mencegah mereka dari segala kemungkaran.” <sup class=\"fn-ref\" data-fn-id=\"62\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 161\">[62]</sup>  “Realitinya, tugas mengajak ke jalan Allah ini merupakan tugas setiap rasul-rasul Allah. Untuk itulah mereka diutuskan oleh Allah. Semua mereka mengajak manusia supaya beriman kepada Allah, beribadah kepada Allah sahaja dan menurut sebagaimana yang diturunkan kepada mereka. Allah SWT berfirman tentang Nuh AS:"
+          "text": "“Al-Rasul SAW telah menjalankan kerja dakwah ini. Baginda memerintahkan mereka dengan apa ya ng diperintahkan Allah, melarang mereka dari melakukan perkara yang dilarang Allah, menyuruh mereka kepada kebaikan dan mencegah mereka dari segala kemungkaran.” <sup class=\"fn-ref\" data-fn-id=\"62\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 161\">[62]</sup> “Realitinya, tugas mengajak ke jalan Allah ini merupakan tugas setiap rasul-rasul Allah. Untuk itulah mereka diutuskan oleh Allah. Semua mereka mengajak manusia supaya beriman kepada Allah, beribadah kepada Allah sahaja dan menurut sebagaimana yang diturunkan kepada mereka. Allah SWT berfirman tentang Nuh AS:"
         },
         {
           "type": "quran",
@@ -2124,16 +2124,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh yang demikian, para Rasul adalah da'i   yang menyeru manusia kepada Allah. Mereka itu dipilih untuk mendokong seruan Allah dan menyampaikan seruan tersebut kepada manusia.” <sup class=\"fn-ref\" data-fn-id=\"63\" title=\"Usul al-Da'wah, m.s. 268\">[63]</sup>"
+          "text": "Oleh yang demikian, para Rasul adalah da'i yang menyeru manusia kepada Allah. Mereka itu dipilih untuk mendokong seruan Allah dan menyampaikan seruan tersebut kepada manusia.” <sup class=\"fn-ref\" data-fn-id=\"63\" title=\"Usul al-Da'wah, m.s. 268\">[63]</sup>"
         },
         {
           "type": "quote",
-          "text": "“Setiap perkara yang disukai oleh Allah dan Rasul-Nya sama ada wajib atau sunat, zahir atau batin adalah merupakan antara isi dakwah kepada Allah yang perlu kita ajak kepadanya. Begitu juga setiap perkara yang dibenci oleh Allah dan Rasul-Nya sama ada batin atau zahir adalah merupakan isi dakwah kepada Allah dan perkara yang perlu kita larang daripadanya. Dakwah tidak akan sempurna kecuali dengan mengajak manusia agar melaksanakan perkara yang dicintai Allah dan meninggalkan perkara yang dimurkai Allah sama ada ianya perkataan atau perbuatan, lahir mahupun batin.”  <sup class=\"fn-ref\" data-fn-id=\"64\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 164\">[64]</sup>"
+          "text": "“Setiap perkara yang disukai oleh Allah dan Rasul-Nya sama ada wajib atau sunat, zahir atau batin adalah merupakan antara isi dakwah kepada Allah yang perlu kita ajak kepadanya. Begitu juga setiap perkara yang dibenci oleh Allah dan Rasul-Nya sama ada batin atau zahir adalah merupakan isi dakwah kepada Allah dan perkara yang perlu kita larang daripadanya. Dakwah tidak akan sempurna kecuali dengan mengajak manusia agar melaksanakan perkara yang dicintai Allah dan meninggalkan perkara yang dimurkai Allah sama ada ianya perkataan atau perbuatan, lahir mahupun batin.” <sup class=\"fn-ref\" data-fn-id=\"64\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 164\">[64]</sup>"
         },
         {
           "type": "heading2",
           "text": "Ayat-ayat Mengenai Dakwah, Amar makruf dan Nahi Mungkar Dalam Al-Quran.",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Al-Quran sarat dengan perintah tegas mewajibkan dakwah dan amar makruf nahi mungkar sebagai syarat mutlak melayakkan umat ini menerima gelaran *Khairu Ummah* (Umat Terbaik).  \n* **Aplikasi Fiqh Haraki:**  \n  Umat yang meninggalkan amar makruf nahi mungkar akan dicabut kehebatannya dan doa mereka tidak lagi dimakbulkan Allah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Al-Quran sarat dengan perintah tegas mewajibkan dakwah dan amar makruf nahi mungkar sebagai syarat mutlak melayakkan umat ini menerima gelaran *Khairu Ummah* (Umat Terbaik). \n* **Aplikasi Fiqh Haraki:** \n Umat yang meninggalkan amar makruf nahi mungkar akan dicabut kehebatannya dan doa mereka tidak lagi dimakbulkan Allah."
         },
         {
           "type": "text",
@@ -2353,7 +2353,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh itu, Muslim yang sayangkan imannya dan inginkan syurga yang tinggi akan bersungguh-sungguh memperkatakan kebenaran. Mereka rela mengorbankan masa rehatnya, hartanya, bahkan darah dan nyawanya sebagai cagaran untuk mendapatkan ganjaran pahala yang diidamkannya. Tugas menyeru ke jalan Allah adalah wajib.  Tidak seorang pun boleh menguzurkan diri kecuali manusia awam yang ditindas, dungu yang tidak pandai bertutur atau tidak tahu mengurus apa-apa."
+          "text": "Oleh itu, Muslim yang sayangkan imannya dan inginkan syurga yang tinggi akan bersungguh-sungguh memperkatakan kebenaran. Mereka rela mengorbankan masa rehatnya, hartanya, bahkan darah dan nyawanya sebagai cagaran untuk mendapatkan ganjaran pahala yang diidamkannya. Tugas menyeru ke jalan Allah adalah wajib. Tidak seorang pun boleh menguzurkan diri kecuali manusia awam yang ditindas, dungu yang tidak pandai bertutur atau tidak tahu mengurus apa-apa."
         },
         {
           "type": "quote",
@@ -2365,7 +2365,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Tugasan ini diwajibkan ke atas sekumpulan umat Islam. Itulah yang dinamakan oleh ulama sebagai fardu kifayah. Sekiranya ada satu golongan dalam kalangan umat Islam bangkit melaksanakan dakwah, gugurlah kewajipan memikul tugas tersebut dari umat yang selebihnya. Walaupun seluruh umat diperintahkan melaksanakan tugas ini, tetapi sekiranya ada satu golongan dari mereka menyempurnakannya gugurlah tanggungjawab ini dari yang lain.”  <sup class=\"fn-ref\" data-fn-id=\"70\" title=\"Ibid\">[70]</sup>"
+          "text": "“Tugasan ini diwajibkan ke atas sekumpulan umat Islam. Itulah yang dinamakan oleh ulama sebagai fardu kifayah. Sekiranya ada satu golongan dalam kalangan umat Islam bangkit melaksanakan dakwah, gugurlah kewajipan memikul tugas tersebut dari umat yang selebihnya. Walaupun seluruh umat diperintahkan melaksanakan tugas ini, tetapi sekiranya ada satu golongan dari mereka menyempurnakannya gugurlah tanggungjawab ini dari yang lain.” <sup class=\"fn-ref\" data-fn-id=\"70\" title=\"Ibid\">[70]</sup>"
         },
         {
           "type": "quote",
@@ -2385,7 +2385,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dari sini semua jelaslah bahawa dakwah itu sendiri bererti menyeru manusia kepada kebaikan dan melarang mereka daripada kemungkaran. Da'i   adalah penyeru, penuntut dan pengajak kepada apa yang diserunya. Itulah maksud amar kerana amar ialah meminta dilakukan apa yang disuruh. Oleh itu, menyeru kepada Allah ialah menyeru ke jalan-Nya. Mengikuti jalan-Nya adalah dengan membenarkan apa yang telah disampaikan dan taat pada segala yang diperintahkan.”  <sup class=\"fn-ref\" data-fn-id=\"71\" title=\"Ibnu Taimiah, Majmu’ Fatawa, Jilid 15, m.s. 166\">[71]</sup>"
+          "text": "Dari sini semua jelaslah bahawa dakwah itu sendiri bererti menyeru manusia kepada kebaikan dan melarang mereka daripada kemungkaran. Da'i adalah penyeru, penuntut dan pengajak kepada apa yang diserunya. Itulah maksud amar kerana amar ialah meminta dilakukan apa yang disuruh. Oleh itu, menyeru kepada Allah ialah menyeru ke jalan-Nya. Mengikuti jalan-Nya adalah dengan membenarkan apa yang telah disampaikan dan taat pada segala yang diperintahkan.” <sup class=\"fn-ref\" data-fn-id=\"71\" title=\"Ibnu Taimiah, Majmu’ Fatawa, Jilid 15, m.s. 166\">[71]</sup>"
         },
         {
           "type": "heading2",
@@ -2397,15 +2397,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya perkataan ‘melaksanakan dakwah’ bererti berhasilnya sesuatu yang didakwah itu di alam nyata secara praktikal apabila golongan mad'u (orang yang diseru) mengikut nasihat para da'i  ."
+          "text": "Sesungguhnya perkataan ‘melaksanakan dakwah’ bererti berhasilnya sesuatu yang didakwah itu di alam nyata secara praktikal apabila golongan mad'u (orang yang diseru) mengikut nasihat para da'i ."
         },
         {
           "type": "text",
-          "text": "Sekiranya ada dari mereka yang diseru itu masih lalai, mengikut hawa nafsu, tunduk kepada syahwat dan tenggelam dalam maksiat, maka setiap orang Islam wajib memikul tugas dakwah ini. Seluruh umat Islam wajib menolong da'i   untuk menyeru manusia kepada Allah, menyeru kepada kebaikan dan melarang mereka dari kemungkaran. Setiap orang Islam juga wajib menambahkan kekuatan dan memberi sokongan kepada para da'i  , menolong mereka dengan jiwa raga sehabis kemampuan mereka dan meramaikan bilangan da'i   sehingga mereka kuat, hebat dan mempunyai pengaruh yang cukup untuk mencegah golongan maksiat dan menarik mereka keluar daripada maksiat dan daripada menentang syariat Islam."
+          "text": "Sekiranya ada dari mereka yang diseru itu masih lalai, mengikut hawa nafsu, tunduk kepada syahwat dan tenggelam dalam maksiat, maka setiap orang Islam wajib memikul tugas dakwah ini. Seluruh umat Islam wajib menolong da'i untuk menyeru manusia kepada Allah, menyeru kepada kebaikan dan melarang mereka dari kemungkaran. Setiap orang Islam juga wajib menambahkan kekuatan dan memberi sokongan kepada para da'i , menolong mereka dengan jiwa raga sehabis kemampuan mereka dan meramaikan bilangan da'i sehingga mereka kuat, hebat dan mempunyai pengaruh yang cukup untuk mencegah golongan maksiat dan menarik mereka keluar daripada maksiat dan daripada menentang syariat Islam."
         },
         {
           "type": "text",
-          "text": "Sekiranya golongan maksiat dan mungkar itu telah meninggalkan maksiat itu, masih perlu juga wujudnya satu golongan bagi meneruskan tugas ini. Ketika ini barulah sebahagian daripada umat diharuskan mendiamkan diri. Tetapi selagi semua perkara tersebut belum dicapai, tiada siapapun boleh mendiamkan diri daripada tugas dakwah dan menolong para da'i  ."
+          "text": "Sekiranya golongan maksiat dan mungkar itu telah meninggalkan maksiat itu, masih perlu juga wujudnya satu golongan bagi meneruskan tugas ini. Ketika ini barulah sebahagian daripada umat diharuskan mendiamkan diri. Tetapi selagi semua perkara tersebut belum dicapai, tiada siapapun boleh mendiamkan diri daripada tugas dakwah dan menolong para da'i ."
         },
         {
           "type": "text",
@@ -2413,7 +2413,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh itu Muslim pada hari ini tidak boleh lari daripada kewajipan dakwah. Mereka sepatutnya menyeru manusia kepada syariat Allah, menolong para da'i  , bekerjasama dengan mereka dalam dakwah dan perjuangan membasmi kejahatan, menghapuskan maksiat dan pelakunya dan meletakkan semula kebaikan di tempat asalnya dan didokong oleh orang yang baik."
+          "text": "Oleh itu Muslim pada hari ini tidak boleh lari daripada kewajipan dakwah. Mereka sepatutnya menyeru manusia kepada syariat Allah, menolong para da'i , bekerjasama dengan mereka dalam dakwah dan perjuangan membasmi kejahatan, menghapuskan maksiat dan pelakunya dan meletakkan semula kebaikan di tempat asalnya dan didokong oleh orang yang baik."
         },
         {
           "type": "quote",
@@ -2466,7 +2466,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Erti Profesion Dakwah Adalah Kerja Ulama....",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Dakwah bukanlah monopoli golongan ustaz atau lepasan pengajian agama semata-mata. Setiap jurutera, doktor, usahawan, dan pendidik muslim wajib menjadikan profesionnya sebagai medan dakwah Islamiyyah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mobilisasi seluruh kepakaran umat dalam pelbagai sektor profesional untuk menyokong agenda kebangkitan Islam secara holistik."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Dakwah bukanlah monopoli golongan ustaz atau lepasan pengajian agama semata-mata. Setiap jurutera, doktor, usahawan, dan pendidik muslim wajib menjadikan profesionnya sebagai medan dakwah Islamiyyah. \n* **Aplikasi Fiqh Haraki:** \n Mobilisasi seluruh kepakaran umat dalam pelbagai sektor profesional untuk menyokong agenda kebangkitan Islam secara holistik."
         },
         {
           "type": "text",
@@ -2478,7 +2478,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Biasanya, dalam mana-mana bidaah, nas-nas dalam melariskan bidaah mereka ialah nas-nas yang jelas, tetapi hawa nafsu telah menyelewengkan nas-nas tersebut dari erti zahirnya. Hawa nafsu adalah jalan kejiwaan yang menjelma dalam banyak bentuk dan disebabkan oleh pelbagai motif. Dari sinilah datangnya kepercayaan atau dakwaan tidak wajib dakwah ke atas setiap orang Islam. Dakwaan sedemikian selalunya disebabkan oleh rasa takut, bacul, mahu relaks, mencari jalan mudah, takut hilang kesenangan dunia yang kadang-kadang boleh terlepas daripada da'i   disebabkan oleh kerja “amar makruf nahi mungkar.”"
+          "text": "Biasanya, dalam mana-mana bidaah, nas-nas dalam melariskan bidaah mereka ialah nas-nas yang jelas, tetapi hawa nafsu telah menyelewengkan nas-nas tersebut dari erti zahirnya. Hawa nafsu adalah jalan kejiwaan yang menjelma dalam banyak bentuk dan disebabkan oleh pelbagai motif. Dari sinilah datangnya kepercayaan atau dakwaan tidak wajib dakwah ke atas setiap orang Islam. Dakwaan sedemikian selalunya disebabkan oleh rasa takut, bacul, mahu relaks, mencari jalan mudah, takut hilang kesenangan dunia yang kadang-kadang boleh terlepas daripada da'i disebabkan oleh kerja “amar makruf nahi mungkar.”"
         },
         {
           "type": "text",
@@ -2486,11 +2486,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Sesungguhnya tugas ini khusus buat ulama. Ini kerana untuk menyeru kepada kebaikan seseorang itu mesti tahu tentang perkara-perkara kebaikan, perkara yang makruf dan perkara yang mungkar. Oleh itu, tugas ini disarankan kepada golongan ulama, bukan kepada golongan yang jahil. Ulama adalah sebahagian daripada umat Islam.”  <sup class=\"fn-ref\" data-fn-id=\"73\" title=\"Tafsir Ar-Razi, jilid 7, m.s. 177; Tafsir al-Qurtubi, Juzu’ 4, m.s. 165; Ahkam al-Quran li al-Jasas,\">[73]</sup>"
+          "text": "“Sesungguhnya tugas ini khusus buat ulama. Ini kerana untuk menyeru kepada kebaikan seseorang itu mesti tahu tentang perkara-perkara kebaikan, perkara yang makruf dan perkara yang mungkar. Oleh itu, tugas ini disarankan kepada golongan ulama, bukan kepada golongan yang jahil. Ulama adalah sebahagian daripada umat Islam.” <sup class=\"fn-ref\" data-fn-id=\"73\" title=\"Tafsir Ar-Razi, jilid 7, m.s. 177; Tafsir al-Qurtubi, Juzu’ 4, m.s. 165; Ahkam al-Quran li al-Jasas,\">[73]</sup>"
         },
         {
           "type": "text",
-          "text": "Pendapat al-Radzi ini sama dengan pandangan al-Qurtubi dan al-Jassas.  <sup class=\"fn-ref\" data-fn-id=\"74\" title=\"Ibid\">[74]</sup>   Dari sinilah lahir kesamaran tersebut."
+          "text": "Pendapat al-Radzi ini sama dengan pandangan al-Qurtubi dan al-Jassas. <sup class=\"fn-ref\" data-fn-id=\"74\" title=\"Ibid\">[74]</sup> Dari sinilah lahir kesamaran tersebut."
         },
         {
           "type": "text",
@@ -2506,12 +2506,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Atas dasar inilah maka setiap orang Islam mesti menyeru kepada Allah sekadar apa yang diketahuinya sebagaimana yang akan kita jelaskan kemudian. Itulah yang dimaksudkan dalam kata -kata bahawa dakwah itu hanya ‘wajib keatas ulama dan tidak wajib kepada orang jahil’. Ertinya, wajib kepada siapa yang mengetahui sesuatu masalah dan mengetahui hukum masalah yang diserunya, sama ada dia orang biasa ataupun dia telah mempunyai ilmu agama yang banyak (ulama). Dari sini nyatalah kesalahan orang yang berkata bahawa maksud perkataan “ulama” ialah mereka yang mempunyai ilmu yang banyak sahaja. Kadang-kala mereka yang mempunyai ilmu ini digelar ‘orang agama’. Nama itu juga menepati setiap orang Islam, kerana setiap orang Islam itu adalah orang Islam. Oleh itu dakwah tidak terbatas kepada golongan tertentu sahaja, bahkan adalah profession semua individu Muslim.”  <sup class=\"fn-ref\" data-fn-id=\"75\" title=\"Usul al-Da'wah, m.s. 274\">[75]</sup>"
+          "text": "Atas dasar inilah maka setiap orang Islam mesti menyeru kepada Allah sekadar apa yang diketahuinya sebagaimana yang akan kita jelaskan kemudian. Itulah yang dimaksudkan dalam kata -kata bahawa dakwah itu hanya ‘wajib keatas ulama dan tidak wajib kepada orang jahil’. Ertinya, wajib kepada siapa yang mengetahui sesuatu masalah dan mengetahui hukum masalah yang diserunya, sama ada dia orang biasa ataupun dia telah mempunyai ilmu agama yang banyak (ulama). Dari sini nyatalah kesalahan orang yang berkata bahawa maksud perkataan “ulama” ialah mereka yang mempunyai ilmu yang banyak sahaja. Kadang-kala mereka yang mempunyai ilmu ini digelar ‘orang agama’. Nama itu juga menepati setiap orang Islam, kerana setiap orang Islam itu adalah orang Islam. Oleh itu dakwah tidak terbatas kepada golongan tertentu sahaja, bahkan adalah profession semua individu Muslim.” <sup class=\"fn-ref\" data-fn-id=\"75\" title=\"Usul al-Da'wah, m.s. 274\">[75]</sup>"
         },
         {
           "type": "heading2",
           "text": "Tidak Sempurna Hidayah Tanpa Amar Makruf Nahi Mungkar",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Hidayah peribadi seseorang tidak akan dapat bertahan lama sekiranya dia membiarkan persekitarannya dipenuhi maksiat. Mempertahankan iman menuntut usaha membersihkan iklim masyarakat daripada kemungkaran.  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam mesti mewujudkan persekitaran soleh (*al-bi'ah as-solehah*) yang menyokong keteguhan iman para pemuda dan keluarga muslim."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Hidayah peribadi seseorang tidak akan dapat bertahan lama sekiranya dia membiarkan persekitarannya dipenuhi maksiat. Mempertahankan iman menuntut usaha membersihkan iklim masyarakat daripada kemungkaran. \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam mesti mewujudkan persekitaran soleh (*al-bi'ah as-solehah*) yang menyokong keteguhan iman para pemuda dan keluarga muslim."
         },
         {
           "type": "text",
@@ -2703,7 +2703,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Terdapat ramai da'i   yang menjalankan kerja amar makruf, nahi mungkar hingga melampaui batas-batas Allah sama ada secara sengaja, tidak sengaja, jahil atau zalim. Itulah perkara yang wajib disedari semasa kita menghadapi orang-orang kafir, munafik, fasik dan ahli maksiat."
+          "text": "Terdapat ramai da'i yang menjalankan kerja amar makruf, nahi mungkar hingga melampaui batas-batas Allah sama ada secara sengaja, tidak sengaja, jahil atau zalim. Itulah perkara yang wajib disedari semasa kita menghadapi orang-orang kafir, munafik, fasik dan ahli maksiat."
         },
         {
           "type": "text",
@@ -2723,7 +2723,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Penelitian terhadap ayat ini sangat bermanfaat kepada seseorang individu. Sekiranya anda amati perselisihan yang berlaku dalam kalangan umat ini sama ada dalam kalangan ulama, ahli ibadah, pemerintah dan pemimpinnya, kamu akan dapati sebahagian besar perselisihan tersebut adalah berupa tindakan melampau yang dilakukan sama ada dengan takwil ataupun tanpa takwil. Contohnya, pelampauan golongan Jahmiyah terhadap ahli sunnah di dalam isu ‘sifat-sifat Allah’ dan al-Quran, satu tribulasi yang dihadapi oleh Imam Ibnu Hanbal. Begitu juga golongan Syiah Rafidhah yang memerangi ahli sunnah dalam banyak kali; puak al-Nasibah bertindak melampau ke atas Ali r.a dan keluarganya; dan al-Musyabbihah melampaui ke atas al-Munazzahah. Begitu juga pelampauan sebahagian ahli sunnah sesama mereka atau terhadap sesetengah golongan bidaah, lebih dari yang diperintahkan Allah. Itulah sikap keterlaluan yang disebut dalam doa orang yang beriman dalam al-Quran:"
+          "text": "Penelitian terhadap ayat ini sangat bermanfaat kepada seseorang individu. Sekiranya anda amati perselisihan yang berlaku dalam kalangan umat ini sama ada dalam kalangan ulama, ahli ibadah, pemerintah dan pemimpinnya, kamu akan dapati sebahagian besar perselisihan tersebut adalah berupa tindakan melampau yang dilakukan sama ada dengan takwil ataupun tanpa takwil. Contohnya, pelampauan golongan Jahmiyah terhadap ahli sunnah di dalam isu ‘sifat-sifat Allah’ dan al-Quran, satu tribulasi yang dihadapi oleh Imam Ibnu Hanbal. Begitu juga golongan Syiah Rafidhah yang memerangi ahli sunnah dalam banyak kali; puak al-Nasibah bertindak melampau ke atas Ali RA dan keluarganya; dan al-Musyabbihah melampaui ke atas al-Munazzahah. Begitu juga pelampauan sebahagian ahli sunnah sesama mereka atau terhadap sesetengah golongan bidaah, lebih dari yang diperintahkan Allah. Itulah sikap keterlaluan yang disebut dalam doa orang yang beriman dalam al-Quran:"
         },
         {
           "type": "quran",
@@ -2735,19 +2735,19 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebaliknya pula terdapat segolongan yang bersikap cuai terhadap kebenaran atau apa yang diperintahkan atau terhadap pelaksanaan amar makruf dan nahi mungkar. Alangkah betulnya kata-kata seorang ahli salaf: “Setiap perkara yang diperintahkan oleh Allah pasti akan ditentang oleh syaitan dengan dua cara. Dia tidak peduli yang manakah antaranya yang lebih berkesan; melampau atau mengurangi perintah Allah.”  <sup class=\"fn-ref\" data-fn-id=\"77\" title=\"Melebih-lebihkan sesuatu perkara atau mengabaikannya. (Pnt)\">[77]</sup>"
+          "text": "Sebaliknya pula terdapat segolongan yang bersikap cuai terhadap kebenaran atau apa yang diperintahkan atau terhadap pelaksanaan amar makruf dan nahi mungkar. Alangkah betulnya kata-kata seorang ahli salaf: “Setiap perkara yang diperintahkan oleh Allah pasti akan ditentang oleh syaitan dengan dua cara. Dia tidak peduli yang manakah antaranya yang lebih berkesan; melampau atau mengurangi perintah Allah.” <sup class=\"fn-ref\" data-fn-id=\"77\" title=\"Melebih-lebihkan sesuatu perkara atau mengabaikannya. (Pnt)\">[77]</sup>"
         },
         {
           "type": "text",
-          "text": "Oleh itu, bila ada orang yang bekerjasama dalam dosa dan permusuhan, di sebaliknya ada pula orang yang tidak menolong pada kebaikan dan takwa. Ada orang yang menjalankan suruhan dan juga melakukan perkara yang dilarang di sebaliknya ada orang yang meninggalkan perkara yang dilarang dan sebahagian perkara yang disuruh. Moga Allah SWT menunjukkan kita jalan yang lurus. La haula wala quwwata illa billah.  <sup class=\"fn-ref\" data-fn-id=\"78\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 14, m.s. 479\">[78]</sup>"
+          "text": "Oleh itu, bila ada orang yang bekerjasama dalam dosa dan permusuhan, di sebaliknya ada pula orang yang tidak menolong pada kebaikan dan takwa. Ada orang yang menjalankan suruhan dan juga melakukan perkara yang dilarang di sebaliknya ada orang yang meninggalkan perkara yang dilarang dan sebahagian perkara yang disuruh. Moga Allah SWT menunjukkan kita jalan yang lurus. La haula wala quwwata illa billah. <sup class=\"fn-ref\" data-fn-id=\"78\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 14, m.s. 479\">[78]</sup>"
         },
         {
           "type": "text",
-          "text": "Demikianlah penjelasan Ibnu Taimiyah. Satu pendapat yang bernas dan mulia. Lantaran itu kami sertakan di sini dengan panjang lebar. Dalam pendahuluan buku ini, kami telah nyatakan rasa rendah diri di hadapan para imam, ulama, fuqaha dan da'i   Islam qudama dan kami utamakan nasihat mereka berbanding pandangan kontemperori dan apa yang mampu kami sendiri hasilkan."
+          "text": "Demikianlah penjelasan Ibnu Taimiyah. Satu pendapat yang bernas dan mulia. Lantaran itu kami sertakan di sini dengan panjang lebar. Dalam pendahuluan buku ini, kami telah nyatakan rasa rendah diri di hadapan para imam, ulama, fuqaha dan da'i Islam qudama dan kami utamakan nasihat mereka berbanding pandangan kontemperori dan apa yang mampu kami sendiri hasilkan."
         },
         {
           "type": "text",
-          "text": "Perlu disedari bahawa ulama terdahulu yang membolehkan sikap berdiam diri apabila berhadapan dengan kekuatan golongan yang jahat dan penyiksaan, keharusan ini hanyalah untuk orang awam yang lemah. Sebaliknya, para da'i  , pemimpin dan para ulama hendaklah mengambil jalan ‘azimah  <sup class=\"fn-ref\" data-fn-id=\"79\" title=\"Lawan bagi rukhsah. (Pnt)\">[79]</sup>    dalam menyatakan kebenaran sekali pun mereka disiksa, ditentang sehingga diancam dengan maut. Ianya telah dijelaskan oleh Ibnu Taimiyah yang akan kami sebutkan pada bab lain. Ia juga telah dijelaskan oleh ulama lain. Begitu juga sejarah yang berlaku kepada Imam Ibnu Hanbal semasa peristiwa fitnah yang menyatakan bahawa al-Quran itu makhluk. Perhatikanlah dari perspektif khusus kepentingan kata-kata Ibnu Taimiyah: “Hidayah itu tidak dapat diperolehi kecuali dengan mentaati Allah.”"
+          "text": "Perlu disedari bahawa ulama terdahulu yang membolehkan sikap berdiam diri apabila berhadapan dengan kekuatan golongan yang jahat dan penyiksaan, keharusan ini hanyalah untuk orang awam yang lemah. Sebaliknya, para da'i , pemimpin dan para ulama hendaklah mengambil jalan ‘azimah <sup class=\"fn-ref\" data-fn-id=\"79\" title=\"Lawan bagi rukhsah. (Pnt)\">[79]</sup> dalam menyatakan kebenaran sekali pun mereka disiksa, ditentang sehingga diancam dengan maut. Ianya telah dijelaskan oleh Ibnu Taimiyah yang akan kami sebutkan pada bab lain. Ia juga telah dijelaskan oleh ulama lain. Begitu juga sejarah yang berlaku kepada Imam Ibnu Hanbal semasa peristiwa fitnah yang menyatakan bahawa al-Quran itu makhluk. Perhatikanlah dari perspektif khusus kepentingan kata-kata Ibnu Taimiyah: “Hidayah itu tidak dapat diperolehi kecuali dengan mentaati Allah.”"
         },
         {
           "type": "quote",
@@ -2759,7 +2759,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mesti ada usaha gigih, kadangkala dengan cara lembut jika golongan sesat hanyalah individu-individu yang memerlukan tunjuk ajar dan penerangan. Tetapi mesti menggunakan apa cara saja yang boleh dan dibenarkan oleh syarak jika menghadapi kuasa jahat yang menghalang manusia dari hidayah Allah, menyingkirkan agama Allah dan menghalang syariat Allah dari ditegakkan. Ketika itu sahajalah – dan bukannya sebelumnya- gugurlah tugas ini dari mereka yang beriman.”  <sup class=\"fn-ref\" data-fn-id=\"80\" title=\"Al-Zilal, Juzu’ 7, Cetakan 1961, m.s. 59\">[80]</sup>"
+          "text": "Mesti ada usaha gigih, kadangkala dengan cara lembut jika golongan sesat hanyalah individu-individu yang memerlukan tunjuk ajar dan penerangan. Tetapi mesti menggunakan apa cara saja yang boleh dan dibenarkan oleh syarak jika menghadapi kuasa jahat yang menghalang manusia dari hidayah Allah, menyingkirkan agama Allah dan menghalang syariat Allah dari ditegakkan. Ketika itu sahajalah – dan bukannya sebelumnya- gugurlah tugas ini dari mereka yang beriman.” <sup class=\"fn-ref\" data-fn-id=\"80\" title=\"Al-Zilal, Juzu’ 7, Cetakan 1961, m.s. 59\">[80]</sup>"
         },
         {
           "type": "text",
@@ -2795,7 +2795,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya ayat-ayat al-Quran yang dikemukakan tadi tidak menggugurkan tanggungjawab untuk terus memerangi kejahatan, menentang kesesatan dan mengalahkan taghut dari bahu individu dan umat Islam. Taghut yang paling jahat ialah taghut yang merampas sifat uluhiah Allah, merampas kekuasaan Allah dan memperhambakan manusia kepada syariat yang bukan syariat Allah. Tidak ada gunanya individu atau umat itu mendapat hidayah sedangkan kemungkaran itu masih berkuasa dan berleluasa.”  <sup class=\"fn-ref\" data-fn-id=\"81\" title=\"Ibid, m.s. 59-60\">[81]</sup>"
+          "text": "Sesungguhnya ayat-ayat al-Quran yang dikemukakan tadi tidak menggugurkan tanggungjawab untuk terus memerangi kejahatan, menentang kesesatan dan mengalahkan taghut dari bahu individu dan umat Islam. Taghut yang paling jahat ialah taghut yang merampas sifat uluhiah Allah, merampas kekuasaan Allah dan memperhambakan manusia kepada syariat yang bukan syariat Allah. Tidak ada gunanya individu atau umat itu mendapat hidayah sedangkan kemungkaran itu masih berkuasa dan berleluasa.” <sup class=\"fn-ref\" data-fn-id=\"81\" title=\"Ibid, m.s. 59-60\">[81]</sup>"
         }
       ],
       "footnotes": [
@@ -2898,43 +2898,43 @@ window.ALMUNTALAQ_DATA = {
           "id": "c4_s0",
           "title": "Pengenalan: Keagungan Maqam Dakwah",
           "summary_title": "Mukadimah Bab 4: Maqam Dakwah Pewaris Nabi",
-          "summary": "* **Intipati & Pemahaman:**  \n  Dakwah kepada Allah adalah semulia-mulia maqam hamba di muka bumi kerana ia merupakan tugas asasi para rasul dan para pewaris mereka yang sebenar.  \n* **Nukilan Tokoh:**  \n  * **Imam Ibn al-Qayyim:** *“Kedudukan dakwah kepada Allah adalah semulia-mulia darjat hamba di sisi Allah.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan agenda dakwah sebagai keutamaan tertinggi dalam hidup, melepasi kepentingan peribadi, kekayaan, dan kerjaya keduniaan."
+          "summary": "* **Intipati & Pemahaman:** \n Dakwah kepada Allah adalah semulia-mulia maqam hamba di muka bumi kerana ia merupakan tugas asasi para rasul dan para pewaris mereka yang sebenar. \n* **Nukilan Tokoh:** \n * **Imam Ibn al-Qayyim:** *“Kedudukan dakwah kepada Allah adalah semulia-mulia darjat hamba di sisi Allah.”* \n* **Aplikasi Fiqh Haraki:** \n Menjadikan agenda dakwah sebagai keutamaan tertinggi dalam hidup, melepasi kepentingan peribadi, kekayaan, dan kerjaya keduniaan."
         },
         {
           "id": "c4_s1",
           "title": "Dakwah dan Da'i Daripada Sudut Bahasa dan Kata Dasarnya",
           "summary_title": "1. Definisi & Hakikat Dakwah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Secara bahasa dan istilah, dakwah bererti menyeru, membimbing, dan menarik manusia kepada jalan keselamatan dunia dan akhirat dengan penuh hikmah dan kejelasan hujah.  \n* **Aplikasi Fiqh Haraki:**  \n  Da'i bukan penghukum masyarakat, sebaliknya penunjuk jalan dan penyampai berita gembira serta peringatan yang ikhlas demi menyelamatkan umat daripada neraka."
+          "summary": "* **Intipati & Pemahaman:** \n Secara bahasa dan istilah, dakwah bererti menyeru, membimbing, dan menarik manusia kepada jalan keselamatan dunia dan akhirat dengan penuh hikmah dan kejelasan hujah. \n* **Aplikasi Fiqh Haraki:** \n Da'i bukan penghukum masyarakat, sebaliknya penunjuk jalan dan penyampai berita gembira serta peringatan yang ikhlas demi menyelamatkan umat daripada neraka."
         },
         {
           "id": "c4_s2",
           "title": "Dakwah Itu Adalah Tugas Para Rasul dan Pengikut Rasul",
           "summary_title": "2. Mengikuti Manhaj Para Rasul",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sesiapa yang mengaku mencintai Rasulullah SAW wajib membuktikannya dengan meneruskan legasi dakwah baginda mengikut manhaj wahyu yang sahih (*'ala bashirah*).  \n* **Aplikasi Fiqh Haraki:**  \n  Menelusuri sirah Nabawiyyah sebagai panduan marhalah dakwah: bermula dengan pembinaan akidah, pembentukan saf tanzimi, penyebaran syiar, sehinggalah penubuhan daulah Islam."
+          "summary": "* **Intipati & Pemahaman:** \n Sesiapa yang mengaku mencintai Rasulullah SAW wajib membuktikannya dengan meneruskan legasi dakwah baginda mengikut manhaj wahyu yang sahih (*'ala bashirah*). \n* **Aplikasi Fiqh Haraki:** \n Menelusuri sirah Nabawiyyah sebagai panduan marhalah dakwah: bermula dengan pembinaan akidah, pembentukan saf tanzimi, penyebaran syiar, sehinggalah penubuhan daulah Islam."
         },
         {
           "id": "c4_s3",
           "title": "Ayat-ayat Mengenai Dakwah, Amar makruf dan Nahi Mungkar",
           "summary_title": "3. Dalil-dalil Qath'ie Kewajipan Dakwah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Al-Quran sarat dengan perintah tegas mewajibkan dakwah dan amar makruf nahi mungkar sebagai syarat mutlak melayakkan umat ini menerima gelaran *Khairu Ummah* (Umat Terbaik).  \n* **Aplikasi Fiqh Haraki:**  \n  Umat yang meninggalkan amar makruf nahi mungkar akan dicabut kehebatannya dan doa mereka tidak lagi dimakbulkan Allah."
+          "summary": "* **Intipati & Pemahaman:** \n Al-Quran sarat dengan perintah tegas mewajibkan dakwah dan amar makruf nahi mungkar sebagai syarat mutlak melayakkan umat ini menerima gelaran *Khairu Ummah* (Umat Terbaik). \n* **Aplikasi Fiqh Haraki:** \n Umat yang meninggalkan amar makruf nahi mungkar akan dicabut kehebatannya dan doa mereka tidak lagi dimakbulkan Allah."
         },
         {
           "id": "c4_s4",
           "title": "Makna Fardu Kifayah – Menolak Alasan Berpeluk Tubuh",
           "summary_title": "4. Fardhu Kifayah Berubah Menjadi Fardhu 'Ain",
-          "summary": "* **Intipati & Pemahaman:**  \n  Menolak dakyah mereka yang enggan berjuang atas alasan kononnya dakwah itu sekadar fardhu kifayah. Selagi syiar Islam belum tertegak dan kemungkaran masih menguasai sistem, kewajipan menyokong dan berjuang bersama dakwah menjadi fardhu 'ain ke atas setiap mukmin mengikut kemampuannya.  \n* **Aplikasi Fiqh Haraki:**  \n  Menghapuskan tabiat berlepas tangan dalam kalangan ahli masyarakat; setiap muslim bertanggungjawab memikul bata perjuangan di tempat masing-masing."
+          "summary": "* **Intipati & Pemahaman:** \n Menolak dakyah mereka yang enggan berjuang atas alasan kononnya dakwah itu sekadar fardhu kifayah. Selagi syiar Islam belum tertegak dan kemungkaran masih menguasai sistem, kewajipan menyokong dan berjuang bersama dakwah menjadi fardhu 'ain ke atas setiap mukmin mengikut kemampuannya. \n* **Aplikasi Fiqh Haraki:** \n Menghapuskan tabiat berlepas tangan dalam kalangan ahli masyarakat; setiap muslim bertanggungjawab memikul bata perjuangan di tempat masing-masing."
         },
         {
           "id": "c4_s5",
           "title": "Erti Profesion Dakwah Adalah Kerja Ulama....",
           "summary_title": "5. Dakwah Bukan Monopoli Eksklusif",
-          "summary": "* **Intipati & Pemahaman:**  \n  Dakwah bukanlah monopoli golongan ustaz atau lepasan pengajian agama semata-mata. Setiap jurutera, doktor, usahawan, dan pendidik muslim wajib menjadikan profesionnya sebagai medan dakwah Islamiyyah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mobilisasi seluruh kepakaran umat dalam pelbagai sektor profesional untuk menyokong agenda kebangkitan Islam secara holistik."
+          "summary": "* **Intipati & Pemahaman:** \n Dakwah bukanlah monopoli golongan ustaz atau lepasan pengajian agama semata-mata. Setiap jurutera, doktor, usahawan, dan pendidik muslim wajib menjadikan profesionnya sebagai medan dakwah Islamiyyah. \n* **Aplikasi Fiqh Haraki:** \n Mobilisasi seluruh kepakaran umat dalam pelbagai sektor profesional untuk menyokong agenda kebangkitan Islam secara holistik."
         },
         {
           "id": "c4_s6",
           "title": "Tidak Sempurna Hidayah Tanpa Amar Makruf Nahi Mungkar",
           "summary_title": "6. Keselamatan Iman Terikat Dengan Pembersihan Masyarakat",
-          "summary": "* **Intipati & Pemahaman:**  \n  Hidayah peribadi seseorang tidak akan dapat bertahan lama sekiranya dia membiarkan persekitarannya dipenuhi maksiat. Mempertahankan iman menuntut usaha membersihkan iklim masyarakat daripada kemungkaran.  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam mesti mewujudkan persekitaran soleh (*al-bi'ah as-solehah*) yang menyokong keteguhan iman para pemuda dan keluarga muslim."
+          "summary": "* **Intipati & Pemahaman:** \n Hidayah peribadi seseorang tidak akan dapat bertahan lama sekiranya dia membiarkan persekitarannya dipenuhi maksiat. Mempertahankan iman menuntut usaha membersihkan iklim masyarakat daripada kemungkaran. \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam mesti mewujudkan persekitaran soleh (*al-bi'ah as-solehah*) yang menyokong keteguhan iman para pemuda dan keluarga muslim."
         }
       ]
     },
@@ -2948,7 +2948,7 @@ window.ALMUNTALAQ_DATA = {
         "Abdul Kadir aI-Kailani di Atas Jalan Dakwah dan Jihad",
         "Ibnu al-Jauzi Menyifatkan Mereka Yang Berani",
         "Tinggalkan Rumahmu di Belakang",
-        "Da'i   Adalah Pengembara"
+        "Da'i Adalah Pengembara"
       ],
       "paragraphs": [
         {
@@ -2961,7 +2961,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Meskipun kebelakangan ini terdapat banyak seruan daripada da'i   Islam yang mengajak orang ramai—khususnya golongan ahli ibadat—supaya bekerjasama dalam usaha amar makruf nahi mungkar, sebahagian besar daripada mereka sekadar meratapi realiti umat Islam dengan penuh kesedihan. Mereka masih tidak mengetahui jalan kerja (tariqul amal). Kalaupun mereka tahu, langkah mereka terhalang oleh rasa takut dan keinginan untuk menjaga kepentingan peribadi. Golongan ini bimbang untuk memikul risiko serta pengorbanan dakwah, selain terlalu berpaut pada harta dan kesenangan dunia."
+          "text": "Meskipun kebelakangan ini terdapat banyak seruan daripada da'i Islam yang mengajak orang ramai—khususnya golongan ahli ibadat—supaya bekerjasama dalam usaha amar makruf nahi mungkar, sebahagian besar daripada mereka sekadar meratapi realiti umat Islam dengan penuh kesedihan. Mereka masih tidak mengetahui jalan kerja (tariqul amal). Kalaupun mereka tahu, langkah mereka terhalang oleh rasa takut dan keinginan untuk menjaga kepentingan peribadi. Golongan ini bimbang untuk memikul risiko serta pengorbanan dakwah, selain terlalu berpaut pada harta dan kesenangan dunia."
         },
         {
           "type": "text",
@@ -2969,12 +2969,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mereka yang teguh bersolat, bersemangat tinggi, dan sarat dengan kepiluan melihat realiti ummah ini, hakikatnya turut menelaah kitab-kitab fikah, zuhud, dan al-Raqaiq yang kita petik ini. Namun, belenggu ketakutan telah membutakan mata hati mereka daripada menyambut laungan para pejuang ikhlas sepanjang zaman, sejak zaman sahabat Rasulullah sehingga ke hari ini. Para da'i   yang luhur ini tanpa jemu menyeru umat Islam agar bangkit berjuang, membawa khabar gembira tentang fajar baharu Islam, menyedarkan golongan yang lalai, serta mendesak ahli uzlah tadi keluar dari kepompong kesendirian. Mereka dituntut tampil ke tengah gelanggang dan medan jihad untuk berkorban. Maka, kesedihan luaran ini hanyalah kesedihan yang 'mandul', ibadah yang tidak dituntut, uzlah yang sia-sia, dan bidaah yang meruntuhkan, biarpun bersandarkan niat yang suci lagi ikhlas."
+          "text": "Mereka yang teguh bersolat, bersemangat tinggi, dan sarat dengan kepiluan melihat realiti ummah ini, hakikatnya turut menelaah kitab-kitab fikah, zuhud, dan al-Raqaiq yang kita petik ini. Namun, belenggu ketakutan telah membutakan mata hati mereka daripada menyambut laungan para pejuang ikhlas sepanjang zaman, sejak zaman sahabat Rasulullah sehingga ke hari ini. Para da'i yang luhur ini tanpa jemu menyeru umat Islam agar bangkit berjuang, membawa khabar gembira tentang fajar baharu Islam, menyedarkan golongan yang lalai, serta mendesak ahli uzlah tadi keluar dari kepompong kesendirian. Mereka dituntut tampil ke tengah gelanggang dan medan jihad untuk berkorban. Maka, kesedihan luaran ini hanyalah kesedihan yang 'mandul', ibadah yang tidak dituntut, uzlah yang sia-sia, dan bidaah yang meruntuhkan, biarpun bersandarkan niat yang suci lagi ikhlas."
         },
         {
           "type": "heading2",
           "text": "Siapakah yang Akan Memerangi Musuh Jika Kamu Memencilkan Diri?",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Jika semua orang beriman memilih untuk beruzlah di gua atau masjid semata-mata kerana takut terfitnah, siapakah yang akan bangkit mempertahankan maruah umat dan melawan serangan musuh?  \n* **Aplikasi Fiqh Haraki:**  \n  Keberanian terjun ke medan cabaran untuk membimbing manusia mempunyai pahala yang jauh lebih tinggi daripada beruzlah menyelamatkan diri sendiri."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Jika semua orang beriman memilih untuk beruzlah di gua atau masjid semata-mata kerana takut terfitnah, siapakah yang akan bangkit mempertahankan maruah umat dan melawan serangan musuh? \n* **Aplikasi Fiqh Haraki:** \n Keberanian terjun ke medan cabaran untuk membimbing manusia mempunyai pahala yang jauh lebih tinggi daripada beruzlah menyelamatkan diri sendiri."
         },
         {
           "type": "text",
@@ -2982,19 +2982,19 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seorang ahli fikah daripada kalangan tabiin Kufah yang arif lagi bijaksana, Amir as-Sya'bi, meriwayatkan bahawa terdapat beberapa orang lelaki yang telah keluar dari Kufah lalu menetap di pinggir bandar untuk beribadah di sana. Apabila berita tersebut sampai ke pengetahuan Abdullah bin Mas'ud r.a., beliau segera pergi menemui mereka. Kedatangan beliau disambut dengan penuh kegembiraan oleh kumpulan lelaki tersebut. Ibnu Mas'ud kemudiannya bertanya: “Apakah yang mendorong kamu bertindak sebegini?” Mereka menjawab: “Kami ingin menjauhkan diri daripada hingar-bingar dan hiruk-pikuk orang ramai demi menumpukan perhatian untuk beribadah.” Abdullah bin Mas'ud lantas membidas: “Jika semua orang bertindak seperti kamu, siapakah lagi yang akan memerangi musuh? Aku tidak akan berganjak dari tempat ini sehinggalah kamu semua pulang.” Kisah ini telah diriwayatkan oleh tokoh ulama hadis terkemuka, Abdullah bin al-Mubarak.’ <sup class=\"fn-ref\" data-fn-id=\"82\" title=\"Abdullah bin al-Mubarak, Kitab Al-Zuhd, m.s. 390\">[82]</sup>"
+          "text": "Seorang ahli fikah daripada kalangan tabiin Kufah yang arif lagi bijaksana, Amir as-Sya'bi, meriwayatkan bahawa terdapat beberapa orang lelaki yang telah keluar dari Kufah lalu menetap di pinggir bandar untuk beribadah di sana. Apabila berita tersebut sampai ke pengetahuan Abdullah bin Mas'ud RA, beliau segera pergi menemui mereka. Kedatangan beliau disambut dengan penuh kegembiraan oleh kumpulan lelaki tersebut. Ibnu Mas'ud kemudiannya bertanya: “Apakah yang mendorong kamu bertindak sebegini?” Mereka menjawab: “Kami ingin menjauhkan diri daripada hingar-bingar dan hiruk-pikuk orang ramai demi menumpukan perhatian untuk beribadah.” Abdullah bin Mas'ud lantas membidas: “Jika semua orang bertindak seperti kamu, siapakah lagi yang akan memerangi musuh? Aku tidak akan berganjak dari tempat ini sehinggalah kamu semua pulang.” Kisah ini telah diriwayatkan oleh tokoh ulama hadis terkemuka, Abdullah bin al-Mubarak.’ <sup class=\"fn-ref\" data-fn-id=\"82\" title=\"Abdullah bin al-Mubarak, Kitab Al-Zuhd, m.s. 390\">[82]</sup>"
         },
         {
           "type": "text",
-          "text": "Menurut pandangan saya (wallahu a'lam), amalan bidaah yang melibatkan tindakan mengasingkan diri dan beruzlah daripada masyarakat demi beribadah ini berkemungkinan besar ditiru daripada tradisi kaum Nasrani (Kristian). Di bumi Furat (Euphrates) yang terletak berhampiran dengan bandar Kufah, sememangnya terdapat banyak biara (monasteri). Wilayah tersebut juga merupakan petempatan puak Bani Tayy, kelompok yang giat menyebarkan agama Kristian sebelum kedatangan Islam. Fakta sejarah ini dibuktikan melalui kisah Adi bin Hatim al-Ta'iy r.a. yang pernah menganut agama Nasrani sebelum beliau memeluk Islam."
+          "text": "Menurut pandangan saya (wallahu a'lam), amalan bidaah yang melibatkan tindakan mengasingkan diri dan beruzlah daripada masyarakat demi beribadah ini berkemungkinan besar ditiru daripada tradisi kaum Nasrani (Kristian). Di bumi Furat (Euphrates) yang terletak berhampiran dengan bandar Kufah, sememangnya terdapat banyak biara (monasteri). Wilayah tersebut juga merupakan petempatan puak Bani Tayy, kelompok yang giat menyebarkan agama Kristian sebelum kedatangan Islam. Fakta sejarah ini dibuktikan melalui kisah Adi bin Hatim al-Ta'iy RA yang pernah menganut agama Nasrani sebelum beliau memeluk Islam."
         },
         {
           "type": "text",
-          "text": "Daripada kisah Abdullah bin Mas'ud ini, para da'i   merentas generasi dapat menimba suatu kesedaran yang tulen. Sesungguhnya, teguran beliau merupakan kalimah kebenaran, simbol kesedaran, dan lambang didikan Nabawi. Tanda-tanda kesedaran ini terpancar jelas melalui ungkapan mereka, sebagaimana yang terbayang pada raut wajah mereka. Siapakah lagi yang akan memerangi musuh jika ahli ibadat memilih untuk mengasingkan diri daripada masyarakat?"
+          "text": "Daripada kisah Abdullah bin Mas'ud ini, para da'i merentas generasi dapat menimba suatu kesedaran yang tulen. Sesungguhnya, teguran beliau merupakan kalimah kebenaran, simbol kesedaran, dan lambang didikan Nabawi. Tanda-tanda kesedaran ini terpancar jelas melalui ungkapan mereka, sebagaimana yang terbayang pada raut wajah mereka. Siapakah lagi yang akan memerangi musuh jika ahli ibadat memilih untuk mengasingkan diri daripada masyarakat?"
         },
         {
           "type": "text",
-          "text": "Siapakah yang akan menentang konspirasi Zionisme, Freemason, serta propaganda komunisme dan ateisme sekiranya orang yang bersolat serta ahli ibadat sekadar memerap di dalam masjid tanpa mahu menggembirakan tenaga bersama-sama da'i   Islam?"
+          "text": "Siapakah yang akan menentang konspirasi Zionisme, Freemason, serta propaganda komunisme dan ateisme sekiranya orang yang bersolat serta ahli ibadat sekadar memerap di dalam masjid tanpa mahu menggembirakan tenaga bersama-sama da'i Islam?"
         },
         {
           "type": "text",
@@ -3003,7 +3003,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Abdullah bin al-Mubarak Mewarisi Ibnu Mas'ud",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Ibn al-Mubarak menggabungkan ilmu hadis yang mendalam, perniagaan yang berjaya, kemurahan hati menafkahkan harta, dan keberanian di barisan hadapan medan peperangan menentang musuh Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Melahirkan kader dakwah yang berjiwa kental, mandiri dari sudut ekonomi, dan berani berkorban demi mempertahankan kedaulatan Islam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Ibn al-Mubarak menggabungkan ilmu hadis yang mendalam, perniagaan yang berjaya, kemurahan hati menafkahkan harta, dan keberanian di barisan hadapan medan peperangan menentang musuh Islam. \n* **Aplikasi Fiqh Haraki:** \n Melahirkan kader dakwah yang berjiwa kental, mandiri dari sudut ekonomi, dan berani berkorban demi mempertahankan kedaulatan Islam."
         },
         {
           "type": "text",
@@ -3015,7 +3015,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bukan itu saja, bahkan beliau juga adalah seorang da'i   dan mujahid. Setiap tahun beliau berperang di Rom dan menjadikan Tursus yang terletak di selatan Turki sebagai tempat tinggal. Sifat- sifat inilah yang menjadikan beliau pemimpin ahli hadis semasa zamannya."
+          "text": "Bukan itu saja, bahkan beliau juga adalah seorang da'i dan mujahid. Setiap tahun beliau berperang di Rom dan menjadikan Tursus yang terletak di selatan Turki sebagai tempat tinggal. Sifat- sifat inilah yang menjadikan beliau pemimpin ahli hadis semasa zamannya."
         },
         {
           "type": "text",
@@ -3055,7 +3055,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Malah, Kitab Allah sendiri telah mengisytiharkan di hadapan kita,Bahawa orang yang mati syahid itu tidak mati, dan ini sesungguhnya bukan suatu pendustaan.  <sup class=\"fn-ref\" data-fn-id=\"83\" title=\"Al-Subki, Tabaqat al-Syafiiyyah al-Kubra, Jilid 1, m.s. 287 (Hadis yang dimaksudkan oleh Ibnu al-Mub\">[83]</sup>"
+          "text": "Malah, Kitab Allah sendiri telah mengisytiharkan di hadapan kita,Bahawa orang yang mati syahid itu tidak mati, dan ini sesungguhnya bukan suatu pendustaan. <sup class=\"fn-ref\" data-fn-id=\"83\" title=\"Al-Subki, Tabaqat al-Syafiiyyah al-Kubra, Jilid 1, m.s. 287 (Hadis yang dimaksudkan oleh Ibnu al-Mub\">[83]</sup>"
         },
         {
           "type": "text",
@@ -3063,7 +3063,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Maka, apakah pula yang sewajarnya kita katakan kepada golongan pada hari ini yang tegar meninggalkan jihad dan dakwah, serta mengabaikan amar makruf nahi mungkar? Mereka berbuat demikian bukanlah kerana sibuk mengabdikan diri dengan ibadah, sebaliknya sekadar untuk bersenang-lenang, bermewah-mewah, menimbun harta, dan memuaskan hati pasangan masing-masing. Tidakkah patut kita tempelak ahli ibadat zaman ini dengan ungkapan bertenaga yang pernah dilaungkan oleh Abdullah bin al-Mubarak: 'Wahai ahli ibadat! Sekiranya kamu menyaksikan bagaimana para da'i   Islam bertarung menghalangkan kemaraan pendukung kekafiran (jahiliah) dan kelompok yang sesat, nescaya barulah kamu sedar bahawa kamu sebenarnya hanya bermain-main dalam ibadahmu.”"
+          "text": "Maka, apakah pula yang sewajarnya kita katakan kepada golongan pada hari ini yang tegar meninggalkan jihad dan dakwah, serta mengabaikan amar makruf nahi mungkar? Mereka berbuat demikian bukanlah kerana sibuk mengabdikan diri dengan ibadah, sebaliknya sekadar untuk bersenang-lenang, bermewah-mewah, menimbun harta, dan memuaskan hati pasangan masing-masing. Tidakkah patut kita tempelak ahli ibadat zaman ini dengan ungkapan bertenaga yang pernah dilaungkan oleh Abdullah bin al-Mubarak: 'Wahai ahli ibadat! Sekiranya kamu menyaksikan bagaimana para da'i Islam bertarung menghalangkan kemaraan pendukung kekafiran (jahiliah) dan kelompok yang sesat, nescaya barulah kamu sedar bahawa kamu sebenarnya hanya bermain-main dalam ibadahmu.”"
         },
         {
           "type": "text",
@@ -3072,7 +3072,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Abdul Kadir aI-Kailani di Atas Jalan Dakwah dan Jihad",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Syeikh Abdul Qadir al-Jailani bukanlah sufi pasif sebagaimana yang sering disalahfahami, sebaliknya beliau adalah murabbi agung yang membina generasi pejuang yang akhirnya melahirkan Sultan Salahuddin al-Ayyubi.  \n* **Aplikasi Fiqh Haraki:**  \n  Tasawuf yang muktabar adalah tasawuf yang mendidik jiwa untuk bermujahadah di jalan Allah dan menegakkan keadilan syariat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Syeikh Abdul Qadir al-Jailani bukanlah sufi pasif sebagaimana yang sering disalahfahami, sebaliknya beliau adalah murabbi agung yang membina generasi pejuang yang akhirnya melahirkan Sultan Salahuddin al-Ayyubi. \n* **Aplikasi Fiqh Haraki:** \n Tasawuf yang muktabar adalah tasawuf yang mendidik jiwa untuk bermujahadah di jalan Allah dan menegakkan keadilan syariat."
         },
         {
           "type": "text",
@@ -3080,7 +3080,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Beliau adalah Syeikh Abdul Qadir al-Kailani Rahimahullah. Seorang yang menjadi tauladan dan seorang ulama yang bijaksana. Beliau adalah faqih lagi thiqah dari fuqaha mazhab Hanbali di Baghdad. Biasanya Ulama Mazhab Hanbali di setiap masa adalah ahli ibadah yang zuhud dan jauh dari segala perkara yang lain dari ilmu (tajarrud ilmi). Beliau adalah bangSWTan dari keturunan Hasan al-Muthanna bin Hasan bin Ali bin Abi Talib r.a. Beliau dinasabkan dengan bandar Kailan kerana bandar itu adalah tempat kediaman datuk neneknya. Ibnu Taimiyah dan Ibnu al-Qayyim memberi pujian dan sanjungan tinggi kepadanya. Kedua-duanya menggelarnya “Tuan Guru yang menjadi model” sebagaimana yang kerap disebutkan dalam “Madarij al- Salikin.”"
+          "text": "Beliau adalah Syeikh Abdul Qadir al-Kailani Rahimahullah. Seorang yang menjadi tauladan dan seorang ulama yang bijaksana. Beliau adalah faqih lagi thiqah dari fuqaha mazhab Hanbali di Baghdad. Biasanya Ulama Mazhab Hanbali di setiap masa adalah ahli ibadah yang zuhud dan jauh dari segala perkara yang lain dari ilmu (tajarrud ilmi). Beliau adalah bangSWTan dari keturunan Hasan al-Muthanna bin Hasan bin Ali bin Abi Talib RA Beliau dinasabkan dengan bandar Kailan kerana bandar itu adalah tempat kediaman datuk neneknya. Ibnu Taimiyah dan Ibnu al-Qayyim memberi pujian dan sanjungan tinggi kepadanya. Kedua-duanya menggelarnya “Tuan Guru yang menjadi model” sebagaimana yang kerap disebutkan dalam “Madarij al- Salikin.”"
         },
         {
           "type": "text",
@@ -3108,7 +3108,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Wahai orang zuhud di muka bumi, majulah kamu. Robohkanlah tempat pertapaan kamu dan marilah dekatku. Sesungguhnya kamu telah duduk di tempatmu itu tanpa dalil. Kamu tidak melakukan apa-apa kebaikan. Majulah kamu.”  <sup class=\"fn-ref\" data-fn-id=\"84\" title=\"Syeikh Abdul Qadir, Al-Fath al-Rabbani, m.s. 73 (dengan sedikit pemotongan)\">[84]</sup>"
+          "text": "“Wahai orang zuhud di muka bumi, majulah kamu. Robohkanlah tempat pertapaan kamu dan marilah dekatku. Sesungguhnya kamu telah duduk di tempatmu itu tanpa dalil. Kamu tidak melakukan apa-apa kebaikan. Majulah kamu.” <sup class=\"fn-ref\" data-fn-id=\"84\" title=\"Syeikh Abdul Qadir, Al-Fath al-Rabbani, m.s. 73 (dengan sedikit pemotongan)\">[84]</sup>"
         },
         {
           "type": "text",
@@ -3120,20 +3120,20 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ambillah tempatmu dalam barisan da'i   Islam."
+          "text": "Ambillah tempatmu dalam barisan da'i Islam."
         },
         {
           "type": "heading2",
           "text": "Ibnu al-Jauzi Menyifatkan Mereka Yang Berani",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Imam Ibn al-Jauzi dalam *Shaid al-Khatir* memuji para rijal yang berani memikul amanah amar makruf nahi mungkar serta menegur kezaliman penguasa tanpa gentar.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina benteng keberanian moral dalam diri para da'i agar tidak tunduk kepada ugutan dan habuan duniawi."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Imam Ibn al-Jauzi dalam *Shaid al-Khatir* memuji para rijal yang berani memikul amanah amar makruf nahi mungkar serta menegur kezaliman penguasa tanpa gentar. \n* **Aplikasi Fiqh Haraki:** \n Membina benteng keberanian moral dalam diri para da'i agar tidak tunduk kepada ugutan dan habuan duniawi."
         },
         {
           "type": "text",
-          "text": "Dalam masa yang sama, ada juga da'i   lain di Baghdad yang berjiwa besar seperti Syeikh Abdul Qadir, menyeru penduduk Baghdad. Beliau adalah Abu al-Farj Abdul Rahman bin Al-Jauzi pengarang buku “Zad al-Masir fi Ilmi al-Tafsir” dan “Talbis Iblis” dan berpuluh-puluh kitab yang berguna bagi umat Islam."
+          "text": "Dalam masa yang sama, ada juga da'i lain di Baghdad yang berjiwa besar seperti Syeikh Abdul Qadir, menyeru penduduk Baghdad. Beliau adalah Abu al-Farj Abdul Rahman bin Al-Jauzi pengarang buku “Zad al-Masir fi Ilmi al-Tafsir” dan “Talbis Iblis” dan berpuluh-puluh kitab yang berguna bagi umat Islam."
         },
         {
           "type": "quote",
-          "text": "Beliau terus bertegas dan terus terang. Beliau tampil ke hadapan dan berkata: “Ahli zuhud adalah bagaikan kumbang-kumbang yang menanam diri mereka, mengasingkan diri daripada manfaat manusia. Mengasingkan diri itu baik jika sekiranya itu tidak menghalangnya dari membuat kebaikan, berjemaah, mengiringi jenazah dan menziarahi orang sakit. Walaubagaimanapun pengasingan diri itu adalah sikap pengecut. Mereka yang berani adalah mereka yang belajar dan mengajar dan inilah sebenarnya kedudukan para-Nabi a.s.”  <sup class=\"fn-ref\" data-fn-id=\"85\" title=\"Ibnu al-Jauzi, Said al-Khatir, m.s. 224, karangan Muhammad al-Ghazali\">[85]</sup>"
+          "text": "Beliau terus bertegas dan terus terang. Beliau tampil ke hadapan dan berkata: “Ahli zuhud adalah bagaikan kumbang-kumbang yang menanam diri mereka, mengasingkan diri daripada manfaat manusia. Mengasingkan diri itu baik jika sekiranya itu tidak menghalangnya dari membuat kebaikan, berjemaah, mengiringi jenazah dan menziarahi orang sakit. Walaubagaimanapun pengasingan diri itu adalah sikap pengecut. Mereka yang berani adalah mereka yang belajar dan mengajar dan inilah sebenarnya kedudukan para-Nabi a.s.” <sup class=\"fn-ref\" data-fn-id=\"85\" title=\"Ibnu al-Jauzi, Said al-Khatir, m.s. 224, karangan Muhammad al-Ghazali\">[85]</sup>"
         },
         {
           "type": "text",
@@ -3174,7 +3174,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Tinggalkan Rumahmu di Belakang",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Seruan menggegarkan jiwa daripada Syeikh Abdul Qadir al-Jailani kepada para muridnya: tinggalkan rumahmu dan zon selesa di belakang, keluarlah mengembara mencari jiwa manusia yang terperangkap dalam lumpur dosa untuk diselamatkan kepada Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Aktivis dakwah mesti sentiasa bersedia dikerahkan ke kawasan-kawasan sukar demi meluaskan pengaruh dan jaringan dakwah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Seruan menggegarkan jiwa daripada Syeikh Abdul Qadir al-Jailani kepada para muridnya: tinggalkan rumahmu dan zon selesa di belakang, keluarlah mengembara mencari jiwa manusia yang terperangkap dalam lumpur dosa untuk diselamatkan kepada Allah. \n* **Aplikasi Fiqh Haraki:** \n Aktivis dakwah mesti sentiasa bersedia dikerahkan ke kawasan-kawasan sukar demi meluaskan pengaruh dan jaringan dakwah."
         },
         {
           "type": "text",
@@ -3182,7 +3182,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Para perawi telah meriwayatkan kepada kita dari seorang sahabat Rasulullah SAW yang telah dijamin masuk syurga, iaitu Talhah bin Ubaidillah al-Quraisyi r.a. Beliau telah berkata: “Cukup jadi keaiban pada seseorang bila dia duduk diam di rumahnya.”  <sup class=\"fn-ref\" data-fn-id=\"87\" title=\"Tabaqat Ibnu Saad, Jilid 3, m.s. 221\">[87]</sup>"
+          "text": "Para perawi telah meriwayatkan kepada kita dari seorang sahabat Rasulullah SAW yang telah dijamin masuk syurga, iaitu Talhah bin Ubaidillah al-Quraisyi RA Beliau telah berkata: “Cukup jadi keaiban pada seseorang bila dia duduk diam di rumahnya.” <sup class=\"fn-ref\" data-fn-id=\"87\" title=\"Tabaqat Ibnu Saad, Jilid 3, m.s. 221\">[87]</sup>"
         },
         {
           "type": "quote",
@@ -3194,7 +3194,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sepatutnya ada seorang ulama atau faqih yang mengajar manusia tentang agama di setiap masjid dan kampung. Wajib ke atas setiap ahli fikah -yang telah selesai melaksanakan kewajiban fardu ain dan fardu kifayahnya- keluar ke negara berdekatan, sama ada ia didiami oleh manusia tidak kira bangsa Arab, kaum Kurdi atau kaum etnik lain bagi mengajar mereka tentang agama dan hukum-hukum syariat mereka.”  <sup class=\"fn-ref\" data-fn-id=\"88\" title=\"Ihya’ Ulumuddin, Jilid 2, m.s. 242\">[88]</sup>"
+          "text": "Sepatutnya ada seorang ulama atau faqih yang mengajar manusia tentang agama di setiap masjid dan kampung. Wajib ke atas setiap ahli fikah -yang telah selesai melaksanakan kewajiban fardu ain dan fardu kifayahnya- keluar ke negara berdekatan, sama ada ia didiami oleh manusia tidak kira bangsa Arab, kaum Kurdi atau kaum etnik lain bagi mengajar mereka tentang agama dan hukum-hukum syariat mereka.” <sup class=\"fn-ref\" data-fn-id=\"88\" title=\"Ihya’ Ulumuddin, Jilid 2, m.s. 242\">[88]</sup>"
         },
         {
           "type": "text",
@@ -3242,7 +3242,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Bagi tokoh-tokoh agama yang alim dan memahami sunnah, halal haram, kebaikan dan kejahatan, pandai bergaul dengan orang ramai, mengajar dan menasihati dalam bab-bab agama lebih utama baginya dari mengasingkan diri dari orang ramai dan menghabiskan masa untuk bersolat, membaca al-Quran dan bertasbih semata-mata.”  <sup class=\"fn-ref\" data-fn-id=\"91\" title=\"Ibnu al-Qayyim, Iddah al-Sabirin wa Dakhirah al-Syakirin, m.s. 93\">[91]</sup>"
+          "text": "“Bagi tokoh-tokoh agama yang alim dan memahami sunnah, halal haram, kebaikan dan kejahatan, pandai bergaul dengan orang ramai, mengajar dan menasihati dalam bab-bab agama lebih utama baginya dari mengasingkan diri dari orang ramai dan menghabiskan masa untuk bersolat, membaca al-Quran dan bertasbih semata-mata.” <sup class=\"fn-ref\" data-fn-id=\"91\" title=\"Ibnu al-Qayyim, Iddah al-Sabirin wa Dakhirah al-Syakirin, m.s. 93\">[91]</sup>"
         },
         {
           "type": "text",
@@ -3250,31 +3250,31 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "heading2",
-          "text": "Da'i   Adalah Pengembara"
+          "text": "Da'i Adalah Pengembara"
         },
         {
           "type": "text",
-          "text": "Da'i   tidak perlu merasa gundah gulana sekiranya dia tidak mempunyai masa lebih untuk banyak berqiamullail setiap hari, dan memperbanyakkan khatam Al-Quran kerana sibuk dengan urusan dakwah. Ini kerana, kerja-kerjanya dalam dakwah seperti mengajar manusia, memimpin mereka, mendidik pemuda-pemudi Islam dan membentuk mereka dengan bentuk Islam yang sejati itu lebih utama baginya dan lebih banyak pahalanya."
+          "text": "Da'i tidak perlu merasa gundah gulana sekiranya dia tidak mempunyai masa lebih untuk banyak berqiamullail setiap hari, dan memperbanyakkan khatam Al-Quran kerana sibuk dengan urusan dakwah. Ini kerana, kerja-kerjanya dalam dakwah seperti mengajar manusia, memimpin mereka, mendidik pemuda-pemudi Islam dan membentuk mereka dengan bentuk Islam yang sejati itu lebih utama baginya dan lebih banyak pahalanya."
         },
         {
           "type": "text",
-          "text": "Contoh bagi para da'i   ialah tokoh-tokoh da'i   dan ahli salaf yang mengembara di serata dunia untuk mengembangkan dakwah Islam dan menyampaikan risalah kepada manusia. Mereka memulakan bicara, dan bergaul dengan manusia lain dengan tujuan dakwah dan tidak menunggu-nunggu orang ramai untuk datang dan bertanya kepada mereka."
+          "text": "Contoh bagi para da'i ialah tokoh-tokoh da'i dan ahli salaf yang mengembara di serata dunia untuk mengembangkan dakwah Islam dan menyampaikan risalah kepada manusia. Mereka memulakan bicara, dan bergaul dengan manusia lain dengan tujuan dakwah dan tidak menunggu-nunggu orang ramai untuk datang dan bertanya kepada mereka."
         },
         {
           "type": "text",
-          "text": "Begitulah sikap yang sentiasa ada pada diri seorang da'i  …."
+          "text": "Begitulah sikap yang sentiasa ada pada diri seorang da'i …."
         },
         {
           "type": "quote",
-          "text": "Da'i   Islam pada hari ini mesti menjadi pengembara di pelusuk kota, kampung, negeri untuk menyampaikan seruan Islam kepada manusia. Sebagai contoh, lihatlah bagaimana utusan-utusan Rasulullah SAW yang mengelilingi dari lembah ke lembah dan kampung-kampung pedalaman untuk menyampaikan Islam kepada seluruh orang Arab. Mereka tidak menunggu orang datang ke Madinah. Cubalah kamu saksikan, apakah jawapan baginda apabila seorang badwi bertanya tentang rukun Islam. Apabila Rasulullah SAW menjawab, orang badwi tersebut berkata: “Tidak aku tambah atau aku kurangkan sesuatupun darinya.”"
+          "text": "Da'i Islam pada hari ini mesti menjadi pengembara di pelusuk kota, kampung, negeri untuk menyampaikan seruan Islam kepada manusia. Sebagai contoh, lihatlah bagaimana utusan-utusan Rasulullah SAW yang mengelilingi dari lembah ke lembah dan kampung-kampung pedalaman untuk menyampaikan Islam kepada seluruh orang Arab. Mereka tidak menunggu orang datang ke Madinah. Cubalah kamu saksikan, apakah jawapan baginda apabila seorang badwi bertanya tentang rukun Islam. Apabila Rasulullah SAW menjawab, orang badwi tersebut berkata: “Tidak aku tambah atau aku kurangkan sesuatupun darinya.”"
         },
         {
           "type": "quote",
-          "text": "Orang badwi tersebut ketika memulakan soalannya dengan berkata: “Hai Muhammad, utusanmu telah datang kepada kami dan telah menyatakan kepada kami bahawa kamu mengatakan bahawa kamu adalah utusan Allah?”  <sup class=\"fn-ref\" data-fn-id=\"92\" title=\"Sahih Muslim, Jilid 1, m.s. 32\">[92]</sup>"
+          "text": "Orang badwi tersebut ketika memulakan soalannya dengan berkata: “Hai Muhammad, utusanmu telah datang kepada kami dan telah menyatakan kepada kami bahawa kamu mengatakan bahawa kamu adalah utusan Allah?” <sup class=\"fn-ref\" data-fn-id=\"92\" title=\"Sahih Muslim, Jilid 1, m.s. 32\">[92]</sup>"
         },
         {
           "type": "text",
-          "text": "Jelaslah bahawa utusan Rasulullah telah pergi menemui mereka sebagai da'i  . Manusia perlu dilawati. Barangsiapa yang hanya menunggu orang ramai datang kepadanya, orang itu bukanlah da'i  ."
+          "text": "Jelaslah bahawa utusan Rasulullah telah pergi menemui mereka sebagai da'i . Manusia perlu dilawati. Barangsiapa yang hanya menunggu orang ramai datang kepadanya, orang itu bukanlah da'i ."
         },
         {
           "type": "text",
@@ -3337,43 +3337,43 @@ window.ALMUNTALAQ_DATA = {
           "id": "c5_s0",
           "title": "Pengenalan: Kritikan Terhadap Tasawuf Pasif",
           "summary_title": "Mukadimah Bab 5: Ahli Ibadat Yang Bermain-main",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kecaman keras terhadap pemahaman ibadah yang sempit—iaitu beriktikaf memencilkan diri sementara umat disembelih dan syariat diinjak-injak. Ibadah tanpa keprihatinan terhadap nasib umat adalah permainan yang sia-sia (*la'ib*).  \n* **Nukilan Tokoh:**  \n  * **Abdullah bin al-Mubarak:** Mengutuskan syair masyhur kepada Fudhail bin 'Iyadh: *“Wahai ahli ibadah di dua tanah suci! Jika engkau melihat kami di medan jihad, nescaya engkau sedar engkau sedang bermain-main dengan ibadahmu!”*  \n* **Aplikasi Fiqh Haraki:**  \n  Mengintegrasikan amalan kerohanian dengan penglibatan amal jama'i dan jihad di medan kemasyarakatan."
+          "summary": "* **Intipati & Pemahaman:** \n Kecaman keras terhadap pemahaman ibadah yang sempit—iaitu beriktikaf memencilkan diri sementara umat disembelih dan syariat diinjak-injak. Ibadah tanpa keprihatinan terhadap nasib umat adalah permainan yang sia-sia (*la'ib*). \n* **Nukilan Tokoh:** \n * **Abdullah bin al-Mubarak:** Mengutuskan syair masyhur kepada Fudhail bin 'Iyadh: *“Wahai ahli ibadah di dua tanah suci! Jika engkau melihat kami di medan jihad, nescaya engkau sedar engkau sedang bermain-main dengan ibadahmu!”* \n* **Aplikasi Fiqh Haraki:** \n Mengintegrasikan amalan kerohanian dengan penglibatan amal jama'i dan jihad di medan kemasyarakatan."
         },
         {
           "id": "c5_s1",
           "title": "Siapakah yang Akan Memerangi Musuh Jika Kamu Memencilkan Diri?",
           "summary_title": "1. Memerangi Musuh vs Memencilkan Diri",
-          "summary": "* **Intipati & Pemahaman:**  \n  Jika semua orang beriman memilih untuk beruzlah di gua atau masjid semata-mata kerana takut terfitnah, siapakah yang akan bangkit mempertahankan maruah umat dan melawan serangan musuh?  \n* **Aplikasi Fiqh Haraki:**  \n  Keberanian terjun ke medan cabaran untuk membimbing manusia mempunyai pahala yang jauh lebih tinggi daripada beruzlah menyelamatkan diri sendiri."
+          "summary": "* **Intipati & Pemahaman:** \n Jika semua orang beriman memilih untuk beruzlah di gua atau masjid semata-mata kerana takut terfitnah, siapakah yang akan bangkit mempertahankan maruah umat dan melawan serangan musuh? \n* **Aplikasi Fiqh Haraki:** \n Keberanian terjun ke medan cabaran untuk membimbing manusia mempunyai pahala yang jauh lebih tinggi daripada beruzlah menyelamatkan diri sendiri."
         },
         {
           "id": "c5_s2",
           "title": "Abdullah bin al-Mubarak Mewarisi Ibnu Mas'ud",
           "summary_title": "2. Qudwah Ulama Mujahid: Ibn al-Mubarak",
-          "summary": "* **Intipati & Pemahaman:**  \n  Ibn al-Mubarak menggabungkan ilmu hadis yang mendalam, perniagaan yang berjaya, kemurahan hati menafkahkan harta, dan keberanian di barisan hadapan medan peperangan menentang musuh Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Melahirkan kader dakwah yang berjiwa kental, mandiri dari sudut ekonomi, dan berani berkorban demi mempertahankan kedaulatan Islam."
+          "summary": "* **Intipati & Pemahaman:** \n Ibn al-Mubarak menggabungkan ilmu hadis yang mendalam, perniagaan yang berjaya, kemurahan hati menafkahkan harta, dan keberanian di barisan hadapan medan peperangan menentang musuh Islam. \n* **Aplikasi Fiqh Haraki:** \n Melahirkan kader dakwah yang berjiwa kental, mandiri dari sudut ekonomi, dan berani berkorban demi mempertahankan kedaulatan Islam."
         },
         {
           "id": "c5_s3",
           "title": "Abdul Kadir aI-Kailani di Atas Jalan Dakwah dan Jihad",
           "summary_title": "3. Syeikh Abdul Qadir al-Jailani: Tokoh Islah & Tarbiah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Syeikh Abdul Qadir al-Jailani bukanlah sufi pasif sebagaimana yang sering disalahfahami, sebaliknya beliau adalah murabbi agung yang membina generasi pejuang yang akhirnya melahirkan Sultan Salahuddin al-Ayyubi.  \n* **Aplikasi Fiqh Haraki:**  \n  Tasawuf yang muktabar adalah tasawuf yang mendidik jiwa untuk bermujahadah di jalan Allah dan menegakkan keadilan syariat."
+          "summary": "* **Intipati & Pemahaman:** \n Syeikh Abdul Qadir al-Jailani bukanlah sufi pasif sebagaimana yang sering disalahfahami, sebaliknya beliau adalah murabbi agung yang membina generasi pejuang yang akhirnya melahirkan Sultan Salahuddin al-Ayyubi. \n* **Aplikasi Fiqh Haraki:** \n Tasawuf yang muktabar adalah tasawuf yang mendidik jiwa untuk bermujahadah di jalan Allah dan menegakkan keadilan syariat."
         },
         {
           "id": "c5_s4",
           "title": "Ibnu al-Jauzi Menyifatkan Mereka Yang Berani",
           "summary_title": "4. Ibn al-Jauzi Memuji Rijal Yang Berani",
-          "summary": "* **Intipati & Pemahaman:**  \n  Imam Ibn al-Jauzi dalam *Shaid al-Khatir* memuji para rijal yang berani memikul amanah amar makruf nahi mungkar serta menegur kezaliman penguasa tanpa gentar.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina benteng keberanian moral dalam diri para da'i agar tidak tunduk kepada ugutan dan habuan duniawi."
+          "summary": "* **Intipati & Pemahaman:** \n Imam Ibn al-Jauzi dalam *Shaid al-Khatir* memuji para rijal yang berani memikul amanah amar makruf nahi mungkar serta menegur kezaliman penguasa tanpa gentar. \n* **Aplikasi Fiqh Haraki:** \n Membina benteng keberanian moral dalam diri para da'i agar tidak tunduk kepada ugutan dan habuan duniawi."
         },
         {
           "id": "c5_s5",
           "title": "Tinggalkan Rumahmu di Belakang",
           "summary_title": "5. Tinggalkan Rumahmu di Belakang (Keluar dari Zon Selesa)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Seruan menggegarkan jiwa daripada Syeikh Abdul Qadir al-Jailani kepada para muridnya: tinggalkan rumahmu dan zon selesa di belakang, keluarlah mengembara mencari jiwa manusia yang terperangkap dalam lumpur dosa untuk diselamatkan kepada Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Aktivis dakwah mesti sentiasa bersedia dikerahkan ke kawasan-kawasan sukar demi meluaskan pengaruh dan jaringan dakwah."
+          "summary": "* **Intipati & Pemahaman:** \n Seruan menggegarkan jiwa daripada Syeikh Abdul Qadir al-Jailani kepada para muridnya: tinggalkan rumahmu dan zon selesa di belakang, keluarlah mengembara mencari jiwa manusia yang terperangkap dalam lumpur dosa untuk diselamatkan kepada Allah. \n* **Aplikasi Fiqh Haraki:** \n Aktivis dakwah mesti sentiasa bersedia dikerahkan ke kawasan-kawasan sukar demi meluaskan pengaruh dan jaringan dakwah."
         },
         {
           "id": "c5_s6",
           "title": "Da'i Adalah Pengembara",
           "summary_title": "6. Da'i Sebagai Pengembara Risalah (As-Sayyah)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sifat asasi pendakwah ialah menjadi pengembara risalah (*as-sayyah*) yang proaktif mencari mad'u, menziarahi kampung dan kota, bukannya duduk menunggu orang datang meminta nasihat.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengamalkan budaya ziarah dakwah (*ziyarah da'awiyyah*) secara terancang bagi menyantuni masyarakat di akar umbi."
+          "summary": "* **Intipati & Pemahaman:** \n Sifat asasi pendakwah ialah menjadi pengembara risalah (*as-sayyah*) yang proaktif mencari mad'u, menziarahi kampung dan kota, bukannya duduk menunggu orang datang meminta nasihat. \n* **Aplikasi Fiqh Haraki:** \n Mengamalkan budaya ziarah dakwah (*ziyarah da'awiyyah*) secara terancang bagi menyantuni masyarakat di akar umbi."
         }
       ]
     },
@@ -3418,24 +3418,24 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Beliau adalah seorang da'i   dan reformis. Oleh itu, kita dapati setiap bukunya tertumpu kepada pengertian dakwah dan kewajipan dakwah. Menurut pandangan Abdul Qadir al-Kailani, ‘orang yang berjaya’ ialah orang yang dipilih oleh Allah:"
+          "text": "Beliau adalah seorang da'i dan reformis. Oleh itu, kita dapati setiap bukunya tertumpu kepada pengertian dakwah dan kewajipan dakwah. Menurut pandangan Abdul Qadir al-Kailani, ‘orang yang berjaya’ ialah orang yang dipilih oleh Allah:"
         },
         {
           "type": "quote",
-          "text": "“…dan Allah menjadikannya seorang cendekiawan yang menyeru manusia kepada Allah, memberi peringatan dan ancaman kepada mereka, menjadi hujah (dia telah menyampaikan Islam), pembawa hidayah dan menyampaikannya.” Kemudian beliau berkata: “Itulah matlamat tertinggi dalam kalangan bani Adam. Tiada darjat lain mengatasai mereka kecuali darjat kenabian.”  <sup class=\"fn-ref\" data-fn-id=\"93\" title=\"Syeikh Abdul Qadir, Futuh al-Ghaib, m.s. 49\">[93]</sup>"
+          "text": "“…dan Allah menjadikannya seorang cendekiawan yang menyeru manusia kepada Allah, memberi peringatan dan ancaman kepada mereka, menjadi hujah (dia telah menyampaikan Islam), pembawa hidayah dan menyampaikannya.” Kemudian beliau berkata: “Itulah matlamat tertinggi dalam kalangan bani Adam. Tiada darjat lain mengatasai mereka kecuali darjat kenabian.” <sup class=\"fn-ref\" data-fn-id=\"93\" title=\"Syeikh Abdul Qadir, Futuh al-Ghaib, m.s. 49\">[93]</sup>"
         },
         {
           "type": "heading2",
           "text": "Mukmin Bisu Adalah Ketinggalan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Orang beriman yang membisu dan tidak mahu mengambil tahu tentang percaturan pemikiran dan politik semasa akan dipijak oleh arus kemajuan musuh dan ditinggalkan di belakang sejarah.  \n* **Aplikasi Fiqh Haraki:**  \n  Kader dakwah wajib celik maklumat, menguasai teknologi semasa, dan sentiasa mengikuti perkembangan isu geopolitik dunia."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Orang beriman yang membisu dan tidak mahu mengambil tahu tentang percaturan pemikiran dan politik semasa akan dipijak oleh arus kemajuan musuh dan ditinggalkan di belakang sejarah. \n* **Aplikasi Fiqh Haraki:** \n Kader dakwah wajib celik maklumat, menguasai teknologi semasa, dan sentiasa mengikuti perkembangan isu geopolitik dunia."
         },
         {
           "type": "text",
-          "text": "Syeikh Abdul Qadir Kailani menganggap golongan bukan da'i   berada di martabat lain. Golongan itu merupakan orang mukmin yang mempunyai hati tetapi tiada lidah untuk menyampaikan dakwah. Mereka adalah antara makhluk Allah yang terlindung daripada makhluk dan terdinding di sebalik tirai. Kekurangan mereka menutup mata dan hati mereka daripada menerima hidayah."
+          "text": "Syeikh Abdul Qadir Kailani menganggap golongan bukan da'i berada di martabat lain. Golongan itu merupakan orang mukmin yang mempunyai hati tetapi tiada lidah untuk menyampaikan dakwah. Mereka adalah antara makhluk Allah yang terlindung daripada makhluk dan terdinding di sebalik tirai. Kekurangan mereka menutup mata dan hati mereka daripada menerima hidayah."
         },
         {
           "type": "text",
-          "text": "Oleh kerana mukmin tersebut tidak mempunyai lidah, turunlah martabatnya dan ketinggalanlah dia. Dia tidak mendapat gelaran yang hebat dan agung. Mukmin dan golongan yang pertama (yang berdakwah) dikatakan sebagai ‘jahbaz’ iaitu para cendekiawan, ‘da'i  ’ dan ‘hujah’ ibarat sinaran yang terang-benderang. Mukmin yang kedua (yang tidak berdakwah) dikatakan mukmin yang ‘mastur’ atau yang terselindung. Perbezaan bunyi dan sebutan antara dua kategori panggilan tersebut amatlah jauh sekali umpama langit dan bumi."
+          "text": "Oleh kerana mukmin tersebut tidak mempunyai lidah, turunlah martabatnya dan ketinggalanlah dia. Dia tidak mendapat gelaran yang hebat dan agung. Mukmin dan golongan yang pertama (yang berdakwah) dikatakan sebagai ‘jahbaz’ iaitu para cendekiawan, ‘da'i ’ dan ‘hujah’ ibarat sinaran yang terang-benderang. Mukmin yang kedua (yang tidak berdakwah) dikatakan mukmin yang ‘mastur’ atau yang terselindung. Perbezaan bunyi dan sebutan antara dua kategori panggilan tersebut amatlah jauh sekali umpama langit dan bumi."
         },
         {
           "type": "text",
@@ -3447,15 +3447,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kerana itulah Syeikh Abdul Qadir Kailani Rahimahullah cuba memahamkan bahawa perasaan seorang da'i   terhadap kemestian untuk mengubah perkara yang batil dan memenangkan hak merupakan satu kurniaan Allah bagi sesiapa yang ada kebaikan di dalam hatinya. Pengertian ini dibentuk dengan kata-kata yang lebih mudah, tetapi berharga. Iaitu: “Apabila betulnya hati seorang hamba itu kepada Allah SWT dan berjaya menghampirkan diri kepadaNya, Dia akan mengurniakan kepada hamba tersebut kerajaan dan kekuasaan di seluruh alam. Dia menyerahkan kepadanya kerja mengembangkan dakwah kepada makhlukNya, dikurniakan kepadanya kesabaran terhadap gangguan manusia, serta diserahkan kepadanya urusan mengubah kebatilan dan menegakkan kebenaran.”  <sup class=\"fn-ref\" data-fn-id=\"94\" title=\"Syeikh Abdul Qadir, al-Fath al-Rabbani, m.s. 144\">[94]</sup>"
+          "text": "Kerana itulah Syeikh Abdul Qadir Kailani Rahimahullah cuba memahamkan bahawa perasaan seorang da'i terhadap kemestian untuk mengubah perkara yang batil dan memenangkan hak merupakan satu kurniaan Allah bagi sesiapa yang ada kebaikan di dalam hatinya. Pengertian ini dibentuk dengan kata-kata yang lebih mudah, tetapi berharga. Iaitu: “Apabila betulnya hati seorang hamba itu kepada Allah SWT dan berjaya menghampirkan diri kepadaNya, Dia akan mengurniakan kepada hamba tersebut kerajaan dan kekuasaan di seluruh alam. Dia menyerahkan kepadanya kerja mengembangkan dakwah kepada makhlukNya, dikurniakan kepadanya kesabaran terhadap gangguan manusia, serta diserahkan kepadanya urusan mengubah kebatilan dan menegakkan kebenaran.” <sup class=\"fn-ref\" data-fn-id=\"94\" title=\"Syeikh Abdul Qadir, al-Fath al-Rabbani, m.s. 144\">[94]</sup>"
         },
         {
           "type": "text",
-          "text": "Demikianlah tingginya bahasa bila ia terbit daripada pelita kenabian, sama ada keluarga dari aspek nasab atau ilmu. Syeikh Abdul Qadir berada di kemuncak kemuliaan kerana nasabnya dari keturunan Ali r.a. Tambahan pula, beliau menguasai ilmu hadis dan memahami kata-kata Imam Ahmad bin Hanbal Rahimahullah: “Sesungguhnya peluang untuk mengembangkan dakwah itu adalah taufiq dari Allah. Allahlah yang memudahkannya bagi siapa yang didapati ada kebaikan dalam hatinya hatinya. Tugas itu adalah satu penghormatan dari Allah kepada seorang hamba, bukannya bebanan.”"
+          "text": "Demikianlah tingginya bahasa bila ia terbit daripada pelita kenabian, sama ada keluarga dari aspek nasab atau ilmu. Syeikh Abdul Qadir berada di kemuncak kemuliaan kerana nasabnya dari keturunan Ali RA Tambahan pula, beliau menguasai ilmu hadis dan memahami kata-kata Imam Ahmad bin Hanbal Rahimahullah: “Sesungguhnya peluang untuk mengembangkan dakwah itu adalah taufiq dari Allah. Allahlah yang memudahkannya bagi siapa yang didapati ada kebaikan dalam hatinya hatinya. Tugas itu adalah satu penghormatan dari Allah kepada seorang hamba, bukannya bebanan.”"
         },
         {
           "type": "text",
-          "text": "Renunglah dengan teliti terhadap kata-kata al-Kailani diatas yang bermaksud: “…serta diserahkan kepadanya urusan mengubah kebatilan dan menegakkan kebenaran...” Kebatilan wajib diubah oleh da'i  . Ubah ertinya hendaklah diperangi, dihapuskan dan dikuburkan. Jika sekiranya kamu berharap agar kebatilan itu sendiri meninggalkan tempatnya dan menyerahkannya kepada kamu atau jika kamu berharap kamu akan dapat berbicara dengannya mengunakan bahasa diplomasi...."
+          "text": "Renunglah dengan teliti terhadap kata-kata al-Kailani diatas yang bermaksud: “…serta diserahkan kepadanya urusan mengubah kebatilan dan menegakkan kebenaran...” Kebatilan wajib diubah oleh da'i . Ubah ertinya hendaklah diperangi, dihapuskan dan dikuburkan. Jika sekiranya kamu berharap agar kebatilan itu sendiri meninggalkan tempatnya dan menyerahkannya kepada kamu atau jika kamu berharap kamu akan dapat berbicara dengannya mengunakan bahasa diplomasi...."
         },
         {
           "type": "text",
@@ -3464,11 +3464,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kita Hubungkan Generasi Lalu Dengan Generasi Seterusnya",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Misi gerakan Islam adalah membina jambatan kefahaman antara generasi pengasas yang kaya pengalaman dengan generasi muda yang sarat tenaga dan kreativiti.  \n* **Aplikasi Fiqh Haraki:**  \n  Mewujudkan proses pewarisan kepimpinan (*tawaruth al-qiyadah*) yang harmoni tanpa jurang konflik generasi."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Misi gerakan Islam adalah membina jambatan kefahaman antara generasi pengasas yang kaya pengalaman dengan generasi muda yang sarat tenaga dan kreativiti. \n* **Aplikasi Fiqh Haraki:** \n Mewujudkan proses pewarisan kepimpinan (*tawaruth al-qiyadah*) yang harmoni tanpa jurang konflik generasi."
         },
         {
           "type": "text",
-          "text": "Sesungguhnya, Islam hari ini sangat -sangat memerlukan kepada satu kumpulan da'i   yang memiliki kefahaman ‘mengubah’ ini, memahami betul-betul kewajiban membawa petunjuk kepada manusia, tahu kedudukan mereka dalam angkatan dakwah yang berjalan dan mengerti bahawa mereka adalah mata rantai yang menghubungkan angkatan dahulu dengan angkatan yang akan datang nanti. Mereka bersama mengumandang nasyid:"
+          "text": "Sesungguhnya, Islam hari ini sangat -sangat memerlukan kepada satu kumpulan da'i yang memiliki kefahaman ‘mengubah’ ini, memahami betul-betul kewajiban membawa petunjuk kepada manusia, tahu kedudukan mereka dalam angkatan dakwah yang berjalan dan mengerti bahawa mereka adalah mata rantai yang menghubungkan angkatan dahulu dengan angkatan yang akan datang nanti. Mereka bersama mengumandang nasyid:"
         },
         {
           "type": "text",
@@ -3484,7 +3484,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Wajib pula kita menunjukkan jalan kepada generasi depan.  <sup class=\"fn-ref\" data-fn-id=\"95\" title=\"Abdul Wahab Azzam, Diwan al-Mathani, m.s. 149\">[95]</sup>"
+          "text": "Wajib pula kita menunjukkan jalan kepada generasi depan. <sup class=\"fn-ref\" data-fn-id=\"95\" title=\"Abdul Wahab Azzam, Diwan al-Mathani, m.s. 149\">[95]</sup>"
         },
         {
           "type": "text",
@@ -3500,7 +3500,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Orang itu menyangka bahawa dia telah lari dari kehinaan menuju kemuliaan, tetapi pelariaannya dari memerangi kehinaan itulah kehinaan bagi dirinya. Apa ertinya kesucian, amanah, al-sidq, kesetiaan, kebaikan, ehsan dan lain-lain kemuliaan bagi seorang yang berada keseorangan di padang pasir atau di puncak gunung? Bolehkah dianggap al’-sidq itu satu kemuliaan pada seseorang manusia jika di sekelilingnya hanya ada ketulan-ketulan batu? Demi Allah, sesungguhnya siapa yang langsung tidak memerangi keburukan, maka dia sebenarnya langsung tidak mempunyai kebaikan dan kelebihan.”  <sup class=\"fn-ref\" data-fn-id=\"96\" title=\"Wahyu al-Qalam, Jilid 2, m.s. 97\">[96]</sup>"
+          "text": "“Orang itu menyangka bahawa dia telah lari dari kehinaan menuju kemuliaan, tetapi pelariaannya dari memerangi kehinaan itulah kehinaan bagi dirinya. Apa ertinya kesucian, amanah, al-sidq, kesetiaan, kebaikan, ehsan dan lain-lain kemuliaan bagi seorang yang berada keseorangan di padang pasir atau di puncak gunung? Bolehkah dianggap al’-sidq itu satu kemuliaan pada seseorang manusia jika di sekelilingnya hanya ada ketulan-ketulan batu? Demi Allah, sesungguhnya siapa yang langsung tidak memerangi keburukan, maka dia sebenarnya langsung tidak mempunyai kebaikan dan kelebihan.” <sup class=\"fn-ref\" data-fn-id=\"96\" title=\"Wahyu al-Qalam, Jilid 2, m.s. 97\">[96]</sup>"
         },
         {
           "type": "text",
@@ -3520,28 +3520,28 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Di dunia Islam pada hari ini ada generasi terpelajar yang mepunyai ilmu Islam yang tinggi. Mereka bersungguh-sungguh mengembalikan semula kedudukan Islam yang telah hilang. Dalam menegakkan kebenaran, mereka tidak takut kepada cercaan orang ramai. Namun, kekurangan mereka yang ketara ialah mereka terpengaruh oleh pendekatan generasi terdahulu. Kebanyakan kerja-kerja mereka tertumpu kepada soal ibadah dan nasihat sahaja. Adalah lebih baik bagi mereka dan bagi agama ini sekiranya mereka tumpukan sebahagian besar usaha mereka bagi mengingatkan orang Islam terhadap perlunya menghidupkan semula syariat mereka yang telah dipinggirkan dan menghapuskan undang-undang mereka yang bertentangan dengan Islam.”  <sup class=\"fn-ref\" data-fn-id=\"97\" title=\"Islam Baina Jahli Abnaihi wa Ajzi Ulamaihi, m.s. 65\">[97]</sup>"
+          "text": "“Di dunia Islam pada hari ini ada generasi terpelajar yang mepunyai ilmu Islam yang tinggi. Mereka bersungguh-sungguh mengembalikan semula kedudukan Islam yang telah hilang. Dalam menegakkan kebenaran, mereka tidak takut kepada cercaan orang ramai. Namun, kekurangan mereka yang ketara ialah mereka terpengaruh oleh pendekatan generasi terdahulu. Kebanyakan kerja-kerja mereka tertumpu kepada soal ibadah dan nasihat sahaja. Adalah lebih baik bagi mereka dan bagi agama ini sekiranya mereka tumpukan sebahagian besar usaha mereka bagi mengingatkan orang Islam terhadap perlunya menghidupkan semula syariat mereka yang telah dipinggirkan dan menghapuskan undang-undang mereka yang bertentangan dengan Islam.” <sup class=\"fn-ref\" data-fn-id=\"97\" title=\"Islam Baina Jahli Abnaihi wa Ajzi Ulamaihi, m.s. 65\">[97]</sup>"
         },
         {
           "type": "heading2",
           "text": "Imam Ahmad Sendiri Melakukan Amal Tajmi’",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Ketika menghadapi fitnah khalq al-Quran, Imam Ahmad tidak berjuang bersendirian; beliau melakukan 'amal tajmi''—menghimpunkan para ulama, pelajar, dan masyarakat membentuk benteng ketahanan akidah Sunnah.  \n* **Aplikasi Fiqh Haraki:**  \n  Ketahanan dalam menghadapi mihnah memerlukan pengukuhan saf tanzimi dan solidariti jama'iyyah yang padu."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Ketika menghadapi fitnah khalq al-Quran, Imam Ahmad tidak berjuang bersendirian; beliau melakukan 'amal tajmi''—menghimpunkan para ulama, pelajar, dan masyarakat membentuk benteng ketahanan akidah Sunnah. \n* **Aplikasi Fiqh Haraki:** \n Ketahanan dalam menghadapi mihnah memerlukan pengukuhan saf tanzimi dan solidariti jama'iyyah yang padu."
         },
         {
           "type": "text",
-          "text": "Da'i   mesti mengenalpasti angkatan pemuda yang terbaik di dalam masyarakat dan seterusnya bergaul dan berkenalan dengan mereka, menziarahi mereka dan mengajar mereka kaedah menggabungkan dan menyelaraskan tenaga-tenaga Islam. Tindakan ini akan memperbaharui sejarah yang dicatatkan oleh Imam Ahmad bin Hanbal, seorang da'i   yang dihormati."
+          "text": "Da'i mesti mengenalpasti angkatan pemuda yang terbaik di dalam masyarakat dan seterusnya bergaul dan berkenalan dengan mereka, menziarahi mereka dan mengajar mereka kaedah menggabungkan dan menyelaraskan tenaga-tenaga Islam. Tindakan ini akan memperbaharui sejarah yang dicatatkan oleh Imam Ahmad bin Hanbal, seorang da'i yang dihormati."
         },
         {
           "type": "text",
-          "text": "Diceritakan: “Apabila sampai kepada Imam Ahmad berita tentang seorang lelaki yang soleh atau zuhud atau yang menegakkan kebenaran dan mengikuti perintah Allah, beliau akan bertanya mengenai orang tersebut. Beliau amat gembira jika dapat berkenalan dengannya serta mengetahui hal ehwalnya.”  <sup class=\"fn-ref\" data-fn-id=\"98\" title=\"Ibnu al-Jauzi, Manaqib al-Imam Ahmad, m.s. 218\">[98]</sup>   Lihatlah, Imam Ahmad tidak mengasingkan diri dan lari dari orang ramai."
+          "text": "Diceritakan: “Apabila sampai kepada Imam Ahmad berita tentang seorang lelaki yang soleh atau zuhud atau yang menegakkan kebenaran dan mengikuti perintah Allah, beliau akan bertanya mengenai orang tersebut. Beliau amat gembira jika dapat berkenalan dengannya serta mengetahui hal ehwalnya.” <sup class=\"fn-ref\" data-fn-id=\"98\" title=\"Ibnu al-Jauzi, Manaqib al-Imam Ahmad, m.s. 218\">[98]</sup> Lihatlah, Imam Ahmad tidak mengasingkan diri dan lari dari orang ramai."
         },
         {
           "type": "text",
-          "text": "Da'i   hari ini sepatutnya sentiasa mencari orang ramai, bertanya khabar, menemui dan bermusafir untuk menemui mereka serta menziarahi mereka di dalam tempat perhimpunan mereka. Orang yang hanya menunggu kedatangan orang ramai untuk menemuinya sama ada di masjid atau di rumahnya, dia hanya akan tertinggal keseorangan dan dia hanya akan mempelajari seni menguap dan mengantuk."
+          "text": "Da'i hari ini sepatutnya sentiasa mencari orang ramai, bertanya khabar, menemui dan bermusafir untuk menemui mereka serta menziarahi mereka di dalam tempat perhimpunan mereka. Orang yang hanya menunggu kedatangan orang ramai untuk menemuinya sama ada di masjid atau di rumahnya, dia hanya akan tertinggal keseorangan dan dia hanya akan mempelajari seni menguap dan mengantuk."
         },
         {
           "type": "text",
-          "text": "Sebagai contoh, lihatlah kesungguhan Imam Ahmad yang disebut sewaktu sebahagian ulama memperkenalkan Musa bin Hizam (guru kepada Imam al-Bukhari dan al-Tarmizi). “Beliau (Musa bin Hizam) adalah seorang soleh dan thiqah. Walaupun begitu sebenarnya pada peringkat awal, Musa menganut fahaman Murji'ah yang menyeleweng. Kemudian Allah menolongnya melalui Ahmad bin Hanbal. Beliau berubah dan menjadi pengikut sunnah, membela sunnah dan menentang siapa yang menyalahi sunnah, terus berpegang pada agama dan sunnah hinggalah beliau wafat”  <sup class=\"fn-ref\" data-fn-id=\"99\" title=\"Ibnu al-Jauzi, Tahzib al-Tahzib, Jilid 10, m.s. 341\">[99]</sup>"
+          "text": "Sebagai contoh, lihatlah kesungguhan Imam Ahmad yang disebut sewaktu sebahagian ulama memperkenalkan Musa bin Hizam (guru kepada Imam al-Bukhari dan al-Tarmizi). “Beliau (Musa bin Hizam) adalah seorang soleh dan thiqah. Walaupun begitu sebenarnya pada peringkat awal, Musa menganut fahaman Murji'ah yang menyeleweng. Kemudian Allah menolongnya melalui Ahmad bin Hanbal. Beliau berubah dan menjadi pengikut sunnah, membela sunnah dan menentang siapa yang menyalahi sunnah, terus berpegang pada agama dan sunnah hinggalah beliau wafat” <sup class=\"fn-ref\" data-fn-id=\"99\" title=\"Ibnu al-Jauzi, Tahzib al-Tahzib, Jilid 10, m.s. 341\">[99]</sup>"
         },
         {
           "type": "text",
@@ -3549,7 +3549,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bayangkanlah bagaimana tekunnya Imam Ahmad mendampingi beliau, duduk lama bersama, berbincang dengan lemah lembut, tenang, penuh hikmat dan nasihat yang baik sehingga berjaya memalingkan beliau daripada bidaah golongan Murji'ah. Bidaah itu telah membuatkannya beranggapan bahawa amalan bukanlah merupakan syarat kepada iman tetapi iman hanyalah kepercayaan dalam hati sahaja. Imam Ahmad kemudiannya duduk lagi bersamanya, mengajarnya pula tentang hadis. Kemudian duduk lagi bersamanya bagi membangkitkan semangat. Begitulah secara terus-menerus sehingga akhirnya beliau menjadi pembela sunnah yang setia, menentang ahli bidaah dan golongan pengikut hawa nafsu hinggalah beliau meninggal dunia. Begitulah cara berdakwah dan berkhidmat demi Islam. Begitulah sikap para da'i   salafussoleh terdahulu."
+          "text": "Bayangkanlah bagaimana tekunnya Imam Ahmad mendampingi beliau, duduk lama bersama, berbincang dengan lemah lembut, tenang, penuh hikmat dan nasihat yang baik sehingga berjaya memalingkan beliau daripada bidaah golongan Murji'ah. Bidaah itu telah membuatkannya beranggapan bahawa amalan bukanlah merupakan syarat kepada iman tetapi iman hanyalah kepercayaan dalam hati sahaja. Imam Ahmad kemudiannya duduk lagi bersamanya, mengajarnya pula tentang hadis. Kemudian duduk lagi bersamanya bagi membangkitkan semangat. Begitulah secara terus-menerus sehingga akhirnya beliau menjadi pembela sunnah yang setia, menentang ahli bidaah dan golongan pengikut hawa nafsu hinggalah beliau meninggal dunia. Begitulah cara berdakwah dan berkhidmat demi Islam. Begitulah sikap para da'i salafussoleh terdahulu."
         },
         {
           "type": "text",
@@ -3577,7 +3577,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seperti mana para da'i   pernah merangkul kamu, maka kamu juga wajib merangkul orang lain. Pelukan yang meletakkan batas pemisah antara zaman dan masa berehat dan selesa dengan zaman memikul amanah secara tekad, penuh keAzzaman dan kesetiaan."
+          "text": "Seperti mana para da'i pernah merangkul kamu, maka kamu juga wajib merangkul orang lain. Pelukan yang meletakkan batas pemisah antara zaman dan masa berehat dan selesa dengan zaman memikul amanah secara tekad, penuh keAzzaman dan kesetiaan."
         },
         {
           "type": "text",
@@ -3585,7 +3585,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya bagi para salafussoleh r.a saat yang paling gembira bagi mereka ialah ketika melakukan kerja-kerja dakwah dan membawa hidayah kepada seseorang hasil asuhan tangan mereka."
+          "text": "Sesungguhnya bagi para salafussoleh RA saat yang paling gembira bagi mereka ialah ketika melakukan kerja-kerja dakwah dan membawa hidayah kepada seseorang hasil asuhan tangan mereka."
         },
         {
           "type": "quote",
@@ -3597,7 +3597,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dia berkata lagi: “Apabila aku melihat seorang murid yang benar telah berjaya lahir di bawah bimbinganku, aku pun merasai kekenyangan, puas dan aku merasa bangga dan gembira memikirkan bagaimana ia boleh terhasil daripada bimbinganku?”  <sup class=\"fn-ref\" data-fn-id=\"100\" title=\"Al-Fathu Al-Rabbani, m.s. 27\">[100]</sup>"
+          "text": "Dia berkata lagi: “Apabila aku melihat seorang murid yang benar telah berjaya lahir di bawah bimbinganku, aku pun merasai kekenyangan, puas dan aku merasa bangga dan gembira memikirkan bagaimana ia boleh terhasil daripada bimbinganku?” <sup class=\"fn-ref\" data-fn-id=\"100\" title=\"Al-Fathu Al-Rabbani, m.s. 27\">[100]</sup>"
         },
         {
           "type": "text",
@@ -3605,16 +3605,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seorang alim yang sebenarnya ialah seorang da'i  . Bagi orang alim yang hanya mengarang kitab semata-mata, kita katakan kepada mereka: “Demi Allah, kamu bukanlah ulama atau orang yang bijaksana, tetapi kamu hanyalah memperdagangkan ilmu.”  <sup class=\"fn-ref\" data-fn-id=\"101\" title=\"Abdul Wahab Azzam, Diwan al-Mathani, m.s. 97\">[101]</sup>"
+          "text": "Seorang alim yang sebenarnya ialah seorang da'i . Bagi orang alim yang hanya mengarang kitab semata-mata, kita katakan kepada mereka: “Demi Allah, kamu bukanlah ulama atau orang yang bijaksana, tetapi kamu hanyalah memperdagangkan ilmu.” <sup class=\"fn-ref\" data-fn-id=\"101\" title=\"Abdul Wahab Azzam, Diwan al-Mathani, m.s. 97\">[101]</sup>"
         },
         {
           "type": "text",
-          "text": "Islam hari ini tidak memerlukan penambahan lagi terhadap kajian-kajian dalam cabang-cabang ilmu fikah berbanding keperluannya kepada da'i   yang bergabung tenaga, tolong-menolong dan berganding bahu sesama mereka."
+          "text": "Islam hari ini tidak memerlukan penambahan lagi terhadap kajian-kajian dalam cabang-cabang ilmu fikah berbanding keperluannya kepada da'i yang bergabung tenaga, tolong-menolong dan berganding bahu sesama mereka."
         },
         {
           "type": "heading2",
           "text": "Fiqh Dakwah Seorang Menteri Yang Juga Seorang Da'i",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Wazir Yahya bin Hubairah membuktikan bagaimana kuasa politik dan kedudukan menteri kanan negara boleh dimanfaatkan sepenuhnya untuk menyatukan mazhab fuqaha', membiayai dakwah, dan membimbing masyarakat.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan kader profesional dan teknokrat untuk memegang tampuk kepimpinan negara dengan integriti dan tasawwur syariah yang mendalam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Wazir Yahya bin Hubairah membuktikan bagaimana kuasa politik dan kedudukan menteri kanan negara boleh dimanfaatkan sepenuhnya untuk menyatukan mazhab fuqaha', membiayai dakwah, dan membimbing masyarakat. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan kader profesional dan teknokrat untuk memegang tampuk kepimpinan negara dengan integriti dan tasawwur syariah yang mendalam."
         },
         {
           "type": "text",
@@ -3642,15 +3642,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kata Ibnu Hubairah: “Aku perhatikan sebutan ‘dari hujung negeri’. Kedua-dua lelaki dalam ayat tersebut datang dari jauh kerana ingin melaksanakan ‘amar makruf. Keduanya tidak duduk diam di rumah dengan alasan jauh perjalanan.”  <sup class=\"fn-ref\" data-fn-id=\"102\" title=\"Ibnu Rejab, Zail Tabaqat al-Hanabilah, Jilid 1, m.s. 269\">[102]</sup>"
+          "text": "Kata Ibnu Hubairah: “Aku perhatikan sebutan ‘dari hujung negeri’. Kedua-dua lelaki dalam ayat tersebut datang dari jauh kerana ingin melaksanakan ‘amar makruf. Keduanya tidak duduk diam di rumah dengan alasan jauh perjalanan.” <sup class=\"fn-ref\" data-fn-id=\"102\" title=\"Ibnu Rejab, Zail Tabaqat al-Hanabilah, Jilid 1, m.s. 269\">[102]</sup>"
         },
         {
           "type": "text",
-          "text": "Deduksi yang baik - walaupun kelihatan remeh - itu mendorong para da'i   untuk berfikir. Terfikirkah da'i   pada hari ini untuk merasa susah dalam memikul tugas dakwah yang memerlukan pergerakan seharian yang jauh?"
+          "text": "Deduksi yang baik - walaupun kelihatan remeh - itu mendorong para da'i untuk berfikir. Terfikirkah da'i pada hari ini untuk merasa susah dalam memikul tugas dakwah yang memerlukan pergerakan seharian yang jauh?"
         },
         {
           "type": "text",
-          "text": "Pernahkah dia terfikir bahawa kesusahan ini telah dilalui oleh salafussoleh daripada kalangan da'i   golongan awal-awal Islam? Sifat-sifat mereka dinukilkan dalam al-Quran yang memaparkan siri pengembaraan dan perjalanan mereka ke tempat-tempat yang jauh hanya semata-mata untuk mengembangkan dakwah dan melaksanakan amar makruf nahi mungkar."
+          "text": "Pernahkah dia terfikir bahawa kesusahan ini telah dilalui oleh salafussoleh daripada kalangan da'i golongan awal-awal Islam? Sifat-sifat mereka dinukilkan dalam al-Quran yang memaparkan siri pengembaraan dan perjalanan mereka ke tempat-tempat yang jauh hanya semata-mata untuk mengembangkan dakwah dan melaksanakan amar makruf nahi mungkar."
         },
         {
           "type": "text",
@@ -3670,7 +3670,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Apa yang jelas ialah lelaki itu bukan orang yang mempunyai pangkat ataupun kekuasaan. Dia juga bukan orang yang mempunyai mempunyai keluarga ternama untuk mempertahankannya. Tetapi akidah yang hidup dalam jiwanya itu mendesak dan mendorongnya untuk datang dari kawasan pedalaman yang paling jauh untuk menyampaikan dakwah Islam kepada kaumnya.  <sup class=\"fn-ref\" data-fn-id=\"103\" title=\"Fi Zilal al-Quran, Juzu’ 23, m.s. 16\">[103]</sup>"
+          "text": "Apa yang jelas ialah lelaki itu bukan orang yang mempunyai pangkat ataupun kekuasaan. Dia juga bukan orang yang mempunyai mempunyai keluarga ternama untuk mempertahankannya. Tetapi akidah yang hidup dalam jiwanya itu mendesak dan mendorongnya untuk datang dari kawasan pedalaman yang paling jauh untuk menyampaikan dakwah Islam kepada kaumnya. <sup class=\"fn-ref\" data-fn-id=\"103\" title=\"Fi Zilal al-Quran, Juzu’ 23, m.s. 16\">[103]</sup>"
         }
       ],
       "footnotes": [
@@ -3725,31 +3725,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c6_s0",
           "title": "Pengenalan: Konsep Hentakan Kesedaran (Ghattah Tarbiah)",
           "summary_title": "Mukadimah Bab 6: Hentakan Jiwa Para Pakar",
-          "summary": "* **Intipati & Pemahaman:**  \n  Jiwa manusia adakalanya memerlukan 'hentakan tarbiah' yang kuat daripada para murabbi pakar (*al-jahabizah*) untuk mengejutkannya daripada mimpi angan-angan kosong dan kebekuan amal.  \n* **Nukilan Tokoh:**  \n  * **Syeikh Abul Hasan Ali an-Nadwi:** Menggesa sarjana muslim bangkit menentang racun sekularisme moden.  \n* **Aplikasi Fiqh Haraki:**  \n  Menghargai peranan murabbi berpengalaman yang memberikan teguran membina demi mematangkan ketahanan mental aktivis."
+          "summary": "* **Intipati & Pemahaman:** \n Jiwa manusia adakalanya memerlukan 'hentakan tarbiah' yang kuat daripada para murabbi pakar (*al-jahabizah*) untuk mengejutkannya daripada mimpi angan-angan kosong dan kebekuan amal. \n* **Nukilan Tokoh:** \n * **Syeikh Abul Hasan Ali an-Nadwi:** Menggesa sarjana muslim bangkit menentang racun sekularisme moden. \n* **Aplikasi Fiqh Haraki:** \n Menghargai peranan murabbi berpengalaman yang memberikan teguran membina demi mematangkan ketahanan mental aktivis."
         },
         {
           "id": "c6_s1",
           "title": "Mukmin Bisu Adalah Ketinggalan",
           "summary_title": "1. Mukmin Bisu Ditinggalkan Zaman",
-          "summary": "* **Intipati & Pemahaman:**  \n  Orang beriman yang membisu dan tidak mahu mengambil tahu tentang percaturan pemikiran dan politik semasa akan dipijak oleh arus kemajuan musuh dan ditinggalkan di belakang sejarah.  \n* **Aplikasi Fiqh Haraki:**  \n  Kader dakwah wajib celik maklumat, menguasai teknologi semasa, dan sentiasa mengikuti perkembangan isu geopolitik dunia."
+          "summary": "* **Intipati & Pemahaman:** \n Orang beriman yang membisu dan tidak mahu mengambil tahu tentang percaturan pemikiran dan politik semasa akan dipijak oleh arus kemajuan musuh dan ditinggalkan di belakang sejarah. \n* **Aplikasi Fiqh Haraki:** \n Kader dakwah wajib celik maklumat, menguasai teknologi semasa, dan sentiasa mengikuti perkembangan isu geopolitik dunia."
         },
         {
           "id": "c6_s2",
           "title": "Kita Hubungkan Generasi Lalu Dengan Generasi Seterusnya",
           "summary_title": "2. Merapatkan Jurang Antara Generasi",
-          "summary": "* **Intipati & Pemahaman:**  \n  Misi gerakan Islam adalah membina jambatan kefahaman antara generasi pengasas yang kaya pengalaman dengan generasi muda yang sarat tenaga dan kreativiti.  \n* **Aplikasi Fiqh Haraki:**  \n  Mewujudkan proses pewarisan kepimpinan (*tawaruth al-qiyadah*) yang harmoni tanpa jurang konflik generasi."
+          "summary": "* **Intipati & Pemahaman:** \n Misi gerakan Islam adalah membina jambatan kefahaman antara generasi pengasas yang kaya pengalaman dengan generasi muda yang sarat tenaga dan kreativiti. \n* **Aplikasi Fiqh Haraki:** \n Mewujudkan proses pewarisan kepimpinan (*tawaruth al-qiyadah*) yang harmoni tanpa jurang konflik generasi."
         },
         {
           "id": "c6_s3",
           "title": "Imam Ahmad Sendiri Melakukan Amal Tajmi’",
           "summary_title": "3. Amal Tajmi' Teladan Imam Ahmad bin Hanbal",
-          "summary": "* **Intipati & Pemahaman:**  \n  Ketika menghadapi fitnah khalq al-Quran, Imam Ahmad tidak berjuang bersendirian; beliau melakukan 'amal tajmi''—menghimpunkan para ulama, pelajar, dan masyarakat membentuk benteng ketahanan akidah Sunnah.  \n* **Aplikasi Fiqh Haraki:**  \n  Ketahanan dalam menghadapi mihnah memerlukan pengukuhan saf tanzimi dan solidariti jama'iyyah yang padu."
+          "summary": "* **Intipati & Pemahaman:** \n Ketika menghadapi fitnah khalq al-Quran, Imam Ahmad tidak berjuang bersendirian; beliau melakukan 'amal tajmi''—menghimpunkan para ulama, pelajar, dan masyarakat membentuk benteng ketahanan akidah Sunnah. \n* **Aplikasi Fiqh Haraki:** \n Ketahanan dalam menghadapi mihnah memerlukan pengukuhan saf tanzimi dan solidariti jama'iyyah yang padu."
         },
         {
           "id": "c6_s4",
           "title": "Fiqh Dakwah Seorang Menteri Yang Juga Seorang Da'i",
           "summary_title": "4. Wazir Ibn Hubairah: Teladan Da'i Teknokrat",
-          "summary": "* **Intipati & Pemahaman:**  \n  Wazir Yahya bin Hubairah membuktikan bagaimana kuasa politik dan kedudukan menteri kanan negara boleh dimanfaatkan sepenuhnya untuk menyatukan mazhab fuqaha', membiayai dakwah, dan membimbing masyarakat.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan kader profesional dan teknokrat untuk memegang tampuk kepimpinan negara dengan integriti dan tasawwur syariah yang mendalam."
+          "summary": "* **Intipati & Pemahaman:** \n Wazir Yahya bin Hubairah membuktikan bagaimana kuasa politik dan kedudukan menteri kanan negara boleh dimanfaatkan sepenuhnya untuk menyatukan mazhab fuqaha', membiayai dakwah, dan membimbing masyarakat. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan kader profesional dan teknokrat untuk memegang tampuk kepimpinan negara dengan integriti dan tasawwur syariah yang mendalam."
         }
       ]
     },
@@ -3760,7 +3760,7 @@ window.ALMUNTALAQ_DATA = {
       "subtopics": [
         "Petikan Yang Hampir Sama Daripada Satu Cahaya",
         "Surah al-’Asr Sudah Memadai",
-        "Da'i   Merupakan Mujahid dan Muhajir",
+        "Da'i Merupakan Mujahid dan Muhajir",
         "Kesungguhan al-Kailani Menerangkan Kewajipan Dakwah"
       ],
       "paragraphs": [
@@ -3778,7 +3778,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebagaimana kita telah lihat Abdullah bin Mas'ud r.a. meletakkan dirinya di Kufah untuk menghapuskan uzlah <sup class=\"fn-ref\" data-fn-id=\"104\" title=\"Pengasingan diri dari masyarakat\">[104]</sup> , maka begitu juga kita dapat lihat al-Hasan al-Basri pemimpin tabi'in rahimahullah meletakkan dirinya di kota Basrah untuk membangkitkan semangat orang ramai terhadap dakwah dan menjelaskan erti islah kepada mereka. Beliau membacakan firman Allah SWT kepada penduduk Basrah:"
+          "text": "Sebagaimana kita telah lihat Abdullah bin Mas'ud RA meletakkan dirinya di Kufah untuk menghapuskan uzlah <sup class=\"fn-ref\" data-fn-id=\"104\" title=\"Pengasingan diri dari masyarakat\">[104]</sup> , maka begitu juga kita dapat lihat al-Hasan al-Basri pemimpin tabi'in rahimahullah meletakkan dirinya di kota Basrah untuk membangkitkan semangat orang ramai terhadap dakwah dan menjelaskan erti islah kepada mereka. Beliau membacakan firman Allah SWT kepada penduduk Basrah:"
         },
         {
           "type": "quran",
@@ -3802,7 +3802,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Semasa Ibnu al-Qayyim memetik kata-kata Hasan Basri ini, beliau menambah: “Maqam atau kedudukan dakwah ke jalan Allah itu adalah semulia-mulia maqam seorang hamba.”  <sup class=\"fn-ref\" data-fn-id=\"105\" title=\"Ibnu Qayyim, Miftah Dar al-Sa'adah, Jilid 1, m.s. 153\">[105]</sup>"
+          "text": "Semasa Ibnu al-Qayyim memetik kata-kata Hasan Basri ini, beliau menambah: “Maqam atau kedudukan dakwah ke jalan Allah itu adalah semulia-mulia maqam seorang hamba.” <sup class=\"fn-ref\" data-fn-id=\"105\" title=\"Ibnu Qayyim, Miftah Dar al-Sa'adah, Jilid 1, m.s. 153\">[105]</sup>"
         },
         {
           "type": "text",
@@ -3811,7 +3811,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Petikan Yang Hampir Sama Daripada Satu Cahaya",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Seruan para ulama rabbani dan pejuang tajdid di sepanjang zaman—daripada generasi salaf sehinggalah para perintis gerakan Islam kontemporari—keluar daripada satu pancaran sumber wahyu yang sama (*misykat wahidah*).  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam mestilah sentiasa menghargai dan memelihara hubungan persaudaraan dengan semua aliran dakwah berlandaskan Sunnah, serta menolak perbalahan ranting yang memecahbelahkan tenaga umat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Seruan para ulama rabbani dan pejuang tajdid di sepanjang zaman—daripada generasi salaf sehinggalah para perintis gerakan Islam kontemporari—keluar daripada satu pancaran sumber wahyu yang sama (*misykat wahidah*). \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam mestilah sentiasa menghargai dan memelihara hubungan persaudaraan dengan semua aliran dakwah berlandaskan Sunnah, serta menolak perbalahan ranting yang memecahbelahkan tenaga umat."
         },
         {
           "type": "text",
@@ -3828,7 +3828,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Surah al-’Asr Sudah Memadai",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Surah al-'Asr menggariskan empat tiang keselamatan daripada kerugian mutlak: Iman, Amal Salih, Saling Menasihati dengan Kebenaran (*Tawasi bil-Haq*), dan Saling Menasihati dengan Kesabaran (*Tawasi bis-Sabr*).  \n* **Nukilan Tokoh:**  \n  * **Imam Asy-Syafi'i:** *“Kalaulah Allah tidak menurunkan hujah kepada makhluk-Nya melainkan surah ini sahaja, nescaya ia sudah memadai bagi mereka.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Menegakkan kebenaran (*al-haq*) tidak dapat dipisahkan daripada ketahanan menanggung ujian dengan sabar (*as-sabr*); barang siapa berani berjuang mesti bersedia diuji."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Surah al-'Asr menggariskan empat tiang keselamatan daripada kerugian mutlak: Iman, Amal Salih, Saling Menasihati dengan Kebenaran (*Tawasi bil-Haq*), dan Saling Menasihati dengan Kesabaran (*Tawasi bis-Sabr*). \n* **Nukilan Tokoh:** \n * **Imam Asy-Syafi'i:** *“Kalaulah Allah tidak menurunkan hujah kepada makhluk-Nya melainkan surah ini sahaja, nescaya ia sudah memadai bagi mereka.”* \n* **Aplikasi Fiqh Haraki:** \n Menegakkan kebenaran (*al-haq*) tidak dapat dipisahkan daripada ketahanan menanggung ujian dengan sabar (*as-sabr*); barang siapa berani berjuang mesti bersedia diuji."
         },
         {
           "type": "text",
@@ -3844,7 +3844,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bahkan sebenarnya satu perempat daripada surah tersebut pun sudah mencukupi iaitu yang menyifatkan orang yang saling berpesan atas kebenaran sebagai orang yang mendapat keuntungan. Kerana itulah Rasulullah SAW menyifatkan surah al-’Asr sebagai menyamai satu pertiga daripada al-Quran.  <sup class=\"fn-ref\" data-fn-id=\"106\" title=\"Sahih al-Bukhari, Jilid 6, m.s. 233\">[106]</sup>   Dua perkataan sahaja (iaitu saling berpesan atas kebenaran) sudah cukup untuk menjelaskan kewajipan dakwah. Inilah yang menjadikannya menyamai dengan satu pertiga daripada al-Quran."
+          "text": "Bahkan sebenarnya satu perempat daripada surah tersebut pun sudah mencukupi iaitu yang menyifatkan orang yang saling berpesan atas kebenaran sebagai orang yang mendapat keuntungan. Kerana itulah Rasulullah SAW menyifatkan surah al-’Asr sebagai menyamai satu pertiga daripada al-Quran. <sup class=\"fn-ref\" data-fn-id=\"106\" title=\"Sahih al-Bukhari, Jilid 6, m.s. 233\">[106]</sup> Dua perkataan sahaja (iaitu saling berpesan atas kebenaran) sudah cukup untuk menjelaskan kewajipan dakwah. Inilah yang menjadikannya menyamai dengan satu pertiga daripada al-Quran."
         },
         {
           "type": "text",
@@ -3852,15 +3852,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Oleh itu, Imam Syafi'ie telah berkata: “Sekiranya manusia berfikir tentang kandungan surah al-‘Asr, ia sudah mencukupi bagi mereka.”  <sup class=\"fn-ref\" data-fn-id=\"107\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi li man saala ‘an al-Dawa’ al-Syafi, m.s. 73\">[107]</sup>"
+          "text": "Oleh itu, Imam Syafi'ie telah berkata: “Sekiranya manusia berfikir tentang kandungan surah al-‘Asr, ia sudah mencukupi bagi mereka.” <sup class=\"fn-ref\" data-fn-id=\"107\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi li man saala ‘an al-Dawa’ al-Syafi, m.s. 73\">[107]</sup>"
         },
         {
           "type": "quote",
-          "text": "“Allah bukan hanya menyuruh manusia agar mengenali kebenaran dan bersabar di atasnya, tetapi Dia juga menyuruh mereka agar saling menasihati sesama mereka dengan kebenaran dan kesabaran sambil mendorong mereka untuk melakukannya. Jika mereka tidak berbuat demikian, maka mereka itu adalah dalam kalangan orang-orang yang rugi.”  <sup class=\"fn-ref\" data-fn-id=\"108\" title=\"Ibnu al-Jauzi, Igathah al-Lahfan min Masaid al-Syaitan, Jilid 1, m.s. 33\">[108]</sup>"
+          "text": "“Allah bukan hanya menyuruh manusia agar mengenali kebenaran dan bersabar di atasnya, tetapi Dia juga menyuruh mereka agar saling menasihati sesama mereka dengan kebenaran dan kesabaran sambil mendorong mereka untuk melakukannya. Jika mereka tidak berbuat demikian, maka mereka itu adalah dalam kalangan orang-orang yang rugi.” <sup class=\"fn-ref\" data-fn-id=\"108\" title=\"Ibnu al-Jauzi, Igathah al-Lahfan min Masaid al-Syaitan, Jilid 1, m.s. 33\">[108]</sup>"
         },
         {
           "type": "text",
-          "text": "Sebagaimana yang dijelaskan oleh seorang da'i   lain; Muhammad Mahmud al-Sawwaf: “Syarat untuk selamat daripada sebarang kerugian telah ditentukan oleh Allah SWT iaitu bergantung kepada pengetahuan manusia kepada kebenaran. Setelah manusia itu mengenali kebenaran, mereka kemudiannya beriltizam pula dengannya, menegakkannya di dalam hati mereka, serta hidup bersama- sama kebenaran dan demi kebenaran. Setelah mengenali kebenaran, mereka tidak akan terlepas dari tanggungjawab dan tidak akan dapat selamat sekiranya mereka tidak menceritakan kepada manusia tentang kebenaran tersebut, menyeru manusia kepada kebenaran dan bersungguh-sungguh membawa mereka untuk berpegang teguh dan mengikut kebenaran."
+          "text": "Sebagaimana yang dijelaskan oleh seorang da'i lain; Muhammad Mahmud al-Sawwaf: “Syarat untuk selamat daripada sebarang kerugian telah ditentukan oleh Allah SWT iaitu bergantung kepada pengetahuan manusia kepada kebenaran. Setelah manusia itu mengenali kebenaran, mereka kemudiannya beriltizam pula dengannya, menegakkannya di dalam hati mereka, serta hidup bersama- sama kebenaran dan demi kebenaran. Setelah mengenali kebenaran, mereka tidak akan terlepas dari tanggungjawab dan tidak akan dapat selamat sekiranya mereka tidak menceritakan kepada manusia tentang kebenaran tersebut, menyeru manusia kepada kebenaran dan bersungguh-sungguh membawa mereka untuk berpegang teguh dan mengikut kebenaran."
         },
         {
           "type": "text",
@@ -3868,11 +3868,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sekiranya kamu telah mengenali kebenaran dan kamu telah melihat pula pendokong kebatilan menyimpang daripada kebenaran, tetapi kamu tidak menyeru dan mengajak mereka agar menurut jalan kebenaran, jalan yang lurus dan cahaya yang jelas, tidak syak lagi bahawa kamu adalah daripada kalangan orang yang rugi. Kamu berada dalam kerugian kerana tidak melaksanakan perintah Allah dan kamu tidak berpesan-pesan atas kebenaran. Kamu hanya mengambil kebenaran itu untuk dirimu sahaja dan tidak membawa sinarnya kepada orang yang sesat, menyeleweng, salah dan bingung tentang kebenaran. Sedangkan, seorang Muslim yang sejati tidak hidup untuk dirinya sahaja bahkan dia juga hidup untuk orang lain. Jika dia telah memperbaiki dirinya, maka dia wajib pula berusaha memperbaiki seluruh manusia di sekelilingnya, mengikut kemampuan dan lingkungan masing-masing. Nas dalam ayat ini adalah dalil yang terang dan tidak boleh ditakwilkan lagi.”  <sup class=\"fn-ref\" data-fn-id=\"109\" title=\"‘Iddah al-Muslimin fi ma'ani al-Fatihah wa Qasar al-Suwar, m.s. 87\">[109]</sup>"
+          "text": "Sekiranya kamu telah mengenali kebenaran dan kamu telah melihat pula pendokong kebatilan menyimpang daripada kebenaran, tetapi kamu tidak menyeru dan mengajak mereka agar menurut jalan kebenaran, jalan yang lurus dan cahaya yang jelas, tidak syak lagi bahawa kamu adalah daripada kalangan orang yang rugi. Kamu berada dalam kerugian kerana tidak melaksanakan perintah Allah dan kamu tidak berpesan-pesan atas kebenaran. Kamu hanya mengambil kebenaran itu untuk dirimu sahaja dan tidak membawa sinarnya kepada orang yang sesat, menyeleweng, salah dan bingung tentang kebenaran. Sedangkan, seorang Muslim yang sejati tidak hidup untuk dirinya sahaja bahkan dia juga hidup untuk orang lain. Jika dia telah memperbaiki dirinya, maka dia wajib pula berusaha memperbaiki seluruh manusia di sekelilingnya, mengikut kemampuan dan lingkungan masing-masing. Nas dalam ayat ini adalah dalil yang terang dan tidak boleh ditakwilkan lagi.” <sup class=\"fn-ref\" data-fn-id=\"109\" title=\"‘Iddah al-Muslimin fi ma'ani al-Fatihah wa Qasar al-Suwar, m.s. 87\">[109]</sup>"
         },
         {
           "type": "heading2",
-          "text": "Da'i   Merupakan Mujahid dan Muhajir"
+          "text": "Da'i Merupakan Mujahid dan Muhajir"
         },
         {
           "type": "text",
@@ -3884,7 +3884,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Surah ini adalah surah Makkiyah (diturunkan di Mekah). Jihad yang dimaksudkan dalam ayat ialah jihad menyampaikan dan jihad dengan hujah”.  <sup class=\"fn-ref\" data-fn-id=\"110\" title=\"Ibnu al-Qayyim, Zad al-Ma'ad, Jilid 2, m.s. 58\">[110]</sup>"
+          "text": "Surah ini adalah surah Makkiyah (diturunkan di Mekah). Jihad yang dimaksudkan dalam ayat ialah jihad menyampaikan dan jihad dengan hujah”. <sup class=\"fn-ref\" data-fn-id=\"110\" title=\"Ibnu al-Qayyim, Zad al-Ma'ad, Jilid 2, m.s. 58\">[110]</sup>"
         },
         {
           "type": "text",
@@ -3896,11 +3896,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh yang demikian, tugas dakwah, menyuruh kepada kebaikan dan melarang mereka daripada kemungkaran, pesan-memesan dengan kebenaran dan kesabaran adalah sejenis daripada jihad di jalan Allah. Justeru itu wajarlah bagi kita dalam fiqh dakwah ini berusaha mengenali sebanyak mungkin selok-belok dakwah dan sifat-sifat da'i  , berdasarkan kias kepada hukum jihad dengan senjata. Begitu juga para da'i   diwajibkan agar memahami ayat-ayat al-Quran dan hadis mengenai perintah berjihad bahawa ia adalah ditujukan kepadanya apabila da'i   tersebut menyeru orang ramai dalam mengerjakan amar makruf, nahi mungkar. Walaupun kelihatannya kerja dakwah bukanlah seperti betul-betul berperang pada jalan Allah, tetapi ia juga menghadapi risiko peperangan, kekalahan, wujudnya orang yang tidak berdisiplin atau bermudah-mudah, pelemah semangat dan pembelot yang menikam dari belakang. Disebabkan risiko-risiko tersebut, mereka yang menyampaikan dakwah Islam, amar makruf nahi mungkar berhak mengharapkan pahala yang sama darjatnya dengan orang-orang yang berjihad di medan perang, Insya-Allah."
+          "text": "Oleh yang demikian, tugas dakwah, menyuruh kepada kebaikan dan melarang mereka daripada kemungkaran, pesan-memesan dengan kebenaran dan kesabaran adalah sejenis daripada jihad di jalan Allah. Justeru itu wajarlah bagi kita dalam fiqh dakwah ini berusaha mengenali sebanyak mungkin selok-belok dakwah dan sifat-sifat da'i , berdasarkan kias kepada hukum jihad dengan senjata. Begitu juga para da'i diwajibkan agar memahami ayat-ayat al-Quran dan hadis mengenai perintah berjihad bahawa ia adalah ditujukan kepadanya apabila da'i tersebut menyeru orang ramai dalam mengerjakan amar makruf, nahi mungkar. Walaupun kelihatannya kerja dakwah bukanlah seperti betul-betul berperang pada jalan Allah, tetapi ia juga menghadapi risiko peperangan, kekalahan, wujudnya orang yang tidak berdisiplin atau bermudah-mudah, pelemah semangat dan pembelot yang menikam dari belakang. Disebabkan risiko-risiko tersebut, mereka yang menyampaikan dakwah Islam, amar makruf nahi mungkar berhak mengharapkan pahala yang sama darjatnya dengan orang-orang yang berjihad di medan perang, Insya-Allah."
         },
         {
           "type": "text",
-          "text": "Para da'i   juga mendapat pahala Muhajirin sebagaimana yang telah dijelaskan oleh Imam Ibnu Taimiyah dalam mentafsirkan ayat al-Quran berikut: Firman Allah SWT:"
+          "text": "Para da'i juga mendapat pahala Muhajirin sebagaimana yang telah dijelaskan oleh Imam Ibnu Taimiyah dalam mentafsirkan ayat al-Quran berikut: Firman Allah SWT:"
         },
         {
           "type": "quran",
@@ -3912,7 +3912,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kata Ibnu Taymiyyah: “Menurut sebahagian dari salafussoleh: “Termasuk di dalam pengertian ayat ini ialah orang-orang yang beriman, berhijrah dan berjihad hingga hari kiamat.” Begitu juga firman Allah SWT:"
+          "text": "Kata Ibnu Taimiyah: “Menurut sebahagian dari salafussoleh: “Termasuk di dalam pengertian ayat ini ialah orang-orang yang beriman, berhijrah dan berjihad hingga hari kiamat.” Begitu juga firman Allah SWT:"
         },
         {
           "type": "quran",
@@ -3925,7 +3925,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kesungguhan al-Kailani Menerangkan Kewajipan Dakwah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Nasihat berkobar-kobar Syeikh Abdul Qadir al-Jailani yang membongkar kepura-puraan mereka yang mendakwa mencintai Allah tetapi berdiam diri ketika syiar Allah dicabuli.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina benteng keimanan yang mendorong kepada tindakan praktikal; cinta kepada Allah mesti dizahirkan melalui pembelaan terhadap agama-Nya di khalayak ramai."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Nasihat berkobar-kobar Syeikh Abdul Qadir al-Jailani yang membongkar kepura-puraan mereka yang mendakwa mencintai Allah tetapi berdiam diri ketika syiar Allah dicabuli. \n* **Aplikasi Fiqh Haraki:** \n Membina benteng keimanan yang mendorong kepada tindakan praktikal; cinta kepada Allah mesti dizahirkan melalui pembelaan terhadap agama-Nya di khalayak ramai."
         },
         {
           "type": "text",
@@ -3933,7 +3933,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Marilah kita ikuti jejak-jejak dakwah bersama-sama Imam al-Kailani pada zamannya itu. Beliau menyifatkan pada da'i   dengan katanya: “Mereka itu berada pada maqam dakwah, menyeru manusia untuk mengenali Allah SWT, sentiasa menyeru hati-hati manusia kepadanya.”  <sup class=\"fn-ref\" data-fn-id=\"112\" title=\"Abdul Kadir al-Kailani, al-Fathu al-Rabbani, m.s. 7\">[112]</sup>"
+          "text": "Marilah kita ikuti jejak-jejak dakwah bersama-sama Imam al-Kailani pada zamannya itu. Beliau menyifatkan pada da'i dengan katanya: “Mereka itu berada pada maqam dakwah, menyeru manusia untuk mengenali Allah SWT, sentiasa menyeru hati-hati manusia kepadanya.” <sup class=\"fn-ref\" data-fn-id=\"112\" title=\"Abdul Kadir al-Kailani, al-Fathu al-Rabbani, m.s. 7\">[112]</sup>"
         },
         {
           "type": "text",
@@ -3941,11 +3941,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Katanya: “Barangsiapa yang benar ikutannya kepada Rasulullah SAW dipakaikan kepadanya baju besi dan topi besi Baginda, disandangkan kepadanya pedang Baginda, dikurniakan kepadanya adab, sifat dan akhlak baginda, dipakaikan kepadanya persalinan baginda dan dia sangat gembira. Betapa tidak, kerana dia dari umat Baginda? Kerana itu, dia bersyukur kepada Tuhannya. Kemudian Allah S.WT melantiknya sebagai pembantu atau pengganti Nabi SAW dalam kalangan umatnya sebagai penunjuk dan da'i   dan membimbing mereka kepada pintu kebenaran mengenal Allah SWT."
+          "text": "Katanya: “Barangsiapa yang benar ikutannya kepada Rasulullah SAW dipakaikan kepadanya baju besi dan topi besi Baginda, disandangkan kepadanya pedang Baginda, dikurniakan kepadanya adab, sifat dan akhlak baginda, dipakaikan kepadanya persalinan baginda dan dia sangat gembira. Betapa tidak, kerana dia dari umat Baginda? Kerana itu, dia bersyukur kepada Tuhannya. Kemudian Allah S.WT melantiknya sebagai pembantu atau pengganti Nabi SAW dalam kalangan umatnya sebagai penunjuk dan da'i dan membimbing mereka kepada pintu kebenaran mengenal Allah SWT."
         },
         {
           "type": "text",
-          "text": "Baginda Rasulullah SAW adalah penunjuk, pemandu, pemimpin dan da'i  . Apabila Baginda wafat, Allah telah memilih pengganti daripada kalangan umatnya. Mereka tidak ramai, hanya beberapa individu sahaja dari tiap-tiap sejuta Muslim. Itulah pemimpin dan pemandu umat, menunjukkan kebenaran kepada mereka dan bersabar menghadapi tekanan dan gangguan manusia. Mereka terus-menerus memberi nasihat, tersenyum berhadapan dengan orang munafik dan fasik. Mereka berusaha dengan pelbagai cara dan kebijaksanaan untuk melepaskan manusia dari nifak dan fasik dan membawa manusia ke pintu Allah Azza Wajalla.”  <sup class=\"fn-ref\" data-fn-id=\"113\" title=\"Ibid, m.s. 83\">[113]</sup>"
+          "text": "Baginda Rasulullah SAW adalah penunjuk, pemandu, pemimpin dan da'i . Apabila Baginda wafat, Allah telah memilih pengganti daripada kalangan umatnya. Mereka tidak ramai, hanya beberapa individu sahaja dari tiap-tiap sejuta Muslim. Itulah pemimpin dan pemandu umat, menunjukkan kebenaran kepada mereka dan bersabar menghadapi tekanan dan gangguan manusia. Mereka terus-menerus memberi nasihat, tersenyum berhadapan dengan orang munafik dan fasik. Mereka berusaha dengan pelbagai cara dan kebijaksanaan untuk melepaskan manusia dari nifak dan fasik dan membawa manusia ke pintu Allah Azza Wajalla.” <sup class=\"fn-ref\" data-fn-id=\"113\" title=\"Ibid, m.s. 83\">[113]</sup>"
         },
         {
           "type": "text",
@@ -3957,19 +3957,19 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Kamu dimatikan kemudian dibangkitkan. Apabila Tuhanmu mahu, akan dibangkitkannya kamu untukNya. Kamu dikembalikan kepada manusia, supaya kamu menjaga kemaslahatan mereka dan mengembalikan mereka kepada pintuNya. Kamu didatangkan rasa cenderung kepada dunia dan akhirat supaya kamu mengambil bahagianmu daripada kedua-duanya. Kamu diberikan kekuatan untuk menghadapi manusia lalu kamu mengembalikan mereka daripada kesesatan.”  <sup class=\"fn-ref\" data-fn-id=\"114\" title=\"Ibid, m.s. 107\">[114]</sup>"
+          "text": "“Kamu dimatikan kemudian dibangkitkan. Apabila Tuhanmu mahu, akan dibangkitkannya kamu untukNya. Kamu dikembalikan kepada manusia, supaya kamu menjaga kemaslahatan mereka dan mengembalikan mereka kepada pintuNya. Kamu didatangkan rasa cenderung kepada dunia dan akhirat supaya kamu mengambil bahagianmu daripada kedua-duanya. Kamu diberikan kekuatan untuk menghadapi manusia lalu kamu mengembalikan mereka daripada kesesatan.” <sup class=\"fn-ref\" data-fn-id=\"114\" title=\"Ibid, m.s. 107\">[114]</sup>"
         },
         {
           "type": "text",
-          "text": "Syeikh al-Kailani meringkaskan sifat-sifat da'i   dan syarat-syarat untuk mendapat perakuan thiqah dalam satu sifat yang padat; iaitu sifat tajarrud yang sempurna dan melibatkan diri secara total ke dalam dakwah. Dengan demikian, da'i   itu akan lupakan kepentingan dirinya. Tumpuannya hanyalah kepada orang yang diserunya dan hanya menuturkan perkataan yang memberi kebaikan kepada mad'u. Dunia da'i   pula adalah luas tanpa had, tanpa perniagaan, tiada hawa nafsu dan tiada mengejar pangkat. Semua itu tiada dalam dunianya. Yang ada dalam dunia da'i   hanyalah para mad'u yang didakwahnya. Itulah perniagaannya, keenakannya dan pangkat kebesarannya."
+          "text": "Syeikh al-Kailani meringkaskan sifat-sifat da'i dan syarat-syarat untuk mendapat perakuan thiqah dalam satu sifat yang padat; iaitu sifat tajarrud yang sempurna dan melibatkan diri secara total ke dalam dakwah. Dengan demikian, da'i itu akan lupakan kepentingan dirinya. Tumpuannya hanyalah kepada orang yang diserunya dan hanya menuturkan perkataan yang memberi kebaikan kepada mad'u. Dunia da'i pula adalah luas tanpa had, tanpa perniagaan, tiada hawa nafsu dan tiada mengejar pangkat. Semua itu tiada dalam dunianya. Yang ada dalam dunia da'i hanyalah para mad'u yang didakwahnya. Itulah perniagaannya, keenakannya dan pangkat kebesarannya."
         },
         {
           "type": "quote",
-          "text": "“Dia seolah-olah menjadi manusia yang tidak mempunyai hawa nafsu, keinginan dan keseronokan dunia. Dia lupa makan minumnya, pakaiannya, hatta dirinya sendiri kerana mengenangkan makhluk Allah SWT dalam hatinya tidak ada dirinya. Yang ada hanyalah makhluk Allah SWT (yang menjadi mad'unya). Apa yang dimintanya hanyalah perkara yang boleh membawa kebaikan kepada manusia kerana dia telah menyerahkan dirinya di bawah ketentuan Allah SWT”  <sup class=\"fn-ref\" data-fn-id=\"115\" title=\"Ibid, m.s. 211\">[115]</sup>"
+          "text": "“Dia seolah-olah menjadi manusia yang tidak mempunyai hawa nafsu, keinginan dan keseronokan dunia. Dia lupa makan minumnya, pakaiannya, hatta dirinya sendiri kerana mengenangkan makhluk Allah SWT dalam hatinya tidak ada dirinya. Yang ada hanyalah makhluk Allah SWT (yang menjadi mad'unya). Apa yang dimintanya hanyalah perkara yang boleh membawa kebaikan kepada manusia kerana dia telah menyerahkan dirinya di bawah ketentuan Allah SWT” <sup class=\"fn-ref\" data-fn-id=\"115\" title=\"Ibid, m.s. 211\">[115]</sup>"
         },
         {
           "type": "text",
-          "text": "Itulah contoh dan tauladan bagi para da'i   tulen. Demikianlah sifat orang yang hendak bergabung dengan “qaidah sulbah” (tunggak yang kukuh) dan pada tunggak inilah Islam pada hari ini akan dibina."
+          "text": "Itulah contoh dan tauladan bagi para da'i tulen. Demikianlah sifat orang yang hendak bergabung dengan “qaidah sulbah” (tunggak yang kukuh) dan pada tunggak inilah Islam pada hari ini akan dibina."
         },
         {
           "type": "text",
@@ -4009,7 +4009,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "dan selepas itu, urusan menjadi mudah.  <sup class=\"fn-ref\" data-fn-id=\"116\" title=\"Walid al-‘Azumi, Diwan al-Zawabi, m.s. 124\">[116]</sup>"
+          "text": "dan selepas itu, urusan menjadi mudah. <sup class=\"fn-ref\" data-fn-id=\"116\" title=\"Walid al-‘Azumi, Diwan al-Zawabi, m.s. 124\">[116]</sup>"
         }
       ],
       "footnotes": [
@@ -4072,31 +4072,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c7_s0",
           "title": "Pengenalan: Keutamaan Jihad al-Bayan & Intelek",
           "summary_title": "Mukadimah Bab 7: Jihad dengan Hujah (Jihadul Lisan Wal Qalam)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sebelum jihad pedang di medan pertempuran fizikal, Islam mendahulukan 'Jihad dengan Hujah dan Keterangan' (*Jihad al-Bayan*) iaitu mematahkan kesesatan ideologi musuh melalui dalil al-Quran, kebenaran ilmu, dan hujah yang terang benderang.  \n* **Nukilan Tokoh:**  \n  * **Imam Ibn al-Qayyim:** Menegaskan bahawa jihad dengan hujah dan lisan adalah jihad para pemimpin anbiya', dan kedudukannya mendahului jihad dengan senjata.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan kader gerakan dengan penguasaan dalil syarak, logik mantap, dan kefahaman mendalam tentang isu-isu pemikiran moden agar mampu mendebat serta menundukkan dakyah sekular."
+          "summary": "* **Intipati & Pemahaman:** \n Sebelum jihad pedang di medan pertempuran fizikal, Islam mendahulukan 'Jihad dengan Hujah dan Keterangan' (*Jihad al-Bayan*) iaitu mematahkan kesesatan ideologi musuh melalui dalil al-Quran, kebenaran ilmu, dan hujah yang terang benderang. \n* **Nukilan Tokoh:** \n * **Imam Ibn al-Qayyim:** Menegaskan bahawa jihad dengan hujah dan lisan adalah jihad para pemimpin anbiya', dan kedudukannya mendahului jihad dengan senjata. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan kader gerakan dengan penguasaan dalil syarak, logik mantap, dan kefahaman mendalam tentang isu-isu pemikiran moden agar mampu mendebat serta menundukkan dakyah sekular."
         },
         {
           "id": "c7_s1",
           "title": "Petikan Yang Hampir Sama Daripada Satu Cahaya",
           "summary_title": "1. Kesatuan Pancaran Manhaj Para Mujaddid",
-          "summary": "* **Intipati & Pemahaman:**  \n  Seruan para ulama rabbani dan pejuang tajdid di sepanjang zaman—daripada generasi salaf sehinggalah para perintis gerakan Islam kontemporari—keluar daripada satu pancaran sumber wahyu yang sama (*misykat wahidah*).  \n* **Aplikasi Fiqh Haraki:**  \n  Gerakan Islam mestilah sentiasa menghargai dan memelihara hubungan persaudaraan dengan semua aliran dakwah berlandaskan Sunnah, serta menolak perbalahan ranting yang memecahbelahkan tenaga umat."
+          "summary": "* **Intipati & Pemahaman:** \n Seruan para ulama rabbani dan pejuang tajdid di sepanjang zaman—daripada generasi salaf sehinggalah para perintis gerakan Islam kontemporari—keluar daripada satu pancaran sumber wahyu yang sama (*misykat wahidah*). \n* **Aplikasi Fiqh Haraki:** \n Gerakan Islam mestilah sentiasa menghargai dan memelihara hubungan persaudaraan dengan semua aliran dakwah berlandaskan Sunnah, serta menolak perbalahan ranting yang memecahbelahkan tenaga umat."
         },
         {
           "id": "c7_s2",
           "title": "Surah al-’Asr Sudah Memadai",
           "summary_title": "2. Surah Al-'Asr: Perlembagaan Hidup Pejuang",
-          "summary": "* **Intipati & Pemahaman:**  \n  Surah al-'Asr menggariskan empat tiang keselamatan daripada kerugian mutlak: Iman, Amal Salih, Saling Menasihati dengan Kebenaran (*Tawasi bil-Haq*), dan Saling Menasihati dengan Kesabaran (*Tawasi bis-Sabr*).  \n* **Nukilan Tokoh:**  \n  * **Imam Asy-Syafi'i:** *“Kalaulah Allah tidak menurunkan hujah kepada makhluk-Nya melainkan surah ini sahaja, nescaya ia sudah memadai bagi mereka.”*  \n* **Aplikasi Fiqh Haraki:**  \n  Menegakkan kebenaran (*al-haq*) tidak dapat dipisahkan daripada ketahanan menanggung ujian dengan sabar (*as-sabr*); barang siapa berani berjuang mesti bersedia diuji."
+          "summary": "* **Intipati & Pemahaman:** \n Surah al-'Asr menggariskan empat tiang keselamatan daripada kerugian mutlak: Iman, Amal Salih, Saling Menasihati dengan Kebenaran (*Tawasi bil-Haq*), dan Saling Menasihati dengan Kesabaran (*Tawasi bis-Sabr*). \n* **Nukilan Tokoh:** \n * **Imam Asy-Syafi'i:** *“Kalaulah Allah tidak menurunkan hujah kepada makhluk-Nya melainkan surah ini sahaja, nescaya ia sudah memadai bagi mereka.”* \n* **Aplikasi Fiqh Haraki:** \n Menegakkan kebenaran (*al-haq*) tidak dapat dipisahkan daripada ketahanan menanggung ujian dengan sabar (*as-sabr*); barang siapa berani berjuang mesti bersedia diuji."
         },
         {
           "id": "c7_s3",
           "title": "Da'i Merupakan Mujahid dan Muhajir",
           "summary_title": "3. Da'i Sebagai Mujahid & Muhajir",
-          "summary": "* **Intipati & Pemahaman:**  \n  Setiap pendakwah hakiki memiliki dua sifat kembar: Mujahid yang sentiasa berperang melawan hawa nafsu dan kebatilan, serta Muhajir yang meninggalkan larangan Allah dan zon selesa demi menegakkan risalah.  \n* **Aplikasi Fiqh Haraki:**  \n  Menghidupkan roh pengorbanan (*tadhiyyah*) dalam diri kader: bersedia mengorbankan masa, harta, kedudukan, bahkan tanah air demi menjayakan cita-cita dakwah."
+          "summary": "* **Intipati & Pemahaman:** \n Setiap pendakwah hakiki memiliki dua sifat kembar: Mujahid yang sentiasa berperang melawan hawa nafsu dan kebatilan, serta Muhajir yang meninggalkan larangan Allah dan zon selesa demi menegakkan risalah. \n* **Aplikasi Fiqh Haraki:** \n Menghidupkan roh pengorbanan (*tadhiyyah*) dalam diri kader: bersedia mengorbankan masa, harta, kedudukan, bahkan tanah air demi menjayakan cita-cita dakwah."
         },
         {
           "id": "c7_s4",
           "title": "Kesungguhan al-Kailani Menerangkan Kewajipan Dakwah",
           "summary_title": "4. Taujih Syeikh Abdul Qadir al-Jailani Tentang Kewajipan Dakwah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Nasihat berkobar-kobar Syeikh Abdul Qadir al-Jailani yang membongkar kepura-puraan mereka yang mendakwa mencintai Allah tetapi berdiam diri ketika syiar Allah dicabuli.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina benteng keimanan yang mendorong kepada tindakan praktikal; cinta kepada Allah mesti dizahirkan melalui pembelaan terhadap agama-Nya di khalayak ramai."
+          "summary": "* **Intipati & Pemahaman:** \n Nasihat berkobar-kobar Syeikh Abdul Qadir al-Jailani yang membongkar kepura-puraan mereka yang mendakwa mencintai Allah tetapi berdiam diri ketika syiar Allah dicabuli. \n* **Aplikasi Fiqh Haraki:** \n Membina benteng keimanan yang mendorong kepada tindakan praktikal; cinta kepada Allah mesti dizahirkan melalui pembelaan terhadap agama-Nya di khalayak ramai."
         }
       ]
     },
@@ -4121,7 +4121,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kemudian kamu mula bersuara, bukan membisu dan diam. Kamu menyeru manusia kepada Allah, menyuruh manusia melakukan makruf, melarang mungkar. Tindakan kamu ini menjadikan kamu tergolong dalam kalangan “… orang-orang yang mengajar kebenaran dan mengasihani manusia ...” sepertimana kata Ibnu Taimiyah.  <sup class=\"fn-ref\" data-fn-id=\"117\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 16, m.s. 96\">[117]</sup>"
+          "text": "Kemudian kamu mula bersuara, bukan membisu dan diam. Kamu menyeru manusia kepada Allah, menyuruh manusia melakukan makruf, melarang mungkar. Tindakan kamu ini menjadikan kamu tergolong dalam kalangan “… orang-orang yang mengajar kebenaran dan mengasihani manusia ...” sepertimana kata Ibnu Taimiyah. <sup class=\"fn-ref\" data-fn-id=\"117\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 16, m.s. 96\">[117]</sup>"
         },
         {
           "type": "text",
@@ -4149,7 +4149,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Bukankah para nabi itu hanya sibuk penat lelah kerana manusia mendorong mereka kepada kebaikan, melarang mereka dari kejahatan?”  <sup class=\"fn-ref\" data-fn-id=\"119\" title=\"Ibid, m.s. 42\">[119]</sup>"
+          "text": "“Bukankah para nabi itu hanya sibuk penat lelah kerana manusia mendorong mereka kepada kebaikan, melarang mereka dari kejahatan?” <sup class=\"fn-ref\" data-fn-id=\"119\" title=\"Ibid, m.s. 42\">[119]</sup>"
         },
         {
           "type": "text",
@@ -4158,7 +4158,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Jadilah Rijal ‘Ammah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Para da'i salaf tidak mengurung diri dalam kelompok elit cendekiawan semata-mata, tetapi mereka turun menjadi 'Rijal 'Ammah'—pemimpin dan pembimbing kepada masyarakat awam yang menyantuni denyut nadi kehidupan rakyat terbanyak.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak sikap eksklusif atau elitis dalam gerakan; harakah mesti berakar kukuh di tengah-tengah masyarakat marhaen dan menjadi benteng pembela kebajikan umat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Para da'i salaf tidak mengurung diri dalam kelompok elit cendekiawan semata-mata, tetapi mereka turun menjadi 'Rijal 'Ammah'—pemimpin dan pembimbing kepada masyarakat awam yang menyantuni denyut nadi kehidupan rakyat terbanyak. \n* **Aplikasi Fiqh Haraki:** \n Menolak sikap eksklusif atau elitis dalam gerakan; harakah mesti berakar kukuh di tengah-tengah masyarakat marhaen dan menjadi benteng pembela kebajikan umat."
         },
         {
           "type": "text",
@@ -4166,31 +4166,31 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ulangi sejarah kegemilangan da'i   salafussoleh RA. Mereka adalah pemimpin orang ramai. Mereka tampil ke hadapan untuk membimbing manusia, sehingga manusia sedikit demi sedikit beransur-ansur mengasihi mereka. Orang ramai melihat mereka sebagai contoh dan teladan yang baik yang tidak dapat dipertikaikan lagi kewibawaannya, akhirnya orang ramai menurut dan kemudian mengikut arahan mereka."
+          "text": "Ulangi sejarah kegemilangan da'i salafussoleh RA. Mereka adalah pemimpin orang ramai. Mereka tampil ke hadapan untuk membimbing manusia, sehingga manusia sedikit demi sedikit beransur-ansur mengasihi mereka. Orang ramai melihat mereka sebagai contoh dan teladan yang baik yang tidak dapat dipertikaikan lagi kewibawaannya, akhirnya orang ramai menurut dan kemudian mengikut arahan mereka."
         },
         {
           "type": "text",
-          "text": "Seorang ahli zuhud yang masyhur, Bisyru bin al-Haris al-Hafi Rahimahullah mendapati ada tiga sifat istimewa yang terdapat pada Imam Ahmad bin Hanbal. Dengan sifat-sifat ini, Imam Ahmad dianggap melebihinya berbanding dirinya. Salah satu daripada sifat-sifat istimewa itu ialah; “...beliau merupakan imam orang ramai...”.  <sup class=\"fn-ref\" data-fn-id=\"120\" title=\"Al-Ghazali, Ihya’ Ulumuddin, Jilid 2, m.s. 23\">[120]</sup>"
+          "text": "Seorang ahli zuhud yang masyhur, Bisyru bin al-Haris al-Hafi Rahimahullah mendapati ada tiga sifat istimewa yang terdapat pada Imam Ahmad bin Hanbal. Dengan sifat-sifat ini, Imam Ahmad dianggap melebihinya berbanding dirinya. Salah satu daripada sifat-sifat istimewa itu ialah; “...beliau merupakan imam orang ramai...”. <sup class=\"fn-ref\" data-fn-id=\"120\" title=\"Al-Ghazali, Ihya’ Ulumuddin, Jilid 2, m.s. 23\">[120]</sup>"
         },
         {
           "type": "text",
-          "text": "Para ilmu rijal menyifatkan Imam al-Auza'i pula sebagai rajul ‘ammah – orang yang bersama orang ramai.  <sup class=\"fn-ref\" data-fn-id=\"121\" title=\"Ibnu Hajar, Tahzib al-Tahzib, Jilid 6, m.s. 241\">[121]</sup>"
+          "text": "Para ilmu rijal menyifatkan Imam al-Auza'i pula sebagai rajul ‘ammah – orang yang bersama orang ramai. <sup class=\"fn-ref\" data-fn-id=\"121\" title=\"Ibnu Hajar, Tahzib al-Tahzib, Jilid 6, m.s. 241\">[121]</sup>"
         },
         {
           "type": "quote",
-          "text": "Demikian juga seorang ahli hadis dan fakih yang thiqah lain iaitu Abu Ishak al-Fazari. Ulama rijal berkata: “Dia adalah seorang rajul ‘ammah. Dia telah mendidik penduduk-penduduk dipersempadanan Islam di tanah tinggi Syam dan semenanjung yang mengadap ke Rom... Beliau mengajar mereka tentang sunnah dan cara hidup Rasulullah S. A.W., menyuruh manusia kepada kebaikan dan melarang mereka daripada kemungkaran. Apabila seorang ahli bidaah memasuki kubu itu, beliau mengusir lelaki tersebut.  <sup class=\"fn-ref\" data-fn-id=\"122\" title=\"Ibid, Jilid 1, m.s. 152\">[122]</sup>"
+          "text": "Demikian juga seorang ahli hadis dan fakih yang thiqah lain iaitu Abu Ishak al-Fazari. Ulama rijal berkata: “Dia adalah seorang rajul ‘ammah. Dia telah mendidik penduduk-penduduk dipersempadanan Islam di tanah tinggi Syam dan semenanjung yang mengadap ke Rom... Beliau mengajar mereka tentang sunnah dan cara hidup Rasulullah S. A.W., menyuruh manusia kepada kebaikan dan melarang mereka daripada kemungkaran. Apabila seorang ahli bidaah memasuki kubu itu, beliau mengusir lelaki tersebut. <sup class=\"fn-ref\" data-fn-id=\"122\" title=\"Ibid, Jilid 1, m.s. 152\">[122]</sup>"
         },
         {
           "type": "text",
-          "text": "Demikian juga Khalid bin Abdullah al-Wasiti, salah seorang ahli hadis yang thiqah dan merupakan salah seorang daripada guru-guru Imam al-Bukhari. Mereka sifatkannya sebagai rajul ‘ammah.  <sup class=\"fn-ref\" data-fn-id=\"123\" title=\"Ibnu Hajar, Tahzib al-Tahzib, Jilid 3, m.s. 100\">[123]</sup>"
+          "text": "Demikian juga Khalid bin Abdullah al-Wasiti, salah seorang ahli hadis yang thiqah dan merupakan salah seorang daripada guru-guru Imam al-Bukhari. Mereka sifatkannya sebagai rajul ‘ammah. <sup class=\"fn-ref\" data-fn-id=\"123\" title=\"Ibnu Hajar, Tahzib al-Tahzib, Jilid 3, m.s. 100\">[123]</sup>"
         },
         {
           "type": "text",
-          "text": "Pengenalan-pengenalan kepada rijal di atas menjelaskan bahawa mereka semua adalah da'i   yang mengajar manusia. Ilmu mereka tidak meletakkan mereka hanya dalam bilik-bilik. Mereka turun ke medan, memimpin masyarakat membuat pendirian dan sikap politik. Demikianlah Imam Ahmad bin Hanbal memimpin masyarakat yang masih terpelihara bagi memerangi puak Jahmiyah dan Muktazilah yang cuba memesongkan akidah masyarakat dengan bidaah ‘al-Quran adalah makhluk’. Beliau menentang kerajaan pada masa itu bila kerajaan hendak memaksa bidaah menggunakan kuasa mereka. Akhirnya, Allah menolong beliau dengan perlantikan khalifah al-Mutawakkil yang memiliki akidah yang benar. Baginda telah menukar struktur kerajaan, membersihkannya daripada bidaah dan seterusnya menyekat dan memadamkan kegiatan ahli bidaah."
+          "text": "Pengenalan-pengenalan kepada rijal di atas menjelaskan bahawa mereka semua adalah da'i yang mengajar manusia. Ilmu mereka tidak meletakkan mereka hanya dalam bilik-bilik. Mereka turun ke medan, memimpin masyarakat membuat pendirian dan sikap politik. Demikianlah Imam Ahmad bin Hanbal memimpin masyarakat yang masih terpelihara bagi memerangi puak Jahmiyah dan Muktazilah yang cuba memesongkan akidah masyarakat dengan bidaah ‘al-Quran adalah makhluk’. Beliau menentang kerajaan pada masa itu bila kerajaan hendak memaksa bidaah menggunakan kuasa mereka. Akhirnya, Allah menolong beliau dengan perlantikan khalifah al-Mutawakkil yang memiliki akidah yang benar. Baginda telah menukar struktur kerajaan, membersihkannya daripada bidaah dan seterusnya menyekat dan memadamkan kegiatan ahli bidaah."
         },
         {
           "type": "text",
-          "text": "Apa yang dimaksudkan dengan ammah ialah orang ramai sama ada terpelajar atau buta huruf dan bu kannya menurut istilah moden yang bermaksud orang-orang jahil. Pemimpin dan da'i   Islam dahulu tidak pernah melupakan orang Badwi dan penduduk kawasan pedalaman di samping memimpin penduduk bandar. Mereka mengambil berat tentang peri pentingnya kesatuan akidah dan pendirian antara kesemua masyarakat tersebut. Ini menyebabkan da'i   itu memperuntukkan sebahagian daripada usaha untuk kesemua mad'u tersebut."
+          "text": "Apa yang dimaksudkan dengan ammah ialah orang ramai sama ada terpelajar atau buta huruf dan bu kannya menurut istilah moden yang bermaksud orang-orang jahil. Pemimpin dan da'i Islam dahulu tidak pernah melupakan orang Badwi dan penduduk kawasan pedalaman di samping memimpin penduduk bandar. Mereka mengambil berat tentang peri pentingnya kesatuan akidah dan pendirian antara kesemua masyarakat tersebut. Ini menyebabkan da'i itu memperuntukkan sebahagian daripada usaha untuk kesemua mad'u tersebut."
         },
         {
           "type": "text",
@@ -4198,20 +4198,20 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Para ulama dan da'i   kemudian pula memperbaharui sejarah al-Zuhri ini. Antaranya ialah: Seorang fakih dan pembimbing, Ahmad al-Ghazali, saudara kandung kepada Abu Hamid al-Ghazali pengarang Ihya’ Ulumuddin. Beliau memasuki kampung-kampung dan kebun-kebun, memberi nasihat kepada penduduknya agar mereka mendekatkan diri kepada Allah SWT.  <sup class=\"fn-ref\" data-fn-id=\"124\" title=\"Al-Subki, Tabaqat al-Syafi'iyyah, jilid 6, m.s. 62\">[124]</sup>"
+          "text": "Para ulama dan da'i kemudian pula memperbaharui sejarah al-Zuhri ini. Antaranya ialah: Seorang fakih dan pembimbing, Ahmad al-Ghazali, saudara kandung kepada Abu Hamid al-Ghazali pengarang Ihya’ Ulumuddin. Beliau memasuki kampung-kampung dan kebun-kebun, memberi nasihat kepada penduduknya agar mereka mendekatkan diri kepada Allah SWT. <sup class=\"fn-ref\" data-fn-id=\"124\" title=\"Al-Subki, Tabaqat al-Syafi'iyyah, jilid 6, m.s. 62\">[124]</sup>"
         },
         {
           "type": "heading2",
           "text": "Ibnu Taimiyah Menyatakan Perlunya Amal Jama'i",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Syeikhul Islam Ibnu Taimiyah menggariskan kaedah: maslahat agama dan dunia tidak akan sempurna melainkan dengan perhimpunan dan tolong-menolong (*al-ijtima' wat-ta'awun*). Sesuatu kewajipan yang tidak sempurna melainkan dengannya, maka ia turut menjadi wajib (*Ma la yatimmul wajibu illa bihi fahuwa wajib*).  \n* **Aplikasi Fiqh Haraki:**  \n  Mewajibkan penyusunan struktur tanzim dan pembahagian tugasan amanah demi menggembleng kekuatan menumbangkan kezaliman sistemik."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Syeikhul Islam Ibnu Taimiyah menggariskan kaedah: maslahat agama dan dunia tidak akan sempurna melainkan dengan perhimpunan dan tolong-menolong (*al-ijtima' wat-ta'awun*). Sesuatu kewajipan yang tidak sempurna melainkan dengannya, maka ia turut menjadi wajib (*Ma la yatimmul wajibu illa bihi fahuwa wajib*). \n* **Aplikasi Fiqh Haraki:** \n Mewajibkan penyusunan struktur tanzim dan pembahagian tugasan amanah demi menggembleng kekuatan menumbangkan kezaliman sistemik."
         },
         {
           "type": "text",
-          "text": "Para pemimpin dan da'i   Islam yang telah disebutkan tadi merupakan orang yang sangat faham. Mereka mengetahui Maqasid ‘Ammah Syar'iyyah yang mengharus bahkan mewajibkan melakukan perkara-perkara yang perlu untuk merealisasikan objektif syariat Islam, sekalipun tiada dalil mengenainya. Mereka tahu bahawa “sesuatu yang tak sempurna sesuatu yang wajib tanpanya maka hukumnya juga adalah wajib.” Lalu mereka semua tinggalkan sikap bersendirian kerana suasana memerluk an berbuat demikian, lalu mereka berganding bahu di dalam jemaah dan bekerja dengan amal dan usaha secara berjemaah. Mereka telah menjelaskan dengan mengeluarkan beberapa fatwa yang terang dan sorih betapa pentingn ya amal jama'i dalam urusan amar makruf nahi mungkar. Amal jama'i itu boleh dinamakan dengan berbagai nama seperti jemaah, parti, ikatan dan lain-lain. Sekiranya ia merupakan sebuah amal jama'i, mestilah ada pemimpin atau ketua. Tidak kira sama ada pemimpin itu dipanggil sebagai ketua, mursyid atau presiden parti."
+          "text": "Para pemimpin dan da'i Islam yang telah disebutkan tadi merupakan orang yang sangat faham. Mereka mengetahui Maqasid ‘Ammah Syar'iyyah yang mengharus bahkan mewajibkan melakukan perkara-perkara yang perlu untuk merealisasikan objektif syariat Islam, sekalipun tiada dalil mengenainya. Mereka tahu bahawa “sesuatu yang tak sempurna sesuatu yang wajib tanpanya maka hukumnya juga adalah wajib.” Lalu mereka semua tinggalkan sikap bersendirian kerana suasana memerluk an berbuat demikian, lalu mereka berganding bahu di dalam jemaah dan bekerja dengan amal dan usaha secara berjemaah. Mereka telah menjelaskan dengan mengeluarkan beberapa fatwa yang terang dan sorih betapa pentingn ya amal jama'i dalam urusan amar makruf nahi mungkar. Amal jama'i itu boleh dinamakan dengan berbagai nama seperti jemaah, parti, ikatan dan lain-lain. Sekiranya ia merupakan sebuah amal jama'i, mestilah ada pemimpin atau ketua. Tidak kira sama ada pemimpin itu dipanggil sebagai ketua, mursyid atau presiden parti."
         },
         {
           "type": "text",
-          "text": "Mungkin anda merasa pelik bila mengetahui bahawa pembentukan kumpulan-kumpulan yang bekerja kerana tujuan-tujuan syar'i, terdapatnya penggunaan istilah-istilah yang kamu sangka sebagai istilah-istilah moden, sebenarnya ia telah diutarakan melalui kata-kata fuqaha dan pemimpin-pemimpin yang terdahulu. Ini memberikan kita gambaran yang nyata daripada apa yang terkandung dalam kitab-kitab fikah terdauhulu bahawa wujudnya fiqah harakah di dalamnya yang masih belum kita ketahui. Ia menunggu-nunggu siapakah yang dapat memetiknya daripada kitab-kitab fiqah tersebut dan menyebarkannya kepada da'i   Islam."
+          "text": "Mungkin anda merasa pelik bila mengetahui bahawa pembentukan kumpulan-kumpulan yang bekerja kerana tujuan-tujuan syar'i, terdapatnya penggunaan istilah-istilah yang kamu sangka sebagai istilah-istilah moden, sebenarnya ia telah diutarakan melalui kata-kata fuqaha dan pemimpin-pemimpin yang terdahulu. Ini memberikan kita gambaran yang nyata daripada apa yang terkandung dalam kitab-kitab fikah terdauhulu bahawa wujudnya fiqah harakah di dalamnya yang masih belum kita ketahui. Ia menunggu-nunggu siapakah yang dapat memetiknya daripada kitab-kitab fiqah tersebut dan menyebarkannya kepada da'i Islam."
         },
         {
           "type": "text",
@@ -4239,7 +4239,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ketua hizb pula merupakan ketua kumpulan yang bergabung atau menjadi hizb (penggabungan). Sekiranya mereka berkumpul atau bergabung dalam melaksanakan perkara yang diperintah oleh Allah dan Rasul-Nya tanpa menambah-nambah atau mengurangkannya, maka mereka adalah orang-orang yang beriman. Mereka berhak mendapat ganjaran yang sepadan dengan tanggungjawab yang dilaksanakan. Sekiranya berlaku perkara-perkara yang berlebih-lebihan dan pengurangan, umpamanya sikap taksub kepada mana- mana individu dalam hizb mereka sama ada betul atau salah dan menolak pula semua orang yang tidak menyertai hizb mereka sama ada betul atau salah, maka itu adalah perpecahan yang dikutuk oleh Allah dan Rasul-Nya. Sesungguhnya Allah dan Rasul-Nya menyuruh berjemaah dan bersatu padu dan melarang dari perpecahan dan perselisihan. Allah dan Rasul-Nya menyuruh supaya tolong-menolong dalam perkara kebaikan dan takwa dan melarang daripada tolong-menolong dalam melakukan dosa dan permusuhan.”  <sup class=\"fn-ref\" data-fn-id=\"125\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 11, m.s. 96\">[125]</sup>"
+          "text": "Ketua hizb pula merupakan ketua kumpulan yang bergabung atau menjadi hizb (penggabungan). Sekiranya mereka berkumpul atau bergabung dalam melaksanakan perkara yang diperintah oleh Allah dan Rasul-Nya tanpa menambah-nambah atau mengurangkannya, maka mereka adalah orang-orang yang beriman. Mereka berhak mendapat ganjaran yang sepadan dengan tanggungjawab yang dilaksanakan. Sekiranya berlaku perkara-perkara yang berlebih-lebihan dan pengurangan, umpamanya sikap taksub kepada mana- mana individu dalam hizb mereka sama ada betul atau salah dan menolak pula semua orang yang tidak menyertai hizb mereka sama ada betul atau salah, maka itu adalah perpecahan yang dikutuk oleh Allah dan Rasul-Nya. Sesungguhnya Allah dan Rasul-Nya menyuruh berjemaah dan bersatu padu dan melarang dari perpecahan dan perselisihan. Allah dan Rasul-Nya menyuruh supaya tolong-menolong dalam perkara kebaikan dan takwa dan melarang daripada tolong-menolong dalam melakukan dosa dan permusuhan.” <sup class=\"fn-ref\" data-fn-id=\"125\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 11, m.s. 96\">[125]</sup>"
         },
         {
           "type": "text",
@@ -4247,7 +4247,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ianya juga merupakan bukti terang yang mendorong da'i   Islam untuk mengumpulkan nas-nas ulama lain seperti ini dan menjadikannya sebagai paksi dalam amal dakwi. Dakwah akan menjadi lebih kukuh dan mantap memandangkan penyebut nas-nas ini adalah orang yang hebat. Ia juga akan menjadi kata putus dalam menghadapi setengah golongan yang tidak faham yang cepat menuduh bahawa amal jama'i adalah kerja bidaah."
+          "text": "Ianya juga merupakan bukti terang yang mendorong da'i Islam untuk mengumpulkan nas-nas ulama lain seperti ini dan menjadikannya sebagai paksi dalam amal dakwi. Dakwah akan menjadi lebih kukuh dan mantap memandangkan penyebut nas-nas ini adalah orang yang hebat. Ia juga akan menjadi kata putus dalam menghadapi setengah golongan yang tidak faham yang cepat menuduh bahawa amal jama'i adalah kerja bidaah."
         },
         {
           "type": "text",
@@ -4263,7 +4263,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Ibnu al-Qayyim berkata: “Al-Fara’ dan sekumpulan ulama bahasa berpendapat bahawa kata-kata ‘Siapa yang mengikutku’ menjadi ma'tuf bagi gantinama yang terdapat dalam frasa ‘aku mengajak’. Ertinya, siapa yang mengikuti aku (Rasulullah), dia berdakwah ke jalan Allah sebagaimana aku juga menyeru. Ini juga adalah pendapat al-Kalbi yang berkata: Setiap orang yang mengikut Rasulullah SAW bertanggungjawab untuk berdakwah kepada apa yang diserukan kepadanya oleh baginda Rasulullah SAW...”  <sup class=\"fn-ref\" data-fn-id=\"126\" title=\"Ibnu al-Qayyim, Miftah Dar al-Sa'adah, Jilid 1, m.s. 154\">[126]</sup>"
+          "text": "Ibnu al-Qayyim berkata: “Al-Fara’ dan sekumpulan ulama bahasa berpendapat bahawa kata-kata ‘Siapa yang mengikutku’ menjadi ma'tuf bagi gantinama yang terdapat dalam frasa ‘aku mengajak’. Ertinya, siapa yang mengikuti aku (Rasulullah), dia berdakwah ke jalan Allah sebagaimana aku juga menyeru. Ini juga adalah pendapat al-Kalbi yang berkata: Setiap orang yang mengikut Rasulullah SAW bertanggungjawab untuk berdakwah kepada apa yang diserukan kepadanya oleh baginda Rasulullah SAW...” <sup class=\"fn-ref\" data-fn-id=\"126\" title=\"Ibnu al-Qayyim, Miftah Dar al-Sa'adah, Jilid 1, m.s. 154\">[126]</sup>"
         },
         {
           "type": "text",
@@ -4279,7 +4279,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Ibnu al-Qayyim berkata: “al-ribbiyyun” di sini bermaksud “jemaah-jemaah” seperti yang telah disepakati oleh ahli tafsir. Satu pendapat lagi mengatakan ia berasal daripada perkataan “al-ribbah” yang bermaksud “jemaah”. Al-Jauhari berpendapat: “al-ribbi” merupakan kata nama tunggal bagi “al- ribbiyyun”, iaitu beribu-ribu orang manusia.”  <sup class=\"fn-ref\" data-fn-id=\"127\" title=\"Ibid, m.s. 126\">[127]</sup>"
+          "text": "Ibnu al-Qayyim berkata: “al-ribbiyyun” di sini bermaksud “jemaah-jemaah” seperti yang telah disepakati oleh ahli tafsir. Satu pendapat lagi mengatakan ia berasal daripada perkataan “al-ribbah” yang bermaksud “jemaah”. Al-Jauhari berpendapat: “al-ribbi” merupakan kata nama tunggal bagi “al- ribbiyyun”, iaitu beribu-ribu orang manusia.” <sup class=\"fn-ref\" data-fn-id=\"127\" title=\"Ibid, m.s. 126\">[127]</sup>"
         },
         {
           "type": "text",
@@ -4292,7 +4292,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Mereka Menyeru Kepada Kebaikan Bersama-sama Pengikut Mereka",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Para imam mazhab dan tokoh salaf sentiasa bergerak bersama rangkaian murid dan pengikut yang setia, berdisiplin, dan sepakat dalam menyebarkan ilmu serta menentang penyelewengan pemerintah.  \n* **Aplikasi Fiqh Haraki:**  \n  Kepimpinan dalam gerakan Islam memerlukan saf pengikut yang thiqah, patuh kepada arahan syar'ie, dan saling menyokong di setiap peringkat kepimpinan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Para imam mazhab dan tokoh salaf sentiasa bergerak bersama rangkaian murid dan pengikut yang setia, berdisiplin, dan sepakat dalam menyebarkan ilmu serta menentang penyelewengan pemerintah. \n* **Aplikasi Fiqh Haraki:** \n Kepimpinan dalam gerakan Islam memerlukan saf pengikut yang thiqah, patuh kepada arahan syar'ie, dan saling menyokong di setiap peringkat kepimpinan."
         },
         {
           "type": "text",
@@ -4300,7 +4300,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Antara mereka ialah sahabat Rasulullah SAW Hisyam bin Hakim bin Hizam al-Qurasyi r.a. Al-Zuhri berkata: “Beliau (Hisyam bin Hakim) menyeru kepada perkara makruf bersama-sama dengan segolongan bersamanya.”  <sup class=\"fn-ref\" data-fn-id=\"128\" title=\"Tahzib al-Tahzib, Jilid 11, m.s. 37\">[128]</sup>"
+          "text": "Antara mereka ialah sahabat Rasulullah SAW Hisyam bin Hakim bin Hizam al-Qurasyi RA Al-Zuhri berkata: “Beliau (Hisyam bin Hakim) menyeru kepada perkara makruf bersama-sama dengan segolongan bersamanya.” <sup class=\"fn-ref\" data-fn-id=\"128\" title=\"Tahzib al-Tahzib, Jilid 11, m.s. 37\">[128]</sup>"
         },
         {
           "type": "text",
@@ -4312,7 +4312,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Al-Zahabi pula berkata: “Beliau mempunyai pengikut-pengikut dan sahabat- sahabat yang berusaha menyuruh manusia kepada kebaikan dan melarang mereka dari kemungkaran”.  <sup class=\"fn-ref\" data-fn-id=\"129\" title=\"Ibnu Rejab, Zail Tabaqat al-Hanabilah, Jilid 2, m.s. 316\">[129]</sup>"
+          "text": "Al-Zahabi pula berkata: “Beliau mempunyai pengikut-pengikut dan sahabat- sahabat yang berusaha menyuruh manusia kepada kebaikan dan melarang mereka dari kemungkaran”. <sup class=\"fn-ref\" data-fn-id=\"129\" title=\"Ibnu Rejab, Zail Tabaqat al-Hanabilah, Jilid 2, m.s. 316\">[129]</sup>"
         },
         {
           "type": "text",
@@ -4320,7 +4320,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Demikianlah mazhab yang dipegang ol eh da'i   qudama. Menurut Ibnu al- Jauzi: Ibnu Akil telah berkata: “Pada zaman kami, kami telah melihat Abu Bakar al-Aqfali semasa pemerintahan khalifah al-Qaim, apabila beliau tampil untuk menyangkal satu kemungkaran, dibawa bersamanya beberapa orang ulama dan orang-orang yang soleh, yang tidak makan kecuali dari hasil usaha mereka sendiri seperti Abu Bakar al-Khabbaz yang telah telah buta kerana selalu terdedah kepada kepanasan bahang api pembakar roti. Mereka diiringi oleh satu jemaah yang tiada seorang pun antara mereka yang menerima sedekah dan mahu mencemarkan diri mereka dengan menerima pemberian atau hadiah daripada pihak pemerintah. Mereka berpuasa di siang hari, bertahajjud di malam hari dan kerap menangis. Apabila ada golongan mukhlit (orang yang bercampur aduk antara berbuat baik dan jahat) ingin bersama-sama, dia menolak dan berkata: “Apabila kami menghadapi musuh sedangkan ahli maksiat ada bersama kami, pastinya kami menerima kekalahan.”  <sup class=\"fn-ref\" data-fn-id=\"130\" title=\"Ibnu al-Jauzi, Talbis Iblis, m.s. 145\">[130]</sup>"
+          "text": "Demikianlah mazhab yang dipegang ol eh da'i qudama. Menurut Ibnu al- Jauzi: Ibnu Akil telah berkata: “Pada zaman kami, kami telah melihat Abu Bakar al-Aqfali semasa pemerintahan khalifah al-Qaim, apabila beliau tampil untuk menyangkal satu kemungkaran, dibawa bersamanya beberapa orang ulama dan orang-orang yang soleh, yang tidak makan kecuali dari hasil usaha mereka sendiri seperti Abu Bakar al-Khabbaz yang telah telah buta kerana selalu terdedah kepada kepanasan bahang api pembakar roti. Mereka diiringi oleh satu jemaah yang tiada seorang pun antara mereka yang menerima sedekah dan mahu mencemarkan diri mereka dengan menerima pemberian atau hadiah daripada pihak pemerintah. Mereka berpuasa di siang hari, bertahajjud di malam hari dan kerap menangis. Apabila ada golongan mukhlit (orang yang bercampur aduk antara berbuat baik dan jahat) ingin bersama-sama, dia menolak dan berkata: “Apabila kami menghadapi musuh sedangkan ahli maksiat ada bersama kami, pastinya kami menerima kekalahan.” <sup class=\"fn-ref\" data-fn-id=\"130\" title=\"Ibnu al-Jauzi, Talbis Iblis, m.s. 145\">[130]</sup>"
         },
         {
           "type": "text",
@@ -4333,7 +4333,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Keizinan Pihak Berkuasa Bukanlah Satu Syarat",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kewajipan berdakwah, menegakkan kebenaran, dan beramal jama'i bersumberkan arahan mutlak daripada Allah SWT; ia sama sekali tidak bergantung kepada izin atau perlesenan pihak penguasa yang zalim.  \n* **Aplikasi Fiqh Haraki:**  \n  Keberanian meneruskan kesinambungan dakwah dalam apa jua keadaan politik—sama ada secara terbuka (*'alaniyyah*) mahupun berhati-hati (*sirriyyah*) mengikut tuntutan fiqh siasah semasa."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kewajipan berdakwah, menegakkan kebenaran, dan beramal jama'i bersumberkan arahan mutlak daripada Allah SWT; ia sama sekali tidak bergantung kepada izin atau perlesenan pihak penguasa yang zalim. \n* **Aplikasi Fiqh Haraki:** \n Keberanian meneruskan kesinambungan dakwah dalam apa jua keadaan politik—sama ada secara terbuka (*'alaniyyah*) mahupun berhati-hati (*sirriyyah*) mengikut tuntutan fiqh siasah semasa."
         },
         {
           "type": "text",
@@ -4357,7 +4357,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kata-kata ini tertulis dengan tinta emas. Da'i   Islam patut menyimpannya di lubuk hati mereka. Ia membuktikan bahawa dalam kitab-kitab ulama kita dahulu ada lombong fiqh haraki yang banyak."
+          "text": "Kata-kata ini tertulis dengan tinta emas. Da'i Islam patut menyimpannya di lubuk hati mereka. Ia membuktikan bahawa dalam kitab-kitab ulama kita dahulu ada lombong fiqh haraki yang banyak."
         },
         {
           "type": "text",
@@ -4381,7 +4381,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Beliau kemudiannya membuat kesimpulan: “Kebiasaan golongan salafussoleh yang sentiasa mengawasi pihak berkuasa dan menasihati mereka adalah bukti kukuh ijmak mereka bahawa tidak perlunya izin pemerintah dalam menjalankan amar makruf dan nahi mungkar. Jika pemerintah tersebut suka dengan apa yang dibuat, alhamdulillah. Tetapi jika pemerintah marah dengan amar makruf tersebut maka marah tersebut sendiri adalah suatu mungkar yang perlu kepada diingkari pula. Jika begitu, kenapa pula da'i   mesti memerlukan kebenarannya untuk mengingkari pemerintah?"
+          "text": "Beliau kemudiannya membuat kesimpulan: “Kebiasaan golongan salafussoleh yang sentiasa mengawasi pihak berkuasa dan menasihati mereka adalah bukti kukuh ijmak mereka bahawa tidak perlunya izin pemerintah dalam menjalankan amar makruf dan nahi mungkar. Jika pemerintah tersebut suka dengan apa yang dibuat, alhamdulillah. Tetapi jika pemerintah marah dengan amar makruf tersebut maka marah tersebut sendiri adalah suatu mungkar yang perlu kepada diingkari pula. Jika begitu, kenapa pula da'i mesti memerlukan kebenarannya untuk mengingkari pemerintah?"
         },
         {
           "type": "text",
@@ -4468,31 +4468,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c8_s0",
           "title": "Pengenalan: Akar Usul Amal Jama'i Dalam Tradisi Salaf",
           "summary_title": "Mukadimah Bab 8: Usul Amal Jama'i di Sisi Salaf",
-          "summary": "* **Intipati & Pemahaman:**  \n  Amal jama'i (gerakan berkumpulan yang tersusun) bukanlah bidaah ciptaan moden, sebaliknya berakar umbi secara kukuh dalam amalan dan fatwa para imam salafussoleh berlandaskan perintah al-Quran untuk tolong-menolong atas kebaikan dan takwa.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak tuduhan cetek sesetengah pihak yang mendakwa amal berorganisasi (*tanzim*) bercanggah dengan manhaj salaf; tanzim adalah wasilah syar'iyyah yang dituntut."
+          "summary": "* **Intipati & Pemahaman:** \n Amal jama'i (gerakan berkumpulan yang tersusun) bukanlah bidaah ciptaan moden, sebaliknya berakar umbi secara kukuh dalam amalan dan fatwa para imam salafussoleh berlandaskan perintah al-Quran untuk tolong-menolong atas kebaikan dan takwa. \n* **Aplikasi Fiqh Haraki:** \n Menolak tuduhan cetek sesetengah pihak yang mendakwa amal berorganisasi (*tanzim*) bercanggah dengan manhaj salaf; tanzim adalah wasilah syar'iyyah yang dituntut."
         },
         {
           "id": "c8_s1",
           "title": "Jadilah Rijal ‘Ammah",
           "summary_title": "1. Menjadi Pemimpin Massa (Rijal 'Ammah)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Para da'i salaf tidak mengurung diri dalam kelompok elit cendekiawan semata-mata, tetapi mereka turun menjadi 'Rijal 'Ammah'—pemimpin dan pembimbing kepada masyarakat awam yang menyantuni denyut nadi kehidupan rakyat terbanyak.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak sikap eksklusif atau elitis dalam gerakan; harakah mesti berakar kukuh di tengah-tengah masyarakat marhaen dan menjadi benteng pembela kebajikan umat."
+          "summary": "* **Intipati & Pemahaman:** \n Para da'i salaf tidak mengurung diri dalam kelompok elit cendekiawan semata-mata, tetapi mereka turun menjadi 'Rijal 'Ammah'—pemimpin dan pembimbing kepada masyarakat awam yang menyantuni denyut nadi kehidupan rakyat terbanyak. \n* **Aplikasi Fiqh Haraki:** \n Menolak sikap eksklusif atau elitis dalam gerakan; harakah mesti berakar kukuh di tengah-tengah masyarakat marhaen dan menjadi benteng pembela kebajikan umat."
         },
         {
           "id": "c8_s2",
           "title": "Ibnu Taimiyah Menyatakan Perlunya Amal Jama'i",
           "summary_title": "2. Fatwa Ibnu Taimiyah Mengenai Kewajipan Berorganisasi",
-          "summary": "* **Intipati & Pemahaman:**  \n  Syeikhul Islam Ibnu Taimiyah menggariskan kaedah: maslahat agama dan dunia tidak akan sempurna melainkan dengan perhimpunan dan tolong-menolong (*al-ijtima' wat-ta'awun*). Sesuatu kewajipan yang tidak sempurna melainkan dengannya, maka ia turut menjadi wajib (*Ma la yatimmul wajibu illa bihi fahuwa wajib*).  \n* **Aplikasi Fiqh Haraki:**  \n  Mewajibkan penyusunan struktur tanzim dan pembahagian tugasan amanah demi menggembleng kekuatan menumbangkan kezaliman sistemik."
+          "summary": "* **Intipati & Pemahaman:** \n Syeikhul Islam Ibnu Taimiyah menggariskan kaedah: maslahat agama dan dunia tidak akan sempurna melainkan dengan perhimpunan dan tolong-menolong (*al-ijtima' wat-ta'awun*). Sesuatu kewajipan yang tidak sempurna melainkan dengannya, maka ia turut menjadi wajib (*Ma la yatimmul wajibu illa bihi fahuwa wajib*). \n* **Aplikasi Fiqh Haraki:** \n Mewajibkan penyusunan struktur tanzim dan pembahagian tugasan amanah demi menggembleng kekuatan menumbangkan kezaliman sistemik."
         },
         {
           "id": "c8_s3",
           "title": "Mereka Menyeru Kepada Kebaikan Bersama-sama Pengikut Mereka",
           "summary_title": "3. Saf Kesepakatan Para Imam Bersama Pengikut",
-          "summary": "* **Intipati & Pemahaman:**  \n  Para imam mazhab dan tokoh salaf sentiasa bergerak bersama rangkaian murid dan pengikut yang setia, berdisiplin, dan sepakat dalam menyebarkan ilmu serta menentang penyelewengan pemerintah.  \n* **Aplikasi Fiqh Haraki:**  \n  Kepimpinan dalam gerakan Islam memerlukan saf pengikut yang thiqah, patuh kepada arahan syar'ie, dan saling menyokong di setiap peringkat kepimpinan."
+          "summary": "* **Intipati & Pemahaman:** \n Para imam mazhab dan tokoh salaf sentiasa bergerak bersama rangkaian murid dan pengikut yang setia, berdisiplin, dan sepakat dalam menyebarkan ilmu serta menentang penyelewengan pemerintah. \n* **Aplikasi Fiqh Haraki:** \n Kepimpinan dalam gerakan Islam memerlukan saf pengikut yang thiqah, patuh kepada arahan syar'ie, dan saling menyokong di setiap peringkat kepimpinan."
         },
         {
           "id": "c8_s4",
           "title": "Keizinan Pihak Berkuasa Bukanlah Satu Syarat",
           "summary_title": "4. Kewajipan Syarak Mendahului Kelulusan Penguasa",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kewajipan berdakwah, menegakkan kebenaran, dan beramal jama'i bersumberkan arahan mutlak daripada Allah SWT; ia sama sekali tidak bergantung kepada izin atau perlesenan pihak penguasa yang zalim.  \n* **Aplikasi Fiqh Haraki:**  \n  Keberanian meneruskan kesinambungan dakwah dalam apa jua keadaan politik—sama ada secara terbuka (*'alaniyyah*) mahupun berhati-hati (*sirriyyah*) mengikut tuntutan fiqh siasah semasa."
+          "summary": "* **Intipati & Pemahaman:** \n Kewajipan berdakwah, menegakkan kebenaran, dan beramal jama'i bersumberkan arahan mutlak daripada Allah SWT; ia sama sekali tidak bergantung kepada izin atau perlesenan pihak penguasa yang zalim. \n* **Aplikasi Fiqh Haraki:** \n Keberanian meneruskan kesinambungan dakwah dalam apa jua keadaan politik—sama ada secara terbuka (*'alaniyyah*) mahupun berhati-hati (*sirriyyah*) mengikut tuntutan fiqh siasah semasa."
         }
       ]
     },
@@ -4518,7 +4518,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Malapetaka yang pertama: Di bawa oleh Hulagu <sup class=\"fn-ref\" data-fn-id=\"133\" title=\"Hulagu (1217-1265), founder of the il-Khanid dynasty, which lasted about 70 years, in Persia. The gr\">[133]</sup>  dari Mongolia. Malapetaka besar itu tiba ke kemuncaknya dengan serangan mereka ke atas ibu kota Islam, Baghdad."
+          "text": "Malapetaka yang pertama: Di bawa oleh Hulagu <sup class=\"fn-ref\" data-fn-id=\"133\" title=\"Hulagu (1217-1265), founder of the il-Khanid dynasty, which lasted about 70 years, in Persia. The gr\">[133]</sup> dari Mongolia. Malapetaka besar itu tiba ke kemuncaknya dengan serangan mereka ke atas ibu kota Islam, Baghdad."
         },
         {
           "type": "text",
@@ -4554,7 +4554,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebagaimana tujuan Hulagu menjajah Baghdad adalah untuk memusnahkan semangat umat Islam secara umumnya, demikian juga negara- negara Berikat terutamanya Inggeris dan Perdana Menterinya sendiri, Winston Churchill menjadikan usaha memusnahkan semangat dan keperibadian umat Islam dengan menakluk Baghdad dan Baitul Maqdis. Mereka mengulangi peristiwa penaklukan Hulagu ke atas dunia Islam. Rancangan mereka didedahkan melalui komunikasi antara ketua turus tentera Inggeris dan kementerian yang mengawal tanah-tanah jajahan semasa mereka menakluk negara Iraq sekitar perang dunia pertama.  <sup class=\"fn-ref\" data-fn-id=\"135\" title=\"Syukri Muhammad Nadim, Harb al-‘Iraq, 1914-1918\">[135]</sup>"
+          "text": "Sebagaimana tujuan Hulagu menjajah Baghdad adalah untuk memusnahkan semangat umat Islam secara umumnya, demikian juga negara- negara Berikat terutamanya Inggeris dan Perdana Menterinya sendiri, Winston Churchill menjadikan usaha memusnahkan semangat dan keperibadian umat Islam dengan menakluk Baghdad dan Baitul Maqdis. Mereka mengulangi peristiwa penaklukan Hulagu ke atas dunia Islam. Rancangan mereka didedahkan melalui komunikasi antara ketua turus tentera Inggeris dan kementerian yang mengawal tanah-tanah jajahan semasa mereka menakluk negara Iraq sekitar perang dunia pertama. <sup class=\"fn-ref\" data-fn-id=\"135\" title=\"Syukri Muhammad Nadim, Harb al-‘Iraq, 1914-1918\">[135]</sup>"
         },
         {
           "type": "text",
@@ -4567,11 +4567,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Respon Yang Dicetuskan Oleh Suasana",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Gerakan Islam moden tidak lahir secara kebetulan atau fantasi, tetapi sebagai jawapan tegas terhadap cabaran penjajahan Barat, keruntuhan institusi syariat, dan gelombang pembaratan yang melanda dunia Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Kepekaan da'i terhadap *waqi'* (realiti semasa); dakwah mesti sentiasa relevan dan mampu menawarkan penyelesaian Islam terhadap krisis ekonomi, moral, dan politik kontemporari."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Gerakan Islam moden tidak lahir secara kebetulan atau fantasi, tetapi sebagai jawapan tegas terhadap cabaran penjajahan Barat, keruntuhan institusi syariat, dan gelombang pembaratan yang melanda dunia Islam. \n* **Aplikasi Fiqh Haraki:** \n Kepekaan da'i terhadap *waqi'* (realiti semasa); dakwah mesti sentiasa relevan dan mampu menawarkan penyelesaian Islam terhadap krisis ekonomi, moral, dan politik kontemporari."
         },
         {
           "type": "text",
-          "text": "Ketika segolongan umat Islam yang ikhlas bingung menghadapi penyelewengan besar yang dilakukan oleh parti al-Ittihad wa al-Taraki, terdapat dalam kalangan mereka berusaha menghapuskan dan menentang bidaah itu dengan serta merta, tetapi gagal, sepertimana yang pernah diceritakan dalam kisah- kisah yang mashyur. Namun demikian, beberapa tahun kemudian bangkitlah usaha dari kesedaran di Baghdad dilakukan oleh seorang panglima tentera di zaman Sultan Abdul Hamid. Beliau terkenal dalam kalangan penduduk Iraq dengan kemuliaan, ketakwaan dan keberaniannya. Orang yang dimaksudkan itu ialah Muhammad Fadhil Basya al-Daghastani Rahimahullah. Dengan kerjasama mereka yang terpilih dari kalangan pemimpin-pemimpin Baghdad kabilah al-Khatib, terbentuklah al-Hizb al-Islami atau Parti Islam secara rahsia. Tujuannya dinyatakan adalah untuk menentang pemerintahan golongan al-Ittihad yang menyeleweng dari Islam dan berusaha mengembalikan pemerintahan Islam menurut bentuk terdahulu sebelumnya. <sup class=\"fn-ref\" data-fn-id=\"136\" title=\"Cerita mengenai parti ini boleh dibaca di dalam buku, Al-Baghdadiyyun: Akhbaruhum wa Majalisuhum kar\">[136]</sup>  Usaha mereka itu dilakukan pada tahun 1913."
+          "text": "Ketika segolongan umat Islam yang ikhlas bingung menghadapi penyelewengan besar yang dilakukan oleh parti al-Ittihad wa al-Taraki, terdapat dalam kalangan mereka berusaha menghapuskan dan menentang bidaah itu dengan serta merta, tetapi gagal, sepertimana yang pernah diceritakan dalam kisah- kisah yang mashyur. Namun demikian, beberapa tahun kemudian bangkitlah usaha dari kesedaran di Baghdad dilakukan oleh seorang panglima tentera di zaman Sultan Abdul Hamid. Beliau terkenal dalam kalangan penduduk Iraq dengan kemuliaan, ketakwaan dan keberaniannya. Orang yang dimaksudkan itu ialah Muhammad Fadhil Basya al-Daghastani Rahimahullah. Dengan kerjasama mereka yang terpilih dari kalangan pemimpin-pemimpin Baghdad kabilah al-Khatib, terbentuklah al-Hizb al-Islami atau Parti Islam secara rahsia. Tujuannya dinyatakan adalah untuk menentang pemerintahan golongan al-Ittihad yang menyeleweng dari Islam dan berusaha mengembalikan pemerintahan Islam menurut bentuk terdahulu sebelumnya. <sup class=\"fn-ref\" data-fn-id=\"136\" title=\"Cerita mengenai parti ini boleh dibaca di dalam buku, Al-Baghdadiyyun: Akhbaruhum wa Majalisuhum kar\">[136]</sup> Usaha mereka itu dilakukan pada tahun 1913."
         },
         {
           "type": "text",
@@ -4580,7 +4580,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Berulangnya Kebingungan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Umat Islam telah menyaksikan kegagalan demi kegagalan pelbagai eksperimen ideologi ciptaan manusia—nasionalisme sempit, sosialisme, dan kapitalisme liberal—yang hanya menambah keparahan derita umat.  \n* **Aplikasi Fiqh Haraki:**  \n  Keyakinan bahawa satu-satunya jalan keluar (*al-hallul Islami*) adalah kembali kepada kedaulatan syariat Islam secara menyeluruh."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Umat Islam telah menyaksikan kegagalan demi kegagalan pelbagai eksperimen ideologi ciptaan manusia—nasionalisme sempit, sosialisme, dan kapitalisme liberal—yang hanya menambah keparahan derita umat. \n* **Aplikasi Fiqh Haraki:** \n Keyakinan bahawa satu-satunya jalan keluar (*al-hallul Islami*) adalah kembali kepada kedaulatan syariat Islam secara menyeluruh."
         },
         {
           "type": "text",
@@ -4601,7 +4601,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Mengenali Diri Sendiri",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Harakah Islamiyyah mesti memiliki kejelasan identiti: kita adalah gerakan dakwah Rabbaniyyah, manhaj Nabawiyyah, dan pembawa panji Islam yang tidak tunduk kepada sebarang acuan politik jahiliah.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak kelesuan rasa rendah diri (*inferiority complex*) di hadapan kemajuan kebendaan Barat; kebanggaan hakiki adalah berpegang kepada hidayah wahyu Ilahi."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Harakah Islamiyyah mesti memiliki kejelasan identiti: kita adalah gerakan dakwah Rabbaniyyah, manhaj Nabawiyyah, dan pembawa panji Islam yang tidak tunduk kepada sebarang acuan politik jahiliah. \n* **Aplikasi Fiqh Haraki:** \n Menolak kelesuan rasa rendah diri (*inferiority complex*) di hadapan kemajuan kebendaan Barat; kebanggaan hakiki adalah berpegang kepada hidayah wahyu Ilahi."
         },
         {
           "type": "quote",
@@ -4609,7 +4609,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Muhammad Iqbal telah menggambarkan bahawa umat yang kembali mengenali diri mereka sebagai Islam setelah mereka dilanda kebingungan adalah umpama kanak-kanak yang baru mengenali dirinya setelah melalui peringkat bayi pada permulaan umurnya. Perumpamaan seperti ini sangat sesuai kerana umat ini lahir dari proses dakwah oleh hanya seorang lelaki yang faham, berhemah dan berwibawa. Sebagaimana yang tertulis di dalam koleksi puisi beliau yang khusus menggambarkan tentang diri tersebut; “umat ini lahir dari hati seorang yang mulia”.  <sup class=\"fn-ref\" data-fn-id=\"137\" title=\"Petikan dari Diwan al-Asrar wa al-Rumuz, m.s. 108\">[137]</sup>"
+          "text": "Muhammad Iqbal telah menggambarkan bahawa umat yang kembali mengenali diri mereka sebagai Islam setelah mereka dilanda kebingungan adalah umpama kanak-kanak yang baru mengenali dirinya setelah melalui peringkat bayi pada permulaan umurnya. Perumpamaan seperti ini sangat sesuai kerana umat ini lahir dari proses dakwah oleh hanya seorang lelaki yang faham, berhemah dan berwibawa. Sebagaimana yang tertulis di dalam koleksi puisi beliau yang khusus menggambarkan tentang diri tersebut; “umat ini lahir dari hati seorang yang mulia”. <sup class=\"fn-ref\" data-fn-id=\"137\" title=\"Petikan dari Diwan al-Asrar wa al-Rumuz, m.s. 108\">[137]</sup>"
         },
         {
           "type": "text",
@@ -4673,7 +4673,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Inilah bahasa kebangkitan untuk kembalinya hidup ini.  <sup class=\"fn-ref\" data-fn-id=\"138\" title=\"Ibid, m.s. 133\">[138]</sup>"
+          "text": "Inilah bahasa kebangkitan untuk kembalinya hidup ini. <sup class=\"fn-ref\" data-fn-id=\"138\" title=\"Ibid, m.s. 133\">[138]</sup>"
         },
         {
           "type": "text",
@@ -4681,16 +4681,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Justeru, Islam sentiasa memerlukan kewujudan manusia-manusia yang kuat, mampu menentukan perjalanan sejarah dan memimpin manusia kepada Islam. Tidak kira sama ada kerja dan usaha mereka boleh jadi meliputi segenap jurusan kehidupan manusia atau terbatas kepada sebahagian darinya. Golongan inilah yang digelar sebagai Mujaddid.”  <sup class=\"fn-ref\" data-fn-id=\"139\" title=\"Al-Maududi, Mujaz Tarikh Tajdid al-Din, m.s. 28\">[139]</sup>"
+          "text": "Justeru, Islam sentiasa memerlukan kewujudan manusia-manusia yang kuat, mampu menentukan perjalanan sejarah dan memimpin manusia kepada Islam. Tidak kira sama ada kerja dan usaha mereka boleh jadi meliputi segenap jurusan kehidupan manusia atau terbatas kepada sebahagian darinya. Golongan inilah yang digelar sebagai Mujaddid.” <sup class=\"fn-ref\" data-fn-id=\"139\" title=\"Al-Maududi, Mujaz Tarikh Tajdid al-Din, m.s. 28\">[139]</sup>"
         },
         {
           "type": "text",
-          "text": "Oleh kerana jalan yang mereka lalui itu menuntut pengorbanan, maka salah satu syarat yang mesti ada pada mereka ialah mereka mestilah seorang yang gagah perkasa dan berani (giler), kerana: “Orang yang tidak mampu berkorban demi mengejar cita-cita yang tinggi, maka dia tidak akan berani berhadapan dengan bahaya dan kesusahan. Orang yang hanya mencari kesenangan, keselesaan dan kemewahan semasa hidup di dunia ini nescaya akan mudah terpengaruh dengan suasana, tunduk kepada tekanan dan hanyut oleh arus. Mereka tidak dapat menyumbangkan sebarang jasa di dalam sejarah kemanusiaan. Tidak ada sesiapapun yang mampu melukiskan sejarah kecuali pahlawan-pahlawan yang gagah berani. Mereka itulah yang telah merubah arus perjalanan hidup manusia dengan jihad dan pengorbanan mereka dan merekalah yang merubah corak pemikiran dunia.”  <sup class=\"fn-ref\" data-fn-id=\"140\" title=\"Al-Maududi, Nahnu wa al-Hadarah al-‘Arabiyah, m.s. 251\">[140]</sup>"
+          "text": "Oleh kerana jalan yang mereka lalui itu menuntut pengorbanan, maka salah satu syarat yang mesti ada pada mereka ialah mereka mestilah seorang yang gagah perkasa dan berani (giler), kerana: “Orang yang tidak mampu berkorban demi mengejar cita-cita yang tinggi, maka dia tidak akan berani berhadapan dengan bahaya dan kesusahan. Orang yang hanya mencari kesenangan, keselesaan dan kemewahan semasa hidup di dunia ini nescaya akan mudah terpengaruh dengan suasana, tunduk kepada tekanan dan hanyut oleh arus. Mereka tidak dapat menyumbangkan sebarang jasa di dalam sejarah kemanusiaan. Tidak ada sesiapapun yang mampu melukiskan sejarah kecuali pahlawan-pahlawan yang gagah berani. Mereka itulah yang telah merubah arus perjalanan hidup manusia dengan jihad dan pengorbanan mereka dan merekalah yang merubah corak pemikiran dunia.” <sup class=\"fn-ref\" data-fn-id=\"140\" title=\"Al-Maududi, Nahnu wa al-Hadarah al-‘Arabiyah, m.s. 251\">[140]</sup>"
         },
         {
           "type": "heading2",
           "text": "“Inilah Aku” ...Kata Imam Hasan al-Banna",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Analisis terhadap karisma luar biasa Imam Asy-Syahid Hasan al-Banna yang berjaya menterjemahkan kefahaman Islam yang syumul ke dalam bentuk gerakan amali yang menggoncangkan dunia.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengambil iktibar daripada uslub tarbiah Ikhwan: kesederhanaan, keterbukaan, kedalaman ukhuwah, dan kepantasan membina institusi masyarakat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Analisis terhadap karisma luar biasa Imam Asy-Syahid Hasan al-Banna yang berjaya menterjemahkan kefahaman Islam yang syumul ke dalam bentuk gerakan amali yang menggoncangkan dunia. \n* **Aplikasi Fiqh Haraki:** \n Mengambil iktibar daripada uslub tarbiah Ikhwan: kesederhanaan, keterbukaan, kedalaman ukhuwah, dan kepantasan membina institusi masyarakat."
         },
         {
           "type": "quote",
@@ -4722,31 +4722,31 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Aku tidak menganggap kerja ini sebagai mudah dan bukanlah satu perjuangan yang singkat, tetapi yang pasti ia pasti mendatangkan hasil. Semua benda yang hakiki, selaras dengan fitrah kejadian dan sifat semulajadi insan perkara akan menyokongnya. Tidak dapat tidak, ia pasti akan ditentang oleh sampah sarap yang bertimbun-timbun dan dirintangi oleh realiti kepongahan kemanusiaan yang hebat. Namun, semua itu hanya sementara sahaja bagaikan buih-buih di permukaan. Ya, rintangan yang dihadapi memang besar tetapi ia hanyalah seperti buih-buih.”  <sup class=\"fn-ref\" data-fn-id=\"141\" title=\"Said Qutb, Al-Islam, wa Musykilat al-Hadarah, m.s. 191\">[141]</sup>"
+          "text": "Aku tidak menganggap kerja ini sebagai mudah dan bukanlah satu perjuangan yang singkat, tetapi yang pasti ia pasti mendatangkan hasil. Semua benda yang hakiki, selaras dengan fitrah kejadian dan sifat semulajadi insan perkara akan menyokongnya. Tidak dapat tidak, ia pasti akan ditentang oleh sampah sarap yang bertimbun-timbun dan dirintangi oleh realiti kepongahan kemanusiaan yang hebat. Namun, semua itu hanya sementara sahaja bagaikan buih-buih di permukaan. Ya, rintangan yang dihadapi memang besar tetapi ia hanyalah seperti buih-buih.” <sup class=\"fn-ref\" data-fn-id=\"141\" title=\"Said Qutb, Al-Islam, wa Musykilat al-Hadarah, m.s. 191\">[141]</sup>"
         },
         {
           "type": "quote",
-          "text": "“Titik permulaan buat masa sekarang itulah juga titik permulaan zaman manusia mula-mula menerima Islam. Ia bermula dengan adanya orang-orang di suatu tempat yang berpegang agama yang benar. Mereka yakin dan mengaku dengan sesungguhnya tiada Tuhan kecuali Allah dan sesungguhnya Muhammad itu utusan Allah. Mereka menerima dan berpegang dengan hakimiyyah dan Allah sahaja sebagai penentu hukum. Kemudian mereka melaksanakan syariat tersebut di dala m realiti kehidupan. Kemudian mereka berjalan di muka bumi untuk menyebarkan berita ini kepada manusia membebaskan mereka dari jahiliah.”  <sup class=\"fn-ref\" data-fn-id=\"142\" title=\"Fi Zilal al-Quran, Juzu’ 10, m.s. 191\">[142]</sup>"
+          "text": "“Titik permulaan buat masa sekarang itulah juga titik permulaan zaman manusia mula-mula menerima Islam. Ia bermula dengan adanya orang-orang di suatu tempat yang berpegang agama yang benar. Mereka yakin dan mengaku dengan sesungguhnya tiada Tuhan kecuali Allah dan sesungguhnya Muhammad itu utusan Allah. Mereka menerima dan berpegang dengan hakimiyyah dan Allah sahaja sebagai penentu hukum. Kemudian mereka melaksanakan syariat tersebut di dala m realiti kehidupan. Kemudian mereka berjalan di muka bumi untuk menyebarkan berita ini kepada manusia membebaskan mereka dari jahiliah.” <sup class=\"fn-ref\" data-fn-id=\"142\" title=\"Fi Zilal al-Quran, Juzu’ 10, m.s. 191\">[142]</sup>"
         },
         {
           "type": "quote",
-          "text": "“Mesti ada sekumpulan pelopor yang mengambil keAzzaman ini untuk meneruskan perjalanan. Tiga orang akan bertambah menjadi sepuluh orang dan dari sepuluh akan menjadi seratus, dan dari seratus menjadi seribu dan dari seribu menjadi dua belas ribu.”  <sup class=\"fn-ref\" data-fn-id=\"143\" title=\"Syed Qutb, Ma'alim fi al-Tariq, Jilid 9, m.s. 118\">[143]</sup>"
+          "text": "“Mesti ada sekumpulan pelopor yang mengambil keAzzaman ini untuk meneruskan perjalanan. Tiga orang akan bertambah menjadi sepuluh orang dan dari sepuluh akan menjadi seratus, dan dari seratus menjadi seribu dan dari seribu menjadi dua belas ribu.” <sup class=\"fn-ref\" data-fn-id=\"143\" title=\"Syed Qutb, Ma'alim fi al-Tariq, Jilid 9, m.s. 118\">[143]</sup>"
         },
         {
           "type": "text",
-          "text": "Inilah uslub pelopor gerakan Islam dalam usaha kebangkitan Islam demi merealisasikan cara hidup Islam. “Manhaj ini hanya dapat direalisasikan sekiranya manhaj tersebut didokongi oleh satu kumpulan manusia yang benar- benar beriman dengannya, beristiqamah sedaya mungkin dan kemudiannya berusaha bersungguh-sungguh untuk merealisasikan manhaj tersebut di dalam hati dan kehidupan orang lain.”  <sup class=\"fn-ref\" data-fn-id=\"144\" title=\"Syed Qutb, Haza al-Din, m.s. 7\">[144]</sup>"
+          "text": "Inilah uslub pelopor gerakan Islam dalam usaha kebangkitan Islam demi merealisasikan cara hidup Islam. “Manhaj ini hanya dapat direalisasikan sekiranya manhaj tersebut didokongi oleh satu kumpulan manusia yang benar- benar beriman dengannya, beristiqamah sedaya mungkin dan kemudiannya berusaha bersungguh-sungguh untuk merealisasikan manhaj tersebut di dalam hati dan kehidupan orang lain.” <sup class=\"fn-ref\" data-fn-id=\"144\" title=\"Syed Qutb, Haza al-Din, m.s. 7\">[144]</sup>"
         },
         {
           "type": "text",
-          "text": "Tidak dapat tidak, “Kita mestilah berusaha ke arah kebangkitan Islam sekalipun jarak amat jauh antara us aha kebangkitan Islam dengan masa mencapai tampuk kepimpinan dan kemenangan Islam. Usaha ke arah kebangkitan Islam merupakan langkah pertama. Perjalanan tidak akan bermula tanpa langkah pertama ini.”  <sup class=\"fn-ref\" data-fn-id=\"145\" title=\"Syed Qutb, Ma'alim fi al-Tariq, m.s. 7\">[145]</sup>"
+          "text": "Tidak dapat tidak, “Kita mestilah berusaha ke arah kebangkitan Islam sekalipun jarak amat jauh antara us aha kebangkitan Islam dengan masa mencapai tampuk kepimpinan dan kemenangan Islam. Usaha ke arah kebangkitan Islam merupakan langkah pertama. Perjalanan tidak akan bermula tanpa langkah pertama ini.” <sup class=\"fn-ref\" data-fn-id=\"145\" title=\"Syed Qutb, Ma'alim fi al-Tariq, m.s. 7\">[145]</sup>"
         },
         {
           "type": "quote",
-          "text": "Angkatan pelopor gerakan Islam itulah angkatan yang mendapat taufik Allah dan berjaya. Sesiapa yang tidak menyertai mereka mulai sekarang, nescaya akan menyesal dan berdukacit a sebagaimana Zuljausyan al-Dhababi r.a., seorang sahabat Rasulullah SAW yang tidak menyertai Islam kecuali selepas pembukaan Mekah. Padahal, Rasulullah SWT telah mengajaknya kepada Islam selepas peperangan Badar “Baginda bersabda: “Mahukah kamu menjadi seorang dari angkatan pelopor pertama di dalam urusan itu”? Dia berkata: “Tidak.” Baginda bersabda: “Apakah yang menahan kamu daripada masuk Islam”? Dia menjawab: “Aku telah melihat kaummu mendustakan kamu, mengusir kamu dan memerangi kamu. Tengoklah nanti. Jika kamu mengalahkan mereka, aku beriman kepadamu dan aku akan mengikutmu. Jika mereka mengalahkan kamu, aku tidak akan mengikutmu.”"
+          "text": "Angkatan pelopor gerakan Islam itulah angkatan yang mendapat taufik Allah dan berjaya. Sesiapa yang tidak menyertai mereka mulai sekarang, nescaya akan menyesal dan berdukacit a sebagaimana Zuljausyan al-Dhababi RA, seorang sahabat Rasulullah SAW yang tidak menyertai Islam kecuali selepas pembukaan Mekah. Padahal, Rasulullah SWT telah mengajaknya kepada Islam selepas peperangan Badar “Baginda bersabda: “Mahukah kamu menjadi seorang dari angkatan pelopor pertama di dalam urusan itu”? Dia berkata: “Tidak.” Baginda bersabda: “Apakah yang menahan kamu daripada masuk Islam”? Dia menjawab: “Aku telah melihat kaummu mendustakan kamu, mengusir kamu dan memerangi kamu. Tengoklah nanti. Jika kamu mengalahkan mereka, aku beriman kepadamu dan aku akan mengikutmu. Jika mereka mengalahkan kamu, aku tidak akan mengikutmu.”"
         },
         {
           "type": "text",
-          "text": "....Setelah beliau masuk Islam, dia se ntiasa berdukacita dan menyesal kerana tidak segera memeluk Islam ketika diajak oleh Rasulullah SAW”  <sup class=\"fn-ref\" data-fn-id=\"146\" title=\"Tabaqat Ibnu Saad, Juzu’ 6, m.s. 47\">[146]</sup>"
+          "text": "....Setelah beliau masuk Islam, dia se ntiasa berdukacita dan menyesal kerana tidak segera memeluk Islam ketika diajak oleh Rasulullah SAW” <sup class=\"fn-ref\" data-fn-id=\"146\" title=\"Tabaqat Ibnu Saad, Juzu’ 6, m.s. 47\">[146]</sup>"
         },
         {
           "type": "text",
@@ -4758,7 +4758,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Apabila muncul seorang pemimpin maju ke hadapan dan berkata: “Inilah aku!”, maka setiap individu di dalam jemaah dan persatuan-persatuan Islam sebenarnya mempunyai contoh ikutan dari dialog indah antara Nabi Ibrahim a.s. dengan anaknya Nabi Ismail a.s. ketika Allah memerintahkan baginda membina Ka'abah. “Sabda Nabi Ibrahim a.s.: “Wahai Ismail, sesungguhnya Allah telah menyuruh aku satu perkara.” Ismail lalu menjawab: “Lakukanlah sepertimana yang disuruh Allah kepadamu.” Ibrahim bertanya: “Adakah engkau akan menolongku?” Ismail menjawab: “Aku akan menolongmu.”  <sup class=\"fn-ref\" data-fn-id=\"147\" title=\"Sahih Bukhari, Jilid 4, m.s. 175\">[147]</sup>"
+          "text": "Apabila muncul seorang pemimpin maju ke hadapan dan berkata: “Inilah aku!”, maka setiap individu di dalam jemaah dan persatuan-persatuan Islam sebenarnya mempunyai contoh ikutan dari dialog indah antara Nabi Ibrahim a.s. dengan anaknya Nabi Ismail a.s. ketika Allah memerintahkan baginda membina Ka'abah. “Sabda Nabi Ibrahim a.s.: “Wahai Ismail, sesungguhnya Allah telah menyuruh aku satu perkara.” Ismail lalu menjawab: “Lakukanlah sepertimana yang disuruh Allah kepadamu.” Ibrahim bertanya: “Adakah engkau akan menolongku?” Ismail menjawab: “Aku akan menolongmu.” <sup class=\"fn-ref\" data-fn-id=\"147\" title=\"Sahih Bukhari, Jilid 4, m.s. 175\">[147]</sup>"
         },
         {
           "type": "text",
@@ -4786,12 +4786,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Begitulah Islam bermula dengan da gang kemudian menjadi kuat dan terus tersebar luas. Begitu juga ia kada ngkala ia asing di kebanyakan tempat dan masa, hinggakan ia lahir semula dan berkembang di mana akhirnya Allah SWT menguatkannya kembali sebagaimana yang telah berlaku pada zaman Umar bin Abdul Aziz. Ketika beliau dilantik menjadi khalifah, banyak perkara Islam pelik kepada ramai orang hinggakan ada dalam kalangan mereka tidak tahu bahawa arak itu haram. Lalu, Allah memberi kemenangan kepada Islam dengan usaha Umar dan menerangkan ap a yang tidak diketahui tentang Islam.”  <sup class=\"fn-ref\" data-fn-id=\"148\" title=\"Ibnu Taimiah, Majmu’ Fatawa, Jilid 18, m.s. 297\">[148]</sup>"
+          "text": "Begitulah Islam bermula dengan da gang kemudian menjadi kuat dan terus tersebar luas. Begitu juga ia kada ngkala ia asing di kebanyakan tempat dan masa, hinggakan ia lahir semula dan berkembang di mana akhirnya Allah SWT menguatkannya kembali sebagaimana yang telah berlaku pada zaman Umar bin Abdul Aziz. Ketika beliau dilantik menjadi khalifah, banyak perkara Islam pelik kepada ramai orang hinggakan ada dalam kalangan mereka tidak tahu bahawa arak itu haram. Lalu, Allah memberi kemenangan kepada Islam dengan usaha Umar dan menerangkan ap a yang tidak diketahui tentang Islam.” <sup class=\"fn-ref\" data-fn-id=\"148\" title=\"Ibnu Taimiah, Majmu’ Fatawa, Jilid 18, m.s. 297\">[148]</sup>"
         },
         {
           "type": "heading2",
           "text": "Para Perintis Menjelaskan Sifat-sifat Jalan Dakwah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Tokoh perintis dakwah sentiasa mengingatkan bahawa jalan ini dipagari dengan kepayahan, ujian fitnah, penjara, dan darah syuhada; ia bukan jalan bertabur bunga kemewahan atau populariti mudah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan anggota dengan latihan ketahanan jiwa (*tajnid*), kesabaran menghadapi mihnah, dan kesediaan mengorbankan nyawa demi keagungan kalimah Allah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Tokoh perintis dakwah sentiasa mengingatkan bahawa jalan ini dipagari dengan kepayahan, ujian fitnah, penjara, dan darah syuhada; ia bukan jalan bertabur bunga kemewahan atau populariti mudah. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan anggota dengan latihan ketahanan jiwa (*tajnid*), kesabaran menghadapi mihnah, dan kesediaan mengorbankan nyawa demi keagungan kalimah Allah."
         },
         {
           "type": "text",
@@ -4799,15 +4799,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Perkara pertama yang dijelaskan oleh Imam al-Syahid Hasan al-Banna ialah: Perlu bersungguh-sungguh dan bekerja. Perlunya dilakukan ‘takwin’ (pembentukan) selepas ‘tanbih’ (memberi peringatan) atau pelunya ‘ta'sis’ selepas ‘tadris’.  <sup class=\"fn-ref\" data-fn-id=\"149\" title=\"Muktamar Ke-5, al-Majmua'ah, m.s. 239\">[149]</sup>   Seterusnya beliau menjelaskan: “Setiap dakwah hendaklah melalui tiga marhalah: 1. Marhalah promosi, pengenalan (takrif), menyebarkan fikrah Islam dan memastikan ianya sampai kepada setiap lapisan masyarakat. 2. Marhalah Pembentukan (Takwin), memilih para pendokong, mempersiapkan petugas yang komited dan menyusun barisan dalam kalangan orang yang telah menerima dakwah. 3. Marhalah Pelaksanaan (Tanfiz) bekerja dan mengeluarkan hasil."
+          "text": "Perkara pertama yang dijelaskan oleh Imam al-Syahid Hasan al-Banna ialah: Perlu bersungguh-sungguh dan bekerja. Perlunya dilakukan ‘takwin’ (pembentukan) selepas ‘tanbih’ (memberi peringatan) atau pelunya ‘ta'sis’ selepas ‘tadris’. <sup class=\"fn-ref\" data-fn-id=\"149\" title=\"Muktamar Ke-5, al-Majmua'ah, m.s. 239\">[149]</sup> Seterusnya beliau menjelaskan: “Setiap dakwah hendaklah melalui tiga marhalah: 1. Marhalah promosi, pengenalan (takrif), menyebarkan fikrah Islam dan memastikan ianya sampai kepada setiap lapisan masyarakat. 2. Marhalah Pembentukan (Takwin), memilih para pendokong, mempersiapkan petugas yang komited dan menyusun barisan dalam kalangan orang yang telah menerima dakwah. 3. Marhalah Pelaksanaan (Tanfiz) bekerja dan mengeluarkan hasil."
         },
         {
           "type": "text",
-          "text": "Ketiga-tiga marhalah ini selalunya berjalan serentak dan seiringan memandangkan adanya kesatuan dakwah dan kaitan yang kukuh antara ketiga-tiganya. Seorang da'i   itu biasanya berdakwah dan dalam masa yang sama dia bekerja dan men'tanfiz’. Tetapi, apa yang pasti, tujuan dan hasil terakhir hanya akan dapat diraih setelah dakwah itu tersebar luas, mempunyai pendokong yang ramai dan pembentukan yang kukuh.”  <sup class=\"fn-ref\" data-fn-id=\"150\" title=\"Ibid, m.s. 254\">[150]</sup>"
+          "text": "Ketiga-tiga marhalah ini selalunya berjalan serentak dan seiringan memandangkan adanya kesatuan dakwah dan kaitan yang kukuh antara ketiga-tiganya. Seorang da'i itu biasanya berdakwah dan dalam masa yang sama dia bekerja dan men'tanfiz’. Tetapi, apa yang pasti, tujuan dan hasil terakhir hanya akan dapat diraih setelah dakwah itu tersebar luas, mempunyai pendokong yang ramai dan pembentukan yang kukuh.” <sup class=\"fn-ref\" data-fn-id=\"150\" title=\"Ibid, m.s. 254\">[150]</sup>"
         },
         {
           "type": "text",
-          "text": "Ustaz al-Maududi pula menyeru kita supaya merenung sejarah Nabi Muhammad SAW untuk melihat bagaimana: “Baginda pada mulanya berdiri keseorangan mencabar dunia seluruhnya. Baginda menolak semua pemikiran- pemikiran salah dan jalan-jalan bengkok yang menguasai dunia seluruhnya. Baginda menawarkan akidah yang datang dari Allah. Satu akidah yang khusus dan mempunyai jalan tersendiri. Dalam beberapa tahun sahaja selepas itu, baginda telah berjaya mengubah arus perjalanan dunia dan menukar warna zaman dengan kekuatan penyampaian dan jihadnya.”  <sup class=\"fn-ref\" data-fn-id=\"151\" title=\"Nahnu wa-al-Hadarah al-‘Arabiyah, m.s. 250\">[151]</sup>"
+          "text": "Ustaz al-Maududi pula menyeru kita supaya merenung sejarah Nabi Muhammad SAW untuk melihat bagaimana: “Baginda pada mulanya berdiri keseorangan mencabar dunia seluruhnya. Baginda menolak semua pemikiran- pemikiran salah dan jalan-jalan bengkok yang menguasai dunia seluruhnya. Baginda menawarkan akidah yang datang dari Allah. Satu akidah yang khusus dan mempunyai jalan tersendiri. Dalam beberapa tahun sahaja selepas itu, baginda telah berjaya mengubah arus perjalanan dunia dan menukar warna zaman dengan kekuatan penyampaian dan jihadnya.” <sup class=\"fn-ref\" data-fn-id=\"151\" title=\"Nahnu wa-al-Hadarah al-‘Arabiyah, m.s. 250\">[151]</sup>"
         },
         {
           "type": "quote",
@@ -4823,11 +4823,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sekiranya tiada seorang pun yang sudi menyahut seruannya, maka tetap berdirinya di jalan yang lurus dan terus berusaha tanpa henti menyeru manusia kepada Islam hinggalah dia menemui Tuhannya (meninggal dunia) itu beribu- ribu kali ganda lebih baik bagi dirinya daripada dia melaungkan seruan jahiliah yang menjanjikan keseronokan dunia hingga dia tersungkur di lembah kesesatan dan kejahilan.”  <sup class=\"fn-ref\" data-fn-id=\"152\" title=\"Al-Usus al-Harakiyah li al-Harakah al-Islamiyah, m.s. 18\">[152]</sup>"
+          "text": "Sekiranya tiada seorang pun yang sudi menyahut seruannya, maka tetap berdirinya di jalan yang lurus dan terus berusaha tanpa henti menyeru manusia kepada Islam hinggalah dia menemui Tuhannya (meninggal dunia) itu beribu- ribu kali ganda lebih baik bagi dirinya daripada dia melaungkan seruan jahiliah yang menjanjikan keseronokan dunia hingga dia tersungkur di lembah kesesatan dan kejahilan.” <sup class=\"fn-ref\" data-fn-id=\"152\" title=\"Al-Usus al-Harakiyah li al-Harakah al-Islamiyah, m.s. 18\">[152]</sup>"
         },
         {
           "type": "text",
-          "text": "Tetapi, hakikat ini telah dilupakan oleh ramai orang. Mereka sangka jalan ini cukup dengan sekadar pidato, syarahan, ceramah, resolusi-resolusi dan seminar semata-mata. Oleh itu, seorang da'i   Islam yang agung, Syakib Arsalan Rahimahullah telah berusaha bersungguh-sungguh mengajar jalan yang betul namun masih juga belum berjaya."
+          "text": "Tetapi, hakikat ini telah dilupakan oleh ramai orang. Mereka sangka jalan ini cukup dengan sekadar pidato, syarahan, ceramah, resolusi-resolusi dan seminar semata-mata. Oleh itu, seorang da'i Islam yang agung, Syakib Arsalan Rahimahullah telah berusaha bersungguh-sungguh mengajar jalan yang betul namun masih juga belum berjaya."
         },
         {
           "type": "text",
@@ -4835,11 +4835,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Seterusnya beliau berkata: “Apalah gunanya mengadakan muktamar yang menghimpunkan orang-orang yang lemah, tidak mempunyai keinginan tersendiri dan tidak mampu melaksanakan walaupun satu keputusan atau resolusi. Apa faedahnya berbuat demikian? Adakah kamu mahu kami mengumpulkan angka-angka kosong?”  <sup class=\"fn-ref\" data-fn-id=\"153\" title=\"Al-Muslimun, Bil. 2, m.s. 363\">[153]</sup>"
+          "text": "Seterusnya beliau berkata: “Apalah gunanya mengadakan muktamar yang menghimpunkan orang-orang yang lemah, tidak mempunyai keinginan tersendiri dan tidak mampu melaksanakan walaupun satu keputusan atau resolusi. Apa faedahnya berbuat demikian? Adakah kamu mahu kami mengumpulkan angka-angka kosong?” <sup class=\"fn-ref\" data-fn-id=\"153\" title=\"Al-Muslimun, Bil. 2, m.s. 363\">[153]</sup>"
         },
         {
           "type": "text",
-          "text": "Kata-kata beliau itu menyerlahkan kemuncak kesedaran dan pengalaman mutakhir pada da'i  , tetapi rakan-rakan Syakib Arsalan telah mengecewakan beliau dan tidak bersemangat."
+          "text": "Kata-kata beliau itu menyerlahkan kemuncak kesedaran dan pengalaman mutakhir pada da'i , tetapi rakan-rakan Syakib Arsalan telah mengecewakan beliau dan tidak bersemangat."
         },
         {
           "type": "text",
@@ -4871,7 +4871,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya para da'i   dalam kehairanan"
+          "text": "Sesungguhnya para da'i dalam kehairanan"
         },
         {
           "type": "text",
@@ -4911,7 +4911,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bekalkan kau wahai puteri si manjaku, dari nyalaan hidayah ini.  <sup class=\"fn-ref\" data-fn-id=\"154\" title=\"Abdul Wahab Azam, disertakan dalam synopsis Diwan Risalah Masyriq, oleh Muhammad Iqbal.\">[154]</sup>"
+          "text": "Bekalkan kau wahai puteri si manjaku, dari nyalaan hidayah ini. <sup class=\"fn-ref\" data-fn-id=\"154\" title=\"Abdul Wahab Azam, disertakan dalam synopsis Diwan Risalah Masyriq, oleh Muhammad Iqbal.\">[154]</sup>"
         }
       ],
       "footnotes": [
@@ -5010,37 +5010,37 @@ window.ALMUNTALAQ_DATA = {
           "id": "c9_s0",
           "title": "Pengenalan: Kelahiran Harakah Islamiyyah Moden",
           "summary_title": "Mukadimah Bab 9: Amal Jama'i Dalam Acuan Moden",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kejatuhan Khilafah Uthmaniyyah menuntut ijtihad haraki baharu untuk menyusun semula umat melalui penubuhan gerakan Islam moden yang memiliki perlembagaan, disiplin tanzimi, dan visi pengembalian tamadun Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengadaptasi kaedah pengurusan moden, perancangan strategik, dan teknologi terkini tanpa mencairkan sedikit pun prinsip thawabit akidah Islam."
+          "summary": "* **Intipati & Pemahaman:** \n Kejatuhan Khilafah Uthmaniyyah menuntut ijtihad haraki baharu untuk menyusun semula umat melalui penubuhan gerakan Islam moden yang memiliki perlembagaan, disiplin tanzimi, dan visi pengembalian tamadun Islam. \n* **Aplikasi Fiqh Haraki:** \n Mengadaptasi kaedah pengurusan moden, perancangan strategik, dan teknologi terkini tanpa mencairkan sedikit pun prinsip thawabit akidah Islam."
         },
         {
           "id": "c9_s1",
           "title": "Respon Yang Dicetuskan Oleh Suasana",
           "summary_title": "1. Menyambut Panggilan Sejarah & Realiti Semasa",
-          "summary": "* **Intipati & Pemahaman:**  \n  Gerakan Islam moden tidak lahir secara kebetulan atau fantasi, tetapi sebagai jawapan tegas terhadap cabaran penjajahan Barat, keruntuhan institusi syariat, dan gelombang pembaratan yang melanda dunia Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Kepekaan da'i terhadap *waqi'* (realiti semasa); dakwah mesti sentiasa relevan dan mampu menawarkan penyelesaian Islam terhadap krisis ekonomi, moral, dan politik kontemporari."
+          "summary": "* **Intipati & Pemahaman:** \n Gerakan Islam moden tidak lahir secara kebetulan atau fantasi, tetapi sebagai jawapan tegas terhadap cabaran penjajahan Barat, keruntuhan institusi syariat, dan gelombang pembaratan yang melanda dunia Islam. \n* **Aplikasi Fiqh Haraki:** \n Kepekaan da'i terhadap *waqi'* (realiti semasa); dakwah mesti sentiasa relevan dan mampu menawarkan penyelesaian Islam terhadap krisis ekonomi, moral, dan politik kontemporari."
         },
         {
           "id": "c9_s2",
           "title": "Berulangnya Kebingungan",
           "summary_title": "2. Mengelak Kitaran Kebingungan Ideologi Sekular",
-          "summary": "* **Intipati & Pemahaman:**  \n  Umat Islam telah menyaksikan kegagalan demi kegagalan pelbagai eksperimen ideologi ciptaan manusia—nasionalisme sempit, sosialisme, dan kapitalisme liberal—yang hanya menambah keparahan derita umat.  \n* **Aplikasi Fiqh Haraki:**  \n  Keyakinan bahawa satu-satunya jalan keluar (*al-hallul Islami*) adalah kembali kepada kedaulatan syariat Islam secara menyeluruh."
+          "summary": "* **Intipati & Pemahaman:** \n Umat Islam telah menyaksikan kegagalan demi kegagalan pelbagai eksperimen ideologi ciptaan manusia—nasionalisme sempit, sosialisme, dan kapitalisme liberal—yang hanya menambah keparahan derita umat. \n* **Aplikasi Fiqh Haraki:** \n Keyakinan bahawa satu-satunya jalan keluar (*al-hallul Islami*) adalah kembali kepada kedaulatan syariat Islam secara menyeluruh."
         },
         {
           "id": "c9_s3",
           "title": "Mengenali Diri Sendiri",
           "summary_title": "3. Jati Diri & Keizzahan Gerakan Islam",
-          "summary": "* **Intipati & Pemahaman:**  \n  Harakah Islamiyyah mesti memiliki kejelasan identiti: kita adalah gerakan dakwah Rabbaniyyah, manhaj Nabawiyyah, dan pembawa panji Islam yang tidak tunduk kepada sebarang acuan politik jahiliah.  \n* **Aplikasi Fiqh Haraki:**  \n  Menolak kelesuan rasa rendah diri (*inferiority complex*) di hadapan kemajuan kebendaan Barat; kebanggaan hakiki adalah berpegang kepada hidayah wahyu Ilahi."
+          "summary": "* **Intipati & Pemahaman:** \n Harakah Islamiyyah mesti memiliki kejelasan identiti: kita adalah gerakan dakwah Rabbaniyyah, manhaj Nabawiyyah, dan pembawa panji Islam yang tidak tunduk kepada sebarang acuan politik jahiliah. \n* **Aplikasi Fiqh Haraki:** \n Menolak kelesuan rasa rendah diri (*inferiority complex*) di hadapan kemajuan kebendaan Barat; kebanggaan hakiki adalah berpegang kepada hidayah wahyu Ilahi."
         },
         {
           "id": "c9_s4",
           "title": "“Inilah Aku” ...Kata Imam Hasan al-Banna",
           "summary_title": "4. Karisma & Manhaj Pembaharuan Imam Hasan al-Banna",
-          "summary": "* **Intipati & Pemahaman:**  \n  Analisis terhadap karisma luar biasa Imam Asy-Syahid Hasan al-Banna yang berjaya menterjemahkan kefahaman Islam yang syumul ke dalam bentuk gerakan amali yang menggoncangkan dunia.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengambil iktibar daripada uslub tarbiah Ikhwan: kesederhanaan, keterbukaan, kedalaman ukhuwah, dan kepantasan membina institusi masyarakat."
+          "summary": "* **Intipati & Pemahaman:** \n Analisis terhadap karisma luar biasa Imam Asy-Syahid Hasan al-Banna yang berjaya menterjemahkan kefahaman Islam yang syumul ke dalam bentuk gerakan amali yang menggoncangkan dunia. \n* **Aplikasi Fiqh Haraki:** \n Mengambil iktibar daripada uslub tarbiah Ikhwan: kesederhanaan, keterbukaan, kedalaman ukhuwah, dan kepantasan membina institusi masyarakat."
         },
         {
           "id": "c9_s5",
           "title": "Para Perintis Menjelaskan Sifat-sifat Jalan Dakwah",
           "summary_title": "5. Peringatan Para Perintis Tentang Tabiat Jalan Dakwah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Tokoh perintis dakwah sentiasa mengingatkan bahawa jalan ini dipagari dengan kepayahan, ujian fitnah, penjara, dan darah syuhada; ia bukan jalan bertabur bunga kemewahan atau populariti mudah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan anggota dengan latihan ketahanan jiwa (*tajnid*), kesabaran menghadapi mihnah, dan kesediaan mengorbankan nyawa demi keagungan kalimah Allah."
+          "summary": "* **Intipati & Pemahaman:** \n Tokoh perintis dakwah sentiasa mengingatkan bahawa jalan ini dipagari dengan kepayahan, ujian fitnah, penjara, dan darah syuhada; ia bukan jalan bertabur bunga kemewahan atau populariti mudah. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan anggota dengan latihan ketahanan jiwa (*tajnid*), kesabaran menghadapi mihnah, dan kesediaan mengorbankan nyawa demi keagungan kalimah Allah."
         }
       ]
     },
@@ -5082,11 +5082,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Perbezaan Cara Fikir Menghalang Pertemuan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Halangan terbesar kepada kesatuan saf bukanlah perbezaan fizikal, tetapi perbezaan neraca cara berfikir (*al-manhaj al-fikri*). Selagi minda para aktivis tidak diselaraskan dengan tasawwur Islam yang sahih, saf akan mudah retak.  \n* **Aplikasi Fiqh Haraki:**  \n  Memperkukuh program tarbiah usrah dan tamrin bagi memastikan keselarasan fahaman (*wahdatul fikr*) mendahului keselarasan tindakan (*wahdatul 'amal*)."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Halangan terbesar kepada kesatuan saf bukanlah perbezaan fizikal, tetapi perbezaan neraca cara berfikir (*al-manhaj al-fikri*). Selagi minda para aktivis tidak diselaraskan dengan tasawwur Islam yang sahih, saf akan mudah retak. \n* **Aplikasi Fiqh Haraki:** \n Memperkukuh program tarbiah usrah dan tamrin bagi memastikan keselarasan fahaman (*wahdatul fikr*) mendahului keselarasan tindakan (*wahdatul 'amal*)."
         },
         {
           "type": "text",
-          "text": "Justeru itu, penyair-penyair dakwah telah menfokuskan kerja mereka bagi menerangkan tabiat taghyiriyah Islamiyah. Ia ditegaskan oleh seorang penyair dan da'i  , Mahmud Aal-Jaafar. Katanya:"
+          "text": "Justeru itu, penyair-penyair dakwah telah menfokuskan kerja mereka bagi menerangkan tabiat taghyiriyah Islamiyah. Ia ditegaskan oleh seorang penyair dan da'i , Mahmud Aal-Jaafar. Katanya:"
         },
         {
           "type": "text",
@@ -5114,7 +5114,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bagi kami, Islam adalah kekuatan, memukul dan memusnahkan kepala si degil  <sup class=\"fn-ref\" data-fn-id=\"155\" title=\"Diwan Hunain ila al-Fajr, m.s. 72\">[155]</sup>"
+          "text": "Bagi kami, Islam adalah kekuatan, memukul dan memusnahkan kepala si degil <sup class=\"fn-ref\" data-fn-id=\"155\" title=\"Diwan Hunain ila al-Fajr, m.s. 72\">[155]</sup>"
         },
         {
           "type": "text",
@@ -5138,7 +5138,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "sebahagiannya pula bersembunyi di balik “topeng berkecuali”  <sup class=\"fn-ref\" data-fn-id=\"156\" title=\"Pendirian atas pagar. (Pnt)\">[156]</sup>"
+          "text": "sebahagiannya pula bersembunyi di balik “topeng berkecuali” <sup class=\"fn-ref\" data-fn-id=\"156\" title=\"Pendirian atas pagar. (Pnt)\">[156]</sup>"
         },
         {
           "type": "text",
@@ -5166,11 +5166,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "di gelanggang jihad pada hari pertarungan.  <sup class=\"fn-ref\" data-fn-id=\"157\" title=\"Al-Amiri, Alwan Toif, m.s. 94\">[157]</sup>"
+          "text": "di gelanggang jihad pada hari pertarungan. <sup class=\"fn-ref\" data-fn-id=\"157\" title=\"Al-Amiri, Alwan Toif, m.s. 94\">[157]</sup>"
         },
         {
           "type": "text",
-          "text": "Jika diikutkan, sebagai da'i   aku boleh hidup berdamai dengan jahiliah"
+          "text": "Jika diikutkan, sebagai da'i aku boleh hidup berdamai dengan jahiliah"
         },
         {
           "type": "text",
@@ -5198,7 +5198,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "kami tidak akan bertemu.  <sup class=\"fn-ref\" data-fn-id=\"158\" title=\"Ibid\">[158]</sup>"
+          "text": "kami tidak akan bertemu. <sup class=\"fn-ref\" data-fn-id=\"158\" title=\"Ibid\">[158]</sup>"
         },
         {
           "type": "text",
@@ -5207,19 +5207,19 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Aliran Pengembangan Seimbang Lahir Daripada Pusat Yang Tetap",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Sebagaimana kompas atau roda yang berputar stabil kerana paksi tengahnya kukuh, begitu jugalah gerakan Islam: peluasan medan aktiviti mestilah berpaksikan kepada pusat kepimpinan dan tarbiah akidah yang tidak berganjak.  \n* **Aplikasi Fiqh Haraki:**  \n  Pusat qiyadah dan dewan tarbiah mesti sentiasa mantap sebagai rujukan mutlak sebelum sebarang cawangan atau projek baharu dibuka."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Sebagaimana kompas atau roda yang berputar stabil kerana paksi tengahnya kukuh, begitu jugalah gerakan Islam: peluasan medan aktiviti mestilah berpaksikan kepada pusat kepimpinan dan tarbiah akidah yang tidak berganjak. \n* **Aplikasi Fiqh Haraki:** \n Pusat qiyadah dan dewan tarbiah mesti sentiasa mantap sebagai rujukan mutlak sebelum sebarang cawangan atau projek baharu dibuka."
         },
         {
           "type": "text",
-          "text": "Ini memestikan para da'i   bertindak cepat dan keluar bersama-sama mengembalikan yang telah sesat kepada jalan yang benar dan lurus."
+          "text": "Ini memestikan para da'i bertindak cepat dan keluar bersama-sama mengembalikan yang telah sesat kepada jalan yang benar dan lurus."
         },
         {
           "type": "text",
-          "text": "Perkara pertama yang mesti dilakukan ialah mengajak manusia supaya berkumpul. Kadang-kala terdapat da'i   yang menyeru kepada fikrah Islam semata-mata. Kita lihat mereka sebagai da'i   yang paling hebat kefahamannya, akidah, sistem, perundangannya dan dia paling banyak membaca buku. Mungkin juga dia mempunyai semang at yang paling berkobar-kobar dan paling khusyuk di dalam solat. Tetapi, dia tidak mahu terikat dengan sebarang perancangan dan peraturan. Apa yang dirasainya, itulah yang dipegangnya. Mana yang dia nampak, itulah yang dibuatnya. Dia memimpin diri mereka sendiri. Dia tidak peduli sama ada apa yang dibuat itu selaras dengan da'i   lain atau tidak. Orang sebegini sukar untuk sampai ke hasil yang positif. Dia hanya akan berlegar-legar di tempat yang sama."
+          "text": "Perkara pertama yang mesti dilakukan ialah mengajak manusia supaya berkumpul. Kadang-kala terdapat da'i yang menyeru kepada fikrah Islam semata-mata. Kita lihat mereka sebagai da'i yang paling hebat kefahamannya, akidah, sistem, perundangannya dan dia paling banyak membaca buku. Mungkin juga dia mempunyai semang at yang paling berkobar-kobar dan paling khusyuk di dalam solat. Tetapi, dia tidak mahu terikat dengan sebarang perancangan dan peraturan. Apa yang dirasainya, itulah yang dipegangnya. Mana yang dia nampak, itulah yang dibuatnya. Dia memimpin diri mereka sendiri. Dia tidak peduli sama ada apa yang dibuat itu selaras dengan da'i lain atau tidak. Orang sebegini sukar untuk sampai ke hasil yang positif. Dia hanya akan berlegar-legar di tempat yang sama."
         },
         {
           "type": "text",
-          "text": "Da'i   yang sebenar yang akan memberi harapan kepada ummah pada hari ini hanyalah al-munassiquun (yang da pat menyelaraskan kerja dengan orang lain)."
+          "text": "Da'i yang sebenar yang akan memberi harapan kepada ummah pada hari ini hanyalah al-munassiquun (yang da pat menyelaraskan kerja dengan orang lain)."
         },
         {
           "type": "text",
@@ -5243,7 +5243,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "dari pusat ini, manusia sentiasa ada penerusan  <sup class=\"fn-ref\" data-fn-id=\"159\" title=\"Diwan al-Asrar w al-Rumuz, m.s. 123\">[159]</sup>"
+          "text": "dari pusat ini, manusia sentiasa ada penerusan <sup class=\"fn-ref\" data-fn-id=\"159\" title=\"Diwan al-Asrar w al-Rumuz, m.s. 123\">[159]</sup>"
         },
         {
           "type": "text",
@@ -5251,7 +5251,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya kerja yang mengekalkan perjalanan jemaah dakwah: “anda lihatnya umpama satu bulatan yang berputar. Adakalanya ia naik atau turun. Bukan kerana rendah atau tingginya, tetapi kerana bergerak mengelilingi pusat, selaras dan seimbang menurut ukuran yang tertentu.”  <sup class=\"fn-ref\" data-fn-id=\"160\" title=\"Perumpamaan yang dibuat oleh al-Rafi'e tentang sesetengah perkara di dalam Khilal Wahyu al-Qalam,\">[160]</sup>"
+          "text": "Sesungguhnya kerja yang mengekalkan perjalanan jemaah dakwah: “anda lihatnya umpama satu bulatan yang berputar. Adakalanya ia naik atau turun. Bukan kerana rendah atau tingginya, tetapi kerana bergerak mengelilingi pusat, selaras dan seimbang menurut ukuran yang tertentu.” <sup class=\"fn-ref\" data-fn-id=\"160\" title=\"Perumpamaan yang dibuat oleh al-Rafi'e tentang sesetengah perkara di dalam Khilal Wahyu al-Qalam,\">[160]</sup>"
         },
         {
           "type": "text",
@@ -5260,7 +5260,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Menyeluruh Dalam Pelaksanaan Kerja",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Amal dakwah tidak boleh dipenjarakan dalam dimensi khutbah semata-mata; ia mesti mengintegrasikan pembelaan ekonomi umat, kebajikan sosial, pendidikan generasi, sukan belia, media penerangan, dan percaturan siasah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mewujudkan pelbagai lajnah dan agensi profesional di bawah naungan gerakan untuk menyantuni segenap keperluan hidup masyarakat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Amal dakwah tidak boleh dipenjarakan dalam dimensi khutbah semata-mata; ia mesti mengintegrasikan pembelaan ekonomi umat, kebajikan sosial, pendidikan generasi, sukan belia, media penerangan, dan percaturan siasah. \n* **Aplikasi Fiqh Haraki:** \n Mewujudkan pelbagai lajnah dan agensi profesional di bawah naungan gerakan untuk menyantuni segenap keperluan hidup masyarakat."
         },
         {
           "type": "text",
@@ -5268,7 +5268,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Bahawa Islam kita adalah daulah dan tanah air, kerajaan dan umat, akhlak dan kekuatan, rahmat dan keadilan, pengetahuan dan perundangan, ilmu dan kehakiman, kebendaan dan harta, usaha dan kekayaan, jihad dan dakwah serta tentera dan fikrah, sebagaimana ia adalah akidah yang benar dan ibadah yang sahih.”  <sup class=\"fn-ref\" data-fn-id=\"161\" title=\"Risalah Ta'lim, al-Majmu'ah, m.s. 7\">[161]</sup>"
+          "text": "“Bahawa Islam kita adalah daulah dan tanah air, kerajaan dan umat, akhlak dan kekuatan, rahmat dan keadilan, pengetahuan dan perundangan, ilmu dan kehakiman, kebendaan dan harta, usaha dan kekayaan, jihad dan dakwah serta tentera dan fikrah, sebagaimana ia adalah akidah yang benar dan ibadah yang sahih.” <sup class=\"fn-ref\" data-fn-id=\"161\" title=\"Risalah Ta'lim, al-Majmu'ah, m.s. 7\">[161]</sup>"
         },
         {
           "type": "text",
@@ -5297,7 +5297,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Memimpin Umat Lebih Utama Daripada Menambah Amal Kebajikan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Membangkitkan dan memimpin seluruh umat ke arah perjuangan menegakkan syariat Allah memiliki darjat keutamaan yang jauh lebih tinggi berbanding sekadar menambah projek-projek kebajikan fardiyyah yang terhad impaknya.  \n* **Aplikasi Fiqh Haraki:**  \n  Fokus strategik harakah adalah melahirkan saf pemimpin umat (*qiyadah*), bukan sekadar menjadi badan kebajikan sukarela (NGO bantuan semata-mata)."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Membangkitkan dan memimpin seluruh umat ke arah perjuangan menegakkan syariat Allah memiliki darjat keutamaan yang jauh lebih tinggi berbanding sekadar menambah projek-projek kebajikan fardiyyah yang terhad impaknya. \n* **Aplikasi Fiqh Haraki:** \n Fokus strategik harakah adalah melahirkan saf pemimpin umat (*qiyadah*), bukan sekadar menjadi badan kebajikan sukarela (NGO bantuan semata-mata)."
         },
         {
           "type": "text",
@@ -5313,15 +5313,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Demi Allah, apa yang diucapkan oleh para penasihat itu adalah benar belaka. Hadis-hadis fadilat itu bukan dusta. Kita tidak pernah melupakan kesan dan pengaruhnya di dalam memajukan dakwah dengan tarbiah secara praktikal yang memecahkan segala tabir. Melalui cara itu juga para da'i   yang bersifat pendidik dapat berinteraksi dengan orang awam secara langsung setelah mereka tenggelam dalam pelbagai bidang kehidupan."
+          "text": "Demi Allah, apa yang diucapkan oleh para penasihat itu adalah benar belaka. Hadis-hadis fadilat itu bukan dusta. Kita tidak pernah melupakan kesan dan pengaruhnya di dalam memajukan dakwah dengan tarbiah secara praktikal yang memecahkan segala tabir. Melalui cara itu juga para da'i yang bersifat pendidik dapat berinteraksi dengan orang awam secara langsung setelah mereka tenggelam dalam pelbagai bidang kehidupan."
         },
         {
           "type": "text",
-          "text": "Tetapi da'i   mempunyai kerja yang lebih penting dan lebih besar dari itu. Dia wajib melaksanakan kerja yang tidak dilakukan oleh orang lain melainkan dia. Pahalanya tidak kurang dari pahala me mbuat kerja-kerja amal, jika tidak berganda-ganda pun."
+          "text": "Tetapi da'i mempunyai kerja yang lebih penting dan lebih besar dari itu. Dia wajib melaksanakan kerja yang tidak dilakukan oleh orang lain melainkan dia. Pahalanya tidak kurang dari pahala me mbuat kerja-kerja amal, jika tidak berganda-ganda pun."
         },
         {
           "type": "text",
-          "text": "Sesungguhnya da'i   Islam wajib melaksanakan tugas tajmi'iyy, tarbawiyy, thaqafi, I'laamiyy, siyasiyy, jihadiyy, khairiyy dalam kesyumulannya yang luas dan takamul yang saling berkaitan antara satu dengan yang lain."
+          "text": "Sesungguhnya da'i Islam wajib melaksanakan tugas tajmi'iyy, tarbawiyy, thaqafi, I'laamiyy, siyasiyy, jihadiyy, khairiyy dalam kesyumulannya yang luas dan takamul yang saling berkaitan antara satu dengan yang lain."
         },
         {
           "type": "text",
@@ -5329,7 +5329,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebenarnya ciri istimewa ini bukanlah pandai-pandai kita sahaja. Ianya adalah arahan anjuran Imam Ahmad Ibnu Hanbal selaku pemimpin da'i   di zamannya. Ketika beliau ditanya oleh muridnya Zuhair bin Abu Zuhair: “Bagaimana jika si polan itu boleh jadi berusaha di dalam sesuatu bidang seperti perkilangan, membina masjid dan pengairan?” Kata Zuhair: “Imam Ahmad berkata kepadaku: “Tidak, dirinya lebih utama baginya.” Imam Ahmad tidak suka laki-laki ini mengorbankan diri dan air mukanya.”  <sup class=\"fn-ref\" data-fn-id=\"162\" title=\"Ibnu Abi Ya'la, Tabaqat al-Hanabilah, Jilid 1, m.s. 159\">[162]</sup>"
+          "text": "Sebenarnya ciri istimewa ini bukanlah pandai-pandai kita sahaja. Ianya adalah arahan anjuran Imam Ahmad Ibnu Hanbal selaku pemimpin da'i di zamannya. Ketika beliau ditanya oleh muridnya Zuhair bin Abu Zuhair: “Bagaimana jika si polan itu boleh jadi berusaha di dalam sesuatu bidang seperti perkilangan, membina masjid dan pengairan?” Kata Zuhair: “Imam Ahmad berkata kepadaku: “Tidak, dirinya lebih utama baginya.” Imam Ahmad tidak suka laki-laki ini mengorbankan diri dan air mukanya.” <sup class=\"fn-ref\" data-fn-id=\"162\" title=\"Ibnu Abi Ya'la, Tabaqat al-Hanabilah, Jilid 1, m.s. 159\">[162]</sup>"
         },
         {
           "type": "text",
@@ -5337,7 +5337,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Pertama: Ucapannya itu mendedahkan supaya da'i   Islam tidak menjatuhkan air mukanya, tidak merendahkan harga dirinya dengan usaha mengumpulkan harta dari orang kaya meskipun untuk maslahah umum. Kegiatan sedemikian akan menahan lidahnya dari mengucapkan kebenaran, sama ada amar makruf atau nahi mungkar."
+          "text": "Pertama: Ucapannya itu mendedahkan supaya da'i Islam tidak menjatuhkan air mukanya, tidak merendahkan harga dirinya dengan usaha mengumpulkan harta dari orang kaya meskipun untuk maslahah umum. Kegiatan sedemikian akan menahan lidahnya dari mengucapkan kebenaran, sama ada amar makruf atau nahi mungkar."
         },
         {
           "type": "text",
@@ -5369,7 +5369,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Rasulullah S.A. W. bersabda: “Setiap seorang dari kamu adalah pemimpin dan setiap pemimpin akan disoal tentang rakyatnya.”  <sup class=\"fn-ref\" data-fn-id=\"163\" title=\"Al-Mawardi, Al-Ahkam al-Sultaniyyah, Cetakan Kedua, m.s. 16\">[163]</sup>"
+          "text": "Rasulullah S.A. W. bersabda: “Setiap seorang dari kamu adalah pemimpin dan setiap pemimpin akan disoal tentang rakyatnya.” <sup class=\"fn-ref\" data-fn-id=\"163\" title=\"Al-Mawardi, Al-Ahkam al-Sultaniyyah, Cetakan Kedua, m.s. 16\">[163]</sup>"
         },
         {
           "type": "text",
@@ -5432,31 +5432,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c10_s0",
           "title": "Pengenalan: Fiqh Tansiq & Syumuliyyah",
           "summary_title": "Mukadimah Bab 10: Penyelarasan & Kesyumulan Amal",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kekuatan harakah Islam bersandar kepada dua tiang kembar: **Penyelarasan (*Tansiq*)** yang mengelakkan pertindihan dan kekeliruan tenaga, serta **Kesyumulan (*Syumuliyyah*)** yang merangkumi segenap bidang kehidupan manusia.  \n* **Aplikasi Fiqh Haraki:**  \n  Pengurusan moden gerakan menuntut sistem komunikasi dan penyelarasan yang canggih agar setiap cawangan dan lajnah bergerak seirama ke arah satu matlamat strategik."
+          "summary": "* **Intipati & Pemahaman:** \n Kekuatan harakah Islam bersandar kepada dua tiang kembar: **Penyelarasan (*Tansiq*)** yang mengelakkan pertindihan dan kekeliruan tenaga, serta **Kesyumulan (*Syumuliyyah*)** yang merangkumi segenap bidang kehidupan manusia. \n* **Aplikasi Fiqh Haraki:** \n Pengurusan moden gerakan menuntut sistem komunikasi dan penyelarasan yang canggih agar setiap cawangan dan lajnah bergerak seirama ke arah satu matlamat strategik."
         },
         {
           "id": "c10_s1",
           "title": "Perbezaan Cara Fikir Menghalang Pertemuan",
           "summary_title": "1. Menyelaraskan Tasawwur & Cara Fikir Rijal",
-          "summary": "* **Intipati & Pemahaman:**  \n  Halangan terbesar kepada kesatuan saf bukanlah perbezaan fizikal, tetapi perbezaan neraca cara berfikir (*al-manhaj al-fikri*). Selagi minda para aktivis tidak diselaraskan dengan tasawwur Islam yang sahih, saf akan mudah retak.  \n* **Aplikasi Fiqh Haraki:**  \n  Memperkukuh program tarbiah usrah dan tamrin bagi memastikan keselarasan fahaman (*wahdatul fikr*) mendahului keselarasan tindakan (*wahdatul 'amal*)."
+          "summary": "* **Intipati & Pemahaman:** \n Halangan terbesar kepada kesatuan saf bukanlah perbezaan fizikal, tetapi perbezaan neraca cara berfikir (*al-manhaj al-fikri*). Selagi minda para aktivis tidak diselaraskan dengan tasawwur Islam yang sahih, saf akan mudah retak. \n* **Aplikasi Fiqh Haraki:** \n Memperkukuh program tarbiah usrah dan tamrin bagi memastikan keselarasan fahaman (*wahdatul fikr*) mendahului keselarasan tindakan (*wahdatul 'amal*)."
         },
         {
           "id": "c10_s2",
           "title": "Aliran Pengembangan Seimbang Lahir Daripada Pusat Yang Tetap",
           "summary_title": "2. Pusat Yang Tetap Melahirkan Cabang Yang Subur",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sebagaimana kompas atau roda yang berputar stabil kerana paksi tengahnya kukuh, begitu jugalah gerakan Islam: peluasan medan aktiviti mestilah berpaksikan kepada pusat kepimpinan dan tarbiah akidah yang tidak berganjak.  \n* **Aplikasi Fiqh Haraki:**  \n  Pusat qiyadah dan dewan tarbiah mesti sentiasa mantap sebagai rujukan mutlak sebelum sebarang cawangan atau projek baharu dibuka."
+          "summary": "* **Intipati & Pemahaman:** \n Sebagaimana kompas atau roda yang berputar stabil kerana paksi tengahnya kukuh, begitu jugalah gerakan Islam: peluasan medan aktiviti mestilah berpaksikan kepada pusat kepimpinan dan tarbiah akidah yang tidak berganjak. \n* **Aplikasi Fiqh Haraki:** \n Pusat qiyadah dan dewan tarbiah mesti sentiasa mantap sebagai rujukan mutlak sebelum sebarang cawangan atau projek baharu dibuka."
         },
         {
           "id": "c10_s3",
           "title": "Menyeluruh Dalam Pelaksanaan Kerja",
           "summary_title": "3. Integrasi Segenap Bidang Kehidupan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Amal dakwah tidak boleh dipenjarakan dalam dimensi khutbah semata-mata; ia mesti mengintegrasikan pembelaan ekonomi umat, kebajikan sosial, pendidikan generasi, sukan belia, media penerangan, dan percaturan siasah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mewujudkan pelbagai lajnah dan agensi profesional di bawah naungan gerakan untuk menyantuni segenap keperluan hidup masyarakat."
+          "summary": "* **Intipati & Pemahaman:** \n Amal dakwah tidak boleh dipenjarakan dalam dimensi khutbah semata-mata; ia mesti mengintegrasikan pembelaan ekonomi umat, kebajikan sosial, pendidikan generasi, sukan belia, media penerangan, dan percaturan siasah. \n* **Aplikasi Fiqh Haraki:** \n Mewujudkan pelbagai lajnah dan agensi profesional di bawah naungan gerakan untuk menyantuni segenap keperluan hidup masyarakat."
         },
         {
           "id": "c10_s4",
           "title": "Memimpin Umat Lebih Utama Daripada Menambah Amal Kebajikan",
           "summary_title": "4. Keutamaan Memimpin Umat (Qiyadatul Ummah)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Membangkitkan dan memimpin seluruh umat ke arah perjuangan menegakkan syariat Allah memiliki darjat keutamaan yang jauh lebih tinggi berbanding sekadar menambah projek-projek kebajikan fardiyyah yang terhad impaknya.  \n* **Aplikasi Fiqh Haraki:**  \n  Fokus strategik harakah adalah melahirkan saf pemimpin umat (*qiyadah*), bukan sekadar menjadi badan kebajikan sukarela (NGO bantuan semata-mata)."
+          "summary": "* **Intipati & Pemahaman:** \n Membangkitkan dan memimpin seluruh umat ke arah perjuangan menegakkan syariat Allah memiliki darjat keutamaan yang jauh lebih tinggi berbanding sekadar menambah projek-projek kebajikan fardiyyah yang terhad impaknya. \n* **Aplikasi Fiqh Haraki:** \n Fokus strategik harakah adalah melahirkan saf pemimpin umat (*qiyadah*), bukan sekadar menjadi badan kebajikan sukarela (NGO bantuan semata-mata)."
         }
       ]
     },
@@ -5477,7 +5477,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Pekong jahiliah telah terbongkar. Keburukan dan kepincangannya telah diketahui oleh manusia menyebabkan manusia menjadi sangat benci dan jemu kepadanya. Kini, tibalah giliran perpindahan dunia dan kepimpinan jahiliah kepada kepimpinan Islam.”  <sup class=\"fn-ref\" data-fn-id=\"164\" title=\"Mukaddimah Syed Qutb di dalam buku al-Nadwi: Maza Khosira al-‘Alam bi Inkhitat al-Muslimin, m.s. 20\">[164]</sup>"
+          "text": "Pekong jahiliah telah terbongkar. Keburukan dan kepincangannya telah diketahui oleh manusia menyebabkan manusia menjadi sangat benci dan jemu kepadanya. Kini, tibalah giliran perpindahan dunia dan kepimpinan jahiliah kepada kepimpinan Islam.” <sup class=\"fn-ref\" data-fn-id=\"164\" title=\"Mukaddimah Syed Qutb di dalam buku al-Nadwi: Maza Khosira al-‘Alam bi Inkhitat al-Muslimin, m.s. 20\">[164]</sup>"
         },
         {
           "type": "text",
@@ -5501,7 +5501,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Renungan sepintas lalu itu jelas menunjukkan kepada kita bahawa umat Islam telah jemu dan bosan dengan apa yang ditiru dari fahaman dan sistem materialisme Barat dan apa yang mereka taqlid dari kebuasan dan cara brutal blok Komunisme.  Hati dan pemikiran mereka sekarang sudah cukup bersedia untuk kembali semula kepada Islam buat kali kedua."
+          "text": "Renungan sepintas lalu itu jelas menunjukkan kepada kita bahawa umat Islam telah jemu dan bosan dengan apa yang ditiru dari fahaman dan sistem materialisme Barat dan apa yang mereka taqlid dari kebuasan dan cara brutal blok Komunisme. Hati dan pemikiran mereka sekarang sudah cukup bersedia untuk kembali semula kepada Islam buat kali kedua."
         },
         {
           "type": "text",
@@ -5514,7 +5514,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Graviti Da'i",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Pendakwah sejati memiliki daya tarikan graviti rohani yang memukau jiwa mad'u—yang terbit daripada keikhlasan batin, kewarakan, ketinggian akhlak, dan kecintaan yang mendalam untuk menyelamatkan manusia.  \n* **Aplikasi Fiqh Haraki:**  \n  Kader dakwah mesti menjadi magnet kebaikan; akhlak dan ketelusan mereka di tempat kerja dan kejiranan menjadi hujah paling kuat menarik manusia kepada Islam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Pendakwah sejati memiliki daya tarikan graviti rohani yang memukau jiwa mad'u—yang terbit daripada keikhlasan batin, kewarakan, ketinggian akhlak, dan kecintaan yang mendalam untuk menyelamatkan manusia. \n* **Aplikasi Fiqh Haraki:** \n Kader dakwah mesti menjadi magnet kebaikan; akhlak dan ketelusan mereka di tempat kerja dan kejiranan menjadi hujah paling kuat menarik manusia kepada Islam."
         },
         {
           "type": "text",
@@ -5530,7 +5530,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Beliau telah menemui pada “Pengenalan Seseorang Terhadap Dirinya” tarikan yang kuat memaksa orang lain mengikutnya. Apabila seorang Muslim yang merdeka dan bijak menguatkan keperibadiannya, dan ia pula seorang da'i   maka dia akan dapat menarik sesiapa yang dikehendakinya untuk beredar di sekitar orbitnya."
+          "text": "Beliau telah menemui pada “Pengenalan Seseorang Terhadap Dirinya” tarikan yang kuat memaksa orang lain mengikutnya. Apabila seorang Muslim yang merdeka dan bijak menguatkan keperibadiannya, dan ia pula seorang da'i maka dia akan dapat menarik sesiapa yang dikehendakinya untuk beredar di sekitar orbitnya."
         },
         {
           "type": "quote",
@@ -5542,7 +5542,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "bulan pun beredar di sekitarnya tanpa henti  <sup class=\"fn-ref\" data-fn-id=\"165\" title=\"Diwan al-Asrar wa al-Rumuz, m.s. 15\">[165]</sup>"
+          "text": "bulan pun beredar di sekitarnya tanpa henti <sup class=\"fn-ref\" data-fn-id=\"165\" title=\"Diwan al-Asrar wa al-Rumuz, m.s. 15\">[165]</sup>"
         },
         {
           "type": "text",
@@ -5550,11 +5550,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Demikian jugalah manusia, mereka akan pasti terkumpul dikeliling dakwah apabila da'i   meningkatkan kekuatannya. Manusia itu akan berlegar di sekeliling dakwah dan merasai ikatan mereka dengan dakwah suatu kemestian."
+          "text": "Demikian jugalah manusia, mereka akan pasti terkumpul dikeliling dakwah apabila da'i meningkatkan kekuatannya. Manusia itu akan berlegar di sekeliling dakwah dan merasai ikatan mereka dengan dakwah suatu kemestian."
         },
         {
           "type": "text",
-          "text": "Engkaulah wahai da'i   yang menentukan keadaan ini."
+          "text": "Engkaulah wahai da'i yang menentukan keadaan ini."
         },
         {
           "type": "text",
@@ -5606,12 +5606,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya jahiliah yang tersusun tidak akan dapat dikalahkan kecuali oleh Islam yang tersusun juga. Da'i   Islam pada hari ini tidak mungkin akan menang melainkan bila mereka menyatukan individu yang terbaik dalam kalangan mereka, kemudian datang merempuh dalam satu barisan yang tersusun rapi dan bersatu padu."
+          "text": "Sesungguhnya jahiliah yang tersusun tidak akan dapat dikalahkan kecuali oleh Islam yang tersusun juga. Da'i Islam pada hari ini tidak mungkin akan menang melainkan bila mereka menyatukan individu yang terbaik dalam kalangan mereka, kemudian datang merempuh dalam satu barisan yang tersusun rapi dan bersatu padu."
         },
         {
           "type": "heading2",
           "text": "Kibarkan Panji Kebaikan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Menolak sikap malu mengaku muslim atau menyembunyikan identiti dakwah demi mencari penerimaan masyarakat fasik. Panji kebaikan mesti dikibarkan dengan megah dan yakin.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempamerkan identiti, adab, dan nilai Islam dalam kehidupan berkeluarga, berorganisasi, dan bermasyarakat sebagai syiar kebangkitan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Menolak sikap malu mengaku muslim atau menyembunyikan identiti dakwah demi mencari penerimaan masyarakat fasik. Panji kebaikan mesti dikibarkan dengan megah dan yakin. \n* **Aplikasi Fiqh Haraki:** \n Mempamerkan identiti, adab, dan nilai Islam dalam kehidupan berkeluarga, berorganisasi, dan bermasyarakat sebagai syiar kebangkitan."
         },
         {
           "type": "text",
@@ -5631,7 +5631,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dalam mana-mana bangsa mesti ada orang baik dan jahat, mesti ada kejahatan dan kebaikan dan mesti ada perosak dan muslih. Jika dikibarkan panji kebaikan nescaya orang baik dari mana-mana akan bernaung di bawahnya. Dengan kebaikan itu, kalahlah satu kebaikan di dalam jiwa yang kebaikannya mengatasi kejahatannya. Akan lahirlah kebaikan yang terpendam di dalam jiwa yang belum ada lagi kebaikan. Sesungguhnya setiap manusia walau betapa besar pun kejahatannya, mesti masih terpendam di dalam jiwanya rasa cenderung kepada kebenaran dan kebaikan.”  <sup class=\"fn-ref\" data-fn-id=\"166\" title=\"Syawarid Abdul Wahhab Azzam hlm. 173.\">[166]</sup>"
+          "text": "Dalam mana-mana bangsa mesti ada orang baik dan jahat, mesti ada kejahatan dan kebaikan dan mesti ada perosak dan muslih. Jika dikibarkan panji kebaikan nescaya orang baik dari mana-mana akan bernaung di bawahnya. Dengan kebaikan itu, kalahlah satu kebaikan di dalam jiwa yang kebaikannya mengatasi kejahatannya. Akan lahirlah kebaikan yang terpendam di dalam jiwa yang belum ada lagi kebaikan. Sesungguhnya setiap manusia walau betapa besar pun kejahatannya, mesti masih terpendam di dalam jiwanya rasa cenderung kepada kebenaran dan kebaikan.” <sup class=\"fn-ref\" data-fn-id=\"166\" title=\"Syawarid Abdul Wahhab Azzam hlm. 173.\">[166]</sup>"
         },
         {
           "type": "text",
@@ -5644,7 +5644,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Hijrah Yang ‘Mafdhulah’ (Kurang Keutamaannya)",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kritikan terhadap sikap mereka yang berhijrah ke negara asing semata-mata mencari ketenangan hidup atau lari daripada kesusahan dakwah di tanah air sendiri. Bertahan menghadapi kezaliman di tanah air memiliki darjat keutamaan yang lebih mulia.  \n* **Aplikasi Fiqh Haraki:**  \n  Menuntut kecekalan para pendakwah untuk tetap berdiri teguh mempertahankan kubu dakwah di tanah air walau apa jua tekanan dan kesempitan yang menimpa."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kritikan terhadap sikap mereka yang berhijrah ke negara asing semata-mata mencari ketenangan hidup atau lari daripada kesusahan dakwah di tanah air sendiri. Bertahan menghadapi kezaliman di tanah air memiliki darjat keutamaan yang lebih mulia. \n* **Aplikasi Fiqh Haraki:** \n Menuntut kecekalan para pendakwah untuk tetap berdiri teguh mempertahankan kubu dakwah di tanah air walau apa jua tekanan dan kesempitan yang menimpa."
         },
         {
           "type": "quote",
@@ -5672,15 +5672,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "hinggalah mereka dikuasai oleh golongan yang hina  <sup class=\"fn-ref\" data-fn-id=\"167\" title=\"Ibnu Taifur, Kitab Baghdad, m.s. 133\">[167]</sup>"
+          "text": "hinggalah mereka dikuasai oleh golongan yang hina <sup class=\"fn-ref\" data-fn-id=\"167\" title=\"Ibnu Taifur, Kitab Baghdad, m.s. 133\">[167]</sup>"
         },
         {
           "type": "text",
-          "text": "Kemudian, dia berpindah ke perkhemahan askarnya di kota al-Karakh yang terletak hari ini di jalanraya antara Iraq dan Khurasan tak jauh dari Karmansyah. Ini bukan al-Karakh yang terkenal di Baghdad itu. Abu Dalaf adalah seorang lelaki yang merdeka tetapi dia bersendirian. Oleh itu, tiada apa yang menghalangnya dari berhijrah meninggalkan Baghdad. Manakala Imam Ahmad bin Hanbal pula beliau benar-benar bebas dan da'i  . Beliau enggan berhijrah sebaliknya bertahan di Baghdad, mengangkat panji, bendera dakwah, bertahan thabat dan akhirnya dapat mengalahkan kumpulan bidaah."
+          "text": "Kemudian, dia berpindah ke perkhemahan askarnya di kota al-Karakh yang terletak hari ini di jalanraya antara Iraq dan Khurasan tak jauh dari Karmansyah. Ini bukan al-Karakh yang terkenal di Baghdad itu. Abu Dalaf adalah seorang lelaki yang merdeka tetapi dia bersendirian. Oleh itu, tiada apa yang menghalangnya dari berhijrah meninggalkan Baghdad. Manakala Imam Ahmad bin Hanbal pula beliau benar-benar bebas dan da'i . Beliau enggan berhijrah sebaliknya bertahan di Baghdad, mengangkat panji, bendera dakwah, bertahan thabat dan akhirnya dapat mengalahkan kumpulan bidaah."
         },
         {
           "type": "text",
-          "text": "Demikianlah keadaan da'i   Islam yang merdeka di sepanjang zaman. Mereka sabar bertahan di negerinya, mengutip dari masyarakat tersebut pemuda pemudi baik yang masih terpelihara hati dan fizikal mereka dari kekotoran, penyakit dan noda jahiliah. Da'i   ini mentarbiah dan memantapkan mereka dengan rasa izzah Islam. Lalu mereka dimasukkan ke dalam saf."
+          "text": "Demikianlah keadaan da'i Islam yang merdeka di sepanjang zaman. Mereka sabar bertahan di negerinya, mengutip dari masyarakat tersebut pemuda pemudi baik yang masih terpelihara hati dan fizikal mereka dari kekotoran, penyakit dan noda jahiliah. Da'i ini mentarbiah dan memantapkan mereka dengan rasa izzah Islam. Lalu mereka dimasukkan ke dalam saf."
         },
         {
           "type": "text",
@@ -5692,15 +5692,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya di dalamnya ada bara yang tertimbus di bawah abu. Apabila ada orang yang meniupnya, ia akan membara dan menyala, bangun, bekerja dan berusaha. Setiap kali dia menikmati kelazatan amal dan mendaki, bertambahlah cinta dan asyiknya kepada kerjanya.”  <sup class=\"fn-ref\" data-fn-id=\"168\" title=\"Abdul Wahab Azam, Al-Syawarid, m.s. 353\">[168]</sup>"
+          "text": "Sesungguhnya di dalamnya ada bara yang tertimbus di bawah abu. Apabila ada orang yang meniupnya, ia akan membara dan menyala, bangun, bekerja dan berusaha. Setiap kali dia menikmati kelazatan amal dan mendaki, bertambahlah cinta dan asyiknya kepada kerjanya.” <sup class=\"fn-ref\" data-fn-id=\"168\" title=\"Abdul Wahab Azam, Al-Syawarid, m.s. 353\">[168]</sup>"
         },
         {
           "type": "text",
-          "text": "Justeru itu, tindakan orang yang berhijrah adalah salah, kecuali hijrah untuk menjaga rahsia yang perlu dijaga atau hijrahnya orang faham ‘ahli  fikah’ kepada orang yang memerlukan ilmunya atau hijrah orang yang takut terfitnah pada agamanya."
+          "text": "Justeru itu, tindakan orang yang berhijrah adalah salah, kecuali hijrah untuk menjaga rahsia yang perlu dijaga atau hijrahnya orang faham ‘ahli fikah’ kepada orang yang memerlukan ilmunya atau hijrah orang yang takut terfitnah pada agamanya."
         },
         {
           "type": "quote",
-          "text": "Sikap berdiam diri pula adalah lebih silap. Syed Qutb berkata: “Mereka yang melihat kezaliman di sepanjang jalan dan menemui pencerobohan di setiap tempat, tetapi tangan dan lid ahnya tidak bergerak padahal mereka mampu menggerakkannya, mereka itulah yang tidak makmur hatinya dengan Islam. Sekiranya hati mereka makmur dengan Islam nescaya mereka berubah menjadi mujahidin.”  <sup class=\"fn-ref\" data-fn-id=\"169\" title=\"Syed Qutb, Dirasat Islamiyah, m.s. 29\">[169]</sup>"
+          "text": "Sikap berdiam diri pula adalah lebih silap. Syed Qutb berkata: “Mereka yang melihat kezaliman di sepanjang jalan dan menemui pencerobohan di setiap tempat, tetapi tangan dan lid ahnya tidak bergerak padahal mereka mampu menggerakkannya, mereka itulah yang tidak makmur hatinya dengan Islam. Sekiranya hati mereka makmur dengan Islam nescaya mereka berubah menjadi mujahidin.” <sup class=\"fn-ref\" data-fn-id=\"169\" title=\"Syed Qutb, Dirasat Islamiyah, m.s. 29\">[169]</sup>"
         },
         {
           "type": "text",
@@ -5724,12 +5724,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Lalu menundukkan kezaliman sedang manusia masih tidur  <sup class=\"fn-ref\" data-fn-id=\"170\" title=\"Abdul Wahab Azam, Diwan al-Mathani, m.s. 80\">[170]</sup>"
+          "text": "Lalu menundukkan kezaliman sedang manusia masih tidur <sup class=\"fn-ref\" data-fn-id=\"170\" title=\"Abdul Wahab Azam, Diwan al-Mathani, m.s. 80\">[170]</sup>"
         },
         {
           "type": "heading2",
           "text": "Dakwahlah Yang Menyucikan Kita",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Terjun ke medan dakwah, bergaul dengan mad'u, memikul kesusahan, dan bersabar menghadapi karenah manusia adalah jalan penyucian jiwa (*tazkiyah*) yang paling ampuh berbanding zikir bersendirian di dalam bilik yang selesa.  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan ujian di lapangan dakwah sebagai madrasah tarbiah ruhiyyah yang mengikis sifat sombong, riyak, dan cinta kerehatan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Terjun ke medan dakwah, bergaul dengan mad'u, memikul kesusahan, dan bersabar menghadapi karenah manusia adalah jalan penyucian jiwa (*tazkiyah*) yang paling ampuh berbanding zikir bersendirian di dalam bilik yang selesa. \n* **Aplikasi Fiqh Haraki:** \n Menjadikan ujian di lapangan dakwah sebagai madrasah tarbiah ruhiyyah yang mengikis sifat sombong, riyak, dan cinta kerehatan."
         },
         {
           "type": "text",
@@ -5737,7 +5737,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Sebab itu mereka berkata: “Tugas itulah yang menjadi paksi terbesar di dalam agama. Untuk melaksanakan tugas itu, Allah SWT mengutus seluruh Nabi dan Rasul. Sekiranya tugas ini tiada, mengganggurlah kenabian dan risalah Islam, musnahlah agama, kosong lah dunia dan hidayah, tersebarlah kesesatan, berkembang-biaklah kejahilan, menjalarlah kerosakan. Yang koyak bertambah luas lubangnya, runtuhlah se gala negeri dan binasalah seluruh hamba Allah di muka bumi. Mereka hanya akan menyedari kebinasaan mereka di hari pembalasan. Apa yang kita takuti telah terjadi. Inna lillahi wa inna ilaihi raaji'uun. Kerana ilmu dan amal paksi itu telah hilang.”  <sup class=\"fn-ref\" data-fn-id=\"171\" title=\"Al-Ghazali, Ihya’ ‘Ulumuddin, Jilid 2, m.s. 302\">[171]</sup>"
+          "text": "Sebab itu mereka berkata: “Tugas itulah yang menjadi paksi terbesar di dalam agama. Untuk melaksanakan tugas itu, Allah SWT mengutus seluruh Nabi dan Rasul. Sekiranya tugas ini tiada, mengganggurlah kenabian dan risalah Islam, musnahlah agama, kosong lah dunia dan hidayah, tersebarlah kesesatan, berkembang-biaklah kejahilan, menjalarlah kerosakan. Yang koyak bertambah luas lubangnya, runtuhlah se gala negeri dan binasalah seluruh hamba Allah di muka bumi. Mereka hanya akan menyedari kebinasaan mereka di hari pembalasan. Apa yang kita takuti telah terjadi. Inna lillahi wa inna ilaihi raaji'uun. Kerana ilmu dan amal paksi itu telah hilang.” <sup class=\"fn-ref\" data-fn-id=\"171\" title=\"Al-Ghazali, Ihya’ ‘Ulumuddin, Jilid 2, m.s. 302\">[171]</sup>"
         },
         {
           "type": "text",
@@ -5749,7 +5749,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Wahai manusia, siapakah yang mahu mengisi kekosongan ini dan menampal retakan ini. Siapa yang sanggup memikul tugas atau pelaksanaannya, membaharui sunnah yang beredar ini, bangun memikul bebanannya dan berusaha bersungguh- sungguh menghidupkannya, dialah yang mengambil peranan paling utama dalam kalangan manusia dalam menghidupkan sunnah yang kian mati dan pupus ditelan zaman. Maka dialah yang berjaya membolot segala kemuli aan dan kedudukan yang tinggi yang mengatasi segala darjat lain yang tidak setanding dengannya.”  <sup class=\"fn-ref\" data-fn-id=\"172\" title=\"Ibid, m.s. 306\">[172]</sup>"
+          "text": "“Wahai manusia, siapakah yang mahu mengisi kekosongan ini dan menampal retakan ini. Siapa yang sanggup memikul tugas atau pelaksanaannya, membaharui sunnah yang beredar ini, bangun memikul bebanannya dan berusaha bersungguh- sungguh menghidupkannya, dialah yang mengambil peranan paling utama dalam kalangan manusia dalam menghidupkan sunnah yang kian mati dan pupus ditelan zaman. Maka dialah yang berjaya membolot segala kemuli aan dan kedudukan yang tinggi yang mengatasi segala darjat lain yang tidak setanding dengannya.” <sup class=\"fn-ref\" data-fn-id=\"172\" title=\"Ibid, m.s. 306\">[172]</sup>"
         },
         {
           "type": "quote",
@@ -5757,7 +5757,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Abu al-Darda’ telah menulis surat kepada Salman: “Jomlah kita ke tanah suci!” Salman terus membalas suratnya: “Sesungguhnya bumi tidak dapat menyuc ikan seseorang. Tiada yang dapat menyucikan seseorang hamba kecuali amalnya.” Sebelum ini Rasulullah SAW telah mempersaudarakan antara Salman dan Abu al-Darda’ dan Salman lebih dalam kefahamannya berbanding Abu al-Darda’ di dalam beberapa perkara termasuk hal ini.”  <sup class=\"fn-ref\" data-fn-id=\"173\" title=\"Ibn Taimiah, Majmuk al-Fatawa, Jilid 18, m.s. 283\">[173]</sup>"
+          "text": "Abu al-Darda’ telah menulis surat kepada Salman: “Jomlah kita ke tanah suci!” Salman terus membalas suratnya: “Sesungguhnya bumi tidak dapat menyuc ikan seseorang. Tiada yang dapat menyucikan seseorang hamba kecuali amalnya.” Sebelum ini Rasulullah SAW telah mempersaudarakan antara Salman dan Abu al-Darda’ dan Salman lebih dalam kefahamannya berbanding Abu al-Darda’ di dalam beberapa perkara termasuk hal ini.” <sup class=\"fn-ref\" data-fn-id=\"173\" title=\"Ibn Taimiah, Majmuk al-Fatawa, Jilid 18, m.s. 283\">[173]</sup>"
         },
         {
           "type": "text",
@@ -5769,11 +5769,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Manusia yang paling kurang agamanya dan yang paling dimurkai Allah ialah manusia yang meninggalkan kewajipan-kewajipan ini sekalipun dia seorang yang zuhud dan meninggalkan dunia seluruhnya. Jarang sekali kamu melihat orang yang merah padam mu kanya kerana Allah, marah kerana kehormatan Allah dicabuli dan mengor bankan hartanya untuk menolong agamaNya.”  <sup class=\"fn-ref\" data-fn-id=\"174\" title=\"‘Iddat al-Sobirin, m.s. 121\">[174]</sup>"
+          "text": "Manusia yang paling kurang agamanya dan yang paling dimurkai Allah ialah manusia yang meninggalkan kewajipan-kewajipan ini sekalipun dia seorang yang zuhud dan meninggalkan dunia seluruhnya. Jarang sekali kamu melihat orang yang merah padam mu kanya kerana Allah, marah kerana kehormatan Allah dicabuli dan mengor bankan hartanya untuk menolong agamaNya.” <sup class=\"fn-ref\" data-fn-id=\"174\" title=\"‘Iddat al-Sobirin, m.s. 121\">[174]</sup>"
         },
         {
           "type": "text",
-          "text": "Lihatlah Rasulullah SAW: “Seluruh waktunya diwakafkan untuk berjihad dengan hatinya, lidahnya dan tangannya. Oleh itu, jadilah baginda manusia yang paling tinggi namanya di seluruh alam dan paling mulia kedudukannya di sisi Allah.”  <sup class=\"fn-ref\" data-fn-id=\"175\" title=\"Zad al-Ma'ad, Jilid 2, m.s. 38\">[175]</sup>   Sesungguhnya Rasulullah SAW merupakan contoh ikutan dan tauladan yang terbaik bagi kita."
+          "text": "Lihatlah Rasulullah SAW: “Seluruh waktunya diwakafkan untuk berjihad dengan hatinya, lidahnya dan tangannya. Oleh itu, jadilah baginda manusia yang paling tinggi namanya di seluruh alam dan paling mulia kedudukannya di sisi Allah.” <sup class=\"fn-ref\" data-fn-id=\"175\" title=\"Zad al-Ma'ad, Jilid 2, m.s. 38\">[175]</sup> Sesungguhnya Rasulullah SAW merupakan contoh ikutan dan tauladan yang terbaik bagi kita."
         }
       ],
       "footnotes": [
@@ -5832,31 +5832,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c11_s0",
           "title": "Pengenalan: Menzahirkan Panji Kebenaran",
           "summary_title": "Mukadimah Bab 11: Mengibarkan Panji Kebaikan (Rayatul Khair)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Tiba masanya bagi gerakan Islam untuk keluar daripada kepompong keraguan dan menaikkan 'Panji Kebaikan' secara terang-terangan di hadapan seluruh manusia sebagai alternatif mutlak kepada kebatilan jahiliah.  \n* **Aplikasi Fiqh Haraki:**  \n  Keberanian mengisytiharkan prinsip syariat tanpa apologetik atau rasa rendah diri di hadapan masyarakat antarabangsa."
+          "summary": "* **Intipati & Pemahaman:** \n Tiba masanya bagi gerakan Islam untuk keluar daripada kepompong keraguan dan menaikkan 'Panji Kebaikan' secara terang-terangan di hadapan seluruh manusia sebagai alternatif mutlak kepada kebatilan jahiliah. \n* **Aplikasi Fiqh Haraki:** \n Keberanian mengisytiharkan prinsip syariat tanpa apologetik atau rasa rendah diri di hadapan masyarakat antarabangsa."
         },
         {
           "id": "c11_s1",
           "title": "Graviti Da'i",
           "summary_title": "1. Kuasa Graviti Spiritual & Qudwah Da'i",
-          "summary": "* **Intipati & Pemahaman:**  \n  Pendakwah sejati memiliki daya tarikan graviti rohani yang memukau jiwa mad'u—yang terbit daripada keikhlasan batin, kewarakan, ketinggian akhlak, dan kecintaan yang mendalam untuk menyelamatkan manusia.  \n* **Aplikasi Fiqh Haraki:**  \n  Kader dakwah mesti menjadi magnet kebaikan; akhlak dan ketelusan mereka di tempat kerja dan kejiranan menjadi hujah paling kuat menarik manusia kepada Islam."
+          "summary": "* **Intipati & Pemahaman:** \n Pendakwah sejati memiliki daya tarikan graviti rohani yang memukau jiwa mad'u—yang terbit daripada keikhlasan batin, kewarakan, ketinggian akhlak, dan kecintaan yang mendalam untuk menyelamatkan manusia. \n* **Aplikasi Fiqh Haraki:** \n Kader dakwah mesti menjadi magnet kebaikan; akhlak dan ketelusan mereka di tempat kerja dan kejiranan menjadi hujah paling kuat menarik manusia kepada Islam."
         },
         {
           "id": "c11_s2",
           "title": "Kibarkan Panji Kebaikan",
           "summary_title": "2. Keberanian Menegakkan Identiti Islam",
-          "summary": "* **Intipati & Pemahaman:**  \n  Menolak sikap malu mengaku muslim atau menyembunyikan identiti dakwah demi mencari penerimaan masyarakat fasik. Panji kebaikan mesti dikibarkan dengan megah dan yakin.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempamerkan identiti, adab, dan nilai Islam dalam kehidupan berkeluarga, berorganisasi, dan bermasyarakat sebagai syiar kebangkitan."
+          "summary": "* **Intipati & Pemahaman:** \n Menolak sikap malu mengaku muslim atau menyembunyikan identiti dakwah demi mencari penerimaan masyarakat fasik. Panji kebaikan mesti dikibarkan dengan megah dan yakin. \n* **Aplikasi Fiqh Haraki:** \n Mempamerkan identiti, adab, dan nilai Islam dalam kehidupan berkeluarga, berorganisasi, dan bermasyarakat sebagai syiar kebangkitan."
         },
         {
           "id": "c11_s3",
           "title": "Hijrah Yang ‘Mafdhulah’ (Kurang Keutamaannya)",
           "summary_title": "3. Kelebihan Bertahan di Medan Jihad Berbanding Hijrah Pasif",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kritikan terhadap sikap mereka yang berhijrah ke negara asing semata-mata mencari ketenangan hidup atau lari daripada kesusahan dakwah di tanah air sendiri. Bertahan menghadapi kezaliman di tanah air memiliki darjat keutamaan yang lebih mulia.  \n* **Aplikasi Fiqh Haraki:**  \n  Menuntut kecekalan para pendakwah untuk tetap berdiri teguh mempertahankan kubu dakwah di tanah air walau apa jua tekanan dan kesempitan yang menimpa."
+          "summary": "* **Intipati & Pemahaman:** \n Kritikan terhadap sikap mereka yang berhijrah ke negara asing semata-mata mencari ketenangan hidup atau lari daripada kesusahan dakwah di tanah air sendiri. Bertahan menghadapi kezaliman di tanah air memiliki darjat keutamaan yang lebih mulia. \n* **Aplikasi Fiqh Haraki:** \n Menuntut kecekalan para pendakwah untuk tetap berdiri teguh mempertahankan kubu dakwah di tanah air walau apa jua tekanan dan kesempitan yang menimpa."
         },
         {
           "id": "c11_s4",
           "title": "Dakwahlah Yang Menyucikan Kita",
           "summary_title": "4. Dakwah Sebagai Agen Penyucian Jiwa (Tazkiyah Amaliyyah)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Terjun ke medan dakwah, bergaul dengan mad'u, memikul kesusahan, dan bersabar menghadapi karenah manusia adalah jalan penyucian jiwa (*tazkiyah*) yang paling ampuh berbanding zikir bersendirian di dalam bilik yang selesa.  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan ujian di lapangan dakwah sebagai madrasah tarbiah ruhiyyah yang mengikis sifat sombong, riyak, dan cinta kerehatan."
+          "summary": "* **Intipati & Pemahaman:** \n Terjun ke medan dakwah, bergaul dengan mad'u, memikul kesusahan, dan bersabar menghadapi karenah manusia adalah jalan penyucian jiwa (*tazkiyah*) yang paling ampuh berbanding zikir bersendirian di dalam bilik yang selesa. \n* **Aplikasi Fiqh Haraki:** \n Menjadikan ujian di lapangan dakwah sebagai madrasah tarbiah ruhiyyah yang mengikis sifat sombong, riyak, dan cinta kerehatan."
         }
       ]
     },
@@ -5877,11 +5877,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dari fenomena sejarah da'i  , didapati bahawa kebanyakan mereka telah bekerja dan memberikan pengorbanan yang besar untuk dakwah Islam dengan senyap dan tenang. Kesibukan mereka da lam kerja-kerja tarbiah dan tajmi'i menghalang mereka daripada membukukan pengalaman dan perasaan fiqh dakwah yang mereka temui sepanjang masa tersebut. Hanya segelintir kecil sahaja yang meninggalkan tulisan dan penjelasan untuk generasi da'i   selepas mereka."
+          "text": "Dari fenomena sejarah da'i , didapati bahawa kebanyakan mereka telah bekerja dan memberikan pengorbanan yang besar untuk dakwah Islam dengan senyap dan tenang. Kesibukan mereka da lam kerja-kerja tarbiah dan tajmi'i menghalang mereka daripada membukukan pengalaman dan perasaan fiqh dakwah yang mereka temui sepanjang masa tersebut. Hanya segelintir kecil sahaja yang meninggalkan tulisan dan penjelasan untuk generasi da'i selepas mereka."
         },
         {
           "type": "text",
-          "text": "Tetapi di samping fenomena tersebut, kita dapati bahawa Allah SWT mengurniakan kepada mereka kefasihan dan kekuatan bahasa ‘balaghah’ yang luar biasa. Sehingga mereka mampu simpulkan pemikiran dakwah mereka dengan kata-kata yang ringkas dan dapat dijadikan usul atau dasar dakwah yang penting bagi da'i   selepas merek a. Kata-kata ini menjadi penunjuk jalan dan pengucapnya dianggap sebagai guru di dalam dakwah Islam."
+          "text": "Tetapi di samping fenomena tersebut, kita dapati bahawa Allah SWT mengurniakan kepada mereka kefasihan dan kekuatan bahasa ‘balaghah’ yang luar biasa. Sehingga mereka mampu simpulkan pemikiran dakwah mereka dengan kata-kata yang ringkas dan dapat dijadikan usul atau dasar dakwah yang penting bagi da'i selepas merek a. Kata-kata ini menjadi penunjuk jalan dan pengucapnya dianggap sebagai guru di dalam dakwah Islam."
         },
         {
           "type": "text",
@@ -5893,16 +5893,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Walau bagaimanapun, formula ma tematik angka itu hanya dapat difahami oleh ahli matematik yang ma mpu berfikir dan menganalisis. Maka begitu juga formula dakwah tidak dapat difahami dan tidak diketahui nilainya kecuali oleh da'i   Islam yang merasai dan memikul beban dakwah. Orang yang jauh dari tugas dakwah, duduk bersantai dan membuat pelbagai alasan tidak dapat memahaminya."
+          "text": "Walau bagaimanapun, formula ma tematik angka itu hanya dapat difahami oleh ahli matematik yang ma mpu berfikir dan menganalisis. Maka begitu juga formula dakwah tidak dapat difahami dan tidak diketahui nilainya kecuali oleh da'i Islam yang merasai dan memikul beban dakwah. Orang yang jauh dari tugas dakwah, duduk bersantai dan membuat pelbagai alasan tidak dapat memahaminya."
         },
         {
           "type": "heading2",
           "text": "Menentang Kemungkaran Adalah Tanda Firasat",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kepekaan menentang kemungkaran pada peringkat awal adalah buah daripada ketajaman firasat orang beriman yang melihat dengan cahaya petunjuk Allah (*firasatul mukmin*).  \n* **Aplikasi Fiqh Haraki:**  \n  Pimpinan gerakan mesti memiliki pandangan berwawasan (*visionary*) untuk menghidu bahaya konspirasi musuh sebelum ia sempat memusnahkan saf jemaah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kepekaan menentang kemungkaran pada peringkat awal adalah buah daripada ketajaman firasat orang beriman yang melihat dengan cahaya petunjuk Allah (*firasatul mukmin*). \n* **Aplikasi Fiqh Haraki:** \n Pimpinan gerakan mesti memiliki pandangan berwawasan (*visionary*) untuk menghidu bahaya konspirasi musuh sebelum ia sempat memusnahkan saf jemaah."
         },
         {
           "type": "text",
-          "text": "Ada dalam kalangan da'i   ini yang mempunyai kepandaian luar biasa. Formula yang dibuatnya membuktikan kesempur naan dan ketajaman akalnya. Tetapi dia ini tenggelam dan tidak dikenali. Beliau bernama Abu Bakar bin Yasdainar Rahimahullah. Pernah seseorang bertanya kepadanya: “Apakah itu firasat iman?” Dia menjawab:"
+          "text": "Ada dalam kalangan da'i ini yang mempunyai kepandaian luar biasa. Formula yang dibuatnya membuktikan kesempur naan dan ketajaman akalnya. Tetapi dia ini tenggelam dan tidak dikenali. Beliau bernama Abu Bakar bin Yasdainar Rahimahullah. Pernah seseorang bertanya kepadanya: “Apakah itu firasat iman?” Dia menjawab:"
         },
         {
           "type": "quote",
@@ -5910,7 +5910,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Perhatikanlah makna besar di dalam kata-kata yang ringkas ini. Beliau menjelaskan bahawasanya firasat itu ialah keyakinan sangat-sangat da'i   itu terhadap balasan Allah pada hari kiamat dan mengenali betapa rendahnya nilai kelazatan dan kesenangan dunia yang terbatas, terputus dan tertahan. Ini menyebabkan dia pun tampil mengubah kemungkaran dan berani menentang pelaku kemungkaran berbekalkan keyakinan ini."
+          "text": "Perhatikanlah makna besar di dalam kata-kata yang ringkas ini. Beliau menjelaskan bahawasanya firasat itu ialah keyakinan sangat-sangat da'i itu terhadap balasan Allah pada hari kiamat dan mengenali betapa rendahnya nilai kelazatan dan kesenangan dunia yang terbatas, terputus dan tertahan. Ini menyebabkan dia pun tampil mengubah kemungkaran dan berani menentang pelaku kemungkaran berbekalkan keyakinan ini."
         },
         {
           "type": "text",
@@ -5950,11 +5950,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Allah telah menurunkannya untuk menyempurnakan undang-undang alam dan memberi peluang kepada da'i   untuk meneroka rahsia-rahsia dan al-Quran untuk kebaikan manusia."
+          "text": "Allah telah menurunkannya untuk menyempurnakan undang-undang alam dan memberi peluang kepada da'i untuk meneroka rahsia-rahsia dan al-Quran untuk kebaikan manusia."
         },
         {
           "type": "text",
-          "text": "Sebagaimana ahli Sains membuat kajian dan eksperimen di makmal untuk menterjemahkan hasil kajian mereka ya ng telah diformulakan di dalam satu alat yang boleh digunakan, begitu jugalah ahli  fikah dakwah seperti Abu Bakar bin Yazdainar. Mereka mengarahkan seti ap gerakan Islam yang tersusun supaya menterjemahkan formula mereka kepada proses-proses pembetulan untuk menyelesaikan keadaan manusia yang kacau-bilau dan masalah mereka yang rumit."
+          "text": "Sebagaimana ahli Sains membuat kajian dan eksperimen di makmal untuk menterjemahkan hasil kajian mereka ya ng telah diformulakan di dalam satu alat yang boleh digunakan, begitu jugalah ahli fikah dakwah seperti Abu Bakar bin Yazdainar. Mereka mengarahkan seti ap gerakan Islam yang tersusun supaya menterjemahkan formula mereka kepada proses-proses pembetulan untuk menyelesaikan keadaan manusia yang kacau-bilau dan masalah mereka yang rumit."
         },
         {
           "type": "text",
@@ -5963,11 +5963,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kegemilangan Fiqh Harakah Tersembunyi Dalam Amanah dan Ijtihad",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kemuncak kematangan fiqh dakwah tercapai apabila gerakan berjaya menggabungkan keteguhan amanah memelihara nas syarak dengan keberanian berijtihad menyusun strategi menghadapi perubahan zaman.  \n* **Aplikasi Fiqh Haraki:**  \n  Menggalakkan ijtihad kolektif (*ijtihad jama'i*) dalam majlis syura bagi merangka polisi dakwah yang dinamik dan tepat pada masanya."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kemuncak kematangan fiqh dakwah tercapai apabila gerakan berjaya menggabungkan keteguhan amanah memelihara nas syarak dengan keberanian berijtihad menyusun strategi menghadapi perubahan zaman. \n* **Aplikasi Fiqh Haraki:** \n Menggalakkan ijtihad kolektif (*ijtihad jama'i*) dalam majlis syura bagi merangka polisi dakwah yang dinamik dan tepat pada masanya."
         },
         {
           "type": "text",
-          "text": "Pakar atom tidak layak untuk me remeh-remehkan Archimedes dan Pythagoras dan lain-lain saintis Yunani purba kerana kekuatan dan kepentingan formula-formula mereka sebenarnya saling bantu-bantu bagi memacukan roda sains. Semua mereka membuat suatu yang hebat bagi zaman masing-masing. Maka demikian juga da'i   kini yang mencari formula untuk dakwah ini; mereka tidak patut meremehkan pemimpin dan fuqaha dakwah lampau dan tidak patut menipu untuk mengelirukan orang yang berbicara dengan mereka. Mereka hendaklah setia, amanah dan jujur dan menyebut ungkapan da'i   Islam awal itu sebagaimana yang diungkapkan yang sudah tepat dan cukup untuk menyampaikan maksud. Mereka memainkan peranan untuk menghidupkan, menghubungkan, menganalisis dan menampilkan mana yang penting dan menjelaskan apa-apa yang disepakati dalam kalangan mereka. Ungkapan-ungkapan mereka yang telah dilupai itu jika dibawa semula menjadi bahan perbincangan dan dijadikan bahan perhatian, dibukakan hati-hati untuk memahaminya maka usaha ini seolah-olah menghidupkan kembali kalimah- kalimah da'i   Islam yang telah mati dan menemuinya kembali setelah sekian lama hilang."
+          "text": "Pakar atom tidak layak untuk me remeh-remehkan Archimedes dan Pythagoras dan lain-lain saintis Yunani purba kerana kekuatan dan kepentingan formula-formula mereka sebenarnya saling bantu-bantu bagi memacukan roda sains. Semua mereka membuat suatu yang hebat bagi zaman masing-masing. Maka demikian juga da'i kini yang mencari formula untuk dakwah ini; mereka tidak patut meremehkan pemimpin dan fuqaha dakwah lampau dan tidak patut menipu untuk mengelirukan orang yang berbicara dengan mereka. Mereka hendaklah setia, amanah dan jujur dan menyebut ungkapan da'i Islam awal itu sebagaimana yang diungkapkan yang sudah tepat dan cukup untuk menyampaikan maksud. Mereka memainkan peranan untuk menghidupkan, menghubungkan, menganalisis dan menampilkan mana yang penting dan menjelaskan apa-apa yang disepakati dalam kalangan mereka. Ungkapan-ungkapan mereka yang telah dilupai itu jika dibawa semula menjadi bahan perbincangan dan dijadikan bahan perhatian, dibukakan hati-hati untuk memahaminya maka usaha ini seolah-olah menghidupkan kembali kalimah- kalimah da'i Islam yang telah mati dan menemuinya kembali setelah sekian lama hilang."
         },
         {
           "type": "text",
@@ -5975,15 +5975,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Tetapi di samping itu, janganlah takut untuk berijtihad dan mengemukakan pandangan baru kerana fiqh dakwah tidak akan berkembang sekiranya da'i   bertahan pada perkara umum, kekal pada perkara yang tidak ada khilaf. Dalam pada itu, mereka mesti bertegas di dalam me todologi kajian tanpa kompromi dan mereka mesti berpegang teguh pada usul-usul. Jangan biarkan orang yang terburu-buru ‘musta'jil’ atau orang ya ng takut pada risiko pertarungan mempermain-mainkan prinsip itu., hingga mereka bertindak membuta tuli dan mengecewakan. Jangan biarkan mereka menjadi bahan umpan pihak berkuasa hingga mudah mengkafirkan orang lain."
+          "text": "Tetapi di samping itu, janganlah takut untuk berijtihad dan mengemukakan pandangan baru kerana fiqh dakwah tidak akan berkembang sekiranya da'i bertahan pada perkara umum, kekal pada perkara yang tidak ada khilaf. Dalam pada itu, mereka mesti bertegas di dalam me todologi kajian tanpa kompromi dan mereka mesti berpegang teguh pada usul-usul. Jangan biarkan orang yang terburu-buru ‘musta'jil’ atau orang ya ng takut pada risiko pertarungan mempermain-mainkan prinsip itu., hingga mereka bertindak membuta tuli dan mengecewakan. Jangan biarkan mereka menjadi bahan umpan pihak berkuasa hingga mudah mengkafirkan orang lain."
         },
         {
           "type": "text",
-          "text": "Saya sangat mengagumi kenyataan seorang da'i   dalam majalah “al-Mujtama” mengenai perkara ini. Dia mengakui betapa penting dan besarnya peranan al-Syahid Syed Qutb dalam menjelaskan dan menentukan manhaj tarbiah harakiah gerakan Islam. Demikian juga peranan yang dimainkan oleh al-Syahid Abdul Qadir Audah dalam menentukan metod perundangan Islam setelah berlakunya kebangkitan dan kesedaran umum Islam yang diilhamkan oleh Imam al-Syahid Hasan al-Banna. Ia mempersiapkan kedua-dua mereka dengan kesedaran itu. Begitu juga dengan peranan ketahanan pendirian yang ditunjukkan oleh Imam Hasan al-Hudhaibi."
+          "text": "Saya sangat mengagumi kenyataan seorang da'i dalam majalah “al-Mujtama” mengenai perkara ini. Dia mengakui betapa penting dan besarnya peranan al-Syahid Syed Qutb dalam menjelaskan dan menentukan manhaj tarbiah harakiah gerakan Islam. Demikian juga peranan yang dimainkan oleh al-Syahid Abdul Qadir Audah dalam menentukan metod perundangan Islam setelah berlakunya kebangkitan dan kesedaran umum Islam yang diilhamkan oleh Imam al-Syahid Hasan al-Banna. Ia mempersiapkan kedua-dua mereka dengan kesedaran itu. Begitu juga dengan peranan ketahanan pendirian yang ditunjukkan oleh Imam Hasan al-Hudhaibi."
         },
         {
           "type": "text",
-          "text": "Seterusnya penulis dalam penjelasan dan perincian itu menyentuh beberapa perbezaan pendapat yang didorong oleh kesungguhan dan keikhlasan, memenuhi perubahan realiti dan peranan ijma’ yang sentiasa berterusan dalam menyelesaikan perselisihan. Penulis ini menutup kenyataannya dengan soalan: “Lihat, adakah harakah Islam ini mahu kembali kepada simple dan bentuk umum hanya kerana untuk mengelak dari kesukaran dan aman dan sebarang kebimbangan? Atau harakah ini akan melangkah maju lebih jauh ke depan memperincikan dengan detail tetapi terpaksa menanggung risiko akibat kemaraan dan kemelataan ini?”  <sup class=\"fn-ref\" data-fn-id=\"176\" title=\"Majalah Mujtama’ al-Kuwaitiyah, Bil. 115, m.s. 11\">[176]</sup>"
+          "text": "Seterusnya penulis dalam penjelasan dan perincian itu menyentuh beberapa perbezaan pendapat yang didorong oleh kesungguhan dan keikhlasan, memenuhi perubahan realiti dan peranan ijma’ yang sentiasa berterusan dalam menyelesaikan perselisihan. Penulis ini menutup kenyataannya dengan soalan: “Lihat, adakah harakah Islam ini mahu kembali kepada simple dan bentuk umum hanya kerana untuk mengelak dari kesukaran dan aman dan sebarang kebimbangan? Atau harakah ini akan melangkah maju lebih jauh ke depan memperincikan dengan detail tetapi terpaksa menanggung risiko akibat kemaraan dan kemelataan ini?” <sup class=\"fn-ref\" data-fn-id=\"176\" title=\"Majalah Mujtama’ al-Kuwaitiyah, Bil. 115, m.s. 11\">[176]</sup>"
         },
         {
           "type": "text",
@@ -5991,7 +5991,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sekiranya kajian-kajian itu tidak mengemukakan ijtihad baru sekalipun, maka ia tidak sunyi dari ungkapan yang menambahjelaskan atau istilah yang mengkhususkan sesuatu maksud. Kajian ini mungkin juga mengandungi fatwa ahli  fikah yang lama dan disegani yang menerangkan asal-usul sesuatu pendapat yang kita sangka baru atau seku rang-kurangnya memperdekatkan ijtihad orang-orang lain dengan pengakuan dan persetujuan daripada pertikaian ijma’."
+          "text": "Sekiranya kajian-kajian itu tidak mengemukakan ijtihad baru sekalipun, maka ia tidak sunyi dari ungkapan yang menambahjelaskan atau istilah yang mengkhususkan sesuatu maksud. Kajian ini mungkin juga mengandungi fatwa ahli fikah yang lama dan disegani yang menerangkan asal-usul sesuatu pendapat yang kita sangka baru atau seku rang-kurangnya memperdekatkan ijtihad orang-orang lain dengan pengakuan dan persetujuan daripada pertikaian ijma’."
         },
         {
           "type": "text",
@@ -6000,7 +6000,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kita Mulai Dengan Mungkar Akbar",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Dakwah tidak boleh leka menghabiskan tenaga menyerang kemungkaran-kemungkaran kecil sementara membiarkan kemungkaran terbesar (*mungkar akbar*)—iaitu penolakan syariat Allah, kezaliman sistemik, dan penjajahan akidah—bermaharajalela tanpa tentangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Menyusun prioriti perjuangan mengikut skala keutamaan syarak: mendahulukan pembersihan syirik akbar dan penegakan sistem Islam sebelum perkara-perkara juz'iyyat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Dakwah tidak boleh leka menghabiskan tenaga menyerang kemungkaran-kemungkaran kecil sementara membiarkan kemungkaran terbesar (*mungkar akbar*)—iaitu penolakan syariat Allah, kezaliman sistemik, dan penjajahan akidah—bermaharajalela tanpa tentangan. \n* **Aplikasi Fiqh Haraki:** \n Menyusun prioriti perjuangan mengikut skala keutamaan syarak: mendahulukan pembersihan syirik akbar dan penegakan sistem Islam sebelum perkara-perkara juz'iyyat."
         },
         {
           "type": "text",
@@ -6016,11 +6016,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mereka yang beriman dengan Nabi Muhammad SWT telah berhijrah dan berjihad untuk membangunkan sebuah daulah Islam yang berhukum dengan syariah Allah. Mereka telah mendirikan sebuah mujtamak yang dihukumkan dengan syariat Islam. Apabila semua itu telah sempurna, barulah mereka melakukan amar makruf dan nahi mungkar dalam perkara furu’ (cabang) yang berkaitan dengan ketaatan dan kemaks iatan. Sebelum tertegaknya daulah Islam, mereka tidak menggunakan tenaga dan usaha mereka pada perkara- perkara furu’ (cabang) yang tidak akan tertegak kecuali setelah tertegaknya usul yang mantap ini. Pengertian amar ma kruf nahi mungkar mesti difahami mengikut situasi realiti ‘waqi’. Tidak dijalankan amar makruf dan nahi mungkar pada perkara-perkara cabang sebelum selesai makruf dan mungkar yang akbar ini. Itulah yang berlaku ketika permulaan mujtamak Islam dulu.”  <sup class=\"fn-ref\" data-fn-id=\"177\" title=\"Fi Zilal al-Quran, Juzu’ 11, m.s. 50\">[177]</sup>"
+          "text": "Mereka yang beriman dengan Nabi Muhammad SWT telah berhijrah dan berjihad untuk membangunkan sebuah daulah Islam yang berhukum dengan syariah Allah. Mereka telah mendirikan sebuah mujtamak yang dihukumkan dengan syariat Islam. Apabila semua itu telah sempurna, barulah mereka melakukan amar makruf dan nahi mungkar dalam perkara furu’ (cabang) yang berkaitan dengan ketaatan dan kemaks iatan. Sebelum tertegaknya daulah Islam, mereka tidak menggunakan tenaga dan usaha mereka pada perkara- perkara furu’ (cabang) yang tidak akan tertegak kecuali setelah tertegaknya usul yang mantap ini. Pengertian amar ma kruf nahi mungkar mesti difahami mengikut situasi realiti ‘waqi’. Tidak dijalankan amar makruf dan nahi mungkar pada perkara-perkara cabang sebelum selesai makruf dan mungkar yang akbar ini. Itulah yang berlaku ketika permulaan mujtamak Islam dulu.” <sup class=\"fn-ref\" data-fn-id=\"177\" title=\"Fi Zilal al-Quran, Juzu’ 11, m.s. 50\">[177]</sup>"
         },
         {
           "type": "text",
-          "text": "Namun, itu tidak bererti da'i   dilarang dari mempelajari dan mengajar orang-orang yang bersama-samanya tentang adab-adab Islam dan hukum- hukum ibadat. Ia tidak bererti mereka dilarang dari menegah manusia dari mungkar cabang yang mungkin dihapuskan dengan larangan mereka. Tetapi seruan ini adalah ajakan agar tidak tertipu dan dilalaikan dengan rasa memadai mencegah manusia daripada kemungkaran kecil tanpa melarang mereka dari melakukan kemungkaran akbar iaitu berhukum dengan undang-undang bukan Islam. Seruan ini juga untuk mengel akkan da'i   berasa cukup dengan hanya memberi nasihat bab bersuci dan sujud sahwi tanpa berterus terang dengan kebenaran, menuding jari kepada taghut, tajmi' orang islam, mentarbiah mereka, menyelaraskan usaha mereka dan mengarahkan mereka ke arah kebangkitan menyeluruh. Sesungguhnya Allah SWT telah mengutus Nabi Muhammad SAW untuk memerdekakan manusia. Baginda diutuskan untuk membebaskan manusia dari segala perhambaan sesama manusia dan dari segala belenggu dan kongkongan. Tetapi, Yahudi telah mengembalikan semula manusia ini kepada penderitaan dan membelenggu mereka sekali lagi mela lui parti-parti yang di bentuk di setiap tempat. Perlu satu kebangkitan Islam menyeluruh untuk menghapuskan segala belenggu serta menghapuskan segala penderitaan dan cengkaman yang menindas generasi baru Islam di seluruh dunia hari ini."
+          "text": "Namun, itu tidak bererti da'i dilarang dari mempelajari dan mengajar orang-orang yang bersama-samanya tentang adab-adab Islam dan hukum- hukum ibadat. Ia tidak bererti mereka dilarang dari menegah manusia dari mungkar cabang yang mungkin dihapuskan dengan larangan mereka. Tetapi seruan ini adalah ajakan agar tidak tertipu dan dilalaikan dengan rasa memadai mencegah manusia daripada kemungkaran kecil tanpa melarang mereka dari melakukan kemungkaran akbar iaitu berhukum dengan undang-undang bukan Islam. Seruan ini juga untuk mengel akkan da'i berasa cukup dengan hanya memberi nasihat bab bersuci dan sujud sahwi tanpa berterus terang dengan kebenaran, menuding jari kepada taghut, tajmi' orang islam, mentarbiah mereka, menyelaraskan usaha mereka dan mengarahkan mereka ke arah kebangkitan menyeluruh. Sesungguhnya Allah SWT telah mengutus Nabi Muhammad SAW untuk memerdekakan manusia. Baginda diutuskan untuk membebaskan manusia dari segala perhambaan sesama manusia dan dari segala belenggu dan kongkongan. Tetapi, Yahudi telah mengembalikan semula manusia ini kepada penderitaan dan membelenggu mereka sekali lagi mela lui parti-parti yang di bentuk di setiap tempat. Perlu satu kebangkitan Islam menyeluruh untuk menghapuskan segala belenggu serta menghapuskan segala penderitaan dan cengkaman yang menindas generasi baru Islam di seluruh dunia hari ini."
         },
         {
           "type": "quote",
@@ -6028,7 +6028,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Para utusan dan Rasul-Rasul Allah telah menyampaikan amanah yang besar ini. Mereka telah menyampaikan risalah dan dakwah ini kepada manusia. Mereka telah kembali kepada Tuhan mereka setelah menyempurnakan tugas mereka dan mereka telah terlepas dan tanggungjawab yang besar ini. Mereka tidak hanya menyampaikan dakwah dengan lidah semata-mata, tetapi mereka telah menyampaikannya dengan perbuatan mereka juga, dengan tauladan yang menjelma di dalam amal mereka, melalui jihad mereka yang bersungguh- sungguh siang dan malam untuk menghapuskan rintangan dan halangan sama ada ianya berbentuk keraguan-keraguan ya ng diatur oleh pihak jahiliah atau kesesatan yang dihiasi oleh syaitan, atau juga taghut yang menghalang manusia dari dakwah Islam, mengganggu  manusia dari jalan Allah dan menyelewengkan mereka dari jalan ya ng lurus sepertimana yang telah dilakukan oleh Rasulullah SAW"
+          "text": "Para utusan dan Rasul-Rasul Allah telah menyampaikan amanah yang besar ini. Mereka telah menyampaikan risalah dan dakwah ini kepada manusia. Mereka telah kembali kepada Tuhan mereka setelah menyempurnakan tugas mereka dan mereka telah terlepas dan tanggungjawab yang besar ini. Mereka tidak hanya menyampaikan dakwah dengan lidah semata-mata, tetapi mereka telah menyampaikannya dengan perbuatan mereka juga, dengan tauladan yang menjelma di dalam amal mereka, melalui jihad mereka yang bersungguh- sungguh siang dan malam untuk menghapuskan rintangan dan halangan sama ada ianya berbentuk keraguan-keraguan ya ng diatur oleh pihak jahiliah atau kesesatan yang dihiasi oleh syaitan, atau juga taghut yang menghalang manusia dari dakwah Islam, mengganggu manusia dari jalan Allah dan menyelewengkan mereka dari jalan ya ng lurus sepertimana yang telah dilakukan oleh Rasulullah SAW"
         },
         {
           "type": "text",
@@ -6044,16 +6044,16 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Adakah orang yang rasa ringan bebanan ini semua? Itulah tugas dan bebanan yang memecahkan tulang bela kang, menggentarkan setiap jiwa dan menggoncangkan seluruh sendi.”  <sup class=\"fn-ref\" data-fn-id=\"178\" title=\"Fi Zilal al-Quran, Juzu’ 6, m.s. 31\">[178]</sup>"
+          "text": "Adakah orang yang rasa ringan bebanan ini semua? Itulah tugas dan bebanan yang memecahkan tulang bela kang, menggentarkan setiap jiwa dan menggoncangkan seluruh sendi.” <sup class=\"fn-ref\" data-fn-id=\"178\" title=\"Fi Zilal al-Quran, Juzu’ 6, m.s. 31\">[178]</sup>"
         },
         {
           "type": "heading2",
           "text": "Ia Hanya Kerja Rijal…!",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Memikul beban menegakkan kembali tamadun Islam di tengah-tengah kezaliman dunia bukanlah kerja kanak-kanak, penghibur, atau pencari kekayaan. Ia adalah kerja rijal yang telah menjual diri mereka kepada Allah semata-mata.  \n* **Aplikasi Fiqh Haraki:**  \n  Mendidik para kader agar memiliki ketabahan luar biasa, tidak mudah merajuk, dan teguh berdiri seperti gunung yang tidak goyah ditiup taufan ujian."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Memikul beban menegakkan kembali tamadun Islam di tengah-tengah kezaliman dunia bukanlah kerja kanak-kanak, penghibur, atau pencari kekayaan. Ia adalah kerja rijal yang telah menjual diri mereka kepada Allah semata-mata. \n* **Aplikasi Fiqh Haraki:** \n Mendidik para kader agar memiliki ketabahan luar biasa, tidak mudah merajuk, dan teguh berdiri seperti gunung yang tidak goyah ditiup taufan ujian."
         },
         {
           "type": "quote",
-          "text": "Inilah dia realiti. Islam tetap Islam seperti dulu juga. Sentiasa bersedia untuk menghilangkan penderitaan manusia. Tetapi yang lemahnya ialah penyampaian Islam dan menghayatinya. Oleh itulah, seorang salafussoleh telah berkata: “Alangkah hebatnya agama ini sekiranya mempunyai rijal...”  <sup class=\"fn-ref\" data-fn-id=\"179\" title=\"Ibnu al-Qayyim, Miftah Dar al-Sa'adah, Jilid 1, m.s. 302\">[179]</sup>"
+          "text": "Inilah dia realiti. Islam tetap Islam seperti dulu juga. Sentiasa bersedia untuk menghilangkan penderitaan manusia. Tetapi yang lemahnya ialah penyampaian Islam dan menghayatinya. Oleh itulah, seorang salafussoleh telah berkata: “Alangkah hebatnya agama ini sekiranya mempunyai rijal...” <sup class=\"fn-ref\" data-fn-id=\"179\" title=\"Ibnu al-Qayyim, Miftah Dar al-Sa'adah, Jilid 1, m.s. 302\">[179]</sup>"
         },
         {
           "type": "text",
@@ -6065,7 +6065,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Apa yang dikehendaki ialah ulama yang lain dari itu. Memang faqih dan zuhud adalah antara sifat yang dikehendaki tetapi ia mahu lebih dari itu. Dia ingin da'i   yang siang malamnya hany a memikirkan bagaimana membimbing manusia, melaksanakan hukum Allah dan menentang pemerintah yang menghukumkan manusia dengan al-hawa. Peringkat ini hanya mampu dicapai oleh orang yang dikurniakan dengan sifat-sifat lelaki sejati, bijaksana, gagah perkasa, tangkas, tidak berkompromi dengan jahiliah, tidak tunduk kepada taghut yang zalim, tidak berselindung -selindung. Oleh kerana itu apabila dikatakan kepada seorang tokoh rijal: “Kami mempunyai hajat yang kecil untuk kamu tolong selesaikan.” Dia enggan menyelesaikannya dan berkata: “Carilah lelaki yang kecil untuk menyelesaikannya.”  <sup class=\"fn-ref\" data-fn-id=\"180\" title=\"Ibnu al-Jauzi, Said al-Khatir, m.s. 105\">[180]</sup>   Kerana lelaki yang kecil berpuas hati dengan amal yang kecil."
+          "text": "Apa yang dikehendaki ialah ulama yang lain dari itu. Memang faqih dan zuhud adalah antara sifat yang dikehendaki tetapi ia mahu lebih dari itu. Dia ingin da'i yang siang malamnya hany a memikirkan bagaimana membimbing manusia, melaksanakan hukum Allah dan menentang pemerintah yang menghukumkan manusia dengan al-hawa. Peringkat ini hanya mampu dicapai oleh orang yang dikurniakan dengan sifat-sifat lelaki sejati, bijaksana, gagah perkasa, tangkas, tidak berkompromi dengan jahiliah, tidak tunduk kepada taghut yang zalim, tidak berselindung -selindung. Oleh kerana itu apabila dikatakan kepada seorang tokoh rijal: “Kami mempunyai hajat yang kecil untuk kamu tolong selesaikan.” Dia enggan menyelesaikannya dan berkata: “Carilah lelaki yang kecil untuk menyelesaikannya.” <sup class=\"fn-ref\" data-fn-id=\"180\" title=\"Ibnu al-Jauzi, Said al-Khatir, m.s. 105\">[180]</sup> Kerana lelaki yang kecil berpuas hati dengan amal yang kecil."
         },
         {
           "type": "text",
@@ -6073,7 +6073,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Demi Allah, sesungguhnya dakwah ini adalah kerja rijal sejati. Ia menghimpunkan lelaki yang gagah perkasa di dalam barisan mereka. Orang- orang yang takut menghadapi risi ko dan halangan, pertarungan dan pertembungan, maka ia adalah layak dengan angkatan berjiwa kecil. Bagi rijal, yang ditakuti hanyalah kelalaian” al-ghaflah”. Sebagaimana yang dikatakan oleh al-Umari yang zuhud: “Sesungguhnya antara tanda kamu telah lalai terhadap diri kamu dan berpaling dari Allah ialah apabila kamu melihat sesuatu yang dimurkai Allah lalu kamu tidak mempedulikannya. Kamu tidak menyuruh dan tidak melarang lantaran takut kepada orang walhal orang-orang ini tidak boleh membahayakan ataupun memberi faedah kepada dirimu.”  <sup class=\"fn-ref\" data-fn-id=\"181\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi, m.s. 44\">[181]</sup>"
+          "text": "Demi Allah, sesungguhnya dakwah ini adalah kerja rijal sejati. Ia menghimpunkan lelaki yang gagah perkasa di dalam barisan mereka. Orang- orang yang takut menghadapi risi ko dan halangan, pertarungan dan pertembungan, maka ia adalah layak dengan angkatan berjiwa kecil. Bagi rijal, yang ditakuti hanyalah kelalaian” al-ghaflah”. Sebagaimana yang dikatakan oleh al-Umari yang zuhud: “Sesungguhnya antara tanda kamu telah lalai terhadap diri kamu dan berpaling dari Allah ialah apabila kamu melihat sesuatu yang dimurkai Allah lalu kamu tidak mempedulikannya. Kamu tidak menyuruh dan tidak melarang lantaran takut kepada orang walhal orang-orang ini tidak boleh membahayakan ataupun memberi faedah kepada dirimu.” <sup class=\"fn-ref\" data-fn-id=\"181\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi, m.s. 44\">[181]</sup>"
         },
         {
           "type": "text",
@@ -6236,31 +6236,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c12_s0",
           "title": "Pengenalan: Formula Rijal Pejuang Sejati",
           "summary_title": "Mukadimah Bab 12: Formula Khusus Rijal Perjuangan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Terdapat rahsia-rahsia dan formula fiqh dakwah yang tidak mampu difahami atau dihadam oleh orang biasa yang mengejar keuntungan segera; ia hanya difahami dan mampu dipikul oleh 'Rijal' sejati yang berjiwa besar dan memandang jauh ke akhirat.  \n* **Aplikasi Fiqh Haraki:**  \n  Penyaringan saf secara berterusan untuk memastikan hanya kader yang benar-benar matang dan thiqah diberi amanah memikul rahsia dan polisi penting organisasi."
+          "summary": "* **Intipati & Pemahaman:** \n Terdapat rahsia-rahsia dan formula fiqh dakwah yang tidak mampu difahami atau dihadam oleh orang biasa yang mengejar keuntungan segera; ia hanya difahami dan mampu dipikul oleh 'Rijal' sejati yang berjiwa besar dan memandang jauh ke akhirat. \n* **Aplikasi Fiqh Haraki:** \n Penyaringan saf secara berterusan untuk memastikan hanya kader yang benar-benar matang dan thiqah diberi amanah memikul rahsia dan polisi penting organisasi."
         },
         {
           "id": "c12_s1",
           "title": "Menentang Kemungkaran Adalah Tanda Firasat",
           "summary_title": "1. Firasat Mukmin Dalam Mengesan Bahaya",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kepekaan menentang kemungkaran pada peringkat awal adalah buah daripada ketajaman firasat orang beriman yang melihat dengan cahaya petunjuk Allah (*firasatul mukmin*).  \n* **Aplikasi Fiqh Haraki:**  \n  Pimpinan gerakan mesti memiliki pandangan berwawasan (*visionary*) untuk menghidu bahaya konspirasi musuh sebelum ia sempat memusnahkan saf jemaah."
+          "summary": "* **Intipati & Pemahaman:** \n Kepekaan menentang kemungkaran pada peringkat awal adalah buah daripada ketajaman firasat orang beriman yang melihat dengan cahaya petunjuk Allah (*firasatul mukmin*). \n* **Aplikasi Fiqh Haraki:** \n Pimpinan gerakan mesti memiliki pandangan berwawasan (*visionary*) untuk menghidu bahaya konspirasi musuh sebelum ia sempat memusnahkan saf jemaah."
         },
         {
           "id": "c12_s2",
           "title": "Kegemilangan Fiqh Harakah Tersembunyi Dalam Amanah dan Ijtihad",
           "summary_title": "2. Integrasi Amanah Syar'ie & Ijtihad Waqi'i",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kemuncak kematangan fiqh dakwah tercapai apabila gerakan berjaya menggabungkan keteguhan amanah memelihara nas syarak dengan keberanian berijtihad menyusun strategi menghadapi perubahan zaman.  \n* **Aplikasi Fiqh Haraki:**  \n  Menggalakkan ijtihad kolektif (*ijtihad jama'i*) dalam majlis syura bagi merangka polisi dakwah yang dinamik dan tepat pada masanya."
+          "summary": "* **Intipati & Pemahaman:** \n Kemuncak kematangan fiqh dakwah tercapai apabila gerakan berjaya menggabungkan keteguhan amanah memelihara nas syarak dengan keberanian berijtihad menyusun strategi menghadapi perubahan zaman. \n* **Aplikasi Fiqh Haraki:** \n Menggalakkan ijtihad kolektif (*ijtihad jama'i*) dalam majlis syura bagi merangka polisi dakwah yang dinamik dan tepat pada masanya."
         },
         {
           "id": "c12_s3",
           "title": "Kita Mulai Dengan Mungkar Akbar",
           "summary_title": "3. Fiqh Awlawiyyat: Menggempur Mungkar Terbesar",
-          "summary": "* **Intipati & Pemahaman:**  \n  Dakwah tidak boleh leka menghabiskan tenaga menyerang kemungkaran-kemungkaran kecil sementara membiarkan kemungkaran terbesar (*mungkar akbar*)—iaitu penolakan syariat Allah, kezaliman sistemik, dan penjajahan akidah—bermaharajalela tanpa tentangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Menyusun prioriti perjuangan mengikut skala keutamaan syarak: mendahulukan pembersihan syirik akbar dan penegakan sistem Islam sebelum perkara-perkara juz'iyyat."
+          "summary": "* **Intipati & Pemahaman:** \n Dakwah tidak boleh leka menghabiskan tenaga menyerang kemungkaran-kemungkaran kecil sementara membiarkan kemungkaran terbesar (*mungkar akbar*)—iaitu penolakan syariat Allah, kezaliman sistemik, dan penjajahan akidah—bermaharajalela tanpa tentangan. \n* **Aplikasi Fiqh Haraki:** \n Menyusun prioriti perjuangan mengikut skala keutamaan syarak: mendahulukan pembersihan syirik akbar dan penegakan sistem Islam sebelum perkara-perkara juz'iyyat."
         },
         {
           "id": "c12_s4",
           "title": "Ia Hanya Kerja Rijal…!",
           "summary_title": "4. Tugas Berat Yang Menuntut Jiwa Kelakian Sejati",
-          "summary": "* **Intipati & Pemahaman:**  \n  Memikul beban menegakkan kembali tamadun Islam di tengah-tengah kezaliman dunia bukanlah kerja kanak-kanak, penghibur, atau pencari kekayaan. Ia adalah kerja rijal yang telah menjual diri mereka kepada Allah semata-mata.  \n* **Aplikasi Fiqh Haraki:**  \n  Mendidik para kader agar memiliki ketabahan luar biasa, tidak mudah merajuk, dan teguh berdiri seperti gunung yang tidak goyah ditiup taufan ujian."
+          "summary": "* **Intipati & Pemahaman:** \n Memikul beban menegakkan kembali tamadun Islam di tengah-tengah kezaliman dunia bukanlah kerja kanak-kanak, penghibur, atau pencari kekayaan. Ia adalah kerja rijal yang telah menjual diri mereka kepada Allah semata-mata. \n* **Aplikasi Fiqh Haraki:** \n Mendidik para kader agar memiliki ketabahan luar biasa, tidak mudah merajuk, dan teguh berdiri seperti gunung yang tidak goyah ditiup taufan ujian."
         }
       ]
     },
@@ -6304,11 +6304,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Ia Adalah Terus terang Islam dan Bukannya Didorong Oleh Suasana",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Penyertaan dalam saf perjuangan Islam mestilah lahir daripada kesedaran akidah yang jernih dan keterusterangan iman, bukannya desakan suasana semasa, ikutan emosi, atau mencari keuntungan peribadi.  \n* **Aplikasi Fiqh Haraki:**  \n  Hanya kader yang bergabung atas dasar akidah yang teguh akan mampu bertahan ketika diuji dengan tekanan politik dan pemulauan masyarakat."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Penyertaan dalam saf perjuangan Islam mestilah lahir daripada kesedaran akidah yang jernih dan keterusterangan iman, bukannya desakan suasana semasa, ikutan emosi, atau mencari keuntungan peribadi. \n* **Aplikasi Fiqh Haraki:** \n Hanya kader yang bergabung atas dasar akidah yang teguh akan mampu bertahan ketika diuji dengan tekanan politik dan pemulauan masyarakat."
         },
         {
           "type": "quote",
-          "text": "Sebagai contohnya, perhatikanlah kata-kata salafussoleh yang terawal. Mereka telah berkata: “Huzaifah r.a. te lah ditanya mengenai takrif mayat hidup. Lalu dia menjawab: “Mayat hidup ialah orang yang tidak menentang kemungkaran sama ada dengan tangan, lidah atau hatinya.”  <sup class=\"fn-ref\" data-fn-id=\"183\" title=\"Ihya’ Ulum al-Din, Jilid 2, m.s. 311\">[183]</sup>"
+          "text": "Sebagai contohnya, perhatikanlah kata-kata salafussoleh yang terawal. Mereka telah berkata: “Huzaifah RA te lah ditanya mengenai takrif mayat hidup. Lalu dia menjawab: “Mayat hidup ialah orang yang tidak menentang kemungkaran sama ada dengan tangan, lidah atau hatinya.” <sup class=\"fn-ref\" data-fn-id=\"183\" title=\"Ihya’ Ulum al-Din, Jilid 2, m.s. 311\">[183]</sup>"
         },
         {
           "type": "text",
@@ -6320,11 +6320,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ada orang berpendapat bahawa perumpamaan Syed Qutb dan da'i   Islam sezamannya sebagai perumpamaan yang keras, tetapi sebenarnya perumpamaan tersebut tidak melebihi perumpamaan yang dinyatakan oleh Huzaifah r.a."
+          "text": "Ada orang berpendapat bahawa perumpamaan Syed Qutb dan da'i Islam sezamannya sebagai perumpamaan yang keras, tetapi sebenarnya perumpamaan tersebut tidak melebihi perumpamaan yang dinyatakan oleh Huzaifah RA"
         },
         {
           "type": "text",
-          "text": "Sesungguhnya ia bukanlah semangat melampau para da'i  . Ia sebenarnya adalah kejelasan pemahamannya terhadap dakwah Islam yang memaksa dirinya. Justeru itulah kita dapati pendukung sebenar dakwah segera membentuk dirinya yang berbeza dari be ntuk jahiliah yang pernah dilaluinya sebelum itu. Ia merubah kefahamannya dan keluar dari pertapaan untuk memimpin manusia. Sebagaimana tindakan yang dibuat oleh Wahab bin Munabbih al-Yamani, seorang tabie’ yang masyhur. Beliau dikenali di Yaman sebagai seorang ahli pertapaan Nasrani, sibuk dengan sajak para rahib serta pakar dalam ilmu-ilmu kitab yang telah diselewengkan. Tatkala beliau memeluk Islam dan disoal berkenaan sifat seorang Muslim, beliau r.a menjawab: “Seorang Muslim itu ialah seorang yang mengikut orang yang lebih dahulu darinya dan menjadi imam ba gi sesiapa yang datang kemudian daripadanya.”  <sup class=\"fn-ref\" data-fn-id=\"184\" title=\"Imam Ahmad, Kitab al-Zuhd, m.s. 372\">[184]</sup>"
+          "text": "Sesungguhnya ia bukanlah semangat melampau para da'i . Ia sebenarnya adalah kejelasan pemahamannya terhadap dakwah Islam yang memaksa dirinya. Justeru itulah kita dapati pendukung sebenar dakwah segera membentuk dirinya yang berbeza dari be ntuk jahiliah yang pernah dilaluinya sebelum itu. Ia merubah kefahamannya dan keluar dari pertapaan untuk memimpin manusia. Sebagaimana tindakan yang dibuat oleh Wahab bin Munabbih al-Yamani, seorang tabie’ yang masyhur. Beliau dikenali di Yaman sebagai seorang ahli pertapaan Nasrani, sibuk dengan sajak para rahib serta pakar dalam ilmu-ilmu kitab yang telah diselewengkan. Tatkala beliau memeluk Islam dan disoal berkenaan sifat seorang Muslim, beliau RA menjawab: “Seorang Muslim itu ialah seorang yang mengikut orang yang lebih dahulu darinya dan menjadi imam ba gi sesiapa yang datang kemudian daripadanya.” <sup class=\"fn-ref\" data-fn-id=\"184\" title=\"Imam Ahmad, Kitab al-Zuhd, m.s. 372\">[184]</sup>"
         },
         {
           "type": "quote",
@@ -6333,7 +6333,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Bai'ah Lama Yang Baru",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Bai'ah gerakan Islam hari ini hakikatnya adalah pembaharuan kepada bai'ah generasi awal sahabat di bawah naungan pohon Ridwan—janji setia untuk tidak lari dari medan pertempuran dan menegakkan agama hingga titisan darah terakhir.  \n* **Aplikasi Fiqh Haraki:**  \n  Menghubungkan roh setiap aktivis dengan warisan keagungan para sahabat Rasulullah SAW dalam membela Islam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Bai'ah gerakan Islam hari ini hakikatnya adalah pembaharuan kepada bai'ah generasi awal sahabat di bawah naungan pohon Ridwan—janji setia untuk tidak lari dari medan pertempuran dan menegakkan agama hingga titisan darah terakhir. \n* **Aplikasi Fiqh Haraki:** \n Menghubungkan roh setiap aktivis dengan warisan keagungan para sahabat Rasulullah SAW dalam membela Islam."
         },
         {
           "type": "text",
@@ -6353,7 +6353,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Ibnu Abbas telah berkata: “Setiap kali Allah mengutuskan seorang nabi, dia mesti mengambil berjanji bahawa sekiranya Allah mengutus Muhammad SAW dan nabi itu masih hidup (di zaman Muhammad diutus), nabi itu mesti beriman kepada nabi Muhammad S.A. W. dan menolong baginda. Allah juga menyuruh nabi itu meminta umatnya berjanji sekiranya Muhammad S.A. W. diutus di zaman mereka hidup, mereka juga mesti beriman kepada Muhammad S.A. W. dan mesti menolong baginda SWT”  <sup class=\"fn-ref\" data-fn-id=\"186\" title=\"Majmuk al-Fatawa oleh Ibnu Taimiah, Jilid 10, m.s. 12\">[186]</sup>"
+          "text": "Ibnu Abbas telah berkata: “Setiap kali Allah mengutuskan seorang nabi, dia mesti mengambil berjanji bahawa sekiranya Allah mengutus Muhammad SAW dan nabi itu masih hidup (di zaman Muhammad diutus), nabi itu mesti beriman kepada nabi Muhammad S.A. W. dan menolong baginda. Allah juga menyuruh nabi itu meminta umatnya berjanji sekiranya Muhammad S.A. W. diutus di zaman mereka hidup, mereka juga mesti beriman kepada Muhammad S.A. W. dan mesti menolong baginda SWT” <sup class=\"fn-ref\" data-fn-id=\"186\" title=\"Majmuk al-Fatawa oleh Ibnu Taimiah, Jilid 10, m.s. 12\">[186]</sup>"
         },
         {
           "type": "text",
@@ -6361,12 +6361,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Bersandarkan perjanjian yang dulu itu Imam Ibnu Taimiyah berkata: “Orang-orang yang benar di dalam pengakuan iman mereka ialah orang yang beriman dan tidak ragu- ragu dalam iman mereka, orang yang berjih ad di jalanNya dengan harta dan nyawa mereka. Semuanya itu untuk menyempurnakan perjanjian yang telah ditentukan Allah kepada mereka yang telah lalu dan mere ka yang akan datang sehinggalah ke hari kiamat.”  <sup class=\"fn-ref\" data-fn-id=\"187\" title=\"Ibid\">[187]</sup>"
+          "text": "Bersandarkan perjanjian yang dulu itu Imam Ibnu Taimiyah berkata: “Orang-orang yang benar di dalam pengakuan iman mereka ialah orang yang beriman dan tidak ragu- ragu dalam iman mereka, orang yang berjih ad di jalanNya dengan harta dan nyawa mereka. Semuanya itu untuk menyempurnakan perjanjian yang telah ditentukan Allah kepada mereka yang telah lalu dan mere ka yang akan datang sehinggalah ke hari kiamat.” <sup class=\"fn-ref\" data-fn-id=\"187\" title=\"Ibid\">[187]</sup>"
         },
         {
           "type": "heading2",
           "text": "Tidak Boleh Lari Daripada Memberi Sokongan Kepada Para Da'i",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Setiap muslim yang beriman kepada Allah diharamkan berlepas tangan daripada memberi pertolongan (*nusrah*), sokongan moral, kewangan, dan doa kepada saf para pendakwah yang sedang berhadapan dengan taghut.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina jaringan sokongan massa yang kukuh (*hadhinah sya'biyyah*) sebagai perisai pelindung kepada saf kepimpinan harakah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Setiap muslim yang beriman kepada Allah diharamkan berlepas tangan daripada memberi pertolongan (*nusrah*), sokongan moral, kewangan, dan doa kepada saf para pendakwah yang sedang berhadapan dengan taghut. \n* **Aplikasi Fiqh Haraki:** \n Membina jaringan sokongan massa yang kukuh (*hadhinah sya'biyyah*) sebagai perisai pelindung kepada saf kepimpinan harakah."
         },
         {
           "type": "text",
@@ -6382,7 +6382,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Tetapi mungkin betul jika dikatakan bahawa fardu kifayah adalah wajib ke atas seluruh umat Islam secara ki asan. Ini kerana melaksanakan fardu kifayah itu adalah bermakna menyempurnakan maslahah umum umat Islam. Jadi, seluruh umat Islam dituntut me laksanakannya. Sebahagian daripada mereka mampu melaksanakannya secara direct kerana dia mampu melaksanakannya. Orang lain yang tidak mampu dan tidak layak itu, mereka mampu menguatkan dan menyokong yang mampu dan menolong mereka untuk menjayakan tugas mereka. Oleh itu, siapa yang mampu dan layak menjadi pemimpin dan pemerintah, dia dituntut untuk memikul tugas itu. Manakala orang yang tidak mampu dan tidak layak, mereka dituntut untuk menyuruh, memaksa dan membantu orang yang mampu untuk memikul tugas itu. Oleh itu, orang yang mampu ditu ntut memikul tugas itu dan orang yang tidak mampu menyokong siapa yang mampu kerana tidak ada yang menjadi pemimpin dan pemerintah tanpa soko ngan masyarakat. Konsep ini menurut kaedah fiqh iaitu: “Sesuatu yang tidak sempurna perkara wajib kecuali dengan adanya ia, maka hukumnya adalah wajib.”  <sup class=\"fn-ref\" data-fn-id=\"188\" title=\"Al-Syatibi, Al-Muwafaqat, Jilid 1, m.s. 114\">[188]</sup>"
+          "text": "“Tetapi mungkin betul jika dikatakan bahawa fardu kifayah adalah wajib ke atas seluruh umat Islam secara ki asan. Ini kerana melaksanakan fardu kifayah itu adalah bermakna menyempurnakan maslahah umum umat Islam. Jadi, seluruh umat Islam dituntut me laksanakannya. Sebahagian daripada mereka mampu melaksanakannya secara direct kerana dia mampu melaksanakannya. Orang lain yang tidak mampu dan tidak layak itu, mereka mampu menguatkan dan menyokong yang mampu dan menolong mereka untuk menjayakan tugas mereka. Oleh itu, siapa yang mampu dan layak menjadi pemimpin dan pemerintah, dia dituntut untuk memikul tugas itu. Manakala orang yang tidak mampu dan tidak layak, mereka dituntut untuk menyuruh, memaksa dan membantu orang yang mampu untuk memikul tugas itu. Oleh itu, orang yang mampu ditu ntut memikul tugas itu dan orang yang tidak mampu menyokong siapa yang mampu kerana tidak ada yang menjadi pemimpin dan pemerintah tanpa soko ngan masyarakat. Konsep ini menurut kaedah fiqh iaitu: “Sesuatu yang tidak sempurna perkara wajib kecuali dengan adanya ia, maka hukumnya adalah wajib.” <sup class=\"fn-ref\" data-fn-id=\"188\" title=\"Al-Syatibi, Al-Muwafaqat, Jilid 1, m.s. 114\">[188]</sup>"
         },
         {
           "type": "text",
@@ -6394,7 +6394,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Majoriti umat Islam telah dibiasakan dengan dengan kefasikan, kekufuran dan fahaman atheis hinggakan bila mereka melihat hal itu, ia di anggap tidak ada salahnya dengan Islam atau dirasakan Islam tidak menyuruh memerangi kefasikan, kekufuran dan atheis itu.  Mereka akhirnya langsung tidak menghiraukannya."
+          "text": "“Majoriti umat Islam telah dibiasakan dengan dengan kefasikan, kekufuran dan fahaman atheis hinggakan bila mereka melihat hal itu, ia di anggap tidak ada salahnya dengan Islam atau dirasakan Islam tidak menyuruh memerangi kefasikan, kekufuran dan atheis itu. Mereka akhirnya langsung tidak menghiraukannya."
         },
         {
           "type": "text",
@@ -6410,7 +6410,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Memang telah ada kumpulan-kum pulan orang Islam yang memberi peringatan dan cuba mengajarkan Islam kepada umat Islam, tetapi pemerintah- pemerintah umat Islam pula menghala ng kumpulan ini. Kerajaan ini cuba menghalang dari apa yang telah diwajibkan oleh Islam hanya kerana menyukakan hati penjajah, patuh kepa da thaghut dan mengikut kehendak musuh-musuh Islam. Majoriti umat Islam pula bersetuju dengan pemerintah sebegini sedangkan sepatutnya tidak berlaku sepatutnya. Maka majoriti umat Islam telah sama-sama menanggung dosa membunuh Islam dan memusnahkan jemaah Islam yang bekerja untuk Islam.”  <sup class=\"fn-ref\" data-fn-id=\"189\" title=\"Al-Islam Baina Jahli Abnaihi wa ‘Ajzi ‘Ulamaihi, m.s. 68\">[189]</sup>"
+          "text": "Memang telah ada kumpulan-kum pulan orang Islam yang memberi peringatan dan cuba mengajarkan Islam kepada umat Islam, tetapi pemerintah- pemerintah umat Islam pula menghala ng kumpulan ini. Kerajaan ini cuba menghalang dari apa yang telah diwajibkan oleh Islam hanya kerana menyukakan hati penjajah, patuh kepa da thaghut dan mengikut kehendak musuh-musuh Islam. Majoriti umat Islam pula bersetuju dengan pemerintah sebegini sedangkan sepatutnya tidak berlaku sepatutnya. Maka majoriti umat Islam telah sama-sama menanggung dosa membunuh Islam dan memusnahkan jemaah Islam yang bekerja untuk Islam.” <sup class=\"fn-ref\" data-fn-id=\"189\" title=\"Al-Islam Baina Jahli Abnaihi wa ‘Ajzi ‘Ulamaihi, m.s. 68\">[189]</sup>"
         },
         {
           "type": "text",
@@ -6419,7 +6419,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Imam Hasan al-Banna Mendaki Puncak kesedaran",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Puncak kematangan faham bai'ah dizahirkan oleh Imam Hasan al-Banna melalui 10 Rukun Bai'ah: Faham, Ikhlas, Amal, Jihad, Pengorbanan (*Tadhiyyah*), Taat, Tetap Pendirian (*Thabat*), Pengabdian Mutlak (*Tajarrud*), Persaudaraan (*Ukhuwwah*), dan Kepercayaan (*Tsiqah*).  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan 10 rukun ini sebagai kurikulum tarbiah berterusan bagi membentuk syakhsiah da'i yang syumul."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Puncak kematangan faham bai'ah dizahirkan oleh Imam Hasan al-Banna melalui 10 Rukun Bai'ah: Faham, Ikhlas, Amal, Jihad, Pengorbanan (*Tadhiyyah*), Taat, Tetap Pendirian (*Thabat*), Pengabdian Mutlak (*Tajarrud*), Persaudaraan (*Ukhuwwah*), dan Kepercayaan (*Tsiqah*). \n* **Aplikasi Fiqh Haraki:** \n Menjadikan 10 rukun ini sebagai kurikulum tarbiah berterusan bagi membentuk syakhsiah da'i yang syumul."
         },
         {
           "type": "text",
@@ -6427,7 +6427,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Sekiranya kamu enggan, tidak tetap pendirian dan teragak-agak memilih antara seruan-seruan yang membingungkan dan cara-cara yang gagal itu, maka barisan tentera Allah akan tetap berj alan tanpa menghiraukan ramai atau sedikit. Tiada pertolongan dan kemenangan kecuali dari Allah.”  <sup class=\"fn-ref\" data-fn-id=\"190\" title=\"Imam al-Banna, Ila al-Syabab, m.s. 16\">[190]</sup>"
+          "text": "“Sekiranya kamu enggan, tidak tetap pendirian dan teragak-agak memilih antara seruan-seruan yang membingungkan dan cara-cara yang gagal itu, maka barisan tentera Allah akan tetap berj alan tanpa menghiraukan ramai atau sedikit. Tiada pertolongan dan kemenangan kecuali dari Allah.” <sup class=\"fn-ref\" data-fn-id=\"190\" title=\"Imam al-Banna, Ila al-Syabab, m.s. 16\">[190]</sup>"
         },
         {
           "type": "text",
@@ -6435,24 +6435,24 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh itulah, beliau telah meringkaskan tanda kesungguhan umum dalam metod kerjanya. Katanya: “Sesungguhnya segala keladak peninggalan abad- abad yang lalu dan segala kesan peri stiwa silam tidak mungkin dihapuskan dengan hanya angan-angan di dalam dada atau dengan kata-kata yang ditulis dalam akhbar atau pidato-pidato ya ng diucapkan kepada orang ramai. Sebaliknya ia hanya tercapai dengan kepenatan berpanjangan, usaha gigih dan penuh kesabaran di samping amal yang berterusan.”  <sup class=\"fn-ref\" data-fn-id=\"191\" title=\"Majalah al-Dakwah al-Misriyyah, Bil. 67\">[191]</sup>"
+          "text": "Oleh itulah, beliau telah meringkaskan tanda kesungguhan umum dalam metod kerjanya. Katanya: “Sesungguhnya segala keladak peninggalan abad- abad yang lalu dan segala kesan peri stiwa silam tidak mungkin dihapuskan dengan hanya angan-angan di dalam dada atau dengan kata-kata yang ditulis dalam akhbar atau pidato-pidato ya ng diucapkan kepada orang ramai. Sebaliknya ia hanya tercapai dengan kepenatan berpanjangan, usaha gigih dan penuh kesabaran di samping amal yang berterusan.” <sup class=\"fn-ref\" data-fn-id=\"191\" title=\"Majalah al-Dakwah al-Misriyyah, Bil. 67\">[191]</sup>"
         },
         {
           "type": "quote",
-          "text": "Jadi ia bukanlah dengan cara pidato-pidato, tulisan atau tindakan-tindakan perseorangan. Tetapi, mesti dengan wasilah yang diwajibkan oleh Islam untuk melahirkan hukum-hukumnya di dalam perlaksanaan sasaran yang wajib menjadi tujuan dan matlamat harakah Islam. Lantaran itu beliau berkata: Tidak dpat tidak perlu “Menegakkan sebuah negara Islam yang bebas di bumi ini. Negara yang mampu melaksanakan huku m-hukum dan sistem sosial Islam. Sebuah negara yang dapat menampilkan ajaran Islam yang sebenar dan dapat menyebarkannya secara bijaksana kepada semua manusia. Selagi negara ini tidak wujud, selagi itulah seluruh umat Islam berdosa. Umat Islam akan dipertanggung jawabkan di hadapan Allah kerana mereka dianggap cuai dan tidak berusaha mewujudkannya. Adalah suatu pencabulan kepada hak-hak kemanusiaan terutama dalam keadaan yang tidak menentu ini apabila wujudnya sebuah negara yang mela ungkan dasar-dasar yang kejam dan menyebarkan fahaman-fahaman yang sesat namun tidak wujud sesiapapun yang berusaha menegakkan sebuah negara yang berpegang kepada kebenaran, keadilan dan keharmonian”  <sup class=\"fn-ref\" data-fn-id=\"192\" title=\"Baina al-Amsi wa al-Yaum, al-Majmu'ah, m.s. 225\">[192]</sup>"
+          "text": "Jadi ia bukanlah dengan cara pidato-pidato, tulisan atau tindakan-tindakan perseorangan. Tetapi, mesti dengan wasilah yang diwajibkan oleh Islam untuk melahirkan hukum-hukumnya di dalam perlaksanaan sasaran yang wajib menjadi tujuan dan matlamat harakah Islam. Lantaran itu beliau berkata: Tidak dpat tidak perlu “Menegakkan sebuah negara Islam yang bebas di bumi ini. Negara yang mampu melaksanakan huku m-hukum dan sistem sosial Islam. Sebuah negara yang dapat menampilkan ajaran Islam yang sebenar dan dapat menyebarkannya secara bijaksana kepada semua manusia. Selagi negara ini tidak wujud, selagi itulah seluruh umat Islam berdosa. Umat Islam akan dipertanggung jawabkan di hadapan Allah kerana mereka dianggap cuai dan tidak berusaha mewujudkannya. Adalah suatu pencabulan kepada hak-hak kemanusiaan terutama dalam keadaan yang tidak menentu ini apabila wujudnya sebuah negara yang mela ungkan dasar-dasar yang kejam dan menyebarkan fahaman-fahaman yang sesat namun tidak wujud sesiapapun yang berusaha menegakkan sebuah negara yang berpegang kepada kebenaran, keadilan dan keharmonian” <sup class=\"fn-ref\" data-fn-id=\"192\" title=\"Baina al-Amsi wa al-Yaum, al-Majmu'ah, m.s. 225\">[192]</sup>"
         },
         {
           "type": "quote",
-          "text": "Beliau mengulangi kandungan ucapannya itu dengan ayat yang lebih jelas dengan berkata: “Mungkin kita boleh faham jika para reformis Islam merasa selesa dengan hanya berperanan sebagai penasihat dan pembimbing ketika mereka mendapati ada ahli politik dan pemerintah yang patuh kepada perintah Allah dan melaksanakan segala hukum-Nya, menyampaikan segala ayat-ayat dan hadis-hadis Nabi SAW Namun hakikatnya seperti yang kita lihat, undang- undang Islam berada di suatu tempat dan undang-undang yang diguna pakai berada di tempat yang lain. Sikap para reformis Islam yang berpeluk tubuh tidak mahu menuntut supaya hukum Islam dilaksanakan itu merupakan suatu jenayah menurut Islam; Jenayah yang tidak akan dimaafkan kecuali dengan cara bangkit dan mengambil semula kuasa eksekutif daripada genggaman pihak yang tidak meyakini undang-undang Islam yang suci.”  <sup class=\"fn-ref\" data-fn-id=\"193\" title=\"Al-Muktamar al-Khamis, al-Majmu'ah, m.s. 272\">[193]</sup>"
+          "text": "Beliau mengulangi kandungan ucapannya itu dengan ayat yang lebih jelas dengan berkata: “Mungkin kita boleh faham jika para reformis Islam merasa selesa dengan hanya berperanan sebagai penasihat dan pembimbing ketika mereka mendapati ada ahli politik dan pemerintah yang patuh kepada perintah Allah dan melaksanakan segala hukum-Nya, menyampaikan segala ayat-ayat dan hadis-hadis Nabi SAW Namun hakikatnya seperti yang kita lihat, undang- undang Islam berada di suatu tempat dan undang-undang yang diguna pakai berada di tempat yang lain. Sikap para reformis Islam yang berpeluk tubuh tidak mahu menuntut supaya hukum Islam dilaksanakan itu merupakan suatu jenayah menurut Islam; Jenayah yang tidak akan dimaafkan kecuali dengan cara bangkit dan mengambil semula kuasa eksekutif daripada genggaman pihak yang tidak meyakini undang-undang Islam yang suci.” <sup class=\"fn-ref\" data-fn-id=\"193\" title=\"Al-Muktamar al-Khamis, al-Majmu'ah, m.s. 272\">[193]</sup>"
         },
         {
           "type": "text",
-          "text": "Tindakan praktikal al-Banna dan usahanya membentuk gerakan Islam yang meluas dan tersusun rapi adalah sebaik -baik penjelasan yang boleh difahami oleh mereka yang bekerja untuk Islam.  Darinya dapat difahami mazhab amal jama'i beliau ke arah merealisasikan penubuhan sebuah daulah."
+          "text": "Tindakan praktikal al-Banna dan usahanya membentuk gerakan Islam yang meluas dan tersusun rapi adalah sebaik -baik penjelasan yang boleh difahami oleh mereka yang bekerja untuk Islam. Darinya dapat difahami mazhab amal jama'i beliau ke arah merealisasikan penubuhan sebuah daulah."
         },
         {
           "type": "heading2",
           "text": "Al-Maududi Menjelaskan Segala Marhalah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Allamah Sayyid Abul A'la al-Maududi memperincikan peringkat-peringkat perjuangan gerakan Islam: bermula daripada pembersihan pemikiran (*tazkiyah fikriyyah*), pemilihan kader thiqah, pengukuhan tanzim, sehinggalah transformasi institusi negara menuju Daulah Islamiyyah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengelakkan sikap gopoh melompat marhalah; setiap fasa amal mesti disempurnakan asasnya sebelum beralih ke marhalah seterusnya."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Allamah Sayyid Abul A'la al-Maududi memperincikan peringkat-peringkat perjuangan gerakan Islam: bermula daripada pembersihan pemikiran (*tazkiyah fikriyyah*), pemilihan kader thiqah, pengukuhan tanzim, sehinggalah transformasi institusi negara menuju Daulah Islamiyyah. \n* **Aplikasi Fiqh Haraki:** \n Mengelakkan sikap gopoh melompat marhalah; setiap fasa amal mesti disempurnakan asasnya sebelum beralih ke marhalah seterusnya."
         },
         {
           "type": "text",
@@ -6460,27 +6460,27 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Beliau mewajibkan jemaah Islam yang haraki supaya mereka beriltizam dengan proses tarbiah. “Tarbiah yang berdasarkan pandangan dan fikrah kehidupan Islam yang sejati. Tarbiah yang didasarkan di atas kaedah-kaedah dan nilai-nilai akhlak dan proses yang sesuai dengan roh dan jiwa Islam serta sesuai dengan tabiatnya.”  <sup class=\"fn-ref\" data-fn-id=\"194\" title=\"Manhaj al-Inqilab al-Islami, Majmu'ah Nazariyah al-Islam wa Hadiyah fi al-Siyasah wa al-Kanun, m.s. \">[194]</sup>"
+          "text": "Beliau mewajibkan jemaah Islam yang haraki supaya mereka beriltizam dengan proses tarbiah. “Tarbiah yang berdasarkan pandangan dan fikrah kehidupan Islam yang sejati. Tarbiah yang didasarkan di atas kaedah-kaedah dan nilai-nilai akhlak dan proses yang sesuai dengan roh dan jiwa Islam serta sesuai dengan tabiatnya.” <sup class=\"fn-ref\" data-fn-id=\"194\" title=\"Manhaj al-Inqilab al-Islami, Majmu'ah Nazariyah al-Islam wa Hadiyah fi al-Siyasah wa al-Kanun, m.s. \">[194]</sup>"
         },
         {
           "type": "text",
-          "text": "Seterusnya, jemaah Islam itu mestilah bersungguh-sungguh melaksanakan tarbiah Islam ke atas setiap anggotanya berdasarkan asas ini bagi melahirkan para da'i   yang mela ksanakan tugas mengembangkan fikrah Islam kepada manusia. “Dengan bilangan yang cukup dari pelbagai bidang kelayakan; perundangan, politik dan segala cabang disiplin ilmu sains dan seni. Mereka juga adalah manusia yang telah mensebatikan fikrah Islam dalam darah dan daging mereka. Mereka mempunyai tahap pengetahuan yang tinggi, luas sehingga mampu untuk menyusun sistem pemikiran dan teori-teori, mempu membina metod kehidupan secara praktikal yang sempurna berdasarkan prinsip dan kaedah-kaedah Islam."
+          "text": "Seterusnya, jemaah Islam itu mestilah bersungguh-sungguh melaksanakan tarbiah Islam ke atas setiap anggotanya berdasarkan asas ini bagi melahirkan para da'i yang mela ksanakan tugas mengembangkan fikrah Islam kepada manusia. “Dengan bilangan yang cukup dari pelbagai bidang kelayakan; perundangan, politik dan segala cabang disiplin ilmu sains dan seni. Mereka juga adalah manusia yang telah mensebatikan fikrah Islam dalam darah dan daging mereka. Mereka mempunyai tahap pengetahuan yang tinggi, luas sehingga mampu untuk menyusun sistem pemikiran dan teori-teori, mempu membina metod kehidupan secara praktikal yang sempurna berdasarkan prinsip dan kaedah-kaedah Islam."
         },
         {
           "type": "text",
-          "text": "Mereka inilah adalah orang yang telah dikurniakan bakat dan kemampuan oleh Allah sehingga mampu menentan g dan bertarik tali dengan pemimpin- pemimpin yang mempunyai fikrah yang kufur dengan Allah dan hari kiamat. Akhirnya dengan kehabatan pemikiran mereka itu mampu menawan pemikiran dan akal lawan mereka dan menarik mereka untuk menerima dan tunduk kepada fikrah dan pemikiran Islam.”  <sup class=\"fn-ref\" data-fn-id=\"195\" title=\"Ibid\">[195]</sup>"
+          "text": "Mereka inilah adalah orang yang telah dikurniakan bakat dan kemampuan oleh Allah sehingga mampu menentan g dan bertarik tali dengan pemimpin- pemimpin yang mempunyai fikrah yang kufur dengan Allah dan hari kiamat. Akhirnya dengan kehabatan pemikiran mereka itu mampu menawan pemikiran dan akal lawan mereka dan menarik mereka untuk menerima dan tunduk kepada fikrah dan pemikiran Islam.” <sup class=\"fn-ref\" data-fn-id=\"195\" title=\"Ibid\">[195]</sup>"
         },
         {
           "type": "text",
-          "text": "Apabila harakah Islam ini telah melalui medan tarbiah dan dakwah umum ini, mereka akan mara setapak pula memasuki era pertembungan yakni; “...fasa pertarungan menentang sistem batil dan pincang yang menguasai masyarakat manusia.”  <sup class=\"fn-ref\" data-fn-id=\"196\" title=\"Ibid\">[196]</sup>"
+          "text": "Apabila harakah Islam ini telah melalui medan tarbiah dan dakwah umum ini, mereka akan mara setapak pula memasuki era pertembungan yakni; “...fasa pertarungan menentang sistem batil dan pincang yang menguasai masyarakat manusia.” <sup class=\"fn-ref\" data-fn-id=\"196\" title=\"Ibid\">[196]</sup>"
         },
         {
           "type": "text",
-          "text": "Ini adalah kerana “sistem pemerintahan dan kepimpinan tidak mungkin berubah semata-mata dengan wujudnya satu golongan atau gerakan Islam di muka bumi. Dengan erti kata lain apab ila wujud satu gerakan Islam, tersusun dan bertapak di bumi, maka kita menyangka malaikat akan turun dari langit untuk mengusir orang fasik dan jahat d ari kerusi kepimpinan dan kekuasaan dan seterusnya meletakkan orang yang soleh dan beriman di kerusi tersebut. Ia tidak mungkin terjadi. Tiada jalan lain bagi jemaah Islam yang ‘haraki’ itu kecuali terus bertarung dan menentang kuasa-kuasa kufur dan kefasikan itu.”  <sup class=\"fn-ref\" data-fn-id=\"197\" title=\"Al-Usus al-Akhlaqiyah li al-Harakah al-Islamiyah, m.s. 34\">[197]</sup>"
+          "text": "Ini adalah kerana “sistem pemerintahan dan kepimpinan tidak mungkin berubah semata-mata dengan wujudnya satu golongan atau gerakan Islam di muka bumi. Dengan erti kata lain apab ila wujud satu gerakan Islam, tersusun dan bertapak di bumi, maka kita menyangka malaikat akan turun dari langit untuk mengusir orang fasik dan jahat d ari kerusi kepimpinan dan kekuasaan dan seterusnya meletakkan orang yang soleh dan beriman di kerusi tersebut. Ia tidak mungkin terjadi. Tiada jalan lain bagi jemaah Islam yang ‘haraki’ itu kecuali terus bertarung dan menentang kuasa-kuasa kufur dan kefasikan itu.” <sup class=\"fn-ref\" data-fn-id=\"197\" title=\"Al-Usus al-Akhlaqiyah li al-Harakah al-Islamiyah, m.s. 34\">[197]</sup>"
         },
         {
           "type": "text",
-          "text": "Di tengah-tengah pertarungan itu; “..para da'i   dan pengibar panji-panji harakah Islam akan diuji dengan pelbagai musibah, kesukaran atau tribulasi yang sukar. Mereka akan mengalami gangguan dan tekanan yang mengerikan. Mereka akan dihentam, diserang dan diusir dari tanahair. Mereka mengorbankan jiwa raga mereka dengan sabar, tabah, ikhlas dan keAzzaman yang kuat. Mereka diuji dengan kepayahan, kesusahan dan fitnah.”  <sup class=\"fn-ref\" data-fn-id=\"198\" title=\"Manhaj al-Inqilab al-Islami, m.s. 84\">[198]</sup>"
+          "text": "Di tengah-tengah pertarungan itu; “..para da'i dan pengibar panji-panji harakah Islam akan diuji dengan pelbagai musibah, kesukaran atau tribulasi yang sukar. Mereka akan mengalami gangguan dan tekanan yang mengerikan. Mereka akan dihentam, diserang dan diusir dari tanahair. Mereka mengorbankan jiwa raga mereka dengan sabar, tabah, ikhlas dan keAzzaman yang kuat. Mereka diuji dengan kepayahan, kesusahan dan fitnah.” <sup class=\"fn-ref\" data-fn-id=\"198\" title=\"Manhaj al-Inqilab al-Islami, m.s. 84\">[198]</sup>"
         },
         {
           "type": "text",
@@ -6488,12 +6488,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Manakala mereka yang bertabiat teruk, sakit hati, pengikut hawa nafsu dan syahwat, lama kelamaan suara mereka akan hilang, pengaruh dan kekuasaan mereka akan merosot sedikit demi sedikit di hadapan arus harakah Islam yang mengalir deras dan perjalanan yang menderu ini.”  <sup class=\"fn-ref\" data-fn-id=\"199\" title=\"Ibid\">[199]</sup>"
+          "text": "Manakala mereka yang bertabiat teruk, sakit hati, pengikut hawa nafsu dan syahwat, lama kelamaan suara mereka akan hilang, pengaruh dan kekuasaan mereka akan merosot sedikit demi sedikit di hadapan arus harakah Islam yang mengalir deras dan perjalanan yang menderu ini.” <sup class=\"fn-ref\" data-fn-id=\"199\" title=\"Ibid\">[199]</sup>"
         },
         {
           "type": "heading2",
           "text": "Teman di Sepanjang Perjalanan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Jalan dakwah yang panjang dan berliku tidak mampu diharungi bersendirian. Ukhuwah fillah yang tulus sesama teman seperjuangan adalah penawar duka, penguat semangat, dan bekal paling manis di sepanjang musafir perjuangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Memelihara kebersihan hati dan ikatan kasih sayang sesama aktivis; persengketaan dalaman adalah racun pemusnah saf perjuangan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Jalan dakwah yang panjang dan berliku tidak mampu diharungi bersendirian. Ukhuwah fillah yang tulus sesama teman seperjuangan adalah penawar duka, penguat semangat, dan bekal paling manis di sepanjang musafir perjuangan. \n* **Aplikasi Fiqh Haraki:** \n Memelihara kebersihan hati dan ikatan kasih sayang sesama aktivis; persengketaan dalaman adalah racun pemusnah saf perjuangan."
         },
         {
           "type": "text",
@@ -6636,43 +6636,43 @@ window.ALMUNTALAQ_DATA = {
           "id": "c13_s0",
           "title": "Pengenalan: Hakikat Bai'ah & Perjanjian Setia",
           "summary_title": "Mukadimah Bab 13: Hakikat Perjanjian (Al-Mithaq)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Bai'ah dan perjanjian setia (*al-mithaq*) adalah ikatan syar'ie yang mengikat hati dan tenaga para pejuang dengan kepimpinan dakwah untuk patuh dalam perkara maaruf, bersabar menanggung kepayahan, dan berkorban demi menegakkan kalimah Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Bai'ah bukanlah kultus individu atau taksub buta, tetapi komitmen sukarela berlandaskan syariat demi memelihara kesepaduan dan disiplin barisan gerakan."
+          "summary": "* **Intipati & Pemahaman:** \n Bai'ah dan perjanjian setia (*al-mithaq*) adalah ikatan syar'ie yang mengikat hati dan tenaga para pejuang dengan kepimpinan dakwah untuk patuh dalam perkara maaruf, bersabar menanggung kepayahan, dan berkorban demi menegakkan kalimah Allah. \n* **Aplikasi Fiqh Haraki:** \n Bai'ah bukanlah kultus individu atau taksub buta, tetapi komitmen sukarela berlandaskan syariat demi memelihara kesepaduan dan disiplin barisan gerakan."
         },
         {
           "id": "c13_s1",
           "title": "Ia Adalah Terus terang Islam dan Bukannya Didorong Oleh Suasana",
           "summary_title": "1. Komitmen Akidah, Bukan Keterpaksaan Suasana",
-          "summary": "* **Intipati & Pemahaman:**  \n  Penyertaan dalam saf perjuangan Islam mestilah lahir daripada kesedaran akidah yang jernih dan keterusterangan iman, bukannya desakan suasana semasa, ikutan emosi, atau mencari keuntungan peribadi.  \n* **Aplikasi Fiqh Haraki:**  \n  Hanya kader yang bergabung atas dasar akidah yang teguh akan mampu bertahan ketika diuji dengan tekanan politik dan pemulauan masyarakat."
+          "summary": "* **Intipati & Pemahaman:** \n Penyertaan dalam saf perjuangan Islam mestilah lahir daripada kesedaran akidah yang jernih dan keterusterangan iman, bukannya desakan suasana semasa, ikutan emosi, atau mencari keuntungan peribadi. \n* **Aplikasi Fiqh Haraki:** \n Hanya kader yang bergabung atas dasar akidah yang teguh akan mampu bertahan ketika diuji dengan tekanan politik dan pemulauan masyarakat."
         },
         {
           "id": "c13_s2",
           "title": "Bai'ah Lama Yang Baru",
           "summary_title": "2. Warisan Kesinambungan Bai'ah Sahabat",
-          "summary": "* **Intipati & Pemahaman:**  \n  Bai'ah gerakan Islam hari ini hakikatnya adalah pembaharuan kepada bai'ah generasi awal sahabat di bawah naungan pohon Ridwan—janji setia untuk tidak lari dari medan pertempuran dan menegakkan agama hingga titisan darah terakhir.  \n* **Aplikasi Fiqh Haraki:**  \n  Menghubungkan roh setiap aktivis dengan warisan keagungan para sahabat Rasulullah SAW dalam membela Islam."
+          "summary": "* **Intipati & Pemahaman:** \n Bai'ah gerakan Islam hari ini hakikatnya adalah pembaharuan kepada bai'ah generasi awal sahabat di bawah naungan pohon Ridwan—janji setia untuk tidak lari dari medan pertempuran dan menegakkan agama hingga titisan darah terakhir. \n* **Aplikasi Fiqh Haraki:** \n Menghubungkan roh setiap aktivis dengan warisan keagungan para sahabat Rasulullah SAW dalam membela Islam."
         },
         {
           "id": "c13_s3",
           "title": "Tidak Boleh Lari Daripada Memberi Sokongan Kepada Para Da'i",
           "summary_title": "3. Kewajipan Nusrah & Walak Kepada Saf Pejuang",
-          "summary": "* **Intipati & Pemahaman:**  \n  Setiap muslim yang beriman kepada Allah diharamkan berlepas tangan daripada memberi pertolongan (*nusrah*), sokongan moral, kewangan, dan doa kepada saf para pendakwah yang sedang berhadapan dengan taghut.  \n* **Aplikasi Fiqh Haraki:**  \n  Membina jaringan sokongan massa yang kukuh (*hadhinah sya'biyyah*) sebagai perisai pelindung kepada saf kepimpinan harakah."
+          "summary": "* **Intipati & Pemahaman:** \n Setiap muslim yang beriman kepada Allah diharamkan berlepas tangan daripada memberi pertolongan (*nusrah*), sokongan moral, kewangan, dan doa kepada saf para pendakwah yang sedang berhadapan dengan taghut. \n* **Aplikasi Fiqh Haraki:** \n Membina jaringan sokongan massa yang kukuh (*hadhinah sya'biyyah*) sebagai perisai pelindung kepada saf kepimpinan harakah."
         },
         {
           "id": "c13_s4",
           "title": "Imam Hasan al-Banna Mendaki Puncak kesedaran",
           "summary_title": "4. Rukun Bai'ah Imam Hasan al-Banna",
-          "summary": "* **Intipati & Pemahaman:**  \n  Puncak kematangan faham bai'ah dizahirkan oleh Imam Hasan al-Banna melalui 10 Rukun Bai'ah: Faham, Ikhlas, Amal, Jihad, Pengorbanan (*Tadhiyyah*), Taat, Tetap Pendirian (*Thabat*), Pengabdian Mutlak (*Tajarrud*), Persaudaraan (*Ukhuwwah*), dan Kepercayaan (*Tsiqah*).  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan 10 rukun ini sebagai kurikulum tarbiah berterusan bagi membentuk syakhsiah da'i yang syumul."
+          "summary": "* **Intipati & Pemahaman:** \n Puncak kematangan faham bai'ah dizahirkan oleh Imam Hasan al-Banna melalui 10 Rukun Bai'ah: Faham, Ikhlas, Amal, Jihad, Pengorbanan (*Tadhiyyah*), Taat, Tetap Pendirian (*Thabat*), Pengabdian Mutlak (*Tajarrud*), Persaudaraan (*Ukhuwwah*), dan Kepercayaan (*Tsiqah*). \n* **Aplikasi Fiqh Haraki:** \n Menjadikan 10 rukun ini sebagai kurikulum tarbiah berterusan bagi membentuk syakhsiah da'i yang syumul."
         },
         {
           "id": "c13_s5",
           "title": "Al-Maududi Menjelaskan Segala Marhalah",
           "summary_title": "5. Marhalah Gerakan Islam Menuju Daulah (Al-Maududi)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Allamah Sayyid Abul A'la al-Maududi memperincikan peringkat-peringkat perjuangan gerakan Islam: bermula daripada pembersihan pemikiran (*tazkiyah fikriyyah*), pemilihan kader thiqah, pengukuhan tanzim, sehinggalah transformasi institusi negara menuju Daulah Islamiyyah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengelakkan sikap gopoh melompat marhalah; setiap fasa amal mesti disempurnakan asasnya sebelum beralih ke marhalah seterusnya."
+          "summary": "* **Intipati & Pemahaman:** \n Allamah Sayyid Abul A'la al-Maududi memperincikan peringkat-peringkat perjuangan gerakan Islam: bermula daripada pembersihan pemikiran (*tazkiyah fikriyyah*), pemilihan kader thiqah, pengukuhan tanzim, sehinggalah transformasi institusi negara menuju Daulah Islamiyyah. \n* **Aplikasi Fiqh Haraki:** \n Mengelakkan sikap gopoh melompat marhalah; setiap fasa amal mesti disempurnakan asasnya sebelum beralih ke marhalah seterusnya."
         },
         {
           "id": "c13_s6",
           "title": "Teman di Sepanjang Perjalanan",
           "summary_title": "6. Ukhuwah Sejati Bekal Sepanjang Jalan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Jalan dakwah yang panjang dan berliku tidak mampu diharungi bersendirian. Ukhuwah fillah yang tulus sesama teman seperjuangan adalah penawar duka, penguat semangat, dan bekal paling manis di sepanjang musafir perjuangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Memelihara kebersihan hati dan ikatan kasih sayang sesama aktivis; persengketaan dalaman adalah racun pemusnah saf perjuangan."
+          "summary": "* **Intipati & Pemahaman:** \n Jalan dakwah yang panjang dan berliku tidak mampu diharungi bersendirian. Ukhuwah fillah yang tulus sesama teman seperjuangan adalah penawar duka, penguat semangat, dan bekal paling manis di sepanjang musafir perjuangan. \n* **Aplikasi Fiqh Haraki:** \n Memelihara kebersihan hati dan ikatan kasih sayang sesama aktivis; persengketaan dalaman adalah racun pemusnah saf perjuangan."
         }
       ]
     },
@@ -6694,7 +6694,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ada dua hakikat nyata yang sentiasa menjadi ciri da'i   Islam sejati, mereka akan hanya hidup bahagia bila di berada di bawah naungan kedua-duanya:"
+          "text": "Ada dua hakikat nyata yang sentiasa menjadi ciri da'i Islam sejati, mereka akan hanya hidup bahagia bila di berada di bawah naungan kedua-duanya:"
         },
         {
           "type": "text",
@@ -6726,7 +6726,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Da'i   Islam sebenar, akan sentiasa bekerja walau di mana pun dia berada dan ke mana pun dia diusir. Dia langsung tidak rindu dan teringat kepada mana-mana tanah. Dia tidak sempit seperti orang lain dengan batas sempadan yang diada-adakan oleh penjajah. Di a merasai seluruh umat Islam adalah saudaranya. Jika dia tidak mengembara berjalan kerana dakwah, kemungkinan pada masa itu disebabkan kerana dipenjara. Maka penjara pada masa itu adalah pengembaraan rohani dan pemikirannya. Hinggakan apabila dia digantung, maka rentapan tali gantung itu sebenarnya mengangkatnya ke tempat yang mulia dan indah di dalam syurga."
+          "text": "Da'i Islam sebenar, akan sentiasa bekerja walau di mana pun dia berada dan ke mana pun dia diusir. Dia langsung tidak rindu dan teringat kepada mana-mana tanah. Dia tidak sempit seperti orang lain dengan batas sempadan yang diada-adakan oleh penjajah. Di a merasai seluruh umat Islam adalah saudaranya. Jika dia tidak mengembara berjalan kerana dakwah, kemungkinan pada masa itu disebabkan kerana dipenjara. Maka penjara pada masa itu adalah pengembaraan rohani dan pemikirannya. Hinggakan apabila dia digantung, maka rentapan tali gantung itu sebenarnya mengangkatnya ke tempat yang mulia dan indah di dalam syurga."
         },
         {
           "type": "quote",
@@ -6742,20 +6742,20 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Golongan jahiliah tidak memahami hakikat yang menjadi titik tolak (muntalaq) perjuangan da'i   Islam ini.  Mereka lalu memburu, mengusir dan menindas mereka. Tetapi, akhirnya mereka rugi di pusingan terakhir kerana melanggar fitrah Allah pada diri da'i   Islam yang menyeru manusia kepada Allah."
+          "text": "Golongan jahiliah tidak memahami hakikat yang menjadi titik tolak (muntalaq) perjuangan da'i Islam ini. Mereka lalu memburu, mengusir dan menindas mereka. Tetapi, akhirnya mereka rugi di pusingan terakhir kerana melanggar fitrah Allah pada diri da'i Islam yang menyeru manusia kepada Allah."
         },
         {
           "type": "text",
-          "text": "Kedua-dua hakikat ini, dari aspek lain sebagai bayangan kepada kemerdekaan dan harapan. Kemerdekaan membebaskan da'i   dari beban rasa tamak kepada dunia manakala harap an itu mendorong mereka untuk berkorban."
+          "text": "Kedua-dua hakikat ini, dari aspek lain sebagai bayangan kepada kemerdekaan dan harapan. Kemerdekaan membebaskan da'i dari beban rasa tamak kepada dunia manakala harap an itu mendorong mereka untuk berkorban."
         },
         {
           "type": "text",
-          "text": "Kamu boleh kata bahawa kedua-dua hakikat ini adalah hasil dari kemerdekaan dan pengharapan. Sekiranya kamu mahu, kamu juga boleh mengatakan bahawa ada empat ciri iaitu: Kemerdekaan, harapan dan dua ciri di atas, tetapi anggapan ini kurang tepat. Bagi perbincangan selanjutnya, akan diterangkan tauladan demi tauladan yang terdapat di dalam sejarah dakwah dan para da'i  ."
+          "text": "Kamu boleh kata bahawa kedua-dua hakikat ini adalah hasil dari kemerdekaan dan pengharapan. Sekiranya kamu mahu, kamu juga boleh mengatakan bahawa ada empat ciri iaitu: Kemerdekaan, harapan dan dua ciri di atas, tetapi anggapan ini kurang tepat. Bagi perbincangan selanjutnya, akan diterangkan tauladan demi tauladan yang terdapat di dalam sejarah dakwah dan para da'i ."
         },
         {
           "type": "heading2",
           "text": "Beberapa Pengajaran Daripada Seorang Hakim al-Zubairi",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Menelusuri sejarah perjuangan Hakim dan Penyair Revolusi Yaman, Muhammad Mahmud az-Zubairi, yang syahid mempertahankan kebebasan dan keadilan syariat Islam menentang kezaliman pemerintah kuku besi.  \n* **Aplikasi Fiqh Haraki:**  \n  Senjata sastera, puisi kebangkitan, dan ketajaman pena mampu menggegarkan takhta kezaliman apabila disatukan dengan keikhlasan jihad fisabilillah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Menelusuri sejarah perjuangan Hakim dan Penyair Revolusi Yaman, Muhammad Mahmud az-Zubairi, yang syahid mempertahankan kebebasan dan keadilan syariat Islam menentang kezaliman pemerintah kuku besi. \n* **Aplikasi Fiqh Haraki:** \n Senjata sastera, puisi kebangkitan, dan ketajaman pena mampu menggegarkan takhta kezaliman apabila disatukan dengan keikhlasan jihad fisabilillah."
         },
         {
           "type": "text",
@@ -6763,11 +6763,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kadang-kala contoh teladan yang te rsembunyi itu lebih indah dan lebih gemilang daripada yang diketahui orang. Ini terbukti melalui kisah seorang da'i   yang juga merupakan seorang hakim bernama Muhammad Mahmud al-Zubairi Rahimahullah di mana segala kata-katanya dibuktikan oleh sejarah hidupnya yang praktikal dan jihad di jalan Allah."
+          "text": "Kadang-kala contoh teladan yang te rsembunyi itu lebih indah dan lebih gemilang daripada yang diketahui orang. Ini terbukti melalui kisah seorang da'i yang juga merupakan seorang hakim bernama Muhammad Mahmud al-Zubairi Rahimahullah di mana segala kata-katanya dibuktikan oleh sejarah hidupnya yang praktikal dan jihad di jalan Allah."
         },
         {
           "type": "text",
-          "text": "Beliau dibesarkan di dalam warisan pusaka iman dan hikmahYaman yang diiktiraf oleh Rasulullah SAW <sup class=\"fn-ref\" data-fn-id=\"202\" title=\"Dalam hadis Bukhari: أتاكم أهل اليمن، هم أرق أفئدة وألين قلوبا، الإيمان يمان والحكمة يمانية، والفخر \">[202]</sup>  Beliau berAzzam untuk melakukan islah dan memperbaiki masyarakat. Beliau bangkit bersama sahabat-sahabatnya pada tahun 1948M."
+          "text": "Beliau dibesarkan di dalam warisan pusaka iman dan hikmahYaman yang diiktiraf oleh Rasulullah SAW <sup class=\"fn-ref\" data-fn-id=\"202\" title=\"Dalam hadis Bukhari: أتاكم أهل اليمن، هم أرق أفئدة وألين قلوبا، الإيمان يمان والحكمة يمانية، والفخر \">[202]</sup> Beliau berAzzam untuk melakukan islah dan memperbaiki masyarakat. Beliau bangkit bersama sahabat-sahabatnya pada tahun 1948M."
         },
         {
           "type": "text",
@@ -6799,7 +6799,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Rasa megah al-Zubairi tidak dapat diungkapkan oleh baris-baris ayat buku ini. Ia adalah rasa megah da'i   Islam, lebih dari kemerdekaan hati sahaja... bahkan ia adalah perjanjian (bai'ah) untuk bekerja dan beramal, yang diungkapkan dalam bahasa da'i  .  Da'i   Islam dalam janji mereka itu mencontohi Ja'afar al-Khuldi al-Baghdadi yang telah menggariskan sunnah kesetiaan ketika dia berkata: “Aku tidak mungkin sekali-kali mengikat diri berjanji kepada Allah dengan satu janji lalu aku mungkirinya.” <sup class=\"fn-ref\" data-fn-id=\"204\" title=\"Tarikh Baghdad, Jilid 7, m.s. 229\">[204]</sup>"
+          "text": "Rasa megah al-Zubairi tidak dapat diungkapkan oleh baris-baris ayat buku ini. Ia adalah rasa megah da'i Islam, lebih dari kemerdekaan hati sahaja... bahkan ia adalah perjanjian (bai'ah) untuk bekerja dan beramal, yang diungkapkan dalam bahasa da'i . Da'i Islam dalam janji mereka itu mencontohi Ja'afar al-Khuldi al-Baghdadi yang telah menggariskan sunnah kesetiaan ketika dia berkata: “Aku tidak mungkin sekali-kali mengikat diri berjanji kepada Allah dengan satu janji lalu aku mungkirinya.” <sup class=\"fn-ref\" data-fn-id=\"204\" title=\"Tarikh Baghdad, Jilid 7, m.s. 229\">[204]</sup>"
         },
         {
           "type": "text",
@@ -6816,7 +6816,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kesungguhan Untuk Menjual Diri di Jalan Allah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Karakter teras generasi pengasas ialah kesedaran bahawa jiwa dan harta mereka telah dibeli oleh Allah dengan bayaran syurga. Sesiapa yang telah menjual dirinya kepada Allah tidak lagi memiliki hak untuk menarik balik komitmennya demi kesenangan dunia.  \n* **Aplikasi Fiqh Haraki:**  \n  Menanamkan doktrin pengorbanan tanpa syarat (*tadhiyyah bila hudud*) dalam setiap denyut nadi kader gerakan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Karakter teras generasi pengasas ialah kesedaran bahawa jiwa dan harta mereka telah dibeli oleh Allah dengan bayaran syurga. Sesiapa yang telah menjual dirinya kepada Allah tidak lagi memiliki hak untuk menarik balik komitmennya demi kesenangan dunia. \n* **Aplikasi Fiqh Haraki:** \n Menanamkan doktrin pengorbanan tanpa syarat (*tadhiyyah bila hudud*) dalam setiap denyut nadi kader gerakan."
         },
         {
           "type": "text",
@@ -6824,11 +6824,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Tidak sekali-kali. Beliau cukup sedar risikonya. Tapi Yaman ingin menjadikannya contoh dan tauladan bagi da'i  . Itulah sunnah atau gaya hidup da'i   Islam; cintakan syahid dan mati fisabilillah."
+          "text": "Tidak sekali-kali. Beliau cukup sedar risikonya. Tapi Yaman ingin menjadikannya contoh dan tauladan bagi da'i . Itulah sunnah atau gaya hidup da'i Islam; cintakan syahid dan mati fisabilillah."
         },
         {
           "type": "text",
-          "text": "Itulah yang di diajar oleh Khalid bin al-Walid r.a, ketika beliau menyifatkan tentera-tentera yang bersama-sama dengan beliau untuk membuka Iraq. Sifat ini menjadi ciri dan prasyarat kepada da'i   pada setiap generasi. Beliau berkata kepada tentera Parsi: “Sesungguhnya aku bawa datang kepada kamu satu kaum yang lebih cinta kepada kematian daripada kecintaan kamu kepada hidup.” <sup class=\"fn-ref\" data-fn-id=\"205\" title=\"Tarikh al-Tabari, Jilid 3, m.s. 344\">[205]</sup> Begitu juga puisi yang digubah oleh Abdullah bin al-Mubarak, pemimpin ahli hadis dan pahlawan jihad. Beliau sentiasa mengungkapkan kedua rangkap tersebut ketika keluar ke medan:"
+          "text": "Itulah yang di diajar oleh Khalid bin al-Walid RA, ketika beliau menyifatkan tentera-tentera yang bersama-sama dengan beliau untuk membuka Iraq. Sifat ini menjadi ciri dan prasyarat kepada da'i pada setiap generasi. Beliau berkata kepada tentera Parsi: “Sesungguhnya aku bawa datang kepada kamu satu kaum yang lebih cinta kepada kematian daripada kecintaan kamu kepada hidup.” <sup class=\"fn-ref\" data-fn-id=\"205\" title=\"Tarikh al-Tabari, Jilid 3, m.s. 344\">[205]</sup> Begitu juga puisi yang digubah oleh Abdullah bin al-Mubarak, pemimpin ahli hadis dan pahlawan jihad. Beliau sentiasa mengungkapkan kedua rangkap tersebut ketika keluar ke medan:"
         },
         {
           "type": "text",
@@ -6849,11 +6849,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Jangan Sibuklah Dengan Kerja Tidak Berguna ‘turrahat’...!",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Peringatan keras agar pendakwah tidak membuang umur dan tenaga berharga dalam perkara-perkara remeh (*turrahat*), spekulasi kosong, dan perdebatan teoritikal yang tidak menghasilkan sebarang amal di lapangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Membudayakan disiplin fokus kepada amal produktif; menilai kemajuan organisasi berasaskan hasil amali di medan masyarakat, bukan kepetahan berdebat di media sosial."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Peringatan keras agar pendakwah tidak membuang umur dan tenaga berharga dalam perkara-perkara remeh (*turrahat*), spekulasi kosong, dan perdebatan teoritikal yang tidak menghasilkan sebarang amal di lapangan. \n* **Aplikasi Fiqh Haraki:** \n Membudayakan disiplin fokus kepada amal produktif; menilai kemajuan organisasi berasaskan hasil amali di medan masyarakat, bukan kepetahan berdebat di media sosial."
         },
         {
           "type": "text",
-          "text": "Demikianlah kamus para da'i  . Ia sentiasa berkembang dan subur. Setiap generasi menambah istilah-istilah b aru ciri mereka. Setengah mereka meletakkan perkataan kemerdekaan: “Jadilah kamu selama-lamanya orang merdeka yang tidak tunduk.” Yang lain akan menambah perkataan ‘harapan’: “Esok milik kita.” Kemudian, yang ketiga menambah: “Agama Allah itulah tanahair kita dan kami memandang remeh segala ujian, mehnah dan tribulasi.”"
+          "text": "Demikianlah kamus para da'i . Ia sentiasa berkembang dan subur. Setiap generasi menambah istilah-istilah b aru ciri mereka. Setengah mereka meletakkan perkataan kemerdekaan: “Jadilah kamu selama-lamanya orang merdeka yang tidak tunduk.” Yang lain akan menambah perkataan ‘harapan’: “Esok milik kita.” Kemudian, yang ketiga menambah: “Agama Allah itulah tanahair kita dan kami memandang remeh segala ujian, mehnah dan tribulasi.”"
         },
         {
           "type": "quote",
@@ -6861,7 +6861,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Demi Allah, demikianlah gaya hidup da'i  !"
+          "text": "Demi Allah, demikianlah gaya hidup da'i !"
         },
         {
           "type": "text",
@@ -6893,7 +6893,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seorang da'i   yang berprofil rendah generasi pertama, menamakannya jalan ini ‘jalan titisan darah’. Beliau tidaklah mempunyai apa-apa ijazah dari mana-mana universiti dan namanya tidaklah masyhur, namun, beliau berkata kepada pemimpinnya dengan kata-kata yang penuh keimanan: “Sesungguhnya titisan darah masih mahal bagi umat Islam. Selagi mana mereka menganggap titisan darah itu mahal, mereka tidak akan sampai ke mana, kerana harga kemuliaan dan kemerdekaan hanya dapat dibayar dengan titisan darah.” <sup class=\"fn-ref\" data-fn-id=\"209\" title=\"Muzakkirat al-Dakwah wa al-Da'i  yah, m.s. 114\">[209]</sup>"
+          "text": "Seorang da'i yang berprofil rendah generasi pertama, menamakannya jalan ini ‘jalan titisan darah’. Beliau tidaklah mempunyai apa-apa ijazah dari mana-mana universiti dan namanya tidaklah masyhur, namun, beliau berkata kepada pemimpinnya dengan kata-kata yang penuh keimanan: “Sesungguhnya titisan darah masih mahal bagi umat Islam. Selagi mana mereka menganggap titisan darah itu mahal, mereka tidak akan sampai ke mana, kerana harga kemuliaan dan kemerdekaan hanya dapat dibayar dengan titisan darah.” <sup class=\"fn-ref\" data-fn-id=\"209\" title=\"Muzakkirat al-Dakwah wa al-Da'i yah, m.s. 114\">[209]</sup>"
         },
         {
           "type": "text",
@@ -6913,7 +6913,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seorang da'i   telah menukilkan kata-kata di dalam puisinya, ingin menyatakan bahawa keagungan itu ti dak mungkin tegak jika hanya hidup untuk untuk hawa nafsu:"
+          "text": "Seorang da'i telah menukilkan kata-kata di dalam puisinya, ingin menyatakan bahawa keagungan itu ti dak mungkin tegak jika hanya hidup untuk untuk hawa nafsu:"
         },
         {
           "type": "text",
@@ -6937,7 +6937,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seorang da'i   yang faqih menghimpunkan semua istilah itu di dalam satu fatwa fiqhiyah yang jelas, jauh sekali dari emosional. Kata beliau:"
+          "text": "Seorang da'i yang faqih menghimpunkan semua istilah itu di dalam satu fatwa fiqhiyah yang jelas, jauh sekali dari emosional. Kata beliau:"
         },
         {
           "type": "quote",
@@ -6962,11 +6962,11 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Tiga Peringkat",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Jalan dakwah terbahagi kepada tiga marhalah asasi:  \n  1. **Marhalah Ta'rif (Pengenalan):** Menyebarkan idea dan kesedaran Islam kepada masyarakat umum.  \n  2. **Marhalah Takwin (Pembentukan):** Memilih dan mentarbiah kader teras yang berdisiplin dan thiqah.  \n  3. **Marhalah Tanfiz (Pelaksanaan):** Menggerakkan kekuatan untuk merealisasikan matlamat menegakkan syariat.  \n* **Aplikasi Fiqh Haraki:**  \n  Setiap kader mesti memahami di marhalah mana gerakan sedang beroperasi agar tidak melakukan tindakan pramatang yang merosakkan perancangan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Jalan dakwah terbahagi kepada tiga marhalah asasi: \n 1. **Marhalah Ta'rif (Pengenalan):** Menyebarkan idea dan kesedaran Islam kepada masyarakat umum. \n 2. **Marhalah Takwin (Pembentukan):** Memilih dan mentarbiah kader teras yang berdisiplin dan thiqah. \n 3. **Marhalah Tanfiz (Pelaksanaan):** Menggerakkan kekuatan untuk merealisasikan matlamat menegakkan syariat. \n* **Aplikasi Fiqh Haraki:** \n Setiap kader mesti memahami di marhalah mana gerakan sedang beroperasi agar tidak melakukan tindakan pramatang yang merosakkan perancangan."
         },
         {
           "type": "text",
-          "text": "Fatwa-fatwa, himpunan istilah dalam kamus da'i  , kemaraan mengharungi bahaya di jalan dakwah, tauladan d ari Yaman dan puluhan tauladan para ulama dan da'i   Islam dulu dan se karang itu sebenarnya bukanlah satu tindakan gopoh tanpa berfikir. Tetapi ini semua sebenarnya memantapkan satu fasal dalam undang-undang tarbiah harakiyyah bagi qai'dah sulbah. Tajuknya: Menanamkan rasa sedia dan menjelaskan beban perjalanan sejak dari permulaan lagi."
+          "text": "Fatwa-fatwa, himpunan istilah dalam kamus da'i , kemaraan mengharungi bahaya di jalan dakwah, tauladan d ari Yaman dan puluhan tauladan para ulama dan da'i Islam dulu dan se karang itu sebenarnya bukanlah satu tindakan gopoh tanpa berfikir. Tetapi ini semua sebenarnya memantapkan satu fasal dalam undang-undang tarbiah harakiyyah bagi qai'dah sulbah. Tajuknya: Menanamkan rasa sedia dan menjelaskan beban perjalanan sejak dari permulaan lagi."
         },
         {
           "type": "text",
@@ -6994,7 +6994,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sepatutnya ada peringkat terakhir, yang lebih besar dari mengorbankan nyawa tetapi beliau tidak menyebutkan. Para da'i   dapat merasakannya iaitu mengorbankan sesuatu yang lebih dari nyawa. Saya rasa ia adalah kerinduan yang bersangatan kepada tujuh puluh bidadari. Ia merupakan himpunan kerinduan sehingga mereka lupa nikmat rehat, nikmat makan dan minum di dunia dan lupa kepada gurauan isteri di dunia. Dia terus terawang-awangan, berlarian tanpa menoleh ke kiri atau ke kanan."
+          "text": "Sepatutnya ada peringkat terakhir, yang lebih besar dari mengorbankan nyawa tetapi beliau tidak menyebutkan. Para da'i dapat merasakannya iaitu mengorbankan sesuatu yang lebih dari nyawa. Saya rasa ia adalah kerinduan yang bersangatan kepada tujuh puluh bidadari. Ia merupakan himpunan kerinduan sehingga mereka lupa nikmat rehat, nikmat makan dan minum di dunia dan lupa kepada gurauan isteri di dunia. Dia terus terawang-awangan, berlarian tanpa menoleh ke kiri atau ke kanan."
         },
         {
           "type": "text",
@@ -7003,7 +7003,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Sembang Mereka Yang Berehat ‘relaks’",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kecaman terhadap mentaliti mereka yang mencari kerehatan ketika peperangan sedang berkecamuk, serta suka berkumpul sekadar untuk berbual kosong tanpa bersedia memikul beban amal yang berat.  \n* **Aplikasi Fiqh Haraki:**  \n  Rehat sebenar bagi pejuang dakwah hanyalah apabila sebelah kakinya telah melangkah masuk ke dalam syurga Allah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kecaman terhadap mentaliti mereka yang mencari kerehatan ketika peperangan sedang berkecamuk, serta suka berkumpul sekadar untuk berbual kosong tanpa bersedia memikul beban amal yang berat. \n* **Aplikasi Fiqh Haraki:** \n Rehat sebenar bagi pejuang dakwah hanyalah apabila sebelah kakinya telah melangkah masuk ke dalam syurga Allah."
         },
         {
           "type": "text",
@@ -7011,7 +7011,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Imam Ahmad adalah salah seorang da'i   Islam yang bijak. Beliau memimpin kumpulan da'i   Islam di zamannya yang kesemuanya suka berkorban dan bekerja untuk Islam. Beliau memahami nilai thabat da'i   dalam menghadapi mehnah dan ujian. Keengganan beliau mematuhi kehendak pemerintah mahukan beliau mengiyakan pendapat ‘Quran adalah makhluk (pendapat bidaah muktazilah)’ telah memberi kesan kuat mengukuhkan pendirian kaum Muslimin. Oleh kerana itu, beliau ti dak menemui panggilan yang sesuai terhadap mereka yang tidak memahami bahasa dan istilah da'i   selain dari istilah “Orang yang mempunyai pemikiran yang mahu berehat ‘relaks’ sahaja.”"
+          "text": "Imam Ahmad adalah salah seorang da'i Islam yang bijak. Beliau memimpin kumpulan da'i Islam di zamannya yang kesemuanya suka berkorban dan bekerja untuk Islam. Beliau memahami nilai thabat da'i dalam menghadapi mehnah dan ujian. Keengganan beliau mematuhi kehendak pemerintah mahukan beliau mengiyakan pendapat ‘Quran adalah makhluk (pendapat bidaah muktazilah)’ telah memberi kesan kuat mengukuhkan pendirian kaum Muslimin. Oleh kerana itu, beliau ti dak menemui panggilan yang sesuai terhadap mereka yang tidak memahami bahasa dan istilah da'i selain dari istilah “Orang yang mempunyai pemikiran yang mahu berehat ‘relaks’ sahaja.”"
         },
         {
           "type": "text",
@@ -7035,31 +7035,31 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Betapa banyaknya kata-kata begini disebutkan kepada para da'i   pada hari ini.  Betapa ramainya orang yang telah memahami Islam lalu, kemudiannya membisikkan kepada dirinya dengan kata-kata sebegini. Lalu mereka menjadi bacul, menyorok dan tidak mengga bungkan diri dalam barisan da'i  . Demikianlah kata-kata orang yang telah beristirehat sebagaimana yang telah ditegaskan oleh Imam Ahmad bin Hanbal."
+          "text": "Betapa banyaknya kata-kata begini disebutkan kepada para da'i pada hari ini. Betapa ramainya orang yang telah memahami Islam lalu, kemudiannya membisikkan kepada dirinya dengan kata-kata sebegini. Lalu mereka menjadi bacul, menyorok dan tidak mengga bungkan diri dalam barisan da'i . Demikianlah kata-kata orang yang telah beristirehat sebagaimana yang telah ditegaskan oleh Imam Ahmad bin Hanbal."
         },
         {
           "type": "text",
-          "text": "Bagaimanakah seseorang yang terasa sakit hatinya melihat realiti ummat Islam itu mungkin boleh berehat? Bagaimana dia boleh membiarkan anak-anak dan isterinya menghina dan mengikat dirinya daripada bersama-sama dalam barisan da'i  ? Bukankah mati itu telah ditetapkan?"
+          "text": "Bagaimanakah seseorang yang terasa sakit hatinya melihat realiti ummat Islam itu mungkin boleh berehat? Bagaimana dia boleh membiarkan anak-anak dan isterinya menghina dan mengikat dirinya daripada bersama-sama dalam barisan da'i ? Bukankah mati itu telah ditetapkan?"
         },
         {
           "type": "text",
-          "text": "Lihatlah kepada seorang da'i   di Mansurah, Mesir; Solah al-Syarbini Rahimahullah. Peluru Inggeris tidak dapat mematikannya ketika beliau memerangi Inggeris di Terusan Suez, tetapi beliau mati di atas katil di hospital selepas beberapa hari menunaikan haji di Mekah."
+          "text": "Lihatlah kepada seorang da'i di Mansurah, Mesir; Solah al-Syarbini Rahimahullah. Peluru Inggeris tidak dapat mematikannya ketika beliau memerangi Inggeris di Terusan Suez, tetapi beliau mati di atas katil di hospital selepas beberapa hari menunaikan haji di Mekah."
         },
         {
           "type": "text",
-          "text": "Begitu da'i   dari Basrah, Qais al-Qirtas Rahimahullah. Beliau tidak mati ketika dikenakan siksaan penjara yang dahsyat. Sebaliknya beliau mati kerana terhidu gas beracun di tempat permandian beberapa hari selepas keluar dari penjara."
+          "text": "Begitu da'i dari Basrah, Qais al-Qirtas Rahimahullah. Beliau tidak mati ketika dikenakan siksaan penjara yang dahsyat. Sebaliknya beliau mati kerana terhidu gas beracun di tempat permandian beberapa hari selepas keluar dari penjara."
         },
         {
           "type": "text",
-          "text": "Da'i   dari Gaza, Umar Abu Jabarah Rahimahullah, seorang pendokong dakwah sejak kecil lagi. Beliau dipenjara dan dipaksa melakukan kerja-kerja berat setiap hari tetapi beliau tidak mati di situ. Dia mati setelah dibebaskan dari penjara akibat terjatuh sedikit."
+          "text": "Da'i dari Gaza, Umar Abu Jabarah Rahimahullah, seorang pendokong dakwah sejak kecil lagi. Beliau dipenjara dan dipaksa melakukan kerja-kerja berat setiap hari tetapi beliau tidak mati di situ. Dia mati setelah dibebaskan dari penjara akibat terjatuh sedikit."
         },
         {
           "type": "text",
-          "text": "Dakwah dan jihad tidak mempercepa tkan ajal, (begitu juga sebaliknya, duduk relaks tanpa dakwah tidak akan melambatkan ajal) tetapi dakwah dan jihad akan mengangkat da'i   ke syurga Firdaus."
+          "text": "Dakwah dan jihad tidak mempercepa tkan ajal, (begitu juga sebaliknya, duduk relaks tanpa dakwah tidak akan melambatkan ajal) tetapi dakwah dan jihad akan mengangkat da'i ke syurga Firdaus."
         },
         {
           "type": "text",
-          "text": "Sekiranya seseorang Muslim itu tida k mahu bergabung bersama dengan Imam Ahmad atau pewaris Imam Ahmad pada hari ini dan dia duduk sahaja kerana uzur atau seolah-olah ada uzur, maka dia disepatutnya merasa sedih. Paling kurang dia sepatutnya mencela dirinya sendiri kerana tidak bersama- sama dalam gerombolan da'i  . Dia hendaklah jadi seperti sikap al-Zahid Bisyru bin Haris al-Hafi pada hari Imam Ahmad di siksa. Apabila ada orang menceritakan kepadanya:"
+          "text": "Sekiranya seseorang Muslim itu tida k mahu bergabung bersama dengan Imam Ahmad atau pewaris Imam Ahmad pada hari ini dan dia duduk sahaja kerana uzur atau seolah-olah ada uzur, maka dia disepatutnya merasa sedih. Paling kurang dia sepatutnya mencela dirinya sendiri kerana tidak bersama- sama dalam gerombolan da'i . Dia hendaklah jadi seperti sikap al-Zahid Bisyru bin Haris al-Hafi pada hari Imam Ahmad di siksa. Apabila ada orang menceritakan kepadanya:"
         },
         {
           "type": "quote",
@@ -7071,7 +7071,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mukmin yang benar akan menyalah kan dirinya apabila mengundurkan diri atau menfatwakan kepada dirinya ketinggalan dari barisan da'i  . Dilakukan kerana kelemahan dirinya atau keran a syubhah. Dalam keadaan itu dia sepatutnya merendah diri kepada pa da da'i   dan bukannya bercakap bukan- bukan. Dia sepatutnya mencela ijtihadnya itu. Sepatutnya dia memuji da'i   yang sabar yang boleh menggembirakan hati mereka."
+          "text": "Mukmin yang benar akan menyalah kan dirinya apabila mengundurkan diri atau menfatwakan kepada dirinya ketinggalan dari barisan da'i . Dilakukan kerana kelemahan dirinya atau keran a syubhah. Dalam keadaan itu dia sepatutnya merendah diri kepada pa da da'i dan bukannya bercakap bukan- bukan. Dia sepatutnya mencela ijtihadnya itu. Sepatutnya dia memuji da'i yang sabar yang boleh menggembirakan hati mereka."
         },
         {
           "type": "text",
@@ -7079,7 +7079,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mereka yang lari, tidak menyertai saf dan berehat akan sentiasa berada dalam golongan yang dicela dan disalahkan hinggalah mereka memahami ciri- ciri haraki dan berbicara dengan bahasa da'i  , bermadah bersama mereka untuk mengkritik keadaan diri mereka masa dulu:"
+          "text": "Mereka yang lari, tidak menyertai saf dan berehat akan sentiasa berada dalam golongan yang dicela dan disalahkan hinggalah mereka memahami ciri- ciri haraki dan berbicara dengan bahasa da'i , bermadah bersama mereka untuk mengkritik keadaan diri mereka masa dulu:"
         },
         {
           "type": "text",
@@ -7145,7 +7145,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "id": 209,
-          "text": "Muzakkirat al-Dakwah wa al-Da'i  yah, m.s. 114"
+          "text": "Muzakkirat al-Dakwah wa al-Da'i yah, m.s. 114"
         },
         {
           "id": 210,
@@ -7170,37 +7170,37 @@ window.ALMUNTALAQ_DATA = {
           "id": "c14_s0",
           "title": "Pengenalan: Keunggulan Karakter Generasi Pengasas",
           "summary_title": "Mukadimah Bab 14: Karakter Generasi Pengasas (Al-Jilul Mu'assis)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kejayaan sesebuah gerakan Islam meletakkan batu asas tamadun bersandar kepada keunikan watak generasi pengasasnya: keikhlasan luar biasa, kebal daripada godaan pangkat, tahan menanggung derita, dan keberanian merintis jalan sukar.  \n* **Aplikasi Fiqh Haraki:**  \n  Generasi pelapis wajib meneladani roh keikhlasan dan ketabahan generasi pengasas agar harakah tidak reput dimamah kemewahan material."
+          "summary": "* **Intipati & Pemahaman:** \n Kejayaan sesebuah gerakan Islam meletakkan batu asas tamadun bersandar kepada keunikan watak generasi pengasasnya: keikhlasan luar biasa, kebal daripada godaan pangkat, tahan menanggung derita, dan keberanian merintis jalan sukar. \n* **Aplikasi Fiqh Haraki:** \n Generasi pelapis wajib meneladani roh keikhlasan dan ketabahan generasi pengasas agar harakah tidak reput dimamah kemewahan material."
         },
         {
           "id": "c14_s1",
           "title": "Beberapa Pengajaran Daripada Seorang Hakim al-Zubairi",
           "summary_title": "1. Iktibar Kepahlawanan Muhammad Mahmud az-Zubairi",
-          "summary": "* **Intipati & Pemahaman:**  \n  Menelusuri sejarah perjuangan Hakim dan Penyair Revolusi Yaman, Muhammad Mahmud az-Zubairi, yang syahid mempertahankan kebebasan dan keadilan syariat Islam menentang kezaliman pemerintah kuku besi.  \n* **Aplikasi Fiqh Haraki:**  \n  Senjata sastera, puisi kebangkitan, dan ketajaman pena mampu menggegarkan takhta kezaliman apabila disatukan dengan keikhlasan jihad fisabilillah."
+          "summary": "* **Intipati & Pemahaman:** \n Menelusuri sejarah perjuangan Hakim dan Penyair Revolusi Yaman, Muhammad Mahmud az-Zubairi, yang syahid mempertahankan kebebasan dan keadilan syariat Islam menentang kezaliman pemerintah kuku besi. \n* **Aplikasi Fiqh Haraki:** \n Senjata sastera, puisi kebangkitan, dan ketajaman pena mampu menggegarkan takhta kezaliman apabila disatukan dengan keikhlasan jihad fisabilillah."
         },
         {
           "id": "c14_s2",
           "title": "Kesungguhan Untuk Menjual Diri di Jalan Allah",
           "summary_title": "2. Hakikat Menjual Diri Kepada Allah (InnalLaha-sytara)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Karakter teras generasi pengasas ialah kesedaran bahawa jiwa dan harta mereka telah dibeli oleh Allah dengan bayaran syurga. Sesiapa yang telah menjual dirinya kepada Allah tidak lagi memiliki hak untuk menarik balik komitmennya demi kesenangan dunia.  \n* **Aplikasi Fiqh Haraki:**  \n  Menanamkan doktrin pengorbanan tanpa syarat (*tadhiyyah bila hudud*) dalam setiap denyut nadi kader gerakan."
+          "summary": "* **Intipati & Pemahaman:** \n Karakter teras generasi pengasas ialah kesedaran bahawa jiwa dan harta mereka telah dibeli oleh Allah dengan bayaran syurga. Sesiapa yang telah menjual dirinya kepada Allah tidak lagi memiliki hak untuk menarik balik komitmennya demi kesenangan dunia. \n* **Aplikasi Fiqh Haraki:** \n Menanamkan doktrin pengorbanan tanpa syarat (*tadhiyyah bila hudud*) dalam setiap denyut nadi kader gerakan."
         },
         {
           "id": "c14_s3",
           "title": "Jangan Sibuklah Dengan Kerja Tidak Berguna ‘turrahat’...!",
           "summary_title": "3. Menjauhi Kerja Sia-sia & Debat Kosong (Turrahat)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Peringatan keras agar pendakwah tidak membuang umur dan tenaga berharga dalam perkara-perkara remeh (*turrahat*), spekulasi kosong, dan perdebatan teoritikal yang tidak menghasilkan sebarang amal di lapangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Membudayakan disiplin fokus kepada amal produktif; menilai kemajuan organisasi berasaskan hasil amali di medan masyarakat, bukan kepetahan berdebat di media sosial."
+          "summary": "* **Intipati & Pemahaman:** \n Peringatan keras agar pendakwah tidak membuang umur dan tenaga berharga dalam perkara-perkara remeh (*turrahat*), spekulasi kosong, dan perdebatan teoritikal yang tidak menghasilkan sebarang amal di lapangan. \n* **Aplikasi Fiqh Haraki:** \n Membudayakan disiplin fokus kepada amal produktif; menilai kemajuan organisasi berasaskan hasil amali di medan masyarakat, bukan kepetahan berdebat di media sosial."
         },
         {
           "id": "c14_s4",
           "title": "Tiga Peringkat",
           "summary_title": "4. Tiga Peringkat Marhalah Dakwah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Jalan dakwah terbahagi kepada tiga marhalah asasi:  \n  1. **Marhalah Ta'rif (Pengenalan):** Menyebarkan idea dan kesedaran Islam kepada masyarakat umum.  \n  2. **Marhalah Takwin (Pembentukan):** Memilih dan mentarbiah kader teras yang berdisiplin dan thiqah.  \n  3. **Marhalah Tanfiz (Pelaksanaan):** Menggerakkan kekuatan untuk merealisasikan matlamat menegakkan syariat.  \n* **Aplikasi Fiqh Haraki:**  \n  Setiap kader mesti memahami di marhalah mana gerakan sedang beroperasi agar tidak melakukan tindakan pramatang yang merosakkan perancangan."
+          "summary": "* **Intipati & Pemahaman:** \n Jalan dakwah terbahagi kepada tiga marhalah asasi: \n 1. **Marhalah Ta'rif (Pengenalan):** Menyebarkan idea dan kesedaran Islam kepada masyarakat umum. \n 2. **Marhalah Takwin (Pembentukan):** Memilih dan mentarbiah kader teras yang berdisiplin dan thiqah. \n 3. **Marhalah Tanfiz (Pelaksanaan):** Menggerakkan kekuatan untuk merealisasikan matlamat menegakkan syariat. \n* **Aplikasi Fiqh Haraki:** \n Setiap kader mesti memahami di marhalah mana gerakan sedang beroperasi agar tidak melakukan tindakan pramatang yang merosakkan perancangan."
         },
         {
           "id": "c14_s5",
           "title": "Sembang Mereka Yang Berehat ‘relaks’",
           "summary_title": "5. Amaran Terhadap Budaya Rehat & Sembang Kosong",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kecaman terhadap mentaliti mereka yang mencari kerehatan ketika peperangan sedang berkecamuk, serta suka berkumpul sekadar untuk berbual kosong tanpa bersedia memikul beban amal yang berat.  \n* **Aplikasi Fiqh Haraki:**  \n  Rehat sebenar bagi pejuang dakwah hanyalah apabila sebelah kakinya telah melangkah masuk ke dalam syurga Allah."
+          "summary": "* **Intipati & Pemahaman:** \n Kecaman terhadap mentaliti mereka yang mencari kerehatan ketika peperangan sedang berkecamuk, serta suka berkumpul sekadar untuk berbual kosong tanpa bersedia memikul beban amal yang berat. \n* **Aplikasi Fiqh Haraki:** \n Rehat sebenar bagi pejuang dakwah hanyalah apabila sebelah kakinya telah melangkah masuk ke dalam syurga Allah."
         }
       ]
     },
@@ -7287,7 +7287,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Tanggunggungjawab Kita Hanyalah Menyampaikan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kewajipan da'i ialah menyampaikan risalah secara jelas, berhikmah, dan bersungguh-sungguh (*al-balaghul mubin*). Kemenangan, penerimaan manusia, dan natijah masa depan adalah hak mutlak Allah semata-mata.  \n* **Aplikasi Fiqh Haraki:**  \n  Membebaskan jiwa pendakwah daripada tekanan kekecewaan apabila dakwahnya belum disambut masyarakat; pahala dinilai atas usaha, bukan bilangan pengikut."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kewajipan da'i ialah menyampaikan risalah secara jelas, berhikmah, dan bersungguh-sungguh (*al-balaghul mubin*). Kemenangan, penerimaan manusia, dan natijah masa depan adalah hak mutlak Allah semata-mata. \n* **Aplikasi Fiqh Haraki:** \n Membebaskan jiwa pendakwah daripada tekanan kekecewaan apabila dakwahnya belum disambut masyarakat; pahala dinilai atas usaha, bukan bilangan pengikut."
         },
         {
           "type": "text",
@@ -7295,7 +7295,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebaliknya, seorang da'i   Islam yakin bahawa kewajipannya ialah mereka mesti memilih kata-kata yang sesuai dengan syarak, dan kemudian mengikut uslub yang sesuai berdasarkan ijtiha dnya. Kemudian segalanya diserahkan kepada Allah. Sekiranya dakwahnya tidak diterima manusia, ini bermakna ada hikmah rabbaniyyah di sebaliknya. Sekiranya Allah menghendaki, tentu mereka akan diberi hidayah, tetapi Allah tidak mahu mereka menyertai golongan da'i  . Oleh itu, tiada jalan lain bagi da'i   melainkan terus thabat dengan pegangan mereka."
+          "text": "Sebaliknya, seorang da'i Islam yakin bahawa kewajipannya ialah mereka mesti memilih kata-kata yang sesuai dengan syarak, dan kemudian mengikut uslub yang sesuai berdasarkan ijtiha dnya. Kemudian segalanya diserahkan kepada Allah. Sekiranya dakwahnya tidak diterima manusia, ini bermakna ada hikmah rabbaniyyah di sebaliknya. Sekiranya Allah menghendaki, tentu mereka akan diberi hidayah, tetapi Allah tidak mahu mereka menyertai golongan da'i . Oleh itu, tiada jalan lain bagi da'i melainkan terus thabat dengan pegangan mereka."
         },
         {
           "type": "quote",
@@ -7343,11 +7343,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kewujudan contoh da'i   yang baik di seluruh pelusuk bumi Islam sudah cukup untuk membuktikan bahawa pelaksanaan idealisma Islam dalam satu tajammuk haraki di tengah-tengah kepakatan jahiliah adalah suatu yang boleh. Bukti inilah yang menjadi titik tolak ‘muntalaq’ bagi kita untuk meneruskan perjalanan usaha ini. Terus berusaha untuk memperbanyakkan proses tarbiah contoh-contoh yang sama hinggalah kita sampai kepada bilangan yang mampu untuk memimpin manusia dikekeliling kita."
+          "text": "Kewujudan contoh da'i yang baik di seluruh pelusuk bumi Islam sudah cukup untuk membuktikan bahawa pelaksanaan idealisma Islam dalam satu tajammuk haraki di tengah-tengah kepakatan jahiliah adalah suatu yang boleh. Bukti inilah yang menjadi titik tolak ‘muntalaq’ bagi kita untuk meneruskan perjalanan usaha ini. Terus berusaha untuk memperbanyakkan proses tarbiah contoh-contoh yang sama hinggalah kita sampai kepada bilangan yang mampu untuk memimpin manusia dikekeliling kita."
         },
         {
           "type": "text",
-          "text": "Sekiranya da'i   hari ini tidak mampu mencapai kemenangan, cukuplah bagi mereka sepertimana yang dikatakan oleh Syed Qutb:"
+          "text": "Sekiranya da'i hari ini tidak mampu mencapai kemenangan, cukuplah bagi mereka sepertimana yang dikatakan oleh Syed Qutb:"
         },
         {
           "type": "quote",
@@ -7356,7 +7356,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Kita Ingin Menjadi Pimpinan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Keinginan memimpin dalam kamus gerakan Islam bukanlah tamakkan takhta dunia atau kemegahan kuasa, tetapi azam suci untuk membimbing umat manusia keluar daripada kegelapan syirik menuju keadilan Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan diri dengan kelayakan kepimpinan berwibawa: keilmuan, kebijaksanaan siasah, dan ketinggian integriti moral."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Keinginan memimpin dalam kamus gerakan Islam bukanlah tamakkan takhta dunia atau kemegahan kuasa, tetapi azam suci untuk membimbing umat manusia keluar daripada kegelapan syirik menuju keadilan Islam. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan diri dengan kelayakan kepimpinan berwibawa: keilmuan, kebijaksanaan siasah, dan ketinggian integriti moral."
         },
         {
           "type": "text",
@@ -7364,7 +7364,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Perasaan itulah yang mendorong da'i   berusaha bersungguh-sungguh mempelajari seni dakwah supaya mereka berjaya menyelamatkan sebanyak mungkin generasi muda da ri kesesatan ke jalan ya ng lurus. Kamu melihat mereka sangat gembira apabila berjay a mendapat satu bai'ah baru. Menjadi doa yang paling di sukai mereka ialah doa yang tersebut dalam al-Quran:"
+          "text": "Perasaan itulah yang mendorong da'i berusaha bersungguh-sungguh mempelajari seni dakwah supaya mereka berjaya menyelamatkan sebanyak mungkin generasi muda da ri kesesatan ke jalan ya ng lurus. Kamu melihat mereka sangat gembira apabila berjay a mendapat satu bai'ah baru. Menjadi doa yang paling di sukai mereka ialah doa yang tersebut dalam al-Quran:"
         },
         {
           "type": "quran",
@@ -7384,7 +7384,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sekiranya seorang da'i   itu suka dipandang tinggi oleh orang yang bertakwa, hebat di hati mereka, dicintai dan ditaati; dan semua itu kerana niat membimbing orang bertaqwa itu mengikut jejak langkah Rasulullah SAW, maka sikap demikian tidak mengapa, bahkan ia suatu yang terpuji kerana dia mendokong dakwah Islam dan menyeru manusia kepada agama Allah. Ia mahu Allah dicintai, ditaati, disembah dan diesakan. Oleh itu dia suka segala perkara yang membantu untuk mencapai matlamatnya itu. Untuk itu, Allah SWT telah menyebut golongan hamba-hambanya yang khusus untukNya, memuji mereka di dalam kitabNya dan memberi balasan baik kepada mereka pada hari akhirat. Allah memuji amal dan sifat mereka yang terbaik dalam firmanNya:"
+          "text": "Sekiranya seorang da'i itu suka dipandang tinggi oleh orang yang bertakwa, hebat di hati mereka, dicintai dan ditaati; dan semua itu kerana niat membimbing orang bertaqwa itu mengikut jejak langkah Rasulullah SAW, maka sikap demikian tidak mengapa, bahkan ia suatu yang terpuji kerana dia mendokong dakwah Islam dan menyeru manusia kepada agama Allah. Ia mahu Allah dicintai, ditaati, disembah dan diesakan. Oleh itu dia suka segala perkara yang membantu untuk mencapai matlamatnya itu. Untuk itu, Allah SWT telah menyebut golongan hamba-hambanya yang khusus untukNya, memuji mereka di dalam kitabNya dan memberi balasan baik kepada mereka pada hari akhirat. Allah memuji amal dan sifat mereka yang terbaik dalam firmanNya:"
         },
         {
           "type": "quran",
@@ -7405,7 +7405,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Perluasan Tajmi' Perlu Seimbang Dengan Tenaga Tarbiah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Bahaya mengumpulkan ribuan penyokong (*tajmi'*) sekiranya gerakan tidak mempunyai barisan murabbi yang mencukupi untuk mentarbiah mereka. Ketiadaan tarbiah menukarkan jemaah menjadi massa perusuh yang tidak berdisiplin.  \n* **Aplikasi Fiqh Haraki:**  \n  Melabur secara besar-besaran dalam melatih murabbi dan naqib sebelum melancarkan kempen keahlian besar-besaran."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Bahaya mengumpulkan ribuan penyokong (*tajmi'*) sekiranya gerakan tidak mempunyai barisan murabbi yang mencukupi untuk mentarbiah mereka. Ketiadaan tarbiah menukarkan jemaah menjadi massa perusuh yang tidak berdisiplin. \n* **Aplikasi Fiqh Haraki:** \n Melabur secara besar-besaran dalam melatih murabbi dan naqib sebelum melancarkan kempen keahlian besar-besaran."
         },
         {
           "type": "text",
@@ -7413,7 +7413,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Satu kesilapan yang paling merbahaya ialah bagi dakwah ialah apabila ia melakukan tajmi' yang luas sebelum adanya sekumpulan da'i   yang mampu mentarbiah mereka yang telah ditajmik itu. Kumpulan da'i   itu sendiri pula mesti memperuntukkan sebahagian dari waktunya pula untuk meneruskan tarbiah diri sendiri dengan ilmu dan ibadat, kerana jika tidak, hati mereka akan menjadi keras setelah mereka dapat menikmati kelazatan di peringkat permulaan. Apabila hati telah keras, akan hilanglah pula roh-roh persaudaraan."
+          "text": "Satu kesilapan yang paling merbahaya ialah bagi dakwah ialah apabila ia melakukan tajmi' yang luas sebelum adanya sekumpulan da'i yang mampu mentarbiah mereka yang telah ditajmik itu. Kumpulan da'i itu sendiri pula mesti memperuntukkan sebahagian dari waktunya pula untuk meneruskan tarbiah diri sendiri dengan ilmu dan ibadat, kerana jika tidak, hati mereka akan menjadi keras setelah mereka dapat menikmati kelazatan di peringkat permulaan. Apabila hati telah keras, akan hilanglah pula roh-roh persaudaraan."
         },
         {
           "type": "text",
@@ -7425,7 +7425,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kalangan da'i   yang terlibat dalam bidang politik biasanya mahu supaya dakwah berlumba-lumba dengan parti-parti politik untuk menarik sebanyak mungkin orang biasa. Sedangkan kita dapati yang jelasnya orang biasa ‘‘rujul syari’’ di mana-mana negara Islam sekalipun tabiat biasanya ialah tidak bersedia untuk duduk lama bersama-sama dengan mana-mana jemaah."
+          "text": "Kalangan da'i yang terlibat dalam bidang politik biasanya mahu supaya dakwah berlumba-lumba dengan parti-parti politik untuk menarik sebanyak mungkin orang biasa. Sedangkan kita dapati yang jelasnya orang biasa ‘‘rujul syari’’ di mana-mana negara Islam sekalipun tabiat biasanya ialah tidak bersedia untuk duduk lama bersama-sama dengan mana-mana jemaah."
         },
         {
           "type": "text",
@@ -7446,19 +7446,19 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Seimbang Dalam Peluasan Medan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Peluasan medan dakwah mesti mengambil kira taburan geografi (bandar dan luar bandar) serta kepelbagaian sektor masyarakat (universiti, kesatuan sekerja, korporat, dan wanita).  \n* **Aplikasi Fiqh Haraki:**  \n  Mengelakkan penumpuan aktiviti di ibu kota semata-mata; bina tapak dakwah yang kukuh di kawasan pedalaman dan sektor strategik negara."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Peluasan medan dakwah mesti mengambil kira taburan geografi (bandar dan luar bandar) serta kepelbagaian sektor masyarakat (universiti, kesatuan sekerja, korporat, dan wanita). \n* **Aplikasi Fiqh Haraki:** \n Mengelakkan penumpuan aktiviti di ibu kota semata-mata; bina tapak dakwah yang kukuh di kawasan pedalaman dan sektor strategik negara."
         },
         {
           "type": "text",
-          "text": "Sikap bermudah-mudah ‘tasahul’ semasa pemilihan dan tindakan meramaikan ‘kuaniti’ tanpa ‘kualiti’ (takathur la tarkiz) akan melahirkan pelbagai tindakan dan kegiatan yang tidak terancang dan tidak bertujuan. Dari situ, rasa tidak mahu dikalahkan oleh golongan jahiliah, penyeleweng dan mulhid (atheis) dan mahu menguasai seluruh medan penglibatan keilmuan (thaqafiyyah) dan politik untuk memimpin ma nusia; itu semua menyebabkan da'i   mula mengikut style kerja parti-parti politik tanpa melihat kemampuannya sendiri. Ini juga mendorong mereka turun ke medan dan pentas gelanggan sedangkan mereka tidak mempunyai persediaan yang cukup."
+          "text": "Sikap bermudah-mudah ‘tasahul’ semasa pemilihan dan tindakan meramaikan ‘kuaniti’ tanpa ‘kualiti’ (takathur la tarkiz) akan melahirkan pelbagai tindakan dan kegiatan yang tidak terancang dan tidak bertujuan. Dari situ, rasa tidak mahu dikalahkan oleh golongan jahiliah, penyeleweng dan mulhid (atheis) dan mahu menguasai seluruh medan penglibatan keilmuan (thaqafiyyah) dan politik untuk memimpin ma nusia; itu semua menyebabkan da'i mula mengikut style kerja parti-parti politik tanpa melihat kemampuannya sendiri. Ini juga mendorong mereka turun ke medan dan pentas gelanggan sedangkan mereka tidak mempunyai persediaan yang cukup."
         },
         {
           "type": "text",
-          "text": "Akibatnya, berlakulah simpang-siur amal dan berseleraklah tenaga da'i   yang berkemampuan. Lalu, pengaruh dan kesan kerja tersebut tidak mantap di setiap bidang yang diceburi. Berlak u kepenatan dan perahan tenaga yang dahsyat."
+          "text": "Akibatnya, berlakulah simpang-siur amal dan berseleraklah tenaga da'i yang berkemampuan. Lalu, pengaruh dan kesan kerja tersebut tidak mantap di setiap bidang yang diceburi. Berlak u kepenatan dan perahan tenaga yang dahsyat."
         },
         {
           "type": "text",
-          "text": "Hal ini sama sepertimana yang terjadi dalam pertempuran di medan perang.  Sejarah peperangan telah menunjukkan banyak contoh panglima- panglima perang yang tidak teliti di dalam penyusunan strategi. Mereka membuka banyak medan pertempuran serentak menyebabkan kekuatan mereka terpecah-pecah. Mereka buka nnya menghadapi mu suh secara satu persatu. Ini menyebabkan mereka kalah.  Ilmu persedian ketenteraan sentiasa mengingatkan kepada panglima-panglima perang supaya mereka tidak terlalu melamakan masa satu-satu pertempuran dan hendaklah diserang secara bersepadu yang dapat menjamin berula ngnya serangan sekiranya serangan yang pertama gagal. Mereka juga hendaklah mempunyai pasukan reserve ‘ihtiyati’ untuk menangkis serangan mengejut dan gerakan dari belakang."
+          "text": "Hal ini sama sepertimana yang terjadi dalam pertempuran di medan perang. Sejarah peperangan telah menunjukkan banyak contoh panglima- panglima perang yang tidak teliti di dalam penyusunan strategi. Mereka membuka banyak medan pertempuran serentak menyebabkan kekuatan mereka terpecah-pecah. Mereka buka nnya menghadapi mu suh secara satu persatu. Ini menyebabkan mereka kalah. Ilmu persedian ketenteraan sentiasa mengingatkan kepada panglima-panglima perang supaya mereka tidak terlalu melamakan masa satu-satu pertempuran dan hendaklah diserang secara bersepadu yang dapat menjamin berula ngnya serangan sekiranya serangan yang pertama gagal. Mereka juga hendaklah mempunyai pasukan reserve ‘ihtiyati’ untuk menangkis serangan mengejut dan gerakan dari belakang."
         },
         {
           "type": "text",
@@ -7478,7 +7478,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sejarah yang baru saja berlalu menunjukkan kepada kita bagaimana ada harakah Islam yang telah terlibat dalam pembahagian banyak kerja dan memasuki semua medan secara tergesa-gesa dan gopoh, sebagai satu tindak balas terhadap pelbagai situasi politik dan kepartian. Da'i   terpaksa bertarung sengit dengan golongan ideologi jahiliah di dalam badan-badan bukan kerajaan (NGO), kesatuan-kesatuan sekerja, kelab-kelab kesusasteraan dan badan-badan sosial. Sedangkan ketika itu, bilangan anggota gerakan Islam yang berkemampuan, berpengalaman dan mahir masih lagi kurang."
+          "text": "Sejarah yang baru saja berlalu menunjukkan kepada kita bagaimana ada harakah Islam yang telah terlibat dalam pembahagian banyak kerja dan memasuki semua medan secara tergesa-gesa dan gopoh, sebagai satu tindak balas terhadap pelbagai situasi politik dan kepartian. Da'i terpaksa bertarung sengit dengan golongan ideologi jahiliah di dalam badan-badan bukan kerajaan (NGO), kesatuan-kesatuan sekerja, kelab-kelab kesusasteraan dan badan-badan sosial. Sedangkan ketika itu, bilangan anggota gerakan Islam yang berkemampuan, berpengalaman dan mahir masih lagi kurang."
         },
         {
           "type": "text",
@@ -7486,20 +7486,20 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dalam keadaan kemampuannya lemah, da'i   yang faqih tidak akan terprovok dengan kemenangan kafir yang kuat. Bahkan dia mengawal marahnya, bersabar dan memulakan kerja-kerj anya secara teratu r dan sentiasa menyediakan tapak yang mantap sebelum kakinya melangkah…"
+          "text": "Dalam keadaan kemampuannya lemah, da'i yang faqih tidak akan terprovok dengan kemenangan kafir yang kuat. Bahkan dia mengawal marahnya, bersabar dan memulakan kerja-kerj anya secara teratu r dan sentiasa menyediakan tapak yang mantap sebelum kakinya melangkah…"
         },
         {
           "type": "heading2",
           "text": "Kemajuan Datang Daripada Kepayahan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Sunnatullah bahawa kekuatan dan kematangan kepimpinan tidak lahir dalam bilik berhawa dingin, tetapi ditempa dalam kawah ujian, cabaran penindasan, dan kepayahan medan.  \n* **Aplikasi Fiqh Haraki:**  \n  Melihat setiap mihnah dan halangan sebagai peluang tarbawi yang mematangkan kecekapan navigasi harakah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Sunnatullah bahawa kekuatan dan kematangan kepimpinan tidak lahir dalam bilik berhawa dingin, tetapi ditempa dalam kawah ujian, cabaran penindasan, dan kepayahan medan. \n* **Aplikasi Fiqh Haraki:** \n Melihat setiap mihnah dan halangan sebagai peluang tarbawi yang mematangkan kecekapan navigasi harakah."
         },
         {
           "type": "text",
-          "text": "Semangat da'i   yang begitu bersemangat tidak semestinya berhasil, kerana ia tertakluk kepada realiti."
+          "text": "Semangat da'i yang begitu bersemangat tidak semestinya berhasil, kerana ia tertakluk kepada realiti."
         },
         {
           "type": "text",
-          "text": "Antara fenomena waqi’ terpenting yang menghalang da'i   dari melaksanakan semangat dan cita-citanya ialah kelemahan dan rendahnya level sebahagian da'i   untuk menyaingi pihak lain. Usaha untuk menghadapi pihak jahiliah dalam segenap bidang yang dimasuki mereka sekar ang memerlukan kemampuan, dan kecekalan da'i  . Realiti kita menunjukkan betapa kurangnya tenaga sedemikian di kalang an anggota harakah Islam kita yang mampu memimpin, kreatif, inovasi, bergerak dan terus menerus bekerja. Apa yang berlaku ianya terus menerus tert umpu kepada hanya beberapa da'i   yang sama."
+          "text": "Antara fenomena waqi’ terpenting yang menghalang da'i dari melaksanakan semangat dan cita-citanya ialah kelemahan dan rendahnya level sebahagian da'i untuk menyaingi pihak lain. Usaha untuk menghadapi pihak jahiliah dalam segenap bidang yang dimasuki mereka sekar ang memerlukan kemampuan, dan kecekalan da'i . Realiti kita menunjukkan betapa kurangnya tenaga sedemikian di kalang an anggota harakah Islam kita yang mampu memimpin, kreatif, inovasi, bergerak dan terus menerus bekerja. Apa yang berlaku ianya terus menerus tert umpu kepada hanya beberapa da'i yang sama."
         },
         {
           "type": "text",
@@ -7523,12 +7523,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya itulah hakikat realiti yang berlaku. Hanya dengannya sahaja pendapat yang ideal dan tindakan yang sepontan dalam perencanaan akan bertukar kepada tadarruj yang sesuai dengan kemampuan. Adalah menjad i kesalahan apabila kita menuntut satu bentuk yang mantap dan penuh kesedaran dari da'i   yang lemah. Semata- mata desakan semata-mata tidak akan cukup jika tidak didahului dengan tarbiah."
+          "text": "Sesungguhnya itulah hakikat realiti yang berlaku. Hanya dengannya sahaja pendapat yang ideal dan tindakan yang sepontan dalam perencanaan akan bertukar kepada tadarruj yang sesuai dengan kemampuan. Adalah menjad i kesalahan apabila kita menuntut satu bentuk yang mantap dan penuh kesedaran dari da'i yang lemah. Semata- mata desakan semata-mata tidak akan cukup jika tidak didahului dengan tarbiah."
         },
         {
           "type": "heading2",
           "text": "Fokus Kepada Melahirkan Orang-orang Thiqah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Satu individu yang thiqah, teguh, dan berdisiplin adalah jauh lebih berharga kepada masa depan dakwah berbanding seribu pengikut yang rapuh dan mudah lari apabila diuji.  \n* **Aplikasi Fiqh Haraki:**  \n  Memberikan tumpuan khusus (*tarkiz*) kepada pembinaan kader-kader elit dakwah yang bakal memikul amanah berat masa depan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Satu individu yang thiqah, teguh, dan berdisiplin adalah jauh lebih berharga kepada masa depan dakwah berbanding seribu pengikut yang rapuh dan mudah lari apabila diuji. \n* **Aplikasi Fiqh Haraki:** \n Memberikan tumpuan khusus (*tarkiz*) kepada pembinaan kader-kader elit dakwah yang bakal memikul amanah berat masa depan."
         },
         {
           "type": "text",
@@ -7540,7 +7540,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Usaha kita mesti di tumpukan kepada ‘kilang-kilang thiqat’ (proses melahirkan golongan thiqah) yang akan mendidik dan memb entuk da'i   yang bersenjatakan iman dan fiqh haraki. Mereka perlu di simpan bagi menghadapi kufur medan demi medan. Segala kemampuan mesti disimpan bagi membantu, mengukuh dan memantapkan badan yang akan mentarbiah golongan thiqah tersebut."
+          "text": "Usaha kita mesti di tumpukan kepada ‘kilang-kilang thiqat’ (proses melahirkan golongan thiqah) yang akan mendidik dan memb entuk da'i yang bersenjatakan iman dan fiqh haraki. Mereka perlu di simpan bagi menghadapi kufur medan demi medan. Segala kemampuan mesti disimpan bagi membantu, mengukuh dan memantapkan badan yang akan mentarbiah golongan thiqah tersebut."
         },
         {
           "type": "text",
@@ -7548,12 +7548,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dalam perencanaan dakwah, tidak sepatutnya keterbukaan medan dakwah dibuka begitu luas sebelum yakin wujudnya bilangan thiqah yang cukup bagi melaksana dan meneruskan medan ‘infitah’ tersebut. Anggota yang thiqah perlu dihalang dari kerja secara semangat tiba-tiba ‘air karbonat’ dan kerana reaksi provokasi pihak jahiliah terhadap kita. Walau bagaimanapun, itu tidak menghalang kita dari melatih sebahagian dalam bilangan yang kecil dari da'i   untuk menyertai pelbagai medan ini sebagai latihan praktikal, agar nantinya mereka akan menjadi pelopor pemimpin apabila medan-medan baru dibuka."
+          "text": "Dalam perencanaan dakwah, tidak sepatutnya keterbukaan medan dakwah dibuka begitu luas sebelum yakin wujudnya bilangan thiqah yang cukup bagi melaksana dan meneruskan medan ‘infitah’ tersebut. Anggota yang thiqah perlu dihalang dari kerja secara semangat tiba-tiba ‘air karbonat’ dan kerana reaksi provokasi pihak jahiliah terhadap kita. Walau bagaimanapun, itu tidak menghalang kita dari melatih sebahagian dalam bilangan yang kecil dari da'i untuk menyertai pelbagai medan ini sebagai latihan praktikal, agar nantinya mereka akan menjadi pelopor pemimpin apabila medan-medan baru dibuka."
         },
         {
           "type": "heading2",
           "text": "Al-Quran…. Dan Kekuatan Yang hebat….",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Al-Quran al-Karim adalah mukjizat tarbiah abadi yang mentransformasi generasi sahabat daripada penggembala kambing menjadi pemimpin peradaban dunia. Tiada modul moden yang mampu menandingi kuasa transformasi al-Quran.  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan al-Quran sebagai nadi utama kurikulum tarbiah: tadabbur ayat-ayat haraki, menghafal, dan melazimi bacaan malam."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Al-Quran al-Karim adalah mukjizat tarbiah abadi yang mentransformasi generasi sahabat daripada penggembala kambing menjadi pemimpin peradaban dunia. Tiada modul moden yang mampu menandingi kuasa transformasi al-Quran. \n* **Aplikasi Fiqh Haraki:** \n Menjadikan al-Quran sebagai nadi utama kurikulum tarbiah: tadabbur ayat-ayat haraki, menghafal, dan melazimi bacaan malam."
         },
         {
           "type": "text",
@@ -7589,7 +7589,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sehingga apabila mereka ditimpa malapetaka dan kekalahan, Allah memberi taufiq kepada Syeikhul Islam Ibnu Taim iyyah untuk membacakan ayat ini dan mentafsirkan nya. Beliau berkata kepada mereka: “Allah SWT telah menyatakan bahawa sesungguhnya Dia telah menurunkan al-Kitab dan al-Mizan. <sup class=\"fn-ref\" data-fn-id=\"221\" title=\"Neraca aatau timbangan. (Pnt)\">[221]</sup>  Dia juga menurunkan besi untu k menegakkan keadilan supaya Allah mengetahui siapa yang menolongNya dan siapa yang menolong Rasul-Nya. Oleh itu agama ini didirika n dengan al-Kitab sebagai pembawa hidayah dan pedang yang akan memb antu. Dan cukuplah Tuhanmu sebagai pemberi hidayah dan penolong. <sup class=\"fn-ref\" data-fn-id=\"222\" title=\"Ibn Taimiah, Majmuk al-Fatawa, Jilid 10, m.s. 13\">[222]</sup>"
+          "text": "Sehingga apabila mereka ditimpa malapetaka dan kekalahan, Allah memberi taufiq kepada Syeikhul Islam Ibnu Taim iyyah untuk membacakan ayat ini dan mentafsirkan nya. Beliau berkata kepada mereka: “Allah SWT telah menyatakan bahawa sesungguhnya Dia telah menurunkan al-Kitab dan al-Mizan. <sup class=\"fn-ref\" data-fn-id=\"221\" title=\"Neraca aatau timbangan. (Pnt)\">[221]</sup> Dia juga menurunkan besi untu k menegakkan keadilan supaya Allah mengetahui siapa yang menolongNya dan siapa yang menolong Rasul-Nya. Oleh itu agama ini didirika n dengan al-Kitab sebagai pembawa hidayah dan pedang yang akan memb antu. Dan cukuplah Tuhanmu sebagai pemberi hidayah dan penolong. <sup class=\"fn-ref\" data-fn-id=\"222\" title=\"Ibn Taimiah, Majmuk al-Fatawa, Jilid 10, m.s. 13\">[222]</sup>"
         },
         {
           "type": "text",
@@ -7598,7 +7598,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Mendaki Anak Tangga Bersama Orang Yang Berjalan... Bukan Melompat...",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Tarbiah adalah proses pendakian anak tangga demi anak tangga secara beransur-ansur (*tadarruj*). Pemimpin mesti sabar mendaki bersama kader yang sedang berjalan, bukannya memaksa mereka melompat anak tangga yang boleh menyebabkan mereka jatuh terhempas.  \n* **Aplikasi Fiqh Haraki:**  \n  Meraikan tahap kemampuan kader; menyusun kurikulum bertahap mengikut marhalah umur dan kematangan kefahaman."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Tarbiah adalah proses pendakian anak tangga demi anak tangga secara beransur-ansur (*tadarruj*). Pemimpin mesti sabar mendaki bersama kader yang sedang berjalan, bukannya memaksa mereka melompat anak tangga yang boleh menyebabkan mereka jatuh terhempas. \n* **Aplikasi Fiqh Haraki:** \n Meraikan tahap kemampuan kader; menyusun kurikulum bertahap mengikut marhalah umur dan kematangan kefahaman."
         },
         {
           "type": "text",
@@ -7622,7 +7622,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Beliau juga selalu mengulangi kepada mereka: “Para da'i   yang memahami fiqh dakwah: slogan mereka ialah; Masa itu adalah satu juzuk dari rawatan.” <sup class=\"fn-ref\" data-fn-id=\"225\" title=\"Ibid\">[225]</sup>"
+          "text": "Beliau juga selalu mengulangi kepada mereka: “Para da'i yang memahami fiqh dakwah: slogan mereka ialah; Masa itu adalah satu juzuk dari rawatan.” <sup class=\"fn-ref\" data-fn-id=\"225\" title=\"Ibid\">[225]</sup>"
         },
         {
           "type": "text",
@@ -7638,7 +7638,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bahkan lebih jauh dari itu, boleh ja di ada hikmat di sebalik kemenangan kesesatan pihak jahiliah pada hari ini. Ia untuk membuktikan kelemahan mereka dalam membina suasana bahagia yang dijanjikannya kepada manusia. Kelemahan mereka ini menjadi bukti us aha pendidikan mereka. Ia adalah pekong besar yang dihadapi oleh sist em-sistem karut dan diktator-diktator yang berusaha bermati-matian memesongkan manusia dari Islam. Kegagalan mereka ini dapat membuka jalan dan mempercepatkan perjalanan da'i   Islam."
+          "text": "Bahkan lebih jauh dari itu, boleh ja di ada hikmat di sebalik kemenangan kesesatan pihak jahiliah pada hari ini. Ia untuk membuktikan kelemahan mereka dalam membina suasana bahagia yang dijanjikannya kepada manusia. Kelemahan mereka ini menjadi bukti us aha pendidikan mereka. Ia adalah pekong besar yang dihadapi oleh sist em-sistem karut dan diktator-diktator yang berusaha bermati-matian memesongkan manusia dari Islam. Kegagalan mereka ini dapat membuka jalan dan mempercepatkan perjalanan da'i Islam."
         },
         {
           "type": "text",
@@ -7646,7 +7646,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mungkin sebahagian manusia berpendapat bahawa jalan lambat ini tidak akan melatih da'i   untuk berkorban. Mereka juga menyangka bahawa kita melupai prinsip pengorbanan dari pertimbangan kita. Sebenarnya itu tidak benar. Sesungguhnya pengorbanan itu dituntut dan pe rlu, tetapi mesti kena pada waktunya. Ia tidak boleh dibuat-buat. Sebaik-baik da'i   ialah da'i   yang menanam benih tadhiyyah ‘pengorbanan’ di dalam jiwa saudaranya mulai dari sekarang."
+          "text": "Mungkin sebahagian manusia berpendapat bahawa jalan lambat ini tidak akan melatih da'i untuk berkorban. Mereka juga menyangka bahawa kita melupai prinsip pengorbanan dari pertimbangan kita. Sebenarnya itu tidak benar. Sesungguhnya pengorbanan itu dituntut dan pe rlu, tetapi mesti kena pada waktunya. Ia tidak boleh dibuat-buat. Sebaik-baik da'i ialah da'i yang menanam benih tadhiyyah ‘pengorbanan’ di dalam jiwa saudaranya mulai dari sekarang."
         },
         {
           "type": "text",
@@ -7659,7 +7659,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Perlunya Wa'yu Haraki Dalam Usaha Mempercepat…",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Keinginan untuk mempercepatkan kemenangan (*isti'jal*) tanpa kesedaran haraki (*wa'yu*) yang mendalam adalah racun yang sering memusnahkan gerakan Islam sebelum buahnya sempat masak.  \n* **Aplikasi Fiqh Haraki:**  \n  Mendidik para pemuda agar sabar menanti masa kematangan buah dakwah; faham bahawa setiap fasa memerlukan tempoh masa pematangan sunnatullah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Keinginan untuk mempercepatkan kemenangan (*isti'jal*) tanpa kesedaran haraki (*wa'yu*) yang mendalam adalah racun yang sering memusnahkan gerakan Islam sebelum buahnya sempat masak. \n* **Aplikasi Fiqh Haraki:** \n Mendidik para pemuda agar sabar menanti masa kematangan buah dakwah; faham bahawa setiap fasa memerlukan tempoh masa pematangan sunnatullah."
         },
         {
           "type": "text",
@@ -7667,15 +7667,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebenarnya terdapat ramai da'i   Islam di setiap tempat yang menyerahkan dirinya kepada dakwah dan da'i   Islam. Tetapi fiqh haraki inilah yang kurang pada mereka. Sekiranya kita mengajar mereka untuk memenatkan dan mengorbankan diri, sabar berjaga malam dan bengkok belakang untuk mempelajari fiqh ini, nescaya ramai dalam kalangan mereka yang mempunyai kesediaan akan sedar dan dapat menutup ruang yang kosong dan menggantikan orang-orang yang lemah."
+          "text": "Sebenarnya terdapat ramai da'i Islam di setiap tempat yang menyerahkan dirinya kepada dakwah dan da'i Islam. Tetapi fiqh haraki inilah yang kurang pada mereka. Sekiranya kita mengajar mereka untuk memenatkan dan mengorbankan diri, sabar berjaga malam dan bengkok belakang untuk mempelajari fiqh ini, nescaya ramai dalam kalangan mereka yang mempunyai kesediaan akan sedar dan dapat menutup ruang yang kosong dan menggantikan orang-orang yang lemah."
         },
         {
           "type": "text",
-          "text": "Sesungguhnya antara kelemahan yang paling nyata dari harakah Islam lalu ialah kurangnya aktiviti mendokumentasikan prioriti-prioriti bagi kesedaran haraki dan fiqh dakwah. Mereka terlampau meleret-leret membentangkan sistem-sistem dan cabang-cabangnya. Hingga kita dapati begitu ramai mereka yang mengikut dakwah tetapi kurang menghasilkan produk dan tidak banyak mengubah realiti, dalam kadar yang kita mungkin rasa pada mulanya.  Ini semua kerana ketiadaan seni kerja dan usul amal jama'i dari mereka. Kerja memperbaiki balik bermula dari hakikat ini."
+          "text": "Sesungguhnya antara kelemahan yang paling nyata dari harakah Islam lalu ialah kurangnya aktiviti mendokumentasikan prioriti-prioriti bagi kesedaran haraki dan fiqh dakwah. Mereka terlampau meleret-leret membentangkan sistem-sistem dan cabang-cabangnya. Hingga kita dapati begitu ramai mereka yang mengikut dakwah tetapi kurang menghasilkan produk dan tidak banyak mengubah realiti, dalam kadar yang kita mungkin rasa pada mulanya. Ini semua kerana ketiadaan seni kerja dan usul amal jama'i dari mereka. Kerja memperbaiki balik bermula dari hakikat ini."
         },
         {
           "type": "text",
-          "text": "Kerja mengumpulkan balik bahan-bahan yang berselerak yang telah ditulis. Usaha mencari juga karya-karya berkenaan fiqh dakwah yang dimiliki oleh gerakan Islam dan seluruh dunia Islam. Di samping itu kita hendaklah membuat penyelarasan dalam kajian dan membiasakan da'i   Islam untuk menelaahnya secara serius. Bukan dengan membaca sepintas lalu sahaja."
+          "text": "Kerja mengumpulkan balik bahan-bahan yang berselerak yang telah ditulis. Usaha mencari juga karya-karya berkenaan fiqh dakwah yang dimiliki oleh gerakan Islam dan seluruh dunia Islam. Di samping itu kita hendaklah membuat penyelarasan dalam kajian dan membiasakan da'i Islam untuk menelaahnya secara serius. Bukan dengan membaca sepintas lalu sahaja."
         }
       ],
       "footnotes": [
@@ -7734,61 +7734,61 @@ window.ALMUNTALAQ_DATA = {
           "id": "c15_s0",
           "title": "Pengenalan: Fiqh At-Tawassu' Al-Mauzun",
           "summary_title": "Mukadimah Bab 15: Peluasan Seimbang & Penyebaran Berhati-hati",
-          "summary": "* **Intipati & Pemahaman:**  \n  Peluasan organisasi (*at-tawassu'*) adalah fitrah kemajuan dakwah, tetapi ia mestilah berjalan secara seimbang (*mauzun*) dan berhati-hati (*mutani'*). Peluasan yang terburu-buru tanpa persediaan tarbiah adalah jalan pintas menuju keruntuhan.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengimbangkan antara kepesatan membuka cawangan baharu dengan keupayaan menyediakan murabbi dan kurikulum pembinaan yang berkualiti."
+          "summary": "* **Intipati & Pemahaman:** \n Peluasan organisasi (*at-tawassu'*) adalah fitrah kemajuan dakwah, tetapi ia mestilah berjalan secara seimbang (*mauzun*) dan berhati-hati (*mutani'*). Peluasan yang terburu-buru tanpa persediaan tarbiah adalah jalan pintas menuju keruntuhan. \n* **Aplikasi Fiqh Haraki:** \n Mengimbangkan antara kepesatan membuka cawangan baharu dengan keupayaan menyediakan murabbi dan kurikulum pembinaan yang berkualiti."
         },
         {
           "id": "c15_s1",
           "title": "Tanggunggungjawab Kita Hanyalah Menyampaikan",
           "summary_title": "1. Menyampaikan Dengan Optimum, Natijah Hak Allah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kewajipan da'i ialah menyampaikan risalah secara jelas, berhikmah, dan bersungguh-sungguh (*al-balaghul mubin*). Kemenangan, penerimaan manusia, dan natijah masa depan adalah hak mutlak Allah semata-mata.  \n* **Aplikasi Fiqh Haraki:**  \n  Membebaskan jiwa pendakwah daripada tekanan kekecewaan apabila dakwahnya belum disambut masyarakat; pahala dinilai atas usaha, bukan bilangan pengikut."
+          "summary": "* **Intipati & Pemahaman:** \n Kewajipan da'i ialah menyampaikan risalah secara jelas, berhikmah, dan bersungguh-sungguh (*al-balaghul mubin*). Kemenangan, penerimaan manusia, dan natijah masa depan adalah hak mutlak Allah semata-mata. \n* **Aplikasi Fiqh Haraki:** \n Membebaskan jiwa pendakwah daripada tekanan kekecewaan apabila dakwahnya belum disambut masyarakat; pahala dinilai atas usaha, bukan bilangan pengikut."
         },
         {
           "id": "c15_s2",
           "title": "Kita Ingin Menjadi Pimpinan",
           "summary_title": "2. Cita-cita Memimpin Menuju Keredaan Ilahi",
-          "summary": "* **Intipati & Pemahaman:**  \n  Keinginan memimpin dalam kamus gerakan Islam bukanlah tamakkan takhta dunia atau kemegahan kuasa, tetapi azam suci untuk membimbing umat manusia keluar daripada kegelapan syirik menuju keadilan Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Mempersiapkan diri dengan kelayakan kepimpinan berwibawa: keilmuan, kebijaksanaan siasah, dan ketinggian integriti moral."
+          "summary": "* **Intipati & Pemahaman:** \n Keinginan memimpin dalam kamus gerakan Islam bukanlah tamakkan takhta dunia atau kemegahan kuasa, tetapi azam suci untuk membimbing umat manusia keluar daripada kegelapan syirik menuju keadilan Islam. \n* **Aplikasi Fiqh Haraki:** \n Mempersiapkan diri dengan kelayakan kepimpinan berwibawa: keilmuan, kebijaksanaan siasah, dan ketinggian integriti moral."
         },
         {
           "id": "c15_s3",
           "title": "Perluasan Tajmi' Perlu Seimbang Dengan Tenaga Tarbiah",
           "summary_title": "3. Nisbah Seimbang Antara Tajmi' & Tarbiah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Bahaya mengumpulkan ribuan penyokong (*tajmi'*) sekiranya gerakan tidak mempunyai barisan murabbi yang mencukupi untuk mentarbiah mereka. Ketiadaan tarbiah menukarkan jemaah menjadi massa perusuh yang tidak berdisiplin.  \n* **Aplikasi Fiqh Haraki:**  \n  Melabur secara besar-besaran dalam melatih murabbi dan naqib sebelum melancarkan kempen keahlian besar-besaran."
+          "summary": "* **Intipati & Pemahaman:** \n Bahaya mengumpulkan ribuan penyokong (*tajmi'*) sekiranya gerakan tidak mempunyai barisan murabbi yang mencukupi untuk mentarbiah mereka. Ketiadaan tarbiah menukarkan jemaah menjadi massa perusuh yang tidak berdisiplin. \n* **Aplikasi Fiqh Haraki:** \n Melabur secara besar-besaran dalam melatih murabbi dan naqib sebelum melancarkan kempen keahlian besar-besaran."
         },
         {
           "id": "c15_s4",
           "title": "Seimbang Dalam Peluasan Medan",
           "summary_title": "4. Keseimbangan Geografi & Demografi Medan Amal",
-          "summary": "* **Intipati & Pemahaman:**  \n  Peluasan medan dakwah mesti mengambil kira taburan geografi (bandar dan luar bandar) serta kepelbagaian sektor masyarakat (universiti, kesatuan sekerja, korporat, dan wanita).  \n* **Aplikasi Fiqh Haraki:**  \n  Mengelakkan penumpuan aktiviti di ibu kota semata-mata; bina tapak dakwah yang kukuh di kawasan pedalaman dan sektor strategik negara."
+          "summary": "* **Intipati & Pemahaman:** \n Peluasan medan dakwah mesti mengambil kira taburan geografi (bandar dan luar bandar) serta kepelbagaian sektor masyarakat (universiti, kesatuan sekerja, korporat, dan wanita). \n* **Aplikasi Fiqh Haraki:** \n Mengelakkan penumpuan aktiviti di ibu kota semata-mata; bina tapak dakwah yang kukuh di kawasan pedalaman dan sektor strategik negara."
         },
         {
           "id": "c15_s5",
           "title": "Kemajuan Datang Daripada Kepayahan",
           "summary_title": "5. Kematangan Lahir Daripada Kawah Ujian",
-          "summary": "* **Intipati & Pemahaman:**  \n  Sunnatullah bahawa kekuatan dan kematangan kepimpinan tidak lahir dalam bilik berhawa dingin, tetapi ditempa dalam kawah ujian, cabaran penindasan, dan kepayahan medan.  \n* **Aplikasi Fiqh Haraki:**  \n  Melihat setiap mihnah dan halangan sebagai peluang tarbawi yang mematangkan kecekapan navigasi harakah."
+          "summary": "* **Intipati & Pemahaman:** \n Sunnatullah bahawa kekuatan dan kematangan kepimpinan tidak lahir dalam bilik berhawa dingin, tetapi ditempa dalam kawah ujian, cabaran penindasan, dan kepayahan medan. \n* **Aplikasi Fiqh Haraki:** \n Melihat setiap mihnah dan halangan sebagai peluang tarbawi yang mematangkan kecekapan navigasi harakah."
         },
         {
           "id": "c15_s6",
           "title": "Fokus Kepada Melahirkan Orang-orang Thiqah",
           "summary_title": "6. Prioriti Melahirkan Kader Thiqah Berkualiti Tinggi",
-          "summary": "* **Intipati & Pemahaman:**  \n  Satu individu yang thiqah, teguh, dan berdisiplin adalah jauh lebih berharga kepada masa depan dakwah berbanding seribu pengikut yang rapuh dan mudah lari apabila diuji.  \n* **Aplikasi Fiqh Haraki:**  \n  Memberikan tumpuan khusus (*tarkiz*) kepada pembinaan kader-kader elit dakwah yang bakal memikul amanah berat masa depan."
+          "summary": "* **Intipati & Pemahaman:** \n Satu individu yang thiqah, teguh, dan berdisiplin adalah jauh lebih berharga kepada masa depan dakwah berbanding seribu pengikut yang rapuh dan mudah lari apabila diuji. \n* **Aplikasi Fiqh Haraki:** \n Memberikan tumpuan khusus (*tarkiz*) kepada pembinaan kader-kader elit dakwah yang bakal memikul amanah berat masa depan."
         },
         {
           "id": "c15_s7",
           "title": "Al-Quran…. Dan Kekuatan Yang hebat….",
           "summary_title": "7. Al-Quran Sumber Kuasa Tarbawi Teragung",
-          "summary": "* **Intipati & Pemahaman:**  \n  Al-Quran al-Karim adalah mukjizat tarbiah abadi yang mentransformasi generasi sahabat daripada penggembala kambing menjadi pemimpin peradaban dunia. Tiada modul moden yang mampu menandingi kuasa transformasi al-Quran.  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan al-Quran sebagai nadi utama kurikulum tarbiah: tadabbur ayat-ayat haraki, menghafal, dan melazimi bacaan malam."
+          "summary": "* **Intipati & Pemahaman:** \n Al-Quran al-Karim adalah mukjizat tarbiah abadi yang mentransformasi generasi sahabat daripada penggembala kambing menjadi pemimpin peradaban dunia. Tiada modul moden yang mampu menandingi kuasa transformasi al-Quran. \n* **Aplikasi Fiqh Haraki:** \n Menjadikan al-Quran sebagai nadi utama kurikulum tarbiah: tadabbur ayat-ayat haraki, menghafal, dan melazimi bacaan malam."
         },
         {
           "id": "c15_s8",
           "title": "Mendaki Anak Tangga Bersama Orang Yang Berjalan... Bukan Melompat...",
           "summary_title": "8. Tadarruj: Mendaki Bersama Yang Berjalan, Bukan Melompat",
-          "summary": "* **Intipati & Pemahaman:**  \n  Tarbiah adalah proses pendakian anak tangga demi anak tangga secara beransur-ansur (*tadarruj*). Pemimpin mesti sabar mendaki bersama kader yang sedang berjalan, bukannya memaksa mereka melompat anak tangga yang boleh menyebabkan mereka jatuh terhempas.  \n* **Aplikasi Fiqh Haraki:**  \n  Meraikan tahap kemampuan kader; menyusun kurikulum bertahap mengikut marhalah umur dan kematangan kefahaman."
+          "summary": "* **Intipati & Pemahaman:** \n Tarbiah adalah proses pendakian anak tangga demi anak tangga secara beransur-ansur (*tadarruj*). Pemimpin mesti sabar mendaki bersama kader yang sedang berjalan, bukannya memaksa mereka melompat anak tangga yang boleh menyebabkan mereka jatuh terhempas. \n* **Aplikasi Fiqh Haraki:** \n Meraikan tahap kemampuan kader; menyusun kurikulum bertahap mengikut marhalah umur dan kematangan kefahaman."
         },
         {
           "id": "c15_s9",
           "title": "Perlunya Wa'yu Haraki Dalam Usaha Mempercepat…",
           "summary_title": "9. Kesedaran Haraki (Wa'yu) Mengelakkan Kegopohan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Keinginan untuk mempercepatkan kemenangan (*isti'jal*) tanpa kesedaran haraki (*wa'yu*) yang mendalam adalah racun yang sering memusnahkan gerakan Islam sebelum buahnya sempat masak.  \n* **Aplikasi Fiqh Haraki:**  \n  Mendidik para pemuda agar sabar menanti masa kematangan buah dakwah; faham bahawa setiap fasa memerlukan tempoh masa pematangan sunnatullah."
+          "summary": "* **Intipati & Pemahaman:** \n Keinginan untuk mempercepatkan kemenangan (*isti'jal*) tanpa kesedaran haraki (*wa'yu*) yang mendalam adalah racun yang sering memusnahkan gerakan Islam sebelum buahnya sempat masak. \n* **Aplikasi Fiqh Haraki:** \n Mendidik para pemuda agar sabar menanti masa kematangan buah dakwah; faham bahawa setiap fasa memerlukan tempoh masa pematangan sunnatullah."
         }
       ]
     },
@@ -7830,7 +7830,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Menaikkan Individu Yang Thiqah Adalah Asas Penjagaan",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Harakah Islamiyyah hanya boleh dipelihara keselamatannya jika setiap kedudukan penting diterajui oleh individu yang memiliki sifat thiqah: amanah, berwibawa, dan tidak boleh dibeli oleh musuh.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengamalkan meritokrasi syar'ie dalam pengurusan organisasi; menolak amalan kronisme, kekeluargaan, atau pengaruh kekayaan dalam perlantikan jawatan."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Harakah Islamiyyah hanya boleh dipelihara keselamatannya jika setiap kedudukan penting diterajui oleh individu yang memiliki sifat thiqah: amanah, berwibawa, dan tidak boleh dibeli oleh musuh. \n* **Aplikasi Fiqh Haraki:** \n Mengamalkan meritokrasi syar'ie dalam pengurusan organisasi; menolak amalan kronisme, kekeluargaan, atau pengaruh kekayaan dalam perlantikan jawatan."
         },
         {
           "type": "text",
@@ -7842,7 +7842,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bila da'i   melihat keadaan genting yang terjadi kepada seluruh gerakan Islam di seluruh dunia dan bila meng imbau kembali sejarah lampaunya, akan nampak betapa besarnya pemeliharaan Allah kepada mereka dalam pemilihan pemimpinnya. Gerakan Islam tidak pernah dipimpin kecuali oleh mereka yang mantap ilmunya, benar dan ikhlas."
+          "text": "Bila da'i melihat keadaan genting yang terjadi kepada seluruh gerakan Islam di seluruh dunia dan bila meng imbau kembali sejarah lampaunya, akan nampak betapa besarnya pemeliharaan Allah kepada mereka dalam pemilihan pemimpinnya. Gerakan Islam tidak pernah dipimpin kecuali oleh mereka yang mantap ilmunya, benar dan ikhlas."
         },
         {
           "type": "text",
@@ -7862,7 +7862,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Memang itulah penderitaan panjang yang dialami dan dirasai oleh mereka yang berkecimpung dalam kerja-kerja seharian amal haraki. Kompleksnya masyarakat sekarang, banyak dan aktifnya parti-parti politik dan perancangan yang dimainkan oleh Yahudi dan Freemason di seluruh pelusuk dunia, semua itu memerlukan satu bentuk para da'i   yang bukan sahaja beriman, ikhlas serta mengetahui syariat Islam, bahkan pe rlu pula mempunyai kesedaran politik, berpengalaman dalam teknik berorganis asi, cekap dalam perancangan yang seimbang dan sesuai dengan realiti semasa dan selaras dengan kekuatan yang ada pada kita."
+          "text": "Memang itulah penderitaan panjang yang dialami dan dirasai oleh mereka yang berkecimpung dalam kerja-kerja seharian amal haraki. Kompleksnya masyarakat sekarang, banyak dan aktifnya parti-parti politik dan perancangan yang dimainkan oleh Yahudi dan Freemason di seluruh pelusuk dunia, semua itu memerlukan satu bentuk para da'i yang bukan sahaja beriman, ikhlas serta mengetahui syariat Islam, bahkan pe rlu pula mempunyai kesedaran politik, berpengalaman dalam teknik berorganis asi, cekap dalam perancangan yang seimbang dan sesuai dengan realiti semasa dan selaras dengan kekuatan yang ada pada kita."
         },
         {
           "type": "text",
@@ -7871,7 +7871,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Tiada Pemisahan Antara Pengurusan dan Tarbiah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Gerakan Islam menolak pemisahan sekular antara kecekapan pengurusan (*idarah*) dengan kedalaman nilai tarbiah. Pengurus terbaik dalam dakwah adalah mereka yang paling bertaqwa dan menghayati adab Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Mesyuarat dan pengurusan pentadbiran tanzim mesti sentiasa dipayungi suasana zikir, keikhlasan, dan ukhuwah fillah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Gerakan Islam menolak pemisahan sekular antara kecekapan pengurusan (*idarah*) dengan kedalaman nilai tarbiah. Pengurus terbaik dalam dakwah adalah mereka yang paling bertaqwa dan menghayati adab Islam. \n* **Aplikasi Fiqh Haraki:** \n Mesyuarat dan pengurusan pentadbiran tanzim mesti sentiasa dipayungi suasana zikir, keikhlasan, dan ukhuwah fillah."
         },
         {
           "type": "text",
@@ -7879,7 +7879,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ada dalam kalangan da'i   membezakan antara murabbi dengan da'i   bukan murabbi yang melaksanakan tugas-tugas dakwah bentuk lain yang diperlukan oleh kesempurnaan dakwah. Analisis fenomena tarbiah menolak hakikat ini. Mereka semuanya adalah sebahagian dari dakwah yang nanti akan dilihat dan menjadi ikutan ‘freshie’. Mereka semua menjadi jurubicara secara tidak langsung kepada dakwah dan ‘freshie’ akan terpengaruh."
+          "text": "Ada dalam kalangan da'i membezakan antara murabbi dengan da'i bukan murabbi yang melaksanakan tugas-tugas dakwah bentuk lain yang diperlukan oleh kesempurnaan dakwah. Analisis fenomena tarbiah menolak hakikat ini. Mereka semuanya adalah sebahagian dari dakwah yang nanti akan dilihat dan menjadi ikutan ‘freshie’. Mereka semua menjadi jurubicara secara tidak langsung kepada dakwah dan ‘freshie’ akan terpengaruh."
         },
         {
           "type": "text",
@@ -7903,11 +7903,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Dipetik dan Ali bin Abi Talib r.a., beliau berkata: “Mereka ialah yang mengasuh manusia dengan hikmah dan mendidik mereka dengannya.” Dari IbnuAbbas, beliau berkata: “Mereka itulah fuqaha yang mengajar.” Bagi ku: “Orang yang melakukan amar makruf nahi mungkar itulah sebenarnya fuqaha yang mengajar.” Qatadah dan Atha’ berkata: “Mereka ialah fuqaha, ulama dan hukama’.” Ibnu Qutaybah berkata: “Singularnya perkataan ini ialah rabbani. Mereka ialah ulama yang mengajar.”"
+          "text": "Dipetik dan Ali bin Abi Talib RA, beliau berkata: “Mereka ialah yang mengasuh manusia dengan hikmah dan mendidik mereka dengannya.” Dari IbnuAbbas, beliau berkata: “Mereka itulah fuqaha yang mengajar.” Bagi ku: “Orang yang melakukan amar makruf nahi mungkar itulah sebenarnya fuqaha yang mengajar.” Qatadah dan Atha’ berkata: “Mereka ialah fuqaha, ulama dan hukama’.” Ibnu Qutaybah berkata: “Singularnya perkataan ini ialah rabbani. Mereka ialah ulama yang mengajar.”"
         },
         {
           "type": "quote",
-          "text": "Kemudian Ibnu Taymiyyah menu tup perbicaraan dengan berkata: “Rabbaniyyiin ialah mereka yang ada kaitan dengan tarbiah.” <sup class=\"fn-ref\" data-fn-id=\"228\" title=\"Ibnu Taimiah, Majmuk al-Fatawa, Jilid 1, m.s. 63\">[228]</sup>"
+          "text": "Kemudian Ibnu Taimiyah menu tup perbicaraan dengan berkata: “Rabbaniyyiin ialah mereka yang ada kaitan dengan tarbiah.” <sup class=\"fn-ref\" data-fn-id=\"228\" title=\"Ibnu Taimiah, Majmuk al-Fatawa, Jilid 1, m.s. 63\">[228]</sup>"
         },
         {
           "type": "text",
@@ -7916,7 +7916,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Sensitif Markaz Qudwah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kedudukan pimpinan adalah 'Pusat Teladan' (*Markaz Qudwah*) yang sentiasa diperhatikan oleh anak buah dan masyarakat. Kesilapan kecil pimpinan boleh mencemarkan imej seluruh gerakan dakwah.  \n* **Aplikasi Fiqh Haraki:**  \n  Para pimpinan wajib melipatgandakan sifat warak, menjaga maruah (*muru'ah*), dan menjauhi perkara syubhah dalam urusan peribadi mahupun organisasi."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kedudukan pimpinan adalah 'Pusat Teladan' (*Markaz Qudwah*) yang sentiasa diperhatikan oleh anak buah dan masyarakat. Kesilapan kecil pimpinan boleh mencemarkan imej seluruh gerakan dakwah. \n* **Aplikasi Fiqh Haraki:** \n Para pimpinan wajib melipatgandakan sifat warak, menjaga maruah (*muru'ah*), dan menjauhi perkara syubhah dalam urusan peribadi mahupun organisasi."
         },
         {
           "type": "text",
@@ -7932,7 +7932,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Da'i   sebenar akan sentiasa bertam bah kehebatan imannya. Akan terus meningkat ketakwaannya kepada Allah.  Ia terus meningkat selama mana takwanya kepada Allah SWT dan tumpuan hatinya kepada dakwah meningkat sehingga ia dapat membunuh kelalaian orang yang memandangnya. Imam aI-Syafi'ie telah berkata:"
+          "text": "Da'i sebenar akan sentiasa bertam bah kehebatan imannya. Akan terus meningkat ketakwaannya kepada Allah. Ia terus meningkat selama mana takwanya kepada Allah SWT dan tumpuan hatinya kepada dakwah meningkat sehingga ia dapat membunuh kelalaian orang yang memandangnya. Imam aI-Syafi'ie telah berkata:"
         },
         {
           "type": "quote",
@@ -7948,7 +7948,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Alangkah indahnya kata-kata ini. Begitu juga seorang tabi'in, Shahru bin Hausyab: “Apabila seorang lelaki berbicara kepada satu kaum, maka sesungguhnya bicaranya itu berkesan di  hati kaum itu mengikut kedudukan kata itu dalam hatinya.”"
+          "text": "Alangkah indahnya kata-kata ini. Begitu juga seorang tabi'in, Shahru bin Hausyab: “Apabila seorang lelaki berbicara kepada satu kaum, maka sesungguhnya bicaranya itu berkesan di hati kaum itu mengikut kedudukan kata itu dalam hatinya.”"
         },
         {
           "type": "quote",
@@ -7964,15 +7964,15 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya sesiapa yang berinteraksi dengan da'i   maka dia adalah qudwah bagi mereka kerana dia boleh dilihat, kata-katanya didengari dan memang ada pengaruh dari kata-katanya itu. Jika ditambah pula dengan isyarat dari orang lain bahawa dia adalah murabbi, maka tidak syak lagi ini akan menambah kesannya dan akan lebih terbuka hati untuk menerima kata-kata dan nasihatnya. Jika ia disokong oleh perbuatannya, maka ini adalah sebaik- baik nasihat. Jika sekiranya sebalik (tidak diterjemahkan ke dalam kehidupan hariannya) maka bicaranya hanya akan menjadi kosong, sia-sia dan akan menjauhkan manusia daripadanya."
+          "text": "Sesungguhnya sesiapa yang berinteraksi dengan da'i maka dia adalah qudwah bagi mereka kerana dia boleh dilihat, kata-katanya didengari dan memang ada pengaruh dari kata-katanya itu. Jika ditambah pula dengan isyarat dari orang lain bahawa dia adalah murabbi, maka tidak syak lagi ini akan menambah kesannya dan akan lebih terbuka hati untuk menerima kata-kata dan nasihatnya. Jika ia disokong oleh perbuatannya, maka ini adalah sebaik- baik nasihat. Jika sekiranya sebalik (tidak diterjemahkan ke dalam kehidupan hariannya) maka bicaranya hanya akan menjadi kosong, sia-sia dan akan menjauhkan manusia daripadanya."
         },
         {
           "type": "quote",
-          "text": "“Sesungguhnya mana-mana nasihat jika tidak disampaikan dengan gaya bahasa yang hidup maka ia akan menjadi seolah-olah suatu kebatilan. Ia tidak dapat merubah jiwa kecuali jiwa yang memang ada kekuatan untuk berubah seperti jiwa para nabi dan orang-orang yang mengikut jalan kerohanian. Sesungguhnya perkara ini adalah masalah meletakkan cahaya pada kata-kata, bukan dibuat dengan analogi dan hujah.  Lelaki zuhud yang sebenar adalah sebuah kehidupan yang dipakaikan dengan hakikat agar ianya menjadi sesuatu dalam kehidupan dan amalan, bukan sesuatu dalam bicara dan sangkaan. Ilham orang yang zuhud panas seperti api di dalam api. Barangsiapa yang mendekatinya pasti akan merasainya."
+          "text": "“Sesungguhnya mana-mana nasihat jika tidak disampaikan dengan gaya bahasa yang hidup maka ia akan menjadi seolah-olah suatu kebatilan. Ia tidak dapat merubah jiwa kecuali jiwa yang memang ada kekuatan untuk berubah seperti jiwa para nabi dan orang-orang yang mengikut jalan kerohanian. Sesungguhnya perkara ini adalah masalah meletakkan cahaya pada kata-kata, bukan dibuat dengan analogi dan hujah. Lelaki zuhud yang sebenar adalah sebuah kehidupan yang dipakaikan dengan hakikat agar ianya menjadi sesuatu dalam kehidupan dan amalan, bukan sesuatu dalam bicara dan sangkaan. Ilham orang yang zuhud panas seperti api di dalam api. Barangsiapa yang mendekatinya pasti akan merasainya."
         },
         {
           "type": "text",
-          "text": "Demi Allah, berapa ramai ahli  fikah yang berkata kepada manusia: “Ini haram”, tetapi semakin banyak perkara haram dibuat oleh manusia. Ini kerana mereka berbicara seperti kitab-kitab berbicara, tidak menyambungkan hubungan jiwa dengan syariat. Ia kosong dari kekuatan yang menjadikannya roh yang berpaut padanya segala roh.  Kekuatan yang meletakkan dia di hadapan manusia pada satu kedudukan seolah-olah dia baru datang dari syurga dan akan kembali ke syurga tidak lama lagi."
+          "text": "Demi Allah, berapa ramai ahli fikah yang berkata kepada manusia: “Ini haram”, tetapi semakin banyak perkara haram dibuat oleh manusia. Ini kerana mereka berbicara seperti kitab-kitab berbicara, tidak menyambungkan hubungan jiwa dengan syariat. Ia kosong dari kekuatan yang menjadikannya roh yang berpaut padanya segala roh. Kekuatan yang meletakkan dia di hadapan manusia pada satu kedudukan seolah-olah dia baru datang dari syurga dan akan kembali ke syurga tidak lama lagi."
         },
         {
           "type": "text",
@@ -7980,12 +7980,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Secara ringkasnya: “Uswah atau tauladan itulah ilmu kehidupan.” <sup class=\"fn-ref\" data-fn-id=\"232\" title=\"Ibid, m.s. 111\">[232]</sup>  Dakwah kita adalah kehidupan. Menjadi contoh itulah satu-satunya ilmu dakwah dan seluruh ilmu dakwah adalah qudwah atau uswah yang benar dan baik."
+          "text": "Secara ringkasnya: “Uswah atau tauladan itulah ilmu kehidupan.” <sup class=\"fn-ref\" data-fn-id=\"232\" title=\"Ibid, m.s. 111\">[232]</sup> Dakwah kita adalah kehidupan. Menjadi contoh itulah satu-satunya ilmu dakwah dan seluruh ilmu dakwah adalah qudwah atau uswah yang benar dan baik."
         },
         {
           "type": "heading2",
           "text": "Ujilah Orang Yang Petah Lidahnya",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Kepetahan bercakap dan kepandaian berpidato sering kali memperdayakan. Gerakan Islam mesti menguji hakikat amal, kesetiaan ketika susah, dan kebersihan niat seseorang sebelum mempercayainya.  \n* **Aplikasi Fiqh Haraki:**  \n  Menilai kader melalui rekod perkhidmatan di medan yang sukar, bukan semata-mata populariti di atas pentas ceramah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Kepetahan bercakap dan kepandaian berpidato sering kali memperdayakan. Gerakan Islam mesti menguji hakikat amal, kesetiaan ketika susah, dan kebersihan niat seseorang sebelum mempercayainya. \n* **Aplikasi Fiqh Haraki:** \n Menilai kader melalui rekod perkhidmatan di medan yang sukar, bukan semata-mata populariti di atas pentas ceramah."
         },
         {
           "type": "text",
@@ -7997,11 +7997,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bahkan da'i   hendaklah berwaspada, takut dan berjaga-jaga terhadap mereka yang petah lidahnya, banyak bercakap dan mengada-ngada kerana biasanya banyak kemunafikan dan kelemahan dari golongan seperti ini. Da'i   hendaklah jangan cepat percaya mereka yang bersifat begini kecuali setelah mengetahui hakikatnya dengan menguji, memerhatinya dengan teliti dalam satu tempoh yang lama. ‘Tauthiq’ hendaklah dibuat setelah teruji dan melihat tanda-tanda iman dan dan kejujuran."
+          "text": "Bahkan da'i hendaklah berwaspada, takut dan berjaga-jaga terhadap mereka yang petah lidahnya, banyak bercakap dan mengada-ngada kerana biasanya banyak kemunafikan dan kelemahan dari golongan seperti ini. Da'i hendaklah jangan cepat percaya mereka yang bersifat begini kecuali setelah mengetahui hakikatnya dengan menguji, memerhatinya dengan teliti dalam satu tempoh yang lama. ‘Tauthiq’ hendaklah dibuat setelah teruji dan melihat tanda-tanda iman dan dan kejujuran."
         },
         {
           "type": "quote",
-          "text": "Da'i   ada contoh dalam hal ini dari para salaf. Amirul Mukminin Umar al-Khattab apabila beliau rasa bimbang terhadap al-Ahnaf bin Qais kerana al- Ahnaf merupakan ahli pidato yang mahir dan pintar. Lalu, Umar menahannya selama setahun di Madinah untuk diperhati dan diuji. Setelah itu barulah beliau berkata: “Wahai Ahnaf, sesungguhnya aku telah memerhati dan menguji engkau. Tidak ada apa yang kulihat kecuali kebaikan dan aku telah melihat zahirmu yang baik dan aku berharap supaya hatimu sama dengan zahirmu. Kami pernah mengatakan: “Tidak ada apa yang membinasakan umat itu kecuali orang munafik yang bijak.”"
+          "text": "Da'i ada contoh dalam hal ini dari para salaf. Amirul Mukminin Umar al-Khattab apabila beliau rasa bimbang terhadap al-Ahnaf bin Qais kerana al- Ahnaf merupakan ahli pidato yang mahir dan pintar. Lalu, Umar menahannya selama setahun di Madinah untuk diperhati dan diuji. Setelah itu barulah beliau berkata: “Wahai Ahnaf, sesungguhnya aku telah memerhati dan menguji engkau. Tidak ada apa yang kulihat kecuali kebaikan dan aku telah melihat zahirmu yang baik dan aku berharap supaya hatimu sama dengan zahirmu. Kami pernah mengatakan: “Tidak ada apa yang membinasakan umat itu kecuali orang munafik yang bijak.”"
         },
         {
           "type": "text",
@@ -8009,7 +8009,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Betapa ramainya anggota di sekitar dakwah yang wajib diuji oleh pemimpin dakwah. Da'i   sangat memerlukan ilmu seperti Umar al-Khattab ini. Betapa ramainya orang yang bercakap Islam dan anda lihat promosi tentangnya telah mengangkatnya begitu tinggi. Apabila anda bergaul dengannya, tiba-tiba anda dapati dia adalah seorang opoturnis, kosong hati dan roh."
+          "text": "Betapa ramainya anggota di sekitar dakwah yang wajib diuji oleh pemimpin dakwah. Da'i sangat memerlukan ilmu seperti Umar al-Khattab ini. Betapa ramainya orang yang bercakap Islam dan anda lihat promosi tentangnya telah mengangkatnya begitu tinggi. Apabila anda bergaul dengannya, tiba-tiba anda dapati dia adalah seorang opoturnis, kosong hati dan roh."
         },
         {
           "type": "text",
@@ -8033,12 +8033,12 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Demikianlah wasiat lama dari salafussoleh. Tetapi, manusia sering terlalai. Keinginan untuk segera sampai dan keinginan untuk meramaikan ahli itulah yang melalaikan da'i   hingga lupa ilmu yang dipusakai oleh salafussoleh."
+          "text": "Demikianlah wasiat lama dari salafussoleh. Tetapi, manusia sering terlalai. Keinginan untuk segera sampai dan keinginan untuk meramaikan ahli itulah yang melalaikan da'i hingga lupa ilmu yang dipusakai oleh salafussoleh."
         },
         {
           "type": "heading2",
           "text": "Bidaah pun Kelemahan Juga….",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Bidaah dalam perkara akidah dan ibadah bukan sahaja merosakkan pahala, tetapi merupakan virus kelemahan yang menghalang turunnya pertolongan Allah ke atas gerakan Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Memelihara ketulenan Sunnah dalam kurikulum tarbiah dan amalan jemaah; menentang sebarang unsur khurafat dan bidaah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Bidaah dalam perkara akidah dan ibadah bukan sahaja merosakkan pahala, tetapi merupakan virus kelemahan yang menghalang turunnya pertolongan Allah ke atas gerakan Islam. \n* **Aplikasi Fiqh Haraki:** \n Memelihara ketulenan Sunnah dalam kurikulum tarbiah dan amalan jemaah; menentang sebarang unsur khurafat dan bidaah."
         },
         {
           "type": "text",
@@ -8046,7 +8046,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Tetapi, ada golongan yang mendakwa mahu menyatukan umat ketika ini dan mengajak supaya memandang ringan masalah bidaah. Perkara ini diterima oleh sebahagian para da'i   dan menolak faktor bidaah sebagai salah satu ciri pemilihan. Ini sebenarnya suatu yang silap."
+          "text": "Tetapi, ada golongan yang mendakwa mahu menyatukan umat ketika ini dan mengajak supaya memandang ringan masalah bidaah. Perkara ini diterima oleh sebahagian para da'i dan menolak faktor bidaah sebagai salah satu ciri pemilihan. Ini sebenarnya suatu yang silap."
         },
         {
           "type": "text",
@@ -8087,7 +8087,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Sebahagian Daripada Fiqh Amal al-Fudhail",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Mengambil teladan piawaian emas Imam Fudhail bin 'Iyadh dalam mentafsirkan amal terbaik (*ahsanu 'amala*): iaitu amal yang paling ikhlas (*akhlisuhu*) dan paling menepati Sunnah (*aswabuhu*).  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan dua neraca ini (keikhlasan batin dan ketetapan syarak) sebagai kayu ukur menilai keberkesanan setiap projek dakwah."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Mengambil teladan piawaian emas Imam Fudhail bin 'Iyadh dalam mentafsirkan amal terbaik (*ahsanu 'amala*): iaitu amal yang paling ikhlas (*akhlisuhu*) dan paling menepati Sunnah (*aswabuhu*). \n* **Aplikasi Fiqh Haraki:** \n Menjadikan dua neraca ini (keikhlasan batin dan ketetapan syarak) sebagai kayu ukur menilai keberkesanan setiap projek dakwah."
         },
         {
           "type": "quote",
@@ -8104,7 +8104,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Peliharalah Nama Baik Islam",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Setiap da'i memikul panji nama baik Islam. Tingkah laku sumbang, mungkir janji, atau skandal kewangan seorang aktivis akan dijadikan peluru oleh musuh untuk memfitnah seluruh agama Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Ketelusan kewangan, akauntabiliti tadbir urus, dan pemantauan disiplin anggota secara tegas di semua peringkat organisasi."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Setiap da'i memikul panji nama baik Islam. Tingkah laku sumbang, mungkir janji, atau skandal kewangan seorang aktivis akan dijadikan peluru oleh musuh untuk memfitnah seluruh agama Islam. \n* **Aplikasi Fiqh Haraki:** \n Ketelusan kewangan, akauntabiliti tadbir urus, dan pemantauan disiplin anggota secara tegas di semua peringkat organisasi."
         },
         {
           "type": "text",
@@ -8120,11 +8120,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Da'i   sepatutnya bersikap lebih tasyaddud dari itu lagi. Sepatutnya orang thiqah menutup peluang dan kesempatan yang diambil oleh orang lemah dengan duduk bersama-sama dengannya supaya pada pandangan umum, apabila seorang yang thiqah itu duduk bersama-sama dengan seseorang, bermakna dia juga seorang da'i   yang thiqah. Sekiranya dia tidak thiqah tentulah individu yang thiqah itu tidak duduk bersamanya."
+          "text": "Da'i sepatutnya bersikap lebih tasyaddud dari itu lagi. Sepatutnya orang thiqah menutup peluang dan kesempatan yang diambil oleh orang lemah dengan duduk bersama-sama dengannya supaya pada pandangan umum, apabila seorang yang thiqah itu duduk bersama-sama dengan seseorang, bermakna dia juga seorang da'i yang thiqah. Sekiranya dia tidak thiqah tentulah individu yang thiqah itu tidak duduk bersamanya."
         },
         {
           "type": "text",
-          "text": "Ia seolah-olah sepertimana yang te lah diriwayatkan oleh al-Tarmizi dari Abu Musa al-Asy'ari r.a. katanya:"
+          "text": "Ia seolah-olah sepertimana yang te lah diriwayatkan oleh al-Tarmizi dari Abu Musa al-Asy'ari RA katanya:"
         },
         {
           "type": "quote",
@@ -8157,7 +8157,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Andalah Yusuf Yang Menakbir Mimpi Ini",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Panggilan menggetarkan jiwa daripada Sheikh Ar-Rasyid kepada para rijal harakah: umat sedang menanti pemimpin berjiwa Nabi Yusuf AS yang mampu mentafsirkan mimpi kebangkitan dan mengemudi umat keluar daripada krisis kemunduran menuju kejayaan tamadun.  \n* **Aplikasi Fiqh Haraki:**  \n  Menyahut panggilan sejarah dengan keyakinan, kepakaran teknokratik, dan ketahanan integriti menghadapi segala fitnah zaman."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Panggilan menggetarkan jiwa daripada Sheikh Ar-Rasyid kepada para rijal harakah: umat sedang menanti pemimpin berjiwa Nabi Yusuf AS yang mampu mentafsirkan mimpi kebangkitan dan mengemudi umat keluar daripada krisis kemunduran menuju kejayaan tamadun. \n* **Aplikasi Fiqh Haraki:** \n Menyahut panggilan sejarah dengan keyakinan, kepakaran teknokratik, dan ketahanan integriti menghadapi segala fitnah zaman."
         },
         {
           "type": "text",
@@ -8264,55 +8264,55 @@ window.ALMUNTALAQ_DATA = {
           "id": "c16_s0",
           "title": "Pengenalan: Fiqh Husnul Intiqa'",
           "summary_title": "Mukadimah Bab 16: Pemilihan Teliti Perisai Kejatuhan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kejatuhan sesebuah empayar atau gerakan bermula apabila orang yang tidak layak, lemah iman, atau bermasalah akhlak diangkat memegang amanah kepimpinan. Pemilihan yang teliti (*husnul intiqa'*) adalah benteng mutlak menyelamatkan saf daripada runtuh.  \n* **Aplikasi Fiqh Haraki:**  \n  Menetapkan kriteria penapisan keahlian dan perlantikan pimpinan yang ketat berasaskan integriti moral, kesetiaan syar'ie, dan kecekapan amal."
+          "summary": "* **Intipati & Pemahaman:** \n Kejatuhan sesebuah empayar atau gerakan bermula apabila orang yang tidak layak, lemah iman, atau bermasalah akhlak diangkat memegang amanah kepimpinan. Pemilihan yang teliti (*husnul intiqa'*) adalah benteng mutlak menyelamatkan saf daripada runtuh. \n* **Aplikasi Fiqh Haraki:** \n Menetapkan kriteria penapisan keahlian dan perlantikan pimpinan yang ketat berasaskan integriti moral, kesetiaan syar'ie, dan kecekapan amal."
         },
         {
           "id": "c16_s1",
           "title": "Menaikkan Individu Yang Thiqah Adalah Asas Penjagaan",
           "summary_title": "1. Rijal Thiqah Sebagai Tiang Keselamatan Saf",
-          "summary": "* **Intipati & Pemahaman:**  \n  Harakah Islamiyyah hanya boleh dipelihara keselamatannya jika setiap kedudukan penting diterajui oleh individu yang memiliki sifat thiqah: amanah, berwibawa, dan tidak boleh dibeli oleh musuh.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengamalkan meritokrasi syar'ie dalam pengurusan organisasi; menolak amalan kronisme, kekeluargaan, atau pengaruh kekayaan dalam perlantikan jawatan."
+          "summary": "* **Intipati & Pemahaman:** \n Harakah Islamiyyah hanya boleh dipelihara keselamatannya jika setiap kedudukan penting diterajui oleh individu yang memiliki sifat thiqah: amanah, berwibawa, dan tidak boleh dibeli oleh musuh. \n* **Aplikasi Fiqh Haraki:** \n Mengamalkan meritokrasi syar'ie dalam pengurusan organisasi; menolak amalan kronisme, kekeluargaan, atau pengaruh kekayaan dalam perlantikan jawatan."
         },
         {
           "id": "c16_s2",
           "title": "Tiada Pemisahan Antara Pengurusan dan Tarbiah",
           "summary_title": "2. Penyatuan Mutlak Pengurusan & Tarbiah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Gerakan Islam menolak pemisahan sekular antara kecekapan pengurusan (*idarah*) dengan kedalaman nilai tarbiah. Pengurus terbaik dalam dakwah adalah mereka yang paling bertaqwa dan menghayati adab Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Mesyuarat dan pengurusan pentadbiran tanzim mesti sentiasa dipayungi suasana zikir, keikhlasan, dan ukhuwah fillah."
+          "summary": "* **Intipati & Pemahaman:** \n Gerakan Islam menolak pemisahan sekular antara kecekapan pengurusan (*idarah*) dengan kedalaman nilai tarbiah. Pengurus terbaik dalam dakwah adalah mereka yang paling bertaqwa dan menghayati adab Islam. \n* **Aplikasi Fiqh Haraki:** \n Mesyuarat dan pengurusan pentadbiran tanzim mesti sentiasa dipayungi suasana zikir, keikhlasan, dan ukhuwah fillah."
         },
         {
           "id": "c16_s3",
           "title": "Sensitif Markaz Qudwah",
           "summary_title": "3. Sensitiviti Markaz Qudwah Kepimpinan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kedudukan pimpinan adalah 'Pusat Teladan' (*Markaz Qudwah*) yang sentiasa diperhatikan oleh anak buah dan masyarakat. Kesilapan kecil pimpinan boleh mencemarkan imej seluruh gerakan dakwah.  \n* **Aplikasi Fiqh Haraki:**  \n  Para pimpinan wajib melipatgandakan sifat warak, menjaga maruah (*muru'ah*), dan menjauhi perkara syubhah dalam urusan peribadi mahupun organisasi."
+          "summary": "* **Intipati & Pemahaman:** \n Kedudukan pimpinan adalah 'Pusat Teladan' (*Markaz Qudwah*) yang sentiasa diperhatikan oleh anak buah dan masyarakat. Kesilapan kecil pimpinan boleh mencemarkan imej seluruh gerakan dakwah. \n* **Aplikasi Fiqh Haraki:** \n Para pimpinan wajib melipatgandakan sifat warak, menjaga maruah (*muru'ah*), dan menjauhi perkara syubhah dalam urusan peribadi mahupun organisasi."
         },
         {
           "id": "c16_s4",
           "title": "Ujilah Orang Yang Petah Lidahnya",
           "summary_title": "4. Menguji Hakikat Amal, Bukan Kepetahan Pidato",
-          "summary": "* **Intipati & Pemahaman:**  \n  Kepetahan bercakap dan kepandaian berpidato sering kali memperdayakan. Gerakan Islam mesti menguji hakikat amal, kesetiaan ketika susah, dan kebersihan niat seseorang sebelum mempercayainya.  \n* **Aplikasi Fiqh Haraki:**  \n  Menilai kader melalui rekod perkhidmatan di medan yang sukar, bukan semata-mata populariti di atas pentas ceramah."
+          "summary": "* **Intipati & Pemahaman:** \n Kepetahan bercakap dan kepandaian berpidato sering kali memperdayakan. Gerakan Islam mesti menguji hakikat amal, kesetiaan ketika susah, dan kebersihan niat seseorang sebelum mempercayainya. \n* **Aplikasi Fiqh Haraki:** \n Menilai kader melalui rekod perkhidmatan di medan yang sukar, bukan semata-mata populariti di atas pentas ceramah."
         },
         {
           "id": "c16_s5",
           "title": "Bidaah pun Kelemahan Juga….",
           "summary_title": "5. Bidaah & Penyelewengan Fikrah Melemahkan Saf",
-          "summary": "* **Intipati & Pemahaman:**  \n  Bidaah dalam perkara akidah dan ibadah bukan sahaja merosakkan pahala, tetapi merupakan virus kelemahan yang menghalang turunnya pertolongan Allah ke atas gerakan Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Memelihara ketulenan Sunnah dalam kurikulum tarbiah dan amalan jemaah; menentang sebarang unsur khurafat dan bidaah."
+          "summary": "* **Intipati & Pemahaman:** \n Bidaah dalam perkara akidah dan ibadah bukan sahaja merosakkan pahala, tetapi merupakan virus kelemahan yang menghalang turunnya pertolongan Allah ke atas gerakan Islam. \n* **Aplikasi Fiqh Haraki:** \n Memelihara ketulenan Sunnah dalam kurikulum tarbiah dan amalan jemaah; menentang sebarang unsur khurafat dan bidaah."
         },
         {
           "id": "c16_s6",
           "title": "Sebahagian Daripada Fiqh Amal al-Fudhail",
           "summary_title": "6. Fiqh Amal Fudhail bin 'Iyadh: Ikhlas & Benar",
-          "summary": "* **Intipati & Pemahaman:**  \n  Mengambil teladan piawaian emas Imam Fudhail bin 'Iyadh dalam mentafsirkan amal terbaik (*ahsanu 'amala*): iaitu amal yang paling ikhlas (*akhlisuhu*) dan paling menepati Sunnah (*aswabuhu*).  \n* **Aplikasi Fiqh Haraki:**  \n  Menjadikan dua neraca ini (keikhlasan batin dan ketetapan syarak) sebagai kayu ukur menilai keberkesanan setiap projek dakwah."
+          "summary": "* **Intipati & Pemahaman:** \n Mengambil teladan piawaian emas Imam Fudhail bin 'Iyadh dalam mentafsirkan amal terbaik (*ahsanu 'amala*): iaitu amal yang paling ikhlas (*akhlisuhu*) dan paling menepati Sunnah (*aswabuhu*). \n* **Aplikasi Fiqh Haraki:** \n Menjadikan dua neraca ini (keikhlasan batin dan ketetapan syarak) sebagai kayu ukur menilai keberkesanan setiap projek dakwah."
         },
         {
           "id": "c16_s7",
           "title": "Peliharalah Nama Baik Islam",
           "summary_title": "7. Amanah Menjaga Nama Baik Risalah Islam",
-          "summary": "* **Intipati & Pemahaman:**  \n  Setiap da'i memikul panji nama baik Islam. Tingkah laku sumbang, mungkir janji, atau skandal kewangan seorang aktivis akan dijadikan peluru oleh musuh untuk memfitnah seluruh agama Islam.  \n* **Aplikasi Fiqh Haraki:**  \n  Ketelusan kewangan, akauntabiliti tadbir urus, dan pemantauan disiplin anggota secara tegas di semua peringkat organisasi."
+          "summary": "* **Intipati & Pemahaman:** \n Setiap da'i memikul panji nama baik Islam. Tingkah laku sumbang, mungkir janji, atau skandal kewangan seorang aktivis akan dijadikan peluru oleh musuh untuk memfitnah seluruh agama Islam. \n* **Aplikasi Fiqh Haraki:** \n Ketelusan kewangan, akauntabiliti tadbir urus, dan pemantauan disiplin anggota secara tegas di semua peringkat organisasi."
         },
         {
           "id": "c16_s8",
           "title": "Andalah Yusuf Yang Menakbir Mimpi Ini",
           "summary_title": "8. Andalah Yusuf Yang Mentafsir & Merealisasikan Impian Umat",
-          "summary": "* **Intipati & Pemahaman:**  \n  Panggilan menggetarkan jiwa daripada Sheikh Ar-Rasyid kepada para rijal harakah: umat sedang menanti pemimpin berjiwa Nabi Yusuf AS yang mampu mentafsirkan mimpi kebangkitan dan mengemudi umat keluar daripada krisis kemunduran menuju kejayaan tamadun.  \n* **Aplikasi Fiqh Haraki:**  \n  Menyahut panggilan sejarah dengan keyakinan, kepakaran teknokratik, dan ketahanan integriti menghadapi segala fitnah zaman."
+          "summary": "* **Intipati & Pemahaman:** \n Panggilan menggetarkan jiwa daripada Sheikh Ar-Rasyid kepada para rijal harakah: umat sedang menanti pemimpin berjiwa Nabi Yusuf AS yang mampu mentafsirkan mimpi kebangkitan dan mengemudi umat keluar daripada krisis kemunduran menuju kejayaan tamadun. \n* **Aplikasi Fiqh Haraki:** \n Menyahut panggilan sejarah dengan keyakinan, kepakaran teknokratik, dan ketahanan integriti menghadapi segala fitnah zaman."
         }
       ]
     },
@@ -8366,7 +8366,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Pertarungan Jiwa",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Pertarungan batin dalam diri pemimpin untuk menundukkan godaan statistik dan pujian manusia, demi memilih jalan sunyi membina kualiti jiwa kader yang memerlukan kesabaran berpanjangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Keikhlasan kepimpinan untuk tidak terburu-buru mengejar 'headline' media; bina kekuatan bata tanzim di bawah tanah dengan senyap dan kukuh."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Pertarungan batin dalam diri pemimpin untuk menundukkan godaan statistik dan pujian manusia, demi memilih jalan sunyi membina kualiti jiwa kader yang memerlukan kesabaran berpanjangan. \n* **Aplikasi Fiqh Haraki:** \n Keikhlasan kepimpinan untuk tidak terburu-buru mengejar 'headline' media; bina kekuatan bata tanzim di bawah tanah dengan senyap dan kukuh."
         },
         {
           "type": "text",
@@ -8407,7 +8407,7 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Semalam Kamu Telah Alpa Kerana Tamakkan Jumlah... Sekarang Berimbanglah!",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Peringatan al-Quran tentang peristiwa Perang Hunain: apabila umat Islam merasa takjub dengan jumlah tentera yang ramai, bilangan itu tidak memberi sebarang faedah dan bumi menjadi sempit bagi mereka sehinggalah mereka kembali bergantung kepada pertolongan Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengikis sifat ujub dengan kekuatan jentera atau keahlian; pergantungan mutlak hanyalah kepada nusrah dan inayah Allah SWT."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Peringatan al-Quran tentang peristiwa Perang Hunain: apabila umat Islam merasa takjub dengan jumlah tentera yang ramai, bilangan itu tidak memberi sebarang faedah dan bumi menjadi sempit bagi mereka sehinggalah mereka kembali bergantung kepada pertolongan Allah. \n* **Aplikasi Fiqh Haraki:** \n Mengikis sifat ujub dengan kekuatan jentera atau keahlian; pergantungan mutlak hanyalah kepada nusrah dan inayah Allah SWT."
         },
         {
           "type": "text",
@@ -8427,7 +8427,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sejarah harakah Islam tidak berapa lama dahulu telah dapat melihat pertambahan bilangan anggota yang tidak berkualiti telah menyukarkan dan menjejaskan prestasi harakah. Ini memaksa da'i   hari ini untuk mengambil pengajaran. Perkembangan yang seimbang adalah pesanan untuk hari esok."
+          "text": "Sejarah harakah Islam tidak berapa lama dahulu telah dapat melihat pertambahan bilangan anggota yang tidak berkualiti telah menyukarkan dan menjejaskan prestasi harakah. Ini memaksa da'i hari ini untuk mengambil pengajaran. Perkembangan yang seimbang adalah pesanan untuk hari esok."
         },
         {
           "type": "text",
@@ -8451,7 +8451,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Fiqh itu dipusakai oleh Syed Qutb Rahimahullah. Ini menyebabkan beliau gelisah menjelang hari kematiannya apabila melihat keadaan Sudan yang dilanda dengan demonstrasi umat Islam yang merebak dan meluas membanjiri jalan-jalan raya. Beliau pun memberi wasiat kepada para da'i   dari Sudan yang melawatnya. Beliau berkata kepada mereka:"
+          "text": "Fiqh itu dipusakai oleh Syed Qutb Rahimahullah. Ini menyebabkan beliau gelisah menjelang hari kematiannya apabila melihat keadaan Sudan yang dilanda dengan demonstrasi umat Islam yang merebak dan meluas membanjiri jalan-jalan raya. Beliau pun memberi wasiat kepada para da'i dari Sudan yang melawatnya. Beliau berkata kepada mereka:"
         },
         {
           "type": "quote",
@@ -8475,20 +8475,20 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh itu, pusingan-pusingan yang terpaksa dilakukan oleh da'i   ke tengah-tengah orang ramai untuk berdakwah, memberi tarbiah secara amali kepada mereka dan untuk menambah anasir baru untuk dakwah, ini semua akan akan menyebabkan dia kurang sensitif dengan maksiat di dalam hatinya. Ini kerana dia berada terlalu lama di tengah- tengah orang ramai dan banyaknya maksiat dalam kehidupan awam (mangsa keadaan). Oleh itu, da'i   berkenaan sepatutnya selalu berjumpa dengan masyarakat da'i   yang bersih untuk melihat kembali pemandangan iman yang berlainan dengan pemandangan maksiat di luar sana. Ia sentiasa berulang alik antara orang ramai dengan masyarakat khas yang akan menjernihkan hatinya yang telah dinodai oleh masyarakat am."
+          "text": "Oleh itu, pusingan-pusingan yang terpaksa dilakukan oleh da'i ke tengah-tengah orang ramai untuk berdakwah, memberi tarbiah secara amali kepada mereka dan untuk menambah anasir baru untuk dakwah, ini semua akan akan menyebabkan dia kurang sensitif dengan maksiat di dalam hatinya. Ini kerana dia berada terlalu lama di tengah- tengah orang ramai dan banyaknya maksiat dalam kehidupan awam (mangsa keadaan). Oleh itu, da'i berkenaan sepatutnya selalu berjumpa dengan masyarakat da'i yang bersih untuk melihat kembali pemandangan iman yang berlainan dengan pemandangan maksiat di luar sana. Ia sentiasa berulang alik antara orang ramai dengan masyarakat khas yang akan menjernihkan hatinya yang telah dinodai oleh masyarakat am."
         },
         {
           "type": "text",
-          "text": "Ini dengan sendirinya menuntut kita berusaha sungguh-sungguh membersihkan masyarakat khas ini supaya dia dapat melaksanakan peranannya tarbiahnya untuk setiap da'i   yang bekerja berpusing melingkari di tengah-tengah masyarakat apabila mereka kembali kepada masyarakat khas yang jernih dan bersih itu. Kejernihan ini tidak mungkin dihasilkan kecuali perkembangan yang seimbang dengan kemampuan usaha tarbiah. Perkembangan luas yang cepat itu akan memakan tenaga yang ada. Ia juga melemahkan hasil natijah akan datang (hasil yang tidak mantap)."
+          "text": "Ini dengan sendirinya menuntut kita berusaha sungguh-sungguh membersihkan masyarakat khas ini supaya dia dapat melaksanakan peranannya tarbiahnya untuk setiap da'i yang bekerja berpusing melingkari di tengah-tengah masyarakat apabila mereka kembali kepada masyarakat khas yang jernih dan bersih itu. Kejernihan ini tidak mungkin dihasilkan kecuali perkembangan yang seimbang dengan kemampuan usaha tarbiah. Perkembangan luas yang cepat itu akan memakan tenaga yang ada. Ia juga melemahkan hasil natijah akan datang (hasil yang tidak mantap)."
         },
         {
           "type": "heading2",
           "text": "Peranan Organisasi Dalam Penyempurnaan Tarbiah",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Struktur organisasi (*tanzim*) bukanlah berhala birokrasi, tetapi ia adalah madrasah tarbiah praktikal yang melatih rijal erti ketaatan, kepimpinan, merendah diri, pengorbanan, dan toleransi sesama saudara seakidah.  \n* **Aplikasi Fiqh Haraki:**  \n  Setiap jawatan dan tugasan dalam organisasi mesti dipandang sebagai amanah tarbawi untuk menyucikan jiwa dan mematangkan syakhsiah da'i."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Struktur organisasi (*tanzim*) bukanlah berhala birokrasi, tetapi ia adalah madrasah tarbiah praktikal yang melatih rijal erti ketaatan, kepimpinan, merendah diri, pengorbanan, dan toleransi sesama saudara seakidah. \n* **Aplikasi Fiqh Haraki:** \n Setiap jawatan dan tugasan dalam organisasi mesti dipandang sebagai amanah tarbawi untuk menyucikan jiwa dan mematangkan syakhsiah da'i."
         },
         {
           "type": "text",
-          "text": "Da'i   yang merdeka dan selalu merespon terhadap perkembangan dan keperluan harian Harakah Islam akan sentiasa dapat melihat Umar bin al- Khattab r.a. berdiri di depannya dan berdoa dengan doanya yang masyhur: “Wahai Tuhanku, aku berlindung kepadaMu dari kekentalan kerja orang jahat dan kelemahan orang yang baik.”"
+          "text": "Da'i yang merdeka dan selalu merespon terhadap perkembangan dan keperluan harian Harakah Islam akan sentiasa dapat melihat Umar bin al- Khattab RA berdiri di depannya dan berdoa dengan doanya yang masyhur: “Wahai Tuhanku, aku berlindung kepadaMu dari kekentalan kerja orang jahat dan kelemahan orang yang baik.”"
         },
         {
           "type": "text",
@@ -8516,11 +8516,11 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Keupayaan setiap da'i   untuk memiliki kedua-dua sifat ini dan keupayaan permasalahan Islam membuahkan kebaikan-kebaikan dari kedua-dua golongan tersebut, ia merupakan dua tugas asasi bagi tarbiah harakiah kita."
+          "text": "Keupayaan setiap da'i untuk memiliki kedua-dua sifat ini dan keupayaan permasalahan Islam membuahkan kebaikan-kebaikan dari kedua-dua golongan tersebut, ia merupakan dua tugas asasi bagi tarbiah harakiah kita."
         },
         {
           "type": "text",
-          "text": "Bagi yang pertama, orang yang beriman tetapi tidak bekerja atau orang yang ada kesedaran tetapi berhati keras: tarbiah Islam akan dapat menyempurnakan kekurangan masing-masing di bawah asuhan da'i   sebelum mereka."
+          "text": "Bagi yang pertama, orang yang beriman tetapi tidak bekerja atau orang yang ada kesedaran tetapi berhati keras: tarbiah Islam akan dapat menyempurnakan kekurangan masing-masing di bawah asuhan da'i sebelum mereka."
         },
         {
           "type": "text",
@@ -8529,15 +8529,15 @@ window.ALMUNTALAQ_DATA = {
         {
           "type": "heading2",
           "text": "Tiada Usaha Yang Sia-sia, Cuma Kejayaan Yang Lewat Tiba",
-          "sub_summary": "* **Intipati & Pemahaman:**  \n  Penutup agung kitab Al-Muntalaq: tiada secebis pun titisan keringat, air mata, mahupun darah pejuang dakwah yang akan sia-sia di sisi Allah. Jika kemenangan zahir belum tiba di zaman kita, ia hanyalah kejayaan yang sedang ditangguhkan untuk generasi seterusnya, manakala ganjaran pahala di akhirat telah terjamin sempurna.  \n* **Aplikasi Fiqh Haraki:**  \n  Meneruskan perjuangan dengan hati yang tenang, tenang dan optimis (*itmi'nan*); istiqamah di atas jalan dakwah hingga ajal menjemput untuk bertemu dengan Allah SWT dan Rasul-Nya."
+          "sub_summary": "* **Intipati & Pemahaman:** \n Penutup agung kitab Al-Muntalaq: tiada secebis pun titisan keringat, air mata, mahupun darah pejuang dakwah yang akan sia-sia di sisi Allah. Jika kemenangan zahir belum tiba di zaman kita, ia hanyalah kejayaan yang sedang ditangguhkan untuk generasi seterusnya, manakala ganjaran pahala di akhirat telah terjamin sempurna. \n* **Aplikasi Fiqh Haraki:** \n Meneruskan perjuangan dengan hati yang tenang, tenang dan optimis (*itmi'nan*); istiqamah di atas jalan dakwah hingga ajal menjemput untuk bertemu dengan Allah SWT dan Rasul-Nya."
         },
         {
           "type": "text",
-          "text": "Apabila kita bersungguh-sungguh menjelaskan betapa perlunya keseimbangan dalam perkembangan sedangkan kita telah lama berjalan, maka ini menyebabkan seolah-olah bumi ini sempit kepada da'i   bersemangat. Mereka berasa bahawa dakwah akan gagal sekiranya ia tidak berlumba-lumba meramaikan ahlinya."
+          "text": "Apabila kita bersungguh-sungguh menjelaskan betapa perlunya keseimbangan dalam perkembangan sedangkan kita telah lama berjalan, maka ini menyebabkan seolah-olah bumi ini sempit kepada da'i bersemangat. Mereka berasa bahawa dakwah akan gagal sekiranya ia tidak berlumba-lumba meramaikan ahlinya."
         },
         {
           "type": "text",
-          "text": "Kita tidak nafikan bahawa terdapat kesilapan lampau yang telah menghalang dakwah ini daripada berkembang di beberapa tempat di dunia Islam kerana wujudnya peluang yang luas dan suasana aman dan tersedia untuk menerima dakwah. Parti-parti politik yang sesat telah menggunakan kelembapan da'i   Islam lalu mereka pun menapak beberapa langkah lebih jauh ke depan. TETAPI, kesilapan tidak mungkin diperbaiki dengan melakukan kesilapan yang lain."
+          "text": "Kita tidak nafikan bahawa terdapat kesilapan lampau yang telah menghalang dakwah ini daripada berkembang di beberapa tempat di dunia Islam kerana wujudnya peluang yang luas dan suasana aman dan tersedia untuk menerima dakwah. Parti-parti politik yang sesat telah menggunakan kelembapan da'i Islam lalu mereka pun menapak beberapa langkah lebih jauh ke depan. TETAPI, kesilapan tidak mungkin diperbaiki dengan melakukan kesilapan yang lain."
         },
         {
           "type": "text",
@@ -8565,7 +8565,7 @@ window.ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Manusia adalah ramai. Hasil pengaruh dakwah dulu dan sekarang, sedang berlaku pertarungan antara iman dan jahiliah dalam jiwa mereka. Sekarang, pertarungan jiwa itu berlaku dengan hebatnya dalam diri, cuma tidak dapat dilihat. Persoalan yang berkocak di jiwa mereka ialah, adakah mereka akan beriman dan mengakui apa yang disebutkan oleh da'i   Islam kepada mereka ataupun mereka akan terus kekal dengan keadaan mereka? Golongan ini pasti menuju kepada keimanan apabila kebenaran terbentang jelas di hadapan. Mungkin ia melalui satu goncangan yang membuatkan mereka tersentak lalu membuka tabir yang menutup hati mereka sehingga cahaya iman memancar terus ke hati. Sama seperti Islam satu masa dahulu terjadi kepada sebahagian daripada sahabat-sahabat Rasulullah SWT. Contohnya sepertimana yang terjadi kepada Umar al-Khattab r.a. semasa melintasi bukit Safa lalu terdengar saudaranya membaca al-Quran, lalu dia memeluk Islam di situ juga. Atau sepertimana Hamzah bin Abdul Mutalib apabila beliau kembali dari perburuan, tiba-tiba mendengar komplot untuk membunuh Rasulullah SAW, dia terus beriman dan pecahlah belenggu jahiliah daripada dirinya."
+          "text": "Manusia adalah ramai. Hasil pengaruh dakwah dulu dan sekarang, sedang berlaku pertarungan antara iman dan jahiliah dalam jiwa mereka. Sekarang, pertarungan jiwa itu berlaku dengan hebatnya dalam diri, cuma tidak dapat dilihat. Persoalan yang berkocak di jiwa mereka ialah, adakah mereka akan beriman dan mengakui apa yang disebutkan oleh da'i Islam kepada mereka ataupun mereka akan terus kekal dengan keadaan mereka? Golongan ini pasti menuju kepada keimanan apabila kebenaran terbentang jelas di hadapan. Mungkin ia melalui satu goncangan yang membuatkan mereka tersentak lalu membuka tabir yang menutup hati mereka sehingga cahaya iman memancar terus ke hati. Sama seperti Islam satu masa dahulu terjadi kepada sebahagian daripada sahabat-sahabat Rasulullah SWT. Contohnya sepertimana yang terjadi kepada Umar al-Khattab RA semasa melintasi bukit Safa lalu terdengar saudaranya membaca al-Quran, lalu dia memeluk Islam di situ juga. Atau sepertimana Hamzah bin Abdul Mutalib apabila beliau kembali dari perburuan, tiba-tiba mendengar komplot untuk membunuh Rasulullah SAW, dia terus beriman dan pecahlah belenggu jahiliah daripada dirinya."
         },
         {
           "type": "text",
@@ -8604,31 +8604,31 @@ window.ALMUNTALAQ_DATA = {
           "id": "c17_s0",
           "title": "Pengenalan: Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti)",
           "summary_title": "Mukadimah Bab 17: Fokus Kualiti, Bukan Sekadar Kuantiti (At-Tarkiz)",
-          "summary": "* **Intipati & Pemahaman:**  \n  Bahaya penyakit mengejar kemegahan bilangan ramai (*at-takathur*) tanpa mempedulikan kualiti keimanan dan disiplin tanzimi. Kemenangan Islam tidak pernah ditentukan oleh ramainya jumlah, tetapi oleh kualiti ketaqwaan segelintir rijal yang fokus (*at-tarkiz*).  \n* **Aplikasi Fiqh Haraki:**  \n  Memberi tumpuan mendalam (*intensif*) kepada pembinaan kualiti kader teras; jangan tertipu dengan sorakan jutaan penonton yang belum tentu sedia berkorban."
+          "summary": "* **Intipati & Pemahaman:** \n Bahaya penyakit mengejar kemegahan bilangan ramai (*at-takathur*) tanpa mempedulikan kualiti keimanan dan disiplin tanzimi. Kemenangan Islam tidak pernah ditentukan oleh ramainya jumlah, tetapi oleh kualiti ketaqwaan segelintir rijal yang fokus (*at-tarkiz*). \n* **Aplikasi Fiqh Haraki:** \n Memberi tumpuan mendalam (*intensif*) kepada pembinaan kualiti kader teras; jangan tertipu dengan sorakan jutaan penonton yang belum tentu sedia berkorban."
         },
         {
           "id": "c17_s1",
           "title": "Pertarungan Jiwa",
           "summary_title": "1. Pertarungan Menundukkan Ego & Selerak Angka",
-          "summary": "* **Intipati & Pemahaman:**  \n  Pertarungan batin dalam diri pemimpin untuk menundukkan godaan statistik dan pujian manusia, demi memilih jalan sunyi membina kualiti jiwa kader yang memerlukan kesabaran berpanjangan.  \n* **Aplikasi Fiqh Haraki:**  \n  Keikhlasan kepimpinan untuk tidak terburu-buru mengejar 'headline' media; bina kekuatan bata tanzim di bawah tanah dengan senyap dan kukuh."
+          "summary": "* **Intipati & Pemahaman:** \n Pertarungan batin dalam diri pemimpin untuk menundukkan godaan statistik dan pujian manusia, demi memilih jalan sunyi membina kualiti jiwa kader yang memerlukan kesabaran berpanjangan. \n* **Aplikasi Fiqh Haraki:** \n Keikhlasan kepimpinan untuk tidak terburu-buru mengejar 'headline' media; bina kekuatan bata tanzim di bawah tanah dengan senyap dan kukuh."
         },
         {
           "id": "c17_s2",
           "title": "Semalam Kamu Telah Alpa Kerana Tamakkan Jumlah... Sekarang Berimbanglah!",
           "summary_title": "2. Iktibar Perang Hunain: Bilangan Ramai Tidak Menyelamatkan",
-          "summary": "* **Intipati & Pemahaman:**  \n  Peringatan al-Quran tentang peristiwa Perang Hunain: apabila umat Islam merasa takjub dengan jumlah tentera yang ramai, bilangan itu tidak memberi sebarang faedah dan bumi menjadi sempit bagi mereka sehinggalah mereka kembali bergantung kepada pertolongan Allah.  \n* **Aplikasi Fiqh Haraki:**  \n  Mengikis sifat ujub dengan kekuatan jentera atau keahlian; pergantungan mutlak hanyalah kepada nusrah dan inayah Allah SWT."
+          "summary": "* **Intipati & Pemahaman:** \n Peringatan al-Quran tentang peristiwa Perang Hunain: apabila umat Islam merasa takjub dengan jumlah tentera yang ramai, bilangan itu tidak memberi sebarang faedah dan bumi menjadi sempit bagi mereka sehinggalah mereka kembali bergantung kepada pertolongan Allah. \n* **Aplikasi Fiqh Haraki:** \n Mengikis sifat ujub dengan kekuatan jentera atau keahlian; pergantungan mutlak hanyalah kepada nusrah dan inayah Allah SWT."
         },
         {
           "id": "c17_s3",
           "title": "Peranan Organisasi Dalam Penyempurnaan Tarbiah",
           "summary_title": "3. Tanzim Sebagai Madrasah Tarbiah Amaliyyah",
-          "summary": "* **Intipati & Pemahaman:**  \n  Struktur organisasi (*tanzim*) bukanlah berhala birokrasi, tetapi ia adalah madrasah tarbiah praktikal yang melatih rijal erti ketaatan, kepimpinan, merendah diri, pengorbanan, dan toleransi sesama saudara seakidah.  \n* **Aplikasi Fiqh Haraki:**  \n  Setiap jawatan dan tugasan dalam organisasi mesti dipandang sebagai amanah tarbawi untuk menyucikan jiwa dan mematangkan syakhsiah da'i."
+          "summary": "* **Intipati & Pemahaman:** \n Struktur organisasi (*tanzim*) bukanlah berhala birokrasi, tetapi ia adalah madrasah tarbiah praktikal yang melatih rijal erti ketaatan, kepimpinan, merendah diri, pengorbanan, dan toleransi sesama saudara seakidah. \n* **Aplikasi Fiqh Haraki:** \n Setiap jawatan dan tugasan dalam organisasi mesti dipandang sebagai amanah tarbawi untuk menyucikan jiwa dan mematangkan syakhsiah da'i."
         },
         {
           "id": "c17_s4",
           "title": "Tiada Usaha Yang Sia-sia, Cuma Kejayaan Yang Lewat Tiba",
           "summary_title": "4. Ketenangan Hati: Tiada Usaha Yang Sia-sia",
-          "summary": "* **Intipati & Pemahaman:**  \n  Penutup agung kitab Al-Muntalaq: tiada secebis pun titisan keringat, air mata, mahupun darah pejuang dakwah yang akan sia-sia di sisi Allah. Jika kemenangan zahir belum tiba di zaman kita, ia hanyalah kejayaan yang sedang ditangguhkan untuk generasi seterusnya, manakala ganjaran pahala di akhirat telah terjamin sempurna.  \n* **Aplikasi Fiqh Haraki:**  \n  Meneruskan perjuangan dengan hati yang tenang, tenang dan optimis (*itmi'nan*); istiqamah di atas jalan dakwah hingga ajal menjemput untuk bertemu dengan Allah SWT dan Rasul-Nya."
+          "summary": "* **Intipati & Pemahaman:** \n Penutup agung kitab Al-Muntalaq: tiada secebis pun titisan keringat, air mata, mahupun darah pejuang dakwah yang akan sia-sia di sisi Allah. Jika kemenangan zahir belum tiba di zaman kita, ia hanyalah kejayaan yang sedang ditangguhkan untuk generasi seterusnya, manakala ganjaran pahala di akhirat telah terjamin sempurna. \n* **Aplikasi Fiqh Haraki:** \n Meneruskan perjuangan dengan hati yang tenang, tenang dan optimis (*itmi'nan*); istiqamah di atas jalan dakwah hingga ajal menjemput untuk bertemu dengan Allah SWT dan Rasul-Nya."
         }
       ]
     }

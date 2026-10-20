@@ -1,4 +1,4 @@
-window.ALMUNTALAQ_QUOTES = [
+var ALMUNTALAQ_QUOTES = [
   {
     "id": 1,
     "chapterIndex": 0,
@@ -1208,11 +1208,11 @@ window.ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "ch_title": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "subtopicTitle": "Mereka Menyeru Kepada Kebaikan Bersama Pengikut",
-    "speaker": "Imam Ibn Taimiyah",
+    "speaker": "Imam Ibnu Taimiyah",
     "quote": "Maslahat umat tidak akan dapat ditegakkan melainkan dengan adanya persepakatan dan tolong-menolong. Apa yang tidak sempurna suatu kewajipan melainkan dengannya, maka perkara itu turut menjadi wajib hukumnya.",
     "quote_ar": "ما لا يتم الواجب إلا به فهو واجب",
     "category": "ulama",
-    "fullText": "\"Maslahat umat tidak akan dapat ditegakkan melainkan dengan adanya persepakatan dan tolong-menolong. Apa yang tidak sempurna suatu kewajipan melainkan dengannya, maka perkara itu turut menjadi wajib hukumnya.\" — Imam Ibn Taimiyah (BAB 8: Mereka Menyeru Kepada Kebaikan Bersama Pengikut)"
+    "fullText": "\"Maslahat umat tidak akan dapat ditegakkan melainkan dengan adanya persepakatan dan tolong-menolong. Apa yang tidak sempurna suatu kewajipan melainkan dengannya, maka perkara itu turut menjadi wajib hukumnya.\" — Imam Ibnu Taimiyah (BAB 8: Mereka Menyeru Kepada Kebaikan Bersama Pengikut)"
   },
   {
     "id": 82,
