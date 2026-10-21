@@ -1,4 +1,4 @@
-var ALMUNTALAQ_DATA = {
+const ALMUNTALAQ_DATA = {
   "bookTitle": "AL-MUNTALAQ",
   "bookTitleMalay": "Al-Muntalaq: Titik Tolak Dakwah & Landasan Harakah Islamiyah",
   "author": "As-Syeikh Muhammad Ahmad Ar-Rasyid (الشيخ محمد أحمد الراشد رحمه الله)",
@@ -72,7 +72,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebaik-baik perkara ialah: Kata-kata lembut, yang terpancar dari lubuk jiwa yang dalam, meniti di bibir seorang yang penuh kesantunan). <sup class=\"fn-ref\" data-fn-id=\"1\" title=\"Tarikh al-Baghdad: 14/209\">[1]</sup>"
+          "text": "Sebaik-baik perkara ialah: Kata-kata lembut, yang terpancar dari lubuk jiwa yang dalam, meniti di bibir seorang yang penuh kesantunan). <sup class=\"fn-ref\" data-fn-id=\"1\" title=\"Al-Khatib al-Baghdadi, Tarikh Baghdad, jld. 14, hlm. 209.\">[1]</sup>"
         },
         {
           "type": "text",
@@ -92,7 +92,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kamu akan dapati kehebatan kata-kata berdasarkan kehebatan orang yang berkata, sebagaimana katanya, bahawa ia mahu menjadikan kata-katanya itu sebagai jalan kehidupan manusia dan cahaya yang menerangi kegelapan kehidupan. <sup class=\"fn-ref\" data-fn-id=\"2\" title=\"Al-Syawarid li 'al-Zam: 340\">[2]</sup>"
+          "text": "Kamu akan dapati kehebatan kata-kata berdasarkan kehebatan orang yang berkata, sebagaimana katanya, bahawa ia mahu menjadikan kata-katanya itu sebagai jalan kehidupan manusia dan cahaya yang menerangi kegelapan kehidupan. <sup class=\"fn-ref\" data-fn-id=\"2\" title=\"Dr. Abdul Wahhab 'Azzam, Al-Syawarid, hlm. 340.\">[2]</sup>"
         },
         {
           "type": "heading2",
@@ -101,7 +101,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Aku mendapati sesetengah buku tarbiah harakah Islamiah memisahkan antara prosa dan puisi tanpa alasan yang kukuh. Ini menjadikan para murabbi (pendidik) tidak dapat menggunakan beratus-ratus rangkap dan petikan puisi yang boleh melembutkan hati atau membangkitkan semangat atau puisi yang berkaitan dengan akidah dan fikrah yang merupakan hasil karya para pemuisi yang thiqah sama ada yang lama atau moden juga para pemuisi dakwah. Seseorang berkemungkinan ketika mendengar suatu pengertian, tetapi sedikitpun tidak menyentuh perasaannya, tetapi apabila digubah dalam bentuk rentak puisi tertentu ia akan menggembirakan orang yang gundah gelana, menggerakkan orang yang lalai dan mendekatkan cita-cita yang dulunya terasa jauh. <sup class=\"fn-ref\" data-fn-id=\"3\" title=\"Kharidah al-Qasr/Bahagian Iraq: 1/202\">[3]</sup>"
+          "text": "Aku mendapati sesetengah buku tarbiah harakah Islamiah memisahkan antara prosa dan puisi tanpa alasan yang kukuh. Ini menjadikan para murabbi (pendidik) tidak dapat menggunakan beratus-ratus rangkap dan petikan puisi yang boleh melembutkan hati atau membangkitkan semangat atau puisi yang berkaitan dengan akidah dan fikrah yang merupakan hasil karya para pemuisi yang thiqah sama ada yang lama atau moden juga para pemuisi dakwah. Seseorang berkemungkinan ketika mendengar suatu pengertian, tetapi sedikitpun tidak menyentuh perasaannya, tetapi apabila digubah dalam bentuk rentak puisi tertentu ia akan menggembirakan orang yang gundah gelana, menggerakkan orang yang lalai dan mendekatkan cita-cita yang dulunya terasa jauh. <sup class=\"fn-ref\" data-fn-id=\"3\" title=\"'Imaduddin al-Isfahani, Kharidat al-Qasr wa Jaridat al-'Asr (Qism Syu'ara' al-'Iraq), jld. 1, hlm. 202.\">[3]</sup>"
         },
         {
           "type": "text",
@@ -109,7 +109,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "(Rentak dalam percakapan seumpama melagukan suara: maksud daripadanya ialah untuk mewujudkan kegembiraan hati dan jiwa yang menyebabkan kegembiraan fikiran). <sup class=\"fn-ref\" data-fn-id=\"4\" title=\"Wahyu al-Qalam - ar Raafi'i: 3/285\">[4]</sup>"
+          "text": "(Rentak dalam percakapan seumpama melagukan suara: maksud daripadanya ialah untuk mewujudkan kegembiraan hati dan jiwa yang menyebabkan kegembiraan fikiran). <sup class=\"fn-ref\" data-fn-id=\"4\" title=\"Mustafa Sadiq ar-Rafi'i, Wahyu al-Qalam, jld. 3, hlm. 285.\">[4]</sup>"
         },
         {
           "type": "text",
@@ -117,7 +117,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bukti yang paling jelas tentang kepentingan puisi dalam menyebarkan akidah dan mempertahankannya, ialah peranan yang telah dimainkannya ketika membantu ahli-ahli bidaah untuk menyebarkan bidaah dalam kalangan masyarakat awam. Usaha-usaha ini dilakukan untuk menentang usaha-usaha Ibnu Taimiyah serta pengikut-pengikutnya ketika mereka berusaha membatalkan segala bidaah dengan hujah-hujah sunnah yang mulia. (Tidak dapat dinafikan bahawa hujah lojika yang dibawa oleh Ibnu Taimiyah telah memberikan kesannya, tetapi kekeringan lojika tidak dapat mengatasi kebasahan dan keindahan puisi sebagaimana yang dikatakan oleh penyair Islam Muhammad Iqbal. <sup class=\"fn-ref\" data-fn-id=\"5\" title=\"Kitaan Muhammad Iqbal - Abdul Wahhab Azzam: 52\">[5]</sup>"
+          "text": "Bukti yang paling jelas tentang kepentingan puisi dalam menyebarkan akidah dan mempertahankannya, ialah peranan yang telah dimainkannya ketika membantu ahli-ahli bidaah untuk menyebarkan bidaah dalam kalangan masyarakat awam. Usaha-usaha ini dilakukan untuk menentang usaha-usaha Ibnu Taimiyah serta pengikut-pengikutnya ketika mereka berusaha membatalkan segala bidaah dengan hujah-hujah sunnah yang mulia. (Tidak dapat dinafikan bahawa hujah lojika yang dibawa oleh Ibnu Taimiyah telah memberikan kesannya, tetapi kekeringan lojika tidak dapat mengatasi kebasahan dan keindahan puisi sebagaimana yang dikatakan oleh penyair Islam Muhammad Iqbal. <sup class=\"fn-ref\" data-fn-id=\"5\" title=\"Dr. Abdul Wahhab 'Azzam, Muhammad Iqbal: Siratuhu wa Falsafatuhu wa Syi'ruh, hlm. 52.\">[5]</sup>"
         },
         {
           "type": "text",
@@ -134,7 +134,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Imam Ahmad menjadi suri teladan kita dalam memanfaatkan bait puisi yang mampu melembutkan hati. Beliau menghafal sebahagian karya puisi yang kemudiannya dibukukan oleh Tha'lab, iaitu seorang sasterawan yang masyhur pada zamannya. Para murid beliau juga pernah mendengar beliau berpuisi, malah pada hari berlakunya mihnah (ujian keimanan), para penyair telah tampil memuji ketegasan beliau. Beliau bahkan diriwayatkan telah menitipkan beberapa rangkap puisi sebagai tanda kekecewaan terhadap Ali bin al-Madini, yang didapati tidak cekal bersamanya ketika menghadapi penyiksaan tersebut. <sup class=\"fn-ref\" data-fn-id=\"6\" title=\"Manaqib Ahmad – Ibnu al-Jauzi: 205\">[6]</sup>"
+          "text": "Imam Ahmad menjadi suri teladan kita dalam memanfaatkan bait puisi yang mampu melembutkan hati. Beliau menghafal sebahagian karya puisi yang kemudiannya dibukukan oleh Tha'lab, iaitu seorang sasterawan yang masyhur pada zamannya. Para murid beliau juga pernah mendengar beliau berpuisi, malah pada hari berlakunya mihnah (ujian keimanan), para penyair telah tampil memuji ketegasan beliau. Beliau bahkan diriwayatkan telah menitipkan beberapa rangkap puisi sebagai tanda kekecewaan terhadap Ali bin al-Madini, yang didapati tidak cekal bersamanya ketika menghadapi penyiksaan tersebut. <sup class=\"fn-ref\" data-fn-id=\"6\" title=\"Ibn al-Jauzi, Manaqib al-Imam Ahmad bin Hanbal, hlm. 205.\">[6]</sup>"
         },
         {
           "type": "text",
@@ -158,7 +158,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Lalu beliau berkata: Ulangi sekali lagi. Berkata muridnya: Lalu aku ulangi sekali lagi, lantas Imam Ahmad bangun dan memasuki rumahnya serta menutup pintu. Ketika itu aku mendengar suara tangisannya dari dalam rumah dan beliau mengulangi puisi tadi. <sup class=\"fn-ref\" data-fn-id=\"7\" title=\"Talbis al-Iblis – Ibnu al-Jauzi: 218\">[7]</sup>"
+          "text": "Lalu beliau berkata: Ulangi sekali lagi. Berkata muridnya: Lalu aku ulangi sekali lagi, lantas Imam Ahmad bangun dan memasuki rumahnya serta menutup pintu. Ketika itu aku mendengar suara tangisannya dari dalam rumah dan beliau mengulangi puisi tadi. <sup class=\"fn-ref\" data-fn-id=\"7\" title=\"Ibn al-Jauzi, Talbis Iblis, hlm. 218.\">[7]</sup>"
         },
         {
           "type": "text",
@@ -183,11 +183,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Majaz <sup class=\"fn-ref\" data-fn-id=\"8\" title=\"Majaz ialah lafaz yang digunakan bukan untuk maknanya yang sebenar kerana terdapat qarinah (penunjuk\">[8]</sup> , jinas <sup class=\"fn-ref\" data-fn-id=\"9\" title=\"Jinas ialah persamaan dua perkataan dari segi lafaz tetapi berlainan dari segi makna\">[9]</sup> dan tasybih <sup class=\"fn-ref\" data-fn-id=\"10\" title=\"Tasybih ialah keterangan yang menunjukkan bahawa dua perkara atau lebih, mempunyai kesamaan, samada \">[10]</sup> adalah seperti puisi. Seseorang yang mempunyai ransangan sastera mendapati bahawa ucapan yang bersemangat akan lebih berkesan jika dihiasi dengan ilmu-ilmu balaghah (ilmu bahasa dan sastera Arab) seperti yang disebutkan di atas. Oleh kerana itu aku memetik sebahagiannya dengan menjauhi daripada yang sukar."
+          "text": "Majaz <sup class=\"fn-ref\" data-fn-id=\"8\" title=\"Majaz: Lafaz yang digunakan bukan untuk maknanya yang hakiki kerana terdapat qarinah (petunjuk) yang menghalang daripada makna asal tersebut. (Pnt)\">[8]</sup> , jinas <sup class=\"fn-ref\" data-fn-id=\"9\" title=\"Jinas: Persamaan dua perkataan dari sudut sebutan/lafaz tetapi berlainan dari sudut makna. (Pnt)\">[9]</sup> dan tasybih <sup class=\"fn-ref\" data-fn-id=\"10\" title=\"Tasybih: Penerangan yang menunjukkan bahawa dua perkara atau lebih mempunyai persamaan pada satu sifat atau lebih. (Pnt)\">[10]</sup> adalah seperti puisi. Seseorang yang mempunyai ransangan sastera mendapati bahawa ucapan yang bersemangat akan lebih berkesan jika dihiasi dengan ilmu-ilmu balaghah (ilmu bahasa dan sastera Arab) seperti yang disebutkan di atas. Oleh kerana itu aku memetik sebahagiannya dengan menjauhi daripada yang sukar."
         },
         {
           "type": "text",
-          "text": "(Majaz, isti'arah <sup class=\"fn-ref\" data-fn-id=\"11\" title=\"Isti'arah ialah tasybih (perbandingan) yang dibuang salah satu rukunnya (sama ada musyabbah atau pun\">[11]</sup> , kinayah <sup class=\"fn-ref\" data-fn-id=\"12\" title=\"Kinayah ialah lafaz yang disebut tetapi yang dikehendaki daripadanya makna yang berkaitan dengannya,\">[12]</sup> dan seumpamanya daripada uslub balaghah, tidak dapat dielak oleh jiwa yang seni, kerana ia sentiasa mahupun sesuatu yang agung, indah dan halus. Mungkin orang yang tidak berjiwa seni menganggap bahawa ini merupakan suatu keberatan dan meletakkan sesuatu bukan pada tempatnya. Hasilnya segala yang dilakukan untuk tujuan itu adalah satu kerja kosong dan tidak berfaedah. Namun demikian, sifat kesenian yang ada pada jiwa penyair berpendapat bahawa ia menambahkan lagi pengertian yang memberikan kesan yang lebih terhadap jiwa dan perasaan. Oleh itu penambahan dalam bentuk perkataan, pengolahan lafaz dan pengulangan makna tidak lain dan tidak bukan hanya bertujuan untuk memberikan penambahan terhadap jiwa dan perasaan. <sup class=\"fn-ref\" data-fn-id=\"13\" title=\"Wahyu al-Qalam: 3/213\">[13]</sup>"
+          "text": "(Majaz, isti'arah <sup class=\"fn-ref\" data-fn-id=\"11\" title=\"Isti'arah: Tasybih (analogi/perbandingan) yang digugurkan salah satu daripada rukun utamanya (sama ada musyabbah atau musyabbah bihi). (Pnt)\">[11]</sup> , kinayah <sup class=\"fn-ref\" data-fn-id=\"12\" title=\"Kinayah: Lafaz yang diujarkan namun yang dimaksudkan ialah kelaziman maknanya, di samping masih membolehkan makna hakikinya difahami bersama. (Pnt)\">[12]</sup> dan seumpamanya daripada uslub balaghah, tidak dapat dielak oleh jiwa yang seni, kerana ia sentiasa mahupun sesuatu yang agung, indah dan halus. Mungkin orang yang tidak berjiwa seni menganggap bahawa ini merupakan suatu keberatan dan meletakkan sesuatu bukan pada tempatnya. Hasilnya segala yang dilakukan untuk tujuan itu adalah satu kerja kosong dan tidak berfaedah. Namun demikian, sifat kesenian yang ada pada jiwa penyair berpendapat bahawa ia menambahkan lagi pengertian yang memberikan kesan yang lebih terhadap jiwa dan perasaan. Oleh itu penambahan dalam bentuk perkataan, pengolahan lafaz dan pengulangan makna tidak lain dan tidak bukan hanya bertujuan untuk memberikan penambahan terhadap jiwa dan perasaan. <sup class=\"fn-ref\" data-fn-id=\"13\" title=\"Mustafa Sadiq ar-Rafi'i, Wahyu al-Qalam, jld. 3, hlm. 213.\">[13]</sup>"
         },
         {
           "type": "heading2",
@@ -206,55 +206,55 @@ var ALMUNTALAQ_DATA = {
       "footnotes": [
         {
           "id": 1,
-          "text": "Tarikh al-Baghdad: 14/209"
+          "text": "Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 14, hlm. 209."
         },
         {
           "id": 2,
-          "text": "Al-Syawarid li 'al-Zam: 340"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Al-Syawarid*, hlm. 340."
         },
         {
           "id": 3,
-          "text": "Kharidah al-Qasr/Bahagian Iraq: 1/202"
+          "text": "'Imaduddin al-Isfahani, *Kharidat al-Qasr wa Jaridat al-'Asr (Qism Syu'ara' al-'Iraq)*, jld. 1, hlm. 202."
         },
         {
           "id": 4,
-          "text": "Wahyu al-Qalam - ar Raafi'i: 3/285"
+          "text": "Mustafa Sadiq ar-Rafi'i, *Wahyu al-Qalam*, jld. 3, hlm. 285."
         },
         {
           "id": 5,
-          "text": "Kitaan Muhammad Iqbal - Abdul Wahhab Azzam: 52"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Muhammad Iqbal: Siratuhu wa Falsafatuhu wa Syi'ruh*, hlm. 52."
         },
         {
           "id": 6,
-          "text": "Manaqib Ahmad – Ibnu al-Jauzi: 205"
+          "text": "Ibn al-Jauzi, *Manaqib al-Imam Ahmad bin Hanbal*, hlm. 205."
         },
         {
           "id": 7,
-          "text": "Talbis al-Iblis – Ibnu al-Jauzi: 218"
+          "text": "Ibn al-Jauzi, *Talbis Iblis*, hlm. 218."
         },
         {
           "id": 8,
-          "text": "Majaz ialah lafaz yang digunakan bukan untuk maknanya yang sebenar kerana terdapat qarinah (penunjuk) yang menegah daripada maknanya yang sebenar"
+          "text": "Majaz: Lafaz yang digunakan bukan untuk maknanya yang hakiki kerana terdapat qarinah (petunjuk) yang menghalang daripada makna asal tersebut. (Pnt)"
         },
         {
           "id": 9,
-          "text": "Jinas ialah persamaan dua perkataan dari segi lafaz tetapi berlainan dari segi makna"
+          "text": "Jinas: Persamaan dua perkataan dari sudut sebutan/lafaz tetapi berlainan dari sudut makna. (Pnt)"
         },
         {
           "id": 10,
-          "text": "Tasybih ialah keterangan yang menunjukkan bahawa dua perkara atau lebih, mempunyai kesamaan, samada dalam satu sifat sahaja atau pun lebih"
+          "text": "Tasybih: Penerangan yang menunjukkan bahawa dua perkara atau lebih mempunyai persamaan pada satu sifat atau lebih. (Pnt)"
         },
         {
           "id": 11,
-          "text": "Isti'arah ialah tasybih (perbandingan) yang dibuang salah satu rukunnya (sama ada musyabbah atau pun musyabbahu bihi)"
+          "text": "Isti'arah: Tasybih (analogi/perbandingan) yang digugurkan salah satu daripada rukun utamanya (sama ada *musyabbah* atau *musyabbah bihi*). (Pnt)"
         },
         {
           "id": 12,
-          "text": "Kinayah ialah lafaz yang disebut tetapi yang dikehendaki daripadanya makna yang berkaitan dengannya, dan dalam waktu yang sama harus juga yang dikehendaki ialah maknanya yang asal"
+          "text": "Kinayah: Lafaz yang diujarkan namun yang dimaksudkan ialah kelaziman maknanya, di samping masih membolehkan makna hakikinya difahami bersama. (Pnt)"
         },
         {
           "id": 13,
-          "text": "Wahyu al-Qalam: 3/213"
+          "text": "Mustafa Sadiq ar-Rafi'i, *Wahyu al-Qalam*, jld. 3, hlm. 213."
         }
       ],
       "summary": "Berikut adalah ringkasan padat bagi Mukadimah (pendahuluan) buku \"Al-Muntalaq\" karya Sheikh Muhammad Ahmad Al-Rasyid.\n\nPendahuluan buku ini pada dasarnya bertujuan untuk melakar peta jalan (road map) tarbiah dan harakah (gerakan) bagi kerja Islam kontemporari, di samping menjelaskan matlamat utama penulisan kitab ini.\n\n1. Mendiagnosis Realiti Umat dan Gerakan Islam\n\nAl-Rasyid memulakan bicara dengan memberi isyarat bahawa umat Islam telah melalui fasa kebekuan dan kelemahan yang panjang. Gerakan Islam kontemporari muncul sebagai usaha untuk mentajdid (memurnikan semula) urusan agama ini. Bagaimanapun, gerakan ini mendepani cabaran serta hambatan dalaman dan luaran yang menuntut suatu persediaan yang khusus.\n\n2. Matlamat Penulisan Buku (Fiqh Dakwah)\n\nPenulis menjelaskan bahawa buku Al-Muntalaq (Titik Tolak) bukanlah sebuah buku feqah dalam kerangka tradisional (hukum-hakam ibadah dan muamalat). Sebaliknya, ia merupakan batu asas kepada \"Fiqh Dakwah dan Harakah\". Ia bertujuan membentuk corak pemikiran para da'i, membina jati diri rohani mereka, serta membekalkan kesedaran yang diperlukan untuk berinteraksi dengan realiti semasa.\n\n3. Bermula daripada Keaslian Syariat (Asalah)\n\nAl-Rasyid menegaskan bahawa sebarang titik tolak dakwah yang betul mestilah bersandar kepada al-Quran, al-Sunnah, dan kefahaman generasi Salafussoleh. Beliau menolak sebarang gerakan yang hanya dibina atas dasar emosi semata-mata atau idea-idea luar (import) yang tidak selari dengan identiti umat Islam.\n\n4. Integrasi antara Aspek Kerohanian dan Gerakan (Harakah)\n\nPendahuluan ini menekankan peri pentingnya mendamaikan antara penyucian jiwa (tazkiyah al-nafs seperti ibadah, zikir, kesucian hati) dengan kerja-kerja gerakan dan organisasi. Da'i yang sebenar ialah mereka yang menjadi \"ahli ibadah pada waktu malam, dan pejuang (berkarya) pada waktu siang\".\n\n5. Memberi Amaran Awal terhadap Penyakit Jalan Dakwah\n\nBahagian mukadimah ini bertindak sebagai amaran awal kepada para pejuang dakwah tentang ancaman serta penyakit yang boleh menimpa mereka di sepanjang jalan perjuangan—seperti sifat malas, terburu-buru, ujub (kagum dengan diri sendiri), atau tergelincir daripada landasan yang lurus. Beliau menyatakan bahawa bab-bab seterusnya dalam buku ini akan mengupas kaedah merawat penyakit-penyakit tersebut.\n\nKesimpulan Mukadimah:\nBuku ini dinamakan Al-Muntalaq kerana ia mahu menjadi titik mula yang ampuh dan berpijak di bumi nyata bagi setiap individu yang mahu menyerahkan dirinya untuk berkhidmat demi Islam, dengan berpaksikan ilmu yang sahih dan jiwa yang mantap.\n\n💎 Mutiara Kata-kata Tokoh & Salafussoleh (Nukilan Emas):\n\n• Sayyidina Mu'adz bin Jabal RA: Sentiasa mengajak sahabat-sahabatnya memperbaharui jiwa: « إِجْلِسْ بِنَا نُؤْمِنْ سَاعَةً » — “Mari kita duduk sebentar, kita beriman sejenak.”\n\n• Sayyidina Abdullah bin Rawahah RA: Mengajak Abu ad-Darda' RA: « تَعَالَ نُؤْمِنْ سَاعَةً، إِنَّ الْقَلْبَ أَسْرَعُ تَقَلُّبًا مِنَ الْقِدْرِ إِذَا اسْتَجْمَعَتْ غَلَيَانًا » — “Kemarilah, kita beriman sejenak! Sesungguhnya hati itu lebih cepat berbolak-balik daripada periuk yang sedang menggelegak mendidih.”\n\n• Sayyidina Ali bin Abi Talib RA & Pujangga Salaf: « أَحْسَنُ شَيْءٍ كَلَامٌ رَقِيقٌ يُسْتَخْرَجُ مِنْ بَحْرٍ عَمِيقٍ عَلَى لِسَانِ رَجُلٍ رَفِيقٍ » — “Perkataan yang paling indah adalah kata-kata lembut yang dikeluarkan dari lautan ilmu yang dalam melalui lisan pejuang yang santun lagi ramah.”\n\n• Syair Tarbawi Generasi Awal: « إِذَا مَا قَالَ لِي رَبِّي أَمَا اسْتَحْيَيْتَ تَعْصِينِي .. وَتُخْفِي الذَّنْبَ مِنْ خَلْقِي وَبِالْعِصْيَانِ تَأْتِينِي » — “Apabila Tuhanku bertanya kepadaku kelak: Tidakkah engkau malu bermaksiat kepada-Ku? Engkau sembunyikan dosa daripada makhluk-Ku, namun dengan penuh dosa engkau datang mengadap-Ku?”\n\n⚔️ Tambahan Fiqh Amal Haraki & Dimensi Tarbawi (Aplikasi Gerakan):\n\n➤ Tajdid al-Iman Berkala Sebagai Bahan Bakar Haraki: Aktiviti fizikal, mesyuarat, dan tugas organisasi yang padat boleh mengeringkan rohani pejuang. Pendakwah wajib memperuntukkan waktu berkala untuk berhenti seketika, bermuhasabah, dan memperbaharui keikhlasan niat agar gerak kerja tidak bertukar menjadi rutin mekanikal yang tandus keberkatan.\n\n➤ Keseimbangan Ilmu Mendalam & Lisan Santun: Kader dakwah mesti menggabungkan ketajaman kefahaman syariat (kedalaman lautan ilmu) dengan akhlak penyampaian yang lemah lembut dan memikat hati mad'u (lisan rafiq). Kekerasan lisan hanya menjauhkan masyarakat daripada risalah Islam.\n\n—————————————————————————————————————————————",
@@ -441,7 +441,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Perhatikanlah! Setiap ayat yang menyebut tentang hawa nafsu, ia mesti dicela dan pengikut hawa nafsu akan dikutuk. Diriwayatkan dari Ibnu Abbas bahawa beliau berkata: “Bila mana Allah menyebut perkataan nafsu ‘al-hawa’ di dalam al-Quran, pasti Dia mencelanya. Dari sini jelaslah maksud kenapa diturunkan syariat iaitu untuk mengeluarkan kita dari menjadi pengikut runtunan hawa nafsu. <sup class=\"fn-ref\" data-fn-id=\"14\" title=\"Al-Muwafaqat, Juzu’ 6, m.s. 121\">[14]</sup>"
+          "text": "Perhatikanlah! Setiap ayat yang menyebut tentang hawa nafsu, ia mesti dicela dan pengikut hawa nafsu akan dikutuk. Diriwayatkan dari Ibnu Abbas bahawa beliau berkata: “Bila mana Allah menyebut perkataan nafsu ‘al-hawa’ di dalam al-Quran, pasti Dia mencelanya. Dari sini jelaslah maksud kenapa diturunkan syariat iaitu untuk mengeluarkan kita dari menjadi pengikut runtunan hawa nafsu. <sup class=\"fn-ref\" data-fn-id=\"14\" title=\"Al-Imam asy-Syatibi, Al-Muwafaqat fi Usul asy-Syari'ah, jld. 2, hlm. 121.\">[14]</sup>"
         },
         {
           "type": "heading2",
@@ -466,11 +466,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Pilihlah, sama ada mahu menerima syariat Allah ataupun mengikut keinginan orang-orang yang jahil. Tiada andaian yang ketiga dan tidak ada jalan tengah antara syariat yang lurus dan hawa nafsu yang berubah-ubah. Sesiapa sahaja yang meninggalkan syariat Allah sebenarnya bertindak berhukumkan hawa nafsunya. Tiap-tiap sesuatu yang lain dari syariat Allah adalah hawa nafsu yang terperosok ke dalamnya orang yang jahil.” <sup class=\"fn-ref\" data-fn-id=\"15\" title=\"Fi Zilal Al-Quran, Juzu’ 25, m.s. 136\">[15]</sup>"
+          "text": "“Pilihlah, sama ada mahu menerima syariat Allah ataupun mengikut keinginan orang-orang yang jahil. Tiada andaian yang ketiga dan tidak ada jalan tengah antara syariat yang lurus dan hawa nafsu yang berubah-ubah. Sesiapa sahaja yang meninggalkan syariat Allah sebenarnya bertindak berhukumkan hawa nafsunya. Tiap-tiap sesuatu yang lain dari syariat Allah adalah hawa nafsu yang terperosok ke dalamnya orang yang jahil.” <sup class=\"fn-ref\" data-fn-id=\"15\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 5 (juzuk 25), hlm. 136.\">[15]</sup>"
         },
         {
           "type": "text",
-          "text": "Syariat hanyalah satu iaitu syariat Allah. Selain dari itu hanyalah hawa nafsu yang bersumberkan kejahilan. Pendokong dakwah wajib mengikuti syariat-syariat Allah sahaja dan meninggalkan segala keinginan-keinginan hawa nafsu. Mereka tidak boleh menyeleweng dari syariat dan tidak boleh cenderung kepada hawa nafsu walau sedikitpun. <sup class=\"fn-ref\" data-fn-id=\"16\" title=\"Ibid\">[16]</sup>"
+          "text": "Syariat hanyalah satu iaitu syariat Allah. Selain dari itu hanyalah hawa nafsu yang bersumberkan kejahilan. Pendokong dakwah wajib mengikuti syariat-syariat Allah sahaja dan meninggalkan segala keinginan-keinginan hawa nafsu. Mereka tidak boleh menyeleweng dari syariat dan tidak boleh cenderung kepada hawa nafsu walau sedikitpun. <sup class=\"fn-ref\" data-fn-id=\"16\" title=\"Ibid.\">[16]</sup>"
         },
         {
           "type": "text",
@@ -490,7 +490,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Tiada manhaj atau sistem alternatif bagi orang yang beriman untuk dipilih. Tiada jalan baginya untuk dicampuradukkan antara satu sama lain. Tidak sekali-kali. Sesiapa yang tidak masuk Islam secara keseluruhannya, tidak menyerahkan dirinya secara ikhlas kepada kepimpinan Allah dan syariat-Nya dan tidak membebaskan diri dari sebarang tasawwur, konsep, manhaj dan syariat yang lain, sesungguhnya dia telah mengikut jejak langkah dan melalui jalan syaitan.” <sup class=\"fn-ref\" data-fn-id=\"17\" title=\"Fi Zilal Al-Quran, Juzu’ 25, m.s. 136\">[17]</sup>"
+          "text": "Tiada manhaj atau sistem alternatif bagi orang yang beriman untuk dipilih. Tiada jalan baginya untuk dicampuradukkan antara satu sama lain. Tidak sekali-kali. Sesiapa yang tidak masuk Islam secara keseluruhannya, tidak menyerahkan dirinya secara ikhlas kepada kepimpinan Allah dan syariat-Nya dan tidak membebaskan diri dari sebarang tasawwur, konsep, manhaj dan syariat yang lain, sesungguhnya dia telah mengikut jejak langkah dan melalui jalan syaitan.” <sup class=\"fn-ref\" data-fn-id=\"17\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 5 (juzuk 25), hlm. 136.\">[17]</sup>"
         },
         {
           "type": "heading2",
@@ -515,7 +515,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Imam Ahmad membacanya berulang-ulang kali kemudian berkata: “Apakah dia fitnah? Fitnah adalah syirik. Apabila seseorang itu menolak sebahagian dan sabda Rasulullah SAW maka akan tercampaklah penyelewengan ke dalam hatinya dan penyelewengan itu akhirnya akan membinasakannya.” <sup class=\"fn-ref\" data-fn-id=\"18\" title=\"Ibnu Taimiah, Al-Sarim al-Maslul ‘ala Syatim al-Rasul, m.s. 56\">[18]</sup>"
+          "text": "Imam Ahmad membacanya berulang-ulang kali kemudian berkata: “Apakah dia fitnah? Fitnah adalah syirik. Apabila seseorang itu menolak sebahagian dan sabda Rasulullah SAW maka akan tercampaklah penyelewengan ke dalam hatinya dan penyelewengan itu akhirnya akan membinasakannya.” <sup class=\"fn-ref\" data-fn-id=\"18\" title=\"Syeikhul Islam Ibnu Taimiyah, Al-Sarim al-Maslul 'ala Syatim ar-Rasul, hlm. 56.\">[18]</sup>"
         },
         {
           "type": "heading2",
@@ -592,7 +592,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Begitu juga Allah mencela orang yang mengaku beriman dengan seluruh kandungan kitab-kitab Allah tetapi mereka tidak menghukum dengan menggunakan al-Quran dan al-Sunnah. Mereka rela berhukum menurut taghut yang diagungkan selain dari Allah. Demikian jugalah yang terjadi pada golongan yang mengaku Islam tetapi mereka menjalankan undang- undang mengikut pandangan ahli falsafah atau mereka memerintah menurut sistem politik bukan syariat Allah. Apabila diseru kepada mereka: “Marilah kembali kepada kitab Allah dan sunnah Rasul-Nya!”, mereka palingkan muka mereka dengan bersungguh-sungguh.” <sup class=\"fn-ref\" data-fn-id=\"19\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 12, m.s. 339\">[19]</sup>"
+          "text": "Begitu juga Allah mencela orang yang mengaku beriman dengan seluruh kandungan kitab-kitab Allah tetapi mereka tidak menghukum dengan menggunakan al-Quran dan al-Sunnah. Mereka rela berhukum menurut taghut yang diagungkan selain dari Allah. Demikian jugalah yang terjadi pada golongan yang mengaku Islam tetapi mereka menjalankan undang- undang mengikut pandangan ahli falsafah atau mereka memerintah menurut sistem politik bukan syariat Allah. Apabila diseru kepada mereka: “Marilah kembali kepada kitab Allah dan sunnah Rasul-Nya!”, mereka palingkan muka mereka dengan bersungguh-sungguh.” <sup class=\"fn-ref\" data-fn-id=\"19\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 12, hlm. 339.\">[19]</sup>"
         },
         {
           "type": "text",
@@ -617,7 +617,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Kemudian terdapat pula penyelewengan dan kesesatan yang lebih ringan dan lebih kecil daripada yang dinyatakan di atas. Ibnu Taimiyah telah berkata: “Ramai ahli salaf telah berkata: كفر دون كفر Ada satu kufur tidak sampai kepada kekufuran, satu nifaq yang tidak sampai kepada munafiq dan satu syirik tidak sampai kepada syirik.” <sup class=\"fn-ref\" data-fn-id=\"20\" title=\"Ibid, Juzu’ 11, m.s. 140\">[20]</sup>"
+          "text": "Kemudian terdapat pula penyelewengan dan kesesatan yang lebih ringan dan lebih kecil daripada yang dinyatakan di atas. Ibnu Taimiyah telah berkata: “Ramai ahli salaf telah berkata: كفر دون كفر Ada satu kufur tidak sampai kepada kekufuran, satu nifaq yang tidak sampai kepada munafiq dan satu syirik tidak sampai kepada syirik.” <sup class=\"fn-ref\" data-fn-id=\"20\" title=\"Ibid., jld. 11, hlm. 140.\">[20]</sup>"
         },
         {
           "type": "text",
@@ -633,7 +633,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Segala maksiat adalah urusan jahiliah dan pembuat maksiat tidak menjadi kafir dengan melakukannya kecuali maksiat syirik. Ini semua berdasarkan Rasulullah SAW bersabda: “Sesungguhnya engkau seorang yang ada padamu sisa-sisa jahiliah.” <sup class=\"fn-ref\" data-fn-id=\"21\" title=\"Sahih al-Bukhari, Juzu’ 1, m.s. 15\">[21]</sup>"
+          "text": "“Segala maksiat adalah urusan jahiliah dan pembuat maksiat tidak menjadi kafir dengan melakukannya kecuali maksiat syirik. Ini semua berdasarkan Rasulullah SAW bersabda: “Sesungguhnya engkau seorang yang ada padamu sisa-sisa jahiliah.” <sup class=\"fn-ref\" data-fn-id=\"21\" title=\"Al-Imam al-Bukhari, Sahih al-Bukhari, jld. 1, hlm. 15.\">[21]</sup>"
         },
         {
           "type": "text",
@@ -641,7 +641,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Inilah rahsianya mengapa Rasulullah SAW memberi amaran agar berhati-hati ketika mengkafirkan individu yang telah zahir keIslamannya, sebagaimana sabda baginda yang bermaksud: “Barangsiapa yang berkata kepada saudaranya: “Wahai si kafir!” Kembalilah kufur itu kepada salah seorang dari mereka. Jika benar, maka kafirlah orang yang dikatakan. Kalau tidak, kembalilah kufur itu kepadanya. <sup class=\"fn-ref\" data-fn-id=\"22\" title=\"Jika saudaranya bukan kafir, maka dialah yang menjadi kafir lantaran kata-katanya itu.\">[22]</sup> ” <sup class=\"fn-ref\" data-fn-id=\"23\" title=\"Sahih Muslim, Juzu’ 1, m.s. 57\">[23]</sup>"
+          "text": "Inilah rahsianya mengapa Rasulullah SAW memberi amaran agar berhati-hati ketika mengkafirkan individu yang telah zahir keIslamannya, sebagaimana sabda baginda yang bermaksud: “Barangsiapa yang berkata kepada saudaranya: “Wahai si kafir!” Kembalilah kufur itu kepada salah seorang dari mereka. Jika benar, maka kafirlah orang yang dikatakan. Kalau tidak, kembalilah kufur itu kepadanya. <sup class=\"fn-ref\" data-fn-id=\"22\" title=\"Maksudnya: Jika saudaranya itu tidak sedemikian (bukan kafir), maka tuduhan kufur itu kembali kepada dirinya sendiri. (Pnt)\">[22]</sup> ” <sup class=\"fn-ref\" data-fn-id=\"23\" title=\"Al-Imam Muslim, Sahih Muslim, jld. 1, hlm. 57.\">[23]</sup>"
         },
         {
           "type": "text",
@@ -681,7 +681,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Syirik ini tidaklah mengeluarkannya daripada Islam, tetapi dia telah melakukan dosa yang amat besar. Begitulah seterusnya” <sup class=\"fn-ref\" data-fn-id=\"24\" title=\"al-Sharh al-’Iraqi li al-Usul al-’Isyrin” (Penjelasan al-Iraqi Terhadap Dua Puluh Usul) hlm. 55\">[24]</sup>"
+          "text": "Syirik ini tidaklah mengeluarkannya daripada Islam, tetapi dia telah melakukan dosa yang amat besar. Begitulah seterusnya” <sup class=\"fn-ref\" data-fn-id=\"24\" title=\"Al-Syarh al-'Iraqi li al-Usul al-'Isyrin, hlm. 55.\">[24]</sup>"
         },
         {
           "type": "heading2",
@@ -702,7 +702,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Tatkala semangat umat Islam mula luntur, Allah SWT mengutuskan Umar bin Abdul Aziz—seorang pemimpin unik yang dikurniakan jiwa yang luhur demi menyelamatkan umat ini. Beliau melihat sekecil-kecil penyelewengan dan kelesuan daripada medan dakwah serta jihad sebagai isyarat awal berlakunya penyimpangan daripada kebenaran. Beliau memandang berat susutnya daya juang dalam kalangan umat jihad, lalu menitipkan rintihan hati dengan nada penuh dukacita:” Sesungguhnya aku sedang merawat satu urusan yang tiada sesiapa dapat membantunya melainkan Allah. Sesungguhnya di bawah lembah urusan ini, golongan tua telah menemui ajal, anak-anak kecil membesar menjadi dewasa, orang Ajam <sup class=\"fn-ref\" data-fn-id=\"25\" title=\"Selain dari bangsa Arab. (Pnt)\">[25]</sup> telah fasih berbahasa Arab dan Arab Badwi pula telah berhijrah, sehinggakan mereka menganggap perkara yang bukan agama sebagai agama. Mereka tidak melihat kebenaran selain daripada apa-apa yang mereka sangkakan itu.” <sup class=\"fn-ref\" data-fn-id=\"26\" title=\"Ibnu Abdul Hakim, Sirah Umar bin Abdul Aziz, m.s. 37\">[26]</sup>"
+          "text": "Tatkala semangat umat Islam mula luntur, Allah SWT mengutuskan Umar bin Abdul Aziz—seorang pemimpin unik yang dikurniakan jiwa yang luhur demi menyelamatkan umat ini. Beliau melihat sekecil-kecil penyelewengan dan kelesuan daripada medan dakwah serta jihad sebagai isyarat awal berlakunya penyimpangan daripada kebenaran. Beliau memandang berat susutnya daya juang dalam kalangan umat jihad, lalu menitipkan rintihan hati dengan nada penuh dukacita:” Sesungguhnya aku sedang merawat satu urusan yang tiada sesiapa dapat membantunya melainkan Allah. Sesungguhnya di bawah lembah urusan ini, golongan tua telah menemui ajal, anak-anak kecil membesar menjadi dewasa, orang Ajam <sup class=\"fn-ref\" data-fn-id=\"25\" title=\"A'jam (الأعاجم): Selain daripada bangsa Arab. (Pnt)\">[25]</sup> telah fasih berbahasa Arab dan Arab Badwi pula telah berhijrah, sehinggakan mereka menganggap perkara yang bukan agama sebagai agama. Mereka tidak melihat kebenaran selain daripada apa-apa yang mereka sangkakan itu.” <sup class=\"fn-ref\" data-fn-id=\"26\" title=\"Ibn Abdul Hakam, Sirat 'Umar bin Abdul Aziz, hlm. 37.\">[26]</sup>"
         },
         {
           "type": "text",
@@ -747,11 +747,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Inilah tafsir yang benar terhadap lembaran sejarah. Hakikatnya, hanya golongan fasik sahaja yang boleh diperdayakan oleh Firaun—sama ada Firaun versi lama mahupun moden. Orang yang benar-benar beriman kepada Allah tidak akan sesekali dapat diperdayakan oleh thagut, apatah lagi mahu tunduk kepada perintahnya. <sup class=\"fn-ref\" data-fn-id=\"27\" title=\"Fi Zilal al-Quran, Juzu’ 9, m.s. 45\">[27]</sup>"
+          "text": "Inilah tafsir yang benar terhadap lembaran sejarah. Hakikatnya, hanya golongan fasik sahaja yang boleh diperdayakan oleh Firaun—sama ada Firaun versi lama mahupun moden. Orang yang benar-benar beriman kepada Allah tidak akan sesekali dapat diperdayakan oleh thagut, apatah lagi mahu tunduk kepada perintahnya. <sup class=\"fn-ref\" data-fn-id=\"27\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 3 (juzuk 9), hlm. 45.\">[27]</sup>"
         },
         {
           "type": "text",
-          "text": "Atas dasar itulah, musuh Islam sangat memahami titik rentan atau titik penentu yang pernah diperkenalkan oleh Firaun tersebut. Mereka saling merancang dan merangka konspirasi untuk melakukan kerosakan serta mengubah masyarakat agar menjadi sampah masyarakat yang tenggelam dalam lumpur noda dan kejahatan. Rentetan itu, masyarakat akan sentiasa disibukkan dengan kepayahan demi mencari sesuap nasi. Akibatnya, mereka menjadi letih dan lesu akibat dihambakan oleh tuntutan perut serta nafsu seksual, sehingga tidak mempunyai masa lagi untuk mendengar nasihat, menerima petunjuk, atau kembali kepada agama. <sup class=\"fn-ref\" data-fn-id=\"28\" title=\"Ibid., m.s. 122\">[28]</sup>"
+          "text": "Atas dasar itulah, musuh Islam sangat memahami titik rentan atau titik penentu yang pernah diperkenalkan oleh Firaun tersebut. Mereka saling merancang dan merangka konspirasi untuk melakukan kerosakan serta mengubah masyarakat agar menjadi sampah masyarakat yang tenggelam dalam lumpur noda dan kejahatan. Rentetan itu, masyarakat akan sentiasa disibukkan dengan kepayahan demi mencari sesuap nasi. Akibatnya, mereka menjadi letih dan lesu akibat dihambakan oleh tuntutan perut serta nafsu seksual, sehingga tidak mempunyai masa lagi untuk mendengar nasihat, menerima petunjuk, atau kembali kepada agama. <sup class=\"fn-ref\" data-fn-id=\"28\" title=\"Ibid., hlm. 122.\">[28]</sup>"
         },
         {
           "type": "text",
@@ -763,7 +763,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Itulah kesenian yang merampas keanggunan lenggok pohon sarw, <sup class=\"fn-ref\" data-fn-id=\"29\" title=\"Sarw: Sejenis pokok bunga untuk perhiasan di taman bunga dan di kubur yang ditanam untuk melindungi \">[29]</sup>"
+          "text": "“Itulah kesenian yang merampas keanggunan lenggok pohon sarw, <sup class=\"fn-ref\" data-fn-id=\"29\" title=\"Sarw (السرو): Sejenis pohon cemara/malar hijau yang ditanam sebagai perhiasan dan pelindung tanaman lain. (Pnt)\">[29]</sup>"
         },
         {
           "type": "text",
@@ -783,7 +783,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Serta memadamkan obor marak kita, hanya dengan hembusan nafasnya.” <sup class=\"fn-ref\" data-fn-id=\"30\" title=\"Abdul Wahab Azzam, Buku Muhammad Iqbal, m.s. 162\">[30]</sup>"
+          "text": "Serta memadamkan obor marak kita, hanya dengan hembusan nafasnya.” <sup class=\"fn-ref\" data-fn-id=\"30\" title=\"Dr. Abdul Wahhab 'Azzam, Muhammad Iqbal: Siratuhu wa Falsafatuhu wa Syi'ruh, hlm. 162.\">[30]</sup>"
         },
         {
           "type": "text",
@@ -803,7 +803,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh itu, golongan taghut yang zalim sengaja menerapkan kehinaan kepada orang ramai melalui pendidikan yang hina dan asuhan agar tidak segan silu tanpa tatasusila. Mereka membentuk para belia dengan pelbagai taktik dan strategi yang bertujuan untuk mematikan hemah yang mulia dan memadamkan semangat juang agar kekuasaan sentiasa berada di tangan mereka yang zalim itu.” <sup class=\"fn-ref\" data-fn-id=\"31\" title=\"Abdul Wahab Azzam, Al-Shawarid, m.s. 318\">[31]</sup>"
+          "text": "Oleh itu, golongan taghut yang zalim sengaja menerapkan kehinaan kepada orang ramai melalui pendidikan yang hina dan asuhan agar tidak segan silu tanpa tatasusila. Mereka membentuk para belia dengan pelbagai taktik dan strategi yang bertujuan untuk mematikan hemah yang mulia dan memadamkan semangat juang agar kekuasaan sentiasa berada di tangan mereka yang zalim itu.” <sup class=\"fn-ref\" data-fn-id=\"31\" title=\"Dr. Abdul Wahhab 'Azzam, Al-Syawarid, hlm. 318.\">[31]</sup>"
         },
         {
           "type": "heading2",
@@ -844,7 +844,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dan seluruh ajaran mereka hanyalah penipuan para cendekiawan. <sup class=\"fn-ref\" data-fn-id=\"32\" title=\"Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 102\">[32]</sup>"
+          "text": "Dan seluruh ajaran mereka hanyalah penipuan para cendekiawan. <sup class=\"fn-ref\" data-fn-id=\"32\" title=\"Dr. Muhammad Iqbal, Diwan Zarb-i-Kalim, hlm. 102.\">[32]</sup>"
         },
         {
           "type": "text",
@@ -913,7 +913,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "sombong tatkala mendapat sesuatu dari nikmat dan kekuatan.” <sup class=\"fn-ref\" data-fn-id=\"33\" title=\"Al-Zilal, Juzu’ 1, m.s. 90\">[33]</sup>"
+          "text": "sombong tatkala mendapat sesuatu dari nikmat dan kekuatan.” <sup class=\"fn-ref\" data-fn-id=\"33\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 1, hlm. 90.\">[33]</sup>"
         },
         {
           "type": "text",
@@ -956,83 +956,83 @@ var ALMUNTALAQ_DATA = {
       "footnotes": [
         {
           "id": 14,
-          "text": "Al-Muwafaqat, Juzu’ 6, m.s. 121"
+          "text": "Al-Imam asy-Syatibi, *Al-Muwafaqat fi Usul asy-Syari'ah*, jld. 2, hlm. 121."
         },
         {
           "id": 15,
-          "text": "Fi Zilal Al-Quran, Juzu’ 25, m.s. 136"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 5 (juzuk 25), hlm. 136."
         },
         {
           "id": 16,
-          "text": "Ibid"
+          "text": "Ibid."
         },
         {
           "id": 17,
-          "text": "Fi Zilal Al-Quran, Juzu’ 25, m.s. 136"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 5 (juzuk 25), hlm. 136."
         },
         {
           "id": 18,
-          "text": "Ibnu Taimiah, Al-Sarim al-Maslul ‘ala Syatim al-Rasul, m.s. 56"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Al-Sarim al-Maslul 'ala Syatim ar-Rasul*, hlm. 56."
         },
         {
           "id": 19,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 12, m.s. 339"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 12, hlm. 339."
         },
         {
           "id": 20,
-          "text": "Ibid, Juzu’ 11, m.s. 140"
+          "text": "Ibid., jld. 11, hlm. 140."
         },
         {
           "id": 21,
-          "text": "Sahih al-Bukhari, Juzu’ 1, m.s. 15"
+          "text": "Al-Imam al-Bukhari, *Sahih al-Bukhari*, jld. 1, hlm. 15."
         },
         {
           "id": 22,
-          "text": "Jika saudaranya bukan kafir, maka dialah yang menjadi kafir lantaran kata-katanya itu."
+          "text": "Maksudnya: Jika saudaranya itu tidak sedemikian (bukan kafir), maka tuduhan kufur itu kembali kepada dirinya sendiri. (Pnt)"
         },
         {
           "id": 23,
-          "text": "Sahih Muslim, Juzu’ 1, m.s. 57"
+          "text": "Al-Imam Muslim, *Sahih Muslim*, jld. 1, hlm. 57."
         },
         {
           "id": 24,
-          "text": "al-Sharh al-’Iraqi li al-Usul al-’Isyrin” (Penjelasan al-Iraqi Terhadap Dua Puluh Usul) hlm. 55"
+          "text": "*Al-Syarh al-'Iraqi li al-Usul al-'Isyrin*, hlm. 55."
         },
         {
           "id": 25,
-          "text": "Selain dari bangsa Arab. (Pnt)"
+          "text": "A'jam (الأعاجم): Selain daripada bangsa Arab. (Pnt)"
         },
         {
           "id": 26,
-          "text": "Ibnu Abdul Hakim, Sirah Umar bin Abdul Aziz, m.s. 37"
+          "text": "Ibn Abdul Hakam, *Sirat 'Umar bin Abdul Aziz*, hlm. 37."
         },
         {
           "id": 27,
-          "text": "Fi Zilal al-Quran, Juzu’ 9, m.s. 45"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 3 (juzuk 9), hlm. 45."
         },
         {
           "id": 28,
-          "text": "Ibid., m.s. 122"
+          "text": "Ibid., hlm. 122."
         },
         {
           "id": 29,
-          "text": "Sarw: Sejenis pokok bunga untuk perhiasan di taman bunga dan di kubur yang ditanam untuk melindungi pokok-pokok lain. Pnt)"
+          "text": "Sarw (السرو): Sejenis pohon cemara/malar hijau yang ditanam sebagai perhiasan dan pelindung tanaman lain. (Pnt)"
         },
         {
           "id": 30,
-          "text": "Abdul Wahab Azzam, Buku Muhammad Iqbal, m.s. 162"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Muhammad Iqbal: Siratuhu wa Falsafatuhu wa Syi'ruh*, hlm. 162."
         },
         {
           "id": 31,
-          "text": "Abdul Wahab Azzam, Al-Shawarid, m.s. 318"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Al-Syawarid*, hlm. 318."
         },
         {
           "id": 32,
-          "text": "Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 102"
+          "text": "Dr. Muhammad Iqbal, *Diwan Zarb-i-Kalim*, hlm. 102."
         },
         {
           "id": 33,
-          "text": "Al-Zilal, Juzu’ 1, m.s. 90"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 1, hlm. 90."
         }
       ],
       "summary": "📌 Ringkasan Bab Pertama: \"Kita Menolak Hawa Nafsu\"\n\nDalam bab pembukaan ini, Al-Rasyid meletakkan batu asas yang paling kritikal dalam pembentukan peribadi seorang da'i (pendakwah), iaitu pembersihan niat daripada dorongan hawa nafsu demi memastikan kelangsungan dan keberkatan gerak kerja dakwah.\n\n1. Hawa Nafsu sebagai Penghalang Utama Kebenaran\n\nAl-Rasyid menegaskan bahawa hawa nafsu (al-hawa) adalah musuh dalam selimut yang paling berbahaya bagi seorang pejuang Islam. Apabila seseorang tunduk kepada kehendak diri, emosi, atau kepentingan peribadi, mata hatinya akan menjadi buta daripada melihat, menerima, dan tunduk kepada kebenaran (al-haq).\n\n2. Kaitan Rapat antara Hawa Nafsu dan Kejahilan\n\nPenulis menjelaskan bahawa jalan dakwah sering kali tergelincir disebabkan oleh dua perkara: kejahilan tentang syariat atau mengikut hawa nafsu. Kejahilan boleh dirawat dengan ilmu, tetapi mengikut hawa nafsu tetap akan membawa kebinasaan walaupun pelakunya merupakan seorang yang berilmu.\n\n3. Manifestasi (Zahiran) Hawa Nafsu yang Tersembunyi dalam Dakwah\n\nHawa nafsu tidak semestinya muncul dalam bentuk maksiat fizikal. Dalam konteks gerakan Islam, Al-Rasyid memberi amaran tentang bahaya hawa nafsu yang berwajah \"islamik\" atau terselubung, seperti:\n\nAsabiyyah/Taasub Kepuakan: Taksub yang melampau kepada kumpulan, tanzim, atau tokoh tertentu sehingga menolak kebenaran yang ada pada pihak lain.\n\nHubbud-Duhur (Gila Glamor): Keinginan tersembunyi untuk menonjolkan diri, gila pangkat, mahukan pujian, atau merasa diri lebih hebat daripada orang lain.\n\nCepat Melenting: Marah atau berkecil hati bukan kerana agama Allah dihina, tetapi kerana ego peribadi atau pandangan sendiri tidak diterima dalam mesyuarat.\n\n4. Penawar: At-Tajarrod (Pengabdian Total) dan Taslim\n\nPenyelesaian tunggal untuk membentengi diri daripada penyakit ini adalah dengan mencapai tahap At-Tajarrod—iaitu mengosongkan jiwa daripada segala kepentingan duniawi dan menyerahkan kepatuhan mutlak (Taslim) kepada dalil-dalil syarak (al-Quran dan al-Sunnah). Seseorang da'i mesti bergerak kerana arahan syariat, bukannya mengikut selera atau emosi sendiri.\n\nKesimpulan Bab:\nMesej utama bab ini ialah kemenangan dakwah tidak akan tercapai melalui jiwa-jiwa yang dicemari ego dan kepentingan peribadi. Langkah pertama yang paling utama untuk memulakan langkah (Al-Muntalaq) dalam medan perjuangan adalah dengan mengisytiharkan perang dan penolakan secara total terhadap tuntutan hawa nafsu.\n\n💎 Mutiara Kata-kata Tokoh & Salafussoleh (Nukilan Emas):\n\n• Maimun bin Mahran: “Jauhkanlah dirimu dari sebarang hawa nafsu yang bukan bernama Islam.”\n\n• Syeikhul Islam Ibnu Taimiyah: Menegaskan bahawa sesiapa yang menolak panduan syariat kerana menuruti selera nafsu, adat resam yang rosak, atau tekanan masyarakat, hakikatnya dia telah mengambil hawa nafsu sebagai sembahan selain Allah.\n\n• Imam Asy-Syatibi (Al-I'tisham): “Sesungguhnya syariat itu diturunkan semata-mata untuk mengeluarkan mukallaf daripada dorongan hawa nafsunya, agar dia menjadi hamba Allah secara sukarela dan penuh kepatuhan.”\n\n• Ustaz Syed Qutb & As-Syeikh Muhammad Abduh: Pertembungan di muka bumi pada hakikatnya hanyalah pertembungan dwikutub: antara Syariat Rabbaniyyah yang membebaskan manusia, berlawanan dengan hukum hawa nafsu jahiliah yang memperhambakan manusia.\n\n⚔️ Tambahan Fiqh Amal Haraki & Dimensi Tarbawi (Aplikasi Gerakan):\n\n➤ Penolakan 'Kompromi Jahiliah': Tiada kompromi atau jalan tengah palsu di antara wahyu syariat dan hawa nafsu. Pendukung gerakan Islam tidak boleh mencairkan prinsip akidah semata-mata untuk meraih undi, sokongan massa, atau keredaan pemerintah sekular.\n\n➤ Pembersihan Hawa Nafsu Berwajah 'Islamik': Hawa nafsu paling berbahaya dalam gerakan adalah yang berselindung di sebalik slogan dakwah: sifat taksub kepartian ('asabiyyah), gila publisiti dan jawatan (hubb az-zuhur), serta mempertahankan ego peribadi dalam mesyuarat jemaah.\n\n➤ Kewaspadaan Fiqh Tanpa Terjebak Takfir: Ketegasan menolak undang-undang hawa nafsu wajib diiringi dengan disiplin ilmu usul fiqh; kita menentang kemungkaran dengan tegas tanpa bersikap gopoh mengkafirkan orang Islam tanpa bukti yang qath'i.\n\n—————————————————————————————————————————————",
@@ -1139,7 +1139,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "hampir-hampir menggoncangkan daku dari cita-cita dan perjuanganku. <sup class=\"fn-ref\" data-fn-id=\"34\" title=\"Al-Amiri, Diwan Ma'a Allah, m.s. 110\">[34]</sup>"
+          "text": "hampir-hampir menggoncangkan daku dari cita-cita dan perjuanganku. <sup class=\"fn-ref\" data-fn-id=\"34\" title=\"Umar Baha'uddin al-Amiri, Diwan Ma'allah, hlm. 110.\">[34]</sup>"
         },
         {
           "type": "text",
@@ -1159,7 +1159,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "yang dipenuhi jiwa-jiwa hamba yang seronok diperhambakan... <sup class=\"fn-ref\" data-fn-id=\"35\" title=\"Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 14\">[35]</sup>"
+          "text": "yang dipenuhi jiwa-jiwa hamba yang seronok diperhambakan... <sup class=\"fn-ref\" data-fn-id=\"35\" title=\"Dr. Muhammad Iqbal, Diwan Zarb-i-Kalim, hlm. 14.\">[35]</sup>"
         },
         {
           "type": "text",
@@ -1171,7 +1171,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Walau bagaimana dahsyatnya kerosakan, seorang da'i tidak boleh meninggalkan tugasnya untuk menyelamatkan manusia. <sup class=\"fn-ref\" data-fn-id=\"36\" title=\"Dari cara hidup jahiliah kepada cara hidup Islam, mengeluarkan mereka dari kesesatan kepada hidayah\">[36]</sup> Segala kesangsian dan putus asa dalam proses islah ini segera musnah bila sedar kedudukannya berada di tengah-tengah rombongan orang-orang yang beriman yang sedang berjalan. Ini bermula daripada para salaf, maka da'i mengambil amanah ini daripada mereka."
+          "text": "Walau bagaimana dahsyatnya kerosakan, seorang da'i tidak boleh meninggalkan tugasnya untuk menyelamatkan manusia. <sup class=\"fn-ref\" data-fn-id=\"36\" title=\"Maksudnya: Mengeluarkan manusia daripada kegelapan jahiliah kepada cahaya Islam, dan daripada kesesatan kepada hidayah petunjuk. (Pnt)\">[36]</sup> Segala kesangsian dan putus asa dalam proses islah ini segera musnah bila sedar kedudukannya berada di tengah-tengah rombongan orang-orang yang beriman yang sedang berjalan. Ini bermula daripada para salaf, maka da'i mengambil amanah ini daripada mereka."
         },
         {
           "type": "text",
@@ -1179,7 +1179,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Sentiasa akan ada satu golongan dari umatku yang menegakkan kebenaran. Mereka tidak akan tergugat oleh sesiapa pun yang menentang mereka sehingga datanglah hari kiamat dan mereka tetap dalam keadaan mereka.” <sup class=\"fn-ref\" data-fn-id=\"37\" title=\"Sahih Muslim, Jilid 6, m.s. 52\">[37]</sup>"
+          "text": "“Sentiasa akan ada satu golongan dari umatku yang menegakkan kebenaran. Mereka tidak akan tergugat oleh sesiapa pun yang menentang mereka sehingga datanglah hari kiamat dan mereka tetap dalam keadaan mereka.” <sup class=\"fn-ref\" data-fn-id=\"37\" title=\"Al-Imam Muslim, Sahih Muslim, jld. 6, hlm. 52.\">[37]</sup>"
         },
         {
           "type": "text",
@@ -1207,7 +1207,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“… Semua peristiwa mesti tunduk kepada kitab Allah dan sunnah Rasul-Nya meskipun manusia melihat dunia tidak tunduk kepada peraturan tersebut. Agama inilah sebenarnya aturan yang ditetapkan oleh Allah kepada manusia sebagaimana Dia menetapkan hukum alam kepada matahari, bulan, haiwan dan tumbuh-tumbuhan dan kepada segala apa yang ada di langit, bumi dan apa jua yang ada padanya.” <sup class=\"fn-ref\" data-fn-id=\"38\" title=\"Majalah al-Dakwah, Bil. 52\">[38]</sup>"
+          "text": "“… Semua peristiwa mesti tunduk kepada kitab Allah dan sunnah Rasul-Nya meskipun manusia melihat dunia tidak tunduk kepada peraturan tersebut. Agama inilah sebenarnya aturan yang ditetapkan oleh Allah kepada manusia sebagaimana Dia menetapkan hukum alam kepada matahari, bulan, haiwan dan tumbuh-tumbuhan dan kepada segala apa yang ada di langit, bumi dan apa jua yang ada padanya.” <sup class=\"fn-ref\" data-fn-id=\"38\" title=\"Majallah ad-Da'wah, bil. 52.\">[38]</sup>"
         },
         {
           "type": "quote",
@@ -1235,7 +1235,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "kerana jihad pada kebenaran tidak pernah hilang walau sehari <sup class=\"fn-ref\" data-fn-id=\"39\" title=\"Abdul Waham Azam, Diwan al-Mathani, m.s. 133\">[39]</sup>"
+          "text": "kerana jihad pada kebenaran tidak pernah hilang walau sehari <sup class=\"fn-ref\" data-fn-id=\"39\" title=\"Dr. Abdul Wahhab 'Azzam, Diwan al-Mathani, hlm. 133.\">[39]</sup>"
         },
         {
           "type": "text",
@@ -1271,7 +1271,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Umat Islam pada hari ini berdepan dengan berita besar ini sebagaimana yang dihadapi oleh bangsa Arab di awal kedatangannya. Mereka tidak memahami tabiat dan hubungannya dengan tabiat alam ini. Mereka tidak memikirkan kebenaran yang tersembunyi padanya sehingga mereka tidak memahami ianya adalah salah satu aspek kebenaran yang tersembunyi di binaan alam ini. Mereka tidak dapat mengesani pengaruhnya terhadap sejarah manusia dan garisan perjalanannya yang panjang. Mereka sepatutnya bersandarkan kepada pandangan yang berasingan dan bukannya bersandarkan pemikiran musuh-musuh Islam yang sentiasa memperkecil-kecilkan peranan Islam dalam pembentukan hidup manusia dan penentuan perjalanan sejarah. Oleh kerana itulah orang Islam sekarang tidak mengenali hakikat peranan mereka dulu, masakini dan akan datang; sedangkan itulah peranan yang mesti dimainkan oleh umat Islam di muka bumi hingga akhir zaman.” <sup class=\"fn-ref\" data-fn-id=\"40\" title=\"Syed Qutb, Fi Zilal al-Qur'an, Juzu’ 23, m.s. 107\">[40]</sup>"
+          "text": "Umat Islam pada hari ini berdepan dengan berita besar ini sebagaimana yang dihadapi oleh bangsa Arab di awal kedatangannya. Mereka tidak memahami tabiat dan hubungannya dengan tabiat alam ini. Mereka tidak memikirkan kebenaran yang tersembunyi padanya sehingga mereka tidak memahami ianya adalah salah satu aspek kebenaran yang tersembunyi di binaan alam ini. Mereka tidak dapat mengesani pengaruhnya terhadap sejarah manusia dan garisan perjalanannya yang panjang. Mereka sepatutnya bersandarkan kepada pandangan yang berasingan dan bukannya bersandarkan pemikiran musuh-musuh Islam yang sentiasa memperkecil-kecilkan peranan Islam dalam pembentukan hidup manusia dan penentuan perjalanan sejarah. Oleh kerana itulah orang Islam sekarang tidak mengenali hakikat peranan mereka dulu, masakini dan akan datang; sedangkan itulah peranan yang mesti dimainkan oleh umat Islam di muka bumi hingga akhir zaman.” <sup class=\"fn-ref\" data-fn-id=\"40\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 5 (juzuk 23), hlm. 107.\">[40]</sup>"
         },
         {
           "type": "text",
@@ -1299,7 +1299,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Ketahuilah, tanda-tanda al-haq itu: wujudnya Muslim. <sup class=\"fn-ref\" data-fn-id=\"41\" title=\"Muhammad Iqbal, Diwan al-Asrar wa al-Rumuz, m.s. 27\">[41]</sup>"
+          "text": "Ketahuilah, tanda-tanda al-haq itu: wujudnya Muslim. <sup class=\"fn-ref\" data-fn-id=\"41\" title=\"Dr. Muhammad Iqbal, Diwan Asrar-i-Khudi wa Rumuz-i-Bekhudi, hlm. 27.\">[41]</sup>"
         },
         {
           "type": "text",
@@ -1323,7 +1323,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Bahkan Kami lemparkan kebenaran di atas yang batil (yang tidak benar) lalu dipecahkannya. Tiba-tiba yang batil itu lenyap.” (Al-Anbiya’ 21: 18) “ <sup class=\"fn-ref\" data-fn-id=\"42\" title=\"Muqaddimah al-Zilal, Jilid 1, m.s. 7\">[42]</sup>"
+          "text": "“Bahkan Kami lemparkan kebenaran di atas yang batil (yang tidak benar) lalu dipecahkannya. Tiba-tiba yang batil itu lenyap.” (Al-Anbiya’ 21: 18) “ <sup class=\"fn-ref\" data-fn-id=\"42\" title=\"Sayyid Qutb, Muqaddimah Fi Zilal al-Qur'an, jld. 1, hlm. 7.\">[42]</sup>"
         },
         {
           "type": "text",
@@ -1367,7 +1367,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Kemudian, berlakulah malapetaka besar itu. Malapetaka penyingkiran Islam daripada kepimpinan dan jahiliah sekali lagi mengambil alih kuasa. Jahiliah dalam pelbagai corak. Corak pemikiran materialisme yang dikagumi oleh manusia pada hari ini. Ianya umpama kanak-kanak yang kagum melihat pakaian dan permainan yang berwarna-warni dan terang warnanya.” <sup class=\"fn-ref\" data-fn-id=\"43\" title=\"Ibid, Juzu’ 1, m.s. 9\">[43]</sup>"
+          "text": "Kemudian, berlakulah malapetaka besar itu. Malapetaka penyingkiran Islam daripada kepimpinan dan jahiliah sekali lagi mengambil alih kuasa. Jahiliah dalam pelbagai corak. Corak pemikiran materialisme yang dikagumi oleh manusia pada hari ini. Ianya umpama kanak-kanak yang kagum melihat pakaian dan permainan yang berwarna-warni dan terang warnanya.” <sup class=\"fn-ref\" data-fn-id=\"43\" title=\"Ibid., jld. 1, hlm. 9.\">[43]</sup>"
         },
         {
           "type": "text",
@@ -1375,15 +1375,15 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Muslim yang sejati tidak akan dapat percaya bahawa pencinta kebendaan dan keduniaan boleh berkata yang betul. Bagi da'i , yang betul hanyalah apa yang turun dari langit. Mereka tidak sekali-kali berpaling dari kebenaran itu dan tidak mungkin melampauinya, sebagaimana sabda Rasulullah SAW: Kata-kata yang paling benar adalah yang diucapkan oleh penyair Lubaid: “Ketahuilah bahawa sesungguhnya segala sesuatu selain dari Allah adalah batil (mengarut dan tidak betul).” <sup class=\"fn-ref\" data-fn-id=\"44\" title=\"Sahih al-Bukhari, Jilid 5, m.s. 53\">[44]</sup> Pena telah diangkat dan lembaran telah pun kering."
+          "text": "Muslim yang sejati tidak akan dapat percaya bahawa pencinta kebendaan dan keduniaan boleh berkata yang betul. Bagi da'i , yang betul hanyalah apa yang turun dari langit. Mereka tidak sekali-kali berpaling dari kebenaran itu dan tidak mungkin melampauinya, sebagaimana sabda Rasulullah SAW: Kata-kata yang paling benar adalah yang diucapkan oleh penyair Lubaid: “Ketahuilah bahawa sesungguhnya segala sesuatu selain dari Allah adalah batil (mengarut dan tidak betul).” <sup class=\"fn-ref\" data-fn-id=\"44\" title=\"Al-Imam al-Bukhari, Sahih al-Bukhari, jld. 5, hlm. 53.\">[44]</sup> Pena telah diangkat dan lembaran telah pun kering."
         },
         {
           "type": "text",
-          "text": "Segala sesuatu yang lain daripada Allah adalah batil dan mengarut belaka. Tidak ada sistem hidup yang benar kecuali sistem hidup Islam dan segala ibadat kepada yang lain dari Allah adalah batil. Itulah yang dimaksudkan oleh Rabi'i bin ‘Amir semasa dia berkata kepada Rustum (panglima agung tentera Farsi): “Allah mendatangkan kami ke sini supaya kami mengeluarkan manusia daripada menyembah sesama manusia kepada hanya menyembah Allah.” <sup class=\"fn-ref\" data-fn-id=\"45\" title=\"Tarikh al-Tabari, Jilid 3, m.s. 520\">[45]</sup>"
+          "text": "Segala sesuatu yang lain daripada Allah adalah batil dan mengarut belaka. Tidak ada sistem hidup yang benar kecuali sistem hidup Islam dan segala ibadat kepada yang lain dari Allah adalah batil. Itulah yang dimaksudkan oleh Rabi'i bin ‘Amir semasa dia berkata kepada Rustum (panglima agung tentera Farsi): “Allah mendatangkan kami ke sini supaya kami mengeluarkan manusia daripada menyembah sesama manusia kepada hanya menyembah Allah.” <sup class=\"fn-ref\" data-fn-id=\"45\" title=\"Al-Imam at-Tabari, Tarikh ar-Rusul wal-Muluk, jld. 3, hlm. 520.\">[45]</sup>"
         },
         {
           "type": "text",
-          "text": "Sesungguhnya Islam adalah satu-satunya cara hidup yang membebaskan manusia dari perhambaan sesama manusia. <sup class=\"fn-ref\" data-fn-id=\"46\" title=\"Al-Zilal, Juzu’ 4, m.s. 206\">[46]</sup> “Sekiranya mereka tunduk, mereka hanya tunduk kepada Allah sahaja dan sekiranya mereka mengikut undang-undang, mereka hanya taat kepada undang-undang Allah sahaja. Sekiranya mereka mengikut sesuatu sistem, mereka hanya tunduk kepada sistem Allah sahaja. Ketika itu mereka benar-benar bebas daripada perhambaan sesama hamba apabila mereka menjadi hamba-hamba kepada Allah tanpa sekutu.” <sup class=\"fn-ref\" data-fn-id=\"47\" title=\"Ibid\">[47]</sup>"
+          "text": "Sesungguhnya Islam adalah satu-satunya cara hidup yang membebaskan manusia dari perhambaan sesama manusia. <sup class=\"fn-ref\" data-fn-id=\"46\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 2 (juzuk 4), hlm. 206.\">[46]</sup> “Sekiranya mereka tunduk, mereka hanya tunduk kepada Allah sahaja dan sekiranya mereka mengikut undang-undang, mereka hanya taat kepada undang-undang Allah sahaja. Sekiranya mereka mengikut sesuatu sistem, mereka hanya tunduk kepada sistem Allah sahaja. Ketika itu mereka benar-benar bebas daripada perhambaan sesama hamba apabila mereka menjadi hamba-hamba kepada Allah tanpa sekutu.” <sup class=\"fn-ref\" data-fn-id=\"47\" title=\"Ibid.\">[47]</sup>"
         },
         {
           "type": "heading2",
@@ -1464,7 +1464,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "di muka bumi, dengan keagungan-Nya, rahmat dan keindahan-Nya <sup class=\"fn-ref\" data-fn-id=\"48\" title=\"Abdul Wahab Azzam, Majalah al-Muslimun, Tahun 1, m.s. 961\">[48]</sup>"
+          "text": "di muka bumi, dengan keagungan-Nya, rahmat dan keindahan-Nya <sup class=\"fn-ref\" data-fn-id=\"48\" title=\"Dr. Abdul Wahhab 'Azzam, Majallah al-Muslimun, thn. 1, hlm. 961.\">[48]</sup>"
         },
         {
           "type": "text",
@@ -1472,11 +1472,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Dia merdeka. Hanya menerima segala tasawwur, sistem, cara hidup, syariat, undang-undang, nilai dan neraca pertimbangan dari Allah sahaja. Jadilah dia sama dengan manusia lain, berdiri pada taraf yang sama. Mengadap tuan yang satu dan tidak menjadikan sebahagian daripada mereka sebagai Tuhan, selain dari Allah.” <sup class=\"fn-ref\" data-fn-id=\"49\" title=\"Al-Zilal, Juzu’ 3, m.s. 206\">[49]</sup>"
+          "text": "“Dia merdeka. Hanya menerima segala tasawwur, sistem, cara hidup, syariat, undang-undang, nilai dan neraca pertimbangan dari Allah sahaja. Jadilah dia sama dengan manusia lain, berdiri pada taraf yang sama. Mengadap tuan yang satu dan tidak menjadikan sebahagian daripada mereka sebagai Tuhan, selain dari Allah.” <sup class=\"fn-ref\" data-fn-id=\"49\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 2 (juzuk 3), hlm. 206.\">[49]</sup>"
         },
         {
           "type": "text",
-          "text": "Manusia akan sentiasa menderita, kelam kabut, bimbang dan sakit selagi mereka tidak sujud seperti sujud ini dan dan berpegang dengan akidah Islam ini. Penderitaan jiwa dan kezaliman yang berterusan walaupun maju dalam kebendaan benar-benar membuktikan bahawa akal semata-mata tidak akan mampu menjadi pemandu kestabilan jika tidak dipandu oleh akidah yang benar. Akal sentiasa dipengaruhi oleh hawa nafsu sebagaimana kita selalu sebutkan. Ia hilang upaya untuk menghadapi pelbagai tekanan selagi kawalan dan pertimbangan akidah tiada di sampingnya. <sup class=\"fn-ref\" data-fn-id=\"50\" title=\"Ibid, Juzu’ 7, m.s. 57\">[50]</sup>"
+          "text": "Manusia akan sentiasa menderita, kelam kabut, bimbang dan sakit selagi mereka tidak sujud seperti sujud ini dan dan berpegang dengan akidah Islam ini. Penderitaan jiwa dan kezaliman yang berterusan walaupun maju dalam kebendaan benar-benar membuktikan bahawa akal semata-mata tidak akan mampu menjadi pemandu kestabilan jika tidak dipandu oleh akidah yang benar. Akal sentiasa dipengaruhi oleh hawa nafsu sebagaimana kita selalu sebutkan. Ia hilang upaya untuk menghadapi pelbagai tekanan selagi kawalan dan pertimbangan akidah tiada di sampingnya. <sup class=\"fn-ref\" data-fn-id=\"50\" title=\"Ibid., jld. 3 (juzuk 7), hlm. 57.\">[50]</sup>"
         },
         {
           "type": "quote",
@@ -1576,81 +1576,81 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "dengan namanya; dialah orang yang berbahagia <sup class=\"fn-ref\" data-fn-id=\"51\" title=\"Yusuf al-Qardhawi, Majalah al-Tarbiah al-Islamiyah, Tahun ke-6, m.s. 278\">[51]</sup>"
+          "text": "dengan namanya; dialah orang yang berbahagia <sup class=\"fn-ref\" data-fn-id=\"51\" title=\"Dr. Yusuf al-Qaradhawi, Majallah at-Tarbiyah al-Islamiyyah, thn. 6, hlm. 278.\">[51]</sup>"
         }
       ],
       "footnotes": [
         {
           "id": 34,
-          "text": "Al-Amiri, Diwan Ma'a Allah, m.s. 110"
+          "text": "Umar Baha'uddin al-Amiri, *Diwan Ma'allah*, hlm. 110."
         },
         {
           "id": 35,
-          "text": "Muhammad Iqbal, Diwan Dharb al-Kalim, m.s. 14"
+          "text": "Dr. Muhammad Iqbal, *Diwan Zarb-i-Kalim*, hlm. 14."
         },
         {
           "id": 36,
-          "text": "Dari cara hidup jahiliah kepada cara hidup Islam, mengeluarkan mereka dari kesesatan kepada hidayah"
+          "text": "Maksudnya: Mengeluarkan manusia daripada kegelapan jahiliah kepada cahaya Islam, dan daripada kesesatan kepada hidayah petunjuk. (Pnt)"
         },
         {
           "id": 37,
-          "text": "Sahih Muslim, Jilid 6, m.s. 52"
+          "text": "Al-Imam Muslim, *Sahih Muslim*, jld. 6, hlm. 52."
         },
         {
           "id": 38,
-          "text": "Majalah al-Dakwah, Bil. 52"
+          "text": "*Majallah ad-Da'wah*, bil. 52."
         },
         {
           "id": 39,
-          "text": "Abdul Waham Azam, Diwan al-Mathani, m.s. 133"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Diwan al-Mathani*, hlm. 133."
         },
         {
           "id": 40,
-          "text": "Syed Qutb, Fi Zilal al-Qur'an, Juzu’ 23, m.s. 107"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 5 (juzuk 23), hlm. 107."
         },
         {
           "id": 41,
-          "text": "Muhammad Iqbal, Diwan al-Asrar wa al-Rumuz, m.s. 27"
+          "text": "Dr. Muhammad Iqbal, *Diwan Asrar-i-Khudi wa Rumuz-i-Bekhudi*, hlm. 27."
         },
         {
           "id": 42,
-          "text": "Muqaddimah al-Zilal, Jilid 1, m.s. 7"
+          "text": "Sayyid Qutb, *Muqaddimah Fi Zilal al-Qur'an*, jld. 1, hlm. 7."
         },
         {
           "id": 43,
-          "text": "Ibid, Juzu’ 1, m.s. 9"
+          "text": "Ibid., jld. 1, hlm. 9."
         },
         {
           "id": 44,
-          "text": "Sahih al-Bukhari, Jilid 5, m.s. 53"
+          "text": "Al-Imam al-Bukhari, *Sahih al-Bukhari*, jld. 5, hlm. 53."
         },
         {
           "id": 45,
-          "text": "Tarikh al-Tabari, Jilid 3, m.s. 520"
+          "text": "Al-Imam at-Tabari, *Tarikh ar-Rusul wal-Muluk*, jld. 3, hlm. 520."
         },
         {
           "id": 46,
-          "text": "Al-Zilal, Juzu’ 4, m.s. 206"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 2 (juzuk 4), hlm. 206."
         },
         {
           "id": 47,
-          "text": "Ibid"
+          "text": "Ibid."
         },
         {
           "id": 48,
-          "text": "Abdul Wahab Azzam, Majalah al-Muslimun, Tahun 1, m.s. 961"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Majallah al-Muslimun*, thn. 1, hlm. 961."
         },
         {
           "id": 49,
-          "text": "Al-Zilal, Juzu’ 3, m.s. 206"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 2 (juzuk 3), hlm. 206."
         },
         {
           "id": 50,
-          "text": "Ibid, Juzu’ 7, m.s. 57"
+          "text": "Ibid., jld. 3 (juzuk 7), hlm. 57."
         },
         {
           "id": 51,
-          "text": "Yusuf al-Qardhawi, Majalah al-Tarbiah al-Islamiyah, Tahun ke-6, m.s. 278"
+          "text": "Dr. Yusuf al-Qaradhawi, *Majallah at-Tarbiyah al-Islamiyyah*, thn. 6, hlm. 278."
         }
       ],
       "summary": "📌 Ringkasan Bab Kedua: \"Gerhana, Bukannya Terbenam\"\n\nDalam bab ini, Sheikh Muhammad Ahmad Al-Rasyid membincangkan aspek psikologi dan analisis realiti umat Islam serta gerakan dakwah ketika berhadapan dengan krisis, ujian, dan tekanan.\n\n1. Hakikat Ujian dan Tekanan (Feqah Al-Ibtila')\n\nAl-Rasyid menegaskan bahawa fasa kelemahan, kemunduran, atau kejatuhan yang menimpa umat Islam dan gerakan dakwah pada waktu-waktu tertentu hanyalah bersifat sementara. Beliau membuat analogi bahawa situasi ini seperti fenomena gerhana (kusuf)—iaitu cahaya matahari terlindung buat seketika waktu sahaja, namun matahari itu pasti akan kembali bersinar. Ia bukanlah matahari yang terbenam (ghurub) buat selama-lamanya.\n\n2. Menolak Sifat Putus Asa dan Meraikan Optimisme\n\nBab ini memberi amaran keras terhadap penyakit putus asa, lemah semangat, dan penyerahan kalah apabila rancangan dakwah menghadapi kegagalan atau penindasan. Sifat optimis yang bersandarkan keimanan kepada janji Allah (Thiqah billah) merupakan kunci utama untuk terus bertahan dan bangkit semula.\n\n3. Muhasabah dan Pembersihan Saf (Tazkiyah)\n\nPenulis menjelaskan bahawa \"fasa gerhana\" atau ujian berat ini sebenarnya mengandungi hikmah yang besar. Ia berfungsi sebagai tapisan semula jadi untuk membersihkan saf (barisan) dakwah daripada elemen-elemen yang rapuh, tidak ikhlas, atau mereka yang hanya mencari keuntungan duniawi. Melalui ujian ini, hanya mutarabbi yang kental dan setia sahaja وظ yang akan kekal.\n\n4. Keperluan Kepada Penilaian Semula (Mudra'ah)\n\nKetika berada dalam fasa tekanan, gerakan dakwah dituntut untuk melakukan penilaian kendiri, membetulkan kesilapan strategi, serta melakukan pembaikan dalaman (islah) tanpa mengubah prinsip-prinsip dasar perjuangan Islam.\n\nKesimpulan Bab:\nMesej utama bab ini ialah umat Islam tidak akan mati atau lenyap sama sekali. Setiap ujian yang berat hanyalah titik jeda untuk menilai kelemahan diri, menyusun semula strategi, dan kembali melangkah dengan penuh keyakinan bahawa fajar kemenangan pasti akan tiba.\n\n💎 Mutiara Kata-kata Tokoh & Salafussoleh (Nukilan Emas):\n\n• Ustaz Hasan al-Hudhaibi: “Sunnatullah terhadap semua makhluk terus berjalan, sesaat pun tidak pernah berhenti dan berubah. Mereka yang merdeka terus berjihad pada jalan Allah, kerana jihad menegakkan kebenaran tidak pernah padam walau sehari.”\n\n• Dr. Abdul Wahab Azzam: “Kamilah pewaris yang cuba membimbing manusia... Matahari sentiasa menyuluh cahaya kepada kami, awan kami mengandungi kilat dan sinar yang terang benderang, jasad kami adalah cermin kepada kebenaran, dan tanda al-haq itu ialah wujudnya muslim yang teguh berjuang.”\n\n⚔️ Tambahan Fiqh Amal Haraki & Dimensi Tarbawi (Aplikasi Gerakan):\n\n➤ Fiqh Optimisme & Antidoto Kekalahan Jiwa (Hazimah Nafsiyyah): Kelemahan dan kemunduran yang menimpa umat Islam bukanlah penamat sejarah (matahari terbenam / ghurub), tetapi hanyalah gerhana sementara (kusuf). Pejuang dakwah diharamkan berputus asa atau tunduk kepada rasa rendah diri di hadapan tamadun kebendaan.\n\n➤ Hakikat Sujud Kemerdekaan: Sujud kepada Allah bukanlah tanda kehinaan, tetapi punca kemerdekaan hakiki yang meruntuhkan segala belenggu ketakutan kepada penguasa taghut. Da'i yang sentiasa melazimi sujud memiliki ketahanan jiwa yang menggoncangkan kebatilan.\n\n➤ Ujian Sebagai Tapisan Penyucian Saf (Tazkiyah Tanzimi): Tekanan dan tribulasi berfungsi membersihkan barisan jemaah daripada pengikut yang rapuh, oportunis, atau mereka yang sekadar menumpang kegemilangan tanpa kesediaan memikul beban perjuangan.\n\n—————————————————————————————————————————————",
@@ -1693,7 +1693,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Golongan yang kafir dan fasik berlegar-legar di sekitar sebab yang sama dan semuanya andaian bingung terhadap fenomena ini. Tetapi Muslim yang sejati hanya mempunyai satu kata putus dan pasti dalam tafsirannya. Tafsiran itu diambil daripada al-Quran dan sunnah Rasulullah SAW dan ianya telah disimpulkan oleh Amirul Mukminin Umar bin Al-Khattab RA dengan satu perkataan yang jamik tatkala beliau ditanya: “Adakah sesebuah negeri itu boleh musnah padahal ia makmur maju?” Beliau menjawab: “Ya, apabila orang-orang jahat menguasai orang-orang baik.” <sup class=\"fn-ref\" data-fn-id=\"52\" title=\"Ibnu al-Qayyim, Al-Jawab al-Kafi li Man Su'ila ‘An al-Dawa’ al-Syafi, m.s. 45\">[52]</sup>"
+          "text": "Golongan yang kafir dan fasik berlegar-legar di sekitar sebab yang sama dan semuanya andaian bingung terhadap fenomena ini. Tetapi Muslim yang sejati hanya mempunyai satu kata putus dan pasti dalam tafsirannya. Tafsiran itu diambil daripada al-Quran dan sunnah Rasulullah SAW dan ianya telah disimpulkan oleh Amirul Mukminin Umar bin Al-Khattab RA dengan satu perkataan yang jamik tatkala beliau ditanya: “Adakah sesebuah negeri itu boleh musnah padahal ia makmur maju?” Beliau menjawab: “Ya, apabila orang-orang jahat menguasai orang-orang baik.” <sup class=\"fn-ref\" data-fn-id=\"52\" title=\"Ibn al-Qayyim, Al-Jawab al-Kafi li Man Sa'ala 'an ad-Dawa' asy-Syafi, hlm. 45.\">[52]</sup>"
         },
         {
           "type": "text",
@@ -1769,7 +1769,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Termasuk dalam pengertiannya ialah orang yang tidak menyangkal kezaliman sedangkan dia mampu berbuat demikian. Mungkin mereka itu diazab di dunia dan dibangkitkan di akhirat mengikut niat mereka. Sama seperti angkatan tentera yang memerangi Baitullah lalu mereka dibinasakan seluruhnya termasuk askar-askar yang dipaksa. Mereka ini dibangkitkan dan dibalas bergantung kepada niatnya.” <sup class=\"fn-ref\" data-fn-id=\"53\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 17, m.s. 382\">[53]</sup>"
+          "text": "Termasuk dalam pengertiannya ialah orang yang tidak menyangkal kezaliman sedangkan dia mampu berbuat demikian. Mungkin mereka itu diazab di dunia dan dibangkitkan di akhirat mengikut niat mereka. Sama seperti angkatan tentera yang memerangi Baitullah lalu mereka dibinasakan seluruhnya termasuk askar-askar yang dipaksa. Mereka ini dibangkitkan dan dibalas bergantung kepada niatnya.” <sup class=\"fn-ref\" data-fn-id=\"53\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 17, hlm. 382.\">[53]</sup>"
         },
         {
           "type": "text",
@@ -1781,11 +1781,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebahagian dari ulama mensifatkan balasan itu sebagai ‘kanun azab jama'i’ dalam sunatullah. Ianya adalah kanun yang paling menggerunkan dan menakutkan, mendorong mereka yang tahu dan faham, atau mana-mana yang berkuasa untuk segera mengubah kemungkaran yang sedang berlaku, supaya azab yang demikian tidak menimpa seluruh masyarakat. <sup class=\"fn-ref\" data-fn-id=\"54\" title=\"Majalah al-Tarbiah al-Islamiyah, tahun Keenam, m.s. 26\">[54]</sup>"
+          "text": "Sebahagian dari ulama mensifatkan balasan itu sebagai ‘kanun azab jama'i’ dalam sunatullah. Ianya adalah kanun yang paling menggerunkan dan menakutkan, mendorong mereka yang tahu dan faham, atau mana-mana yang berkuasa untuk segera mengubah kemungkaran yang sedang berlaku, supaya azab yang demikian tidak menimpa seluruh masyarakat. <sup class=\"fn-ref\" data-fn-id=\"54\" title=\"Majallah at-Tarbiyah al-Islamiyyah, thn. 6, hlm. 26.\">[54]</sup>"
         },
         {
           "type": "text",
-          "text": "Tugas ini lebih berat terutama ke atas pemerintah kerana mereka mempunyai kuasa untuk menyuruh dan melarang. Apa yang tidak dapat dicegah dengan al-Quran akan dicegah oleh Allah dengan kekuasaanNya. Sekiranya mereka memperbaiki masyarakat menurut hukum syariat Islam, membasmi kemungkaran, menegakkan keadilan dan memusnahkan punca maksiat, Maka Allah akan memberi pahala kepada mereka; dengan sebaik-baik pahala di dunia dan sebaik-baik pahala di akhirat dan seterusnya mengukuhkan kekuasaan mereka di bumi. Tetapi sekiranya mereka mengabaikan tugas ini, Allah akan menjatuhkan hukumanNya ke atas mereka dan menimpakan azab kepada mereka dan rugilah mereka di dunia dan di akhirat, semoga Allah melindungi kita dari kehinaan itu. <sup class=\"fn-ref\" data-fn-id=\"55\" title=\"Ibid\">[55]</sup>"
+          "text": "Tugas ini lebih berat terutama ke atas pemerintah kerana mereka mempunyai kuasa untuk menyuruh dan melarang. Apa yang tidak dapat dicegah dengan al-Quran akan dicegah oleh Allah dengan kekuasaanNya. Sekiranya mereka memperbaiki masyarakat menurut hukum syariat Islam, membasmi kemungkaran, menegakkan keadilan dan memusnahkan punca maksiat, Maka Allah akan memberi pahala kepada mereka; dengan sebaik-baik pahala di dunia dan sebaik-baik pahala di akhirat dan seterusnya mengukuhkan kekuasaan mereka di bumi. Tetapi sekiranya mereka mengabaikan tugas ini, Allah akan menjatuhkan hukumanNya ke atas mereka dan menimpakan azab kepada mereka dan rugilah mereka di dunia dan di akhirat, semoga Allah melindungi kita dari kehinaan itu. <sup class=\"fn-ref\" data-fn-id=\"55\" title=\"Ibid.\">[55]</sup>"
         },
         {
           "type": "text",
@@ -1793,7 +1793,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Umat Islam pada hari ini hanya tinggal Islam pada nama sahaja dan mereka telah menyeleweng jauh daripada Islam sebenar. “Seseorang Islam itu sudah cukup untuk dikatakan menyeleweng apabila dia meninggalkan jihad di jalan Allah, cenderung pada keduniaan, mencintai dunia melebihi akhirat, bencikan mati, mengikuti hawa nafsu, tunduk kepada syahwat, tenggelam dalam maksiat sehingga mereka dihina oleh Allah dengan kegagalan yang paling besar kepada mereka dan menjadikan pimpinan mereka pada tangan golongan yang menyeleweng dan merosakkan mereka.” <sup class=\"fn-ref\" data-fn-id=\"56\" title=\"Ustaz al-Sawwaf, Ma'rakah al-Islamiah, m.s. 24\">[56]</sup>"
+          "text": "Umat Islam pada hari ini hanya tinggal Islam pada nama sahaja dan mereka telah menyeleweng jauh daripada Islam sebenar. “Seseorang Islam itu sudah cukup untuk dikatakan menyeleweng apabila dia meninggalkan jihad di jalan Allah, cenderung pada keduniaan, mencintai dunia melebihi akhirat, bencikan mati, mengikuti hawa nafsu, tunduk kepada syahwat, tenggelam dalam maksiat sehingga mereka dihina oleh Allah dengan kegagalan yang paling besar kepada mereka dan menjadikan pimpinan mereka pada tangan golongan yang menyeleweng dan merosakkan mereka.” <sup class=\"fn-ref\" data-fn-id=\"56\" title=\"Ustaz Muhammad Mahmud as-Sawwaf, Ma'rakat al-Islam, hlm. 24.\">[56]</sup>"
         },
         {
           "type": "text",
@@ -1941,11 +1941,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sekiranya orang Islam memahami ayat-ayat al-Quran yang membuktikan kebenaran ‘kanun persamaan” dan yang mencela kaum yang jahat pada masa dahulu seperti Yahudi dan kaum lain kerana kejahatan dan sifat-sifat mereka yang hina dan tercela, maka mereka akan dapat mengetahui bahawa pembalasan yang menimpa orang yang jahat di zaman lalu akan menimpa mereka juga sekiranya mereka melakukan perbuatan yang pernah dilakukan oleh orang jahat yang lalu. Akibat yang buruk akan menimpa mereka sebagaimana yang telah menimpa orang-orang terdahulu. Oleh itu, mereka tidak boleh leka dengan hanya menjadi orang Islam dari sudut nama, sedangkan mereka tidak beramal dan membentuk diri mereka menurut kehendak Islam. <sup class=\"fn-ref\" data-fn-id=\"57\" title=\"Majalah al-Tarbiah, Jilid 6, m.s. 26\">[57]</sup>"
+          "text": "Sekiranya orang Islam memahami ayat-ayat al-Quran yang membuktikan kebenaran ‘kanun persamaan” dan yang mencela kaum yang jahat pada masa dahulu seperti Yahudi dan kaum lain kerana kejahatan dan sifat-sifat mereka yang hina dan tercela, maka mereka akan dapat mengetahui bahawa pembalasan yang menimpa orang yang jahat di zaman lalu akan menimpa mereka juga sekiranya mereka melakukan perbuatan yang pernah dilakukan oleh orang jahat yang lalu. Akibat yang buruk akan menimpa mereka sebagaimana yang telah menimpa orang-orang terdahulu. Oleh itu, mereka tidak boleh leka dengan hanya menjadi orang Islam dari sudut nama, sedangkan mereka tidak beramal dan membentuk diri mereka menurut kehendak Islam. <sup class=\"fn-ref\" data-fn-id=\"57\" title=\"Majallah at-Tarbiyah al-Islamiyyah, jld. 6, hlm. 26.\">[57]</sup>"
         },
         {
           "type": "text",
-          "text": "Muhammad Iqbal rahimahullah menjadikan kanun ini sebagai sebahagian kaedah panduan Islam dan menjelaskannya di dalam kuliahnya yang kelima yang pernah diadakan di Madras India: “Sesungguhnya seluruh bangsa dan kumpulan manusia diambil kira mengikut amalan mereka semasa hidup di dunia. Kerana itulah al-Quran banyak menyebut kisah-kisah kaum terdahulu dan menyuruh kita meneliti pengalaman umat dahulu dan sekarang supaya kita mengambil iktibar daripadanya.” <sup class=\"fn-ref\" data-fn-id=\"58\" title=\"Kitab Muhammad Iqbal, Abdul Wahab Azam, m.s. 120\">[58]</sup>"
+          "text": "Muhammad Iqbal rahimahullah menjadikan kanun ini sebagai sebahagian kaedah panduan Islam dan menjelaskannya di dalam kuliahnya yang kelima yang pernah diadakan di Madras India: “Sesungguhnya seluruh bangsa dan kumpulan manusia diambil kira mengikut amalan mereka semasa hidup di dunia. Kerana itulah al-Quran banyak menyebut kisah-kisah kaum terdahulu dan menyuruh kita meneliti pengalaman umat dahulu dan sekarang supaya kita mengambil iktibar daripadanya.” <sup class=\"fn-ref\" data-fn-id=\"58\" title=\"Dr. Abdul Wahhab 'Azzam, Muhammad Iqbal: Siratuhu wa Falsafatuhu wa Syi'ruh, hlm. 120.\">[58]</sup>"
         },
         {
           "type": "text",
@@ -1979,31 +1979,31 @@ var ALMUNTALAQ_DATA = {
       "footnotes": [
         {
           "id": 52,
-          "text": "Ibnu al-Qayyim, Al-Jawab al-Kafi li Man Su'ila ‘An al-Dawa’ al-Syafi, m.s. 45"
+          "text": "Ibn al-Qayyim, *Al-Jawab al-Kafi li Man Sa'ala 'an ad-Dawa' asy-Syafi*, hlm. 45."
         },
         {
           "id": 53,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, Juzu’ 17, m.s. 382"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 17, hlm. 382."
         },
         {
           "id": 54,
-          "text": "Majalah al-Tarbiah al-Islamiyah, tahun Keenam, m.s. 26"
+          "text": "*Majallah at-Tarbiyah al-Islamiyyah*, thn. 6, hlm. 26."
         },
         {
           "id": 55,
-          "text": "Ibid"
+          "text": "Ibid."
         },
         {
           "id": 56,
-          "text": "Ustaz al-Sawwaf, Ma'rakah al-Islamiah, m.s. 24"
+          "text": "Ustaz Muhammad Mahmud as-Sawwaf, *Ma'rakat al-Islam*, hlm. 24."
         },
         {
           "id": 57,
-          "text": "Majalah al-Tarbiah, Jilid 6, m.s. 26"
+          "text": "*Majallah at-Tarbiyah al-Islamiyyah*, jld. 6, hlm. 26."
         },
         {
           "id": 58,
-          "text": "Kitab Muhammad Iqbal, Abdul Wahab Azam, m.s. 120"
+          "text": "Dr. Abdul Wahhab 'Azzam, *Muhammad Iqbal: Siratuhu wa Falsafatuhu wa Syi'ruh*, hlm. 120."
         }
       ],
       "summary": "📌 Ringkasan Bab Ketiga: \"Orang-orang Baik Yang Binasa\"\n\nDalam bab yang menggerunkan jiwa ini, Al-Rasyid membongkar suatu realiti yang ironi tetapi benar berlaku dalam masyarakat, iaitu fenomena bagaimana orang-orang yang baik secara peribadi boleh menjadi punca kepada kebinasaan umat jika mereka tidak terlibat dalam kerja-kerja pembetulan (islah) dan dakwah secara kolektif. []\n\n1. Perbezaan Antara Soleh (Baik Peribadi) dan Muslih (Melakukan Islah)\n\nAl-Rasyid menegaskan bahawa sekadar menjadi orang yang soleh secara peribadi (abrar) tidak mencukupi untuk menyelamatkan diri dan umat daripada kehancuran. Seseorang Muslim dituntut untuk meningkat naik menjadi seorang yang muslih (pembawa islah/perubahan). Golongan abrar hanya sibuk dengan ibadah, wirid, dan menjaga diri sendiri daripada dosa, tetapi mereka memencilkan diri serta tiada saham langsung dalam kerja-kerja membela serta membangunkan ummah. []\n\n2. Kebaikan yang Berselerak Dikalahkan oleh Keburukan yang Tersusun\n\nBab ini membentangkan hujah bahawa apabila kemungkaran dan kebatilan bergerak dalam keadaan yang sangat tersusun, sistematik, dan berorganisasi, maka kebaikan yang berselerak (tidak tersusun) tidak akan mampu menahannya. Orang-orang baik yang hidup berseorangan tanpa jemaah atau organisasi dakwah tidak akan mampu mengubah arus sejarah. Kelemahan untuk menyatukan kebaikan dalam satu saf yang kukuh inilah yang membawa kepada takdir kebinasaan (halikun). []\n\n3. Bahaya Fahaman \"Sufi Pasif\" (Kelekaan Spiritual)\n\nAl-Rasyid mengkritik sikap sebahagian golongan yang menganggap bahawa mengasingkan diri daripada masyarakat (uzlah) demi menjaga kesucian rohani adalah jalan terbaik. Menghabiskan waktu hanya untuk kepuasan spiritual diri sendiri tanpa memedulikan kerosakan umat seolah-olah membiarkan kapal masyarakat karam. Sejarah membuktikan apabila azab Allah turun ke atas sesebuah kaum kerana mereka membiarkan kemungkaran, azab itu turut menimpa orang-orang soleh yang berdiam diri.\n\n4. Tuntutan Menjadi Anggota Jemaah yang Aktif\n\nPenyelesaian kepada ancaman kebinasaan ini adalah dengan melibatkan diri secara aktif dalam kerja jemaah dan dakwah. Kesolehan seseorang itu mestilah melimpah keluar dan memberi manfaat kepada masyarakat. Muslim yang benar perlu hadir dalam medan realiti, menyumbangkan tenaga, minda, dan harta dalam satu barisan yang tersusun demi menegakkan kebenaran. []\n\nKesimpulan Bab:\nMesej tarbiah yang sangat mendalam daripada bab ini ialah kebaikan yang pasif dan menyendiri adalah jalan menuju kebinasaan. Bagi mengelak daripada tergolong dalam kalangan \"orang-orang baik yang binasa\", setiap da'i dan Muslim wajib menukar kesolehan dalaman mereka menjadi gerakan islah luaran yang tersusun demi menyelamatkan umat daripada arus kemusnahan.\n\n💎 Mutiara Kata-kata Tokoh & Salafussoleh (Nukilan Emas):\n\n• Syeikhul Islam Ibnu Taimiyah: Mentafsirkan ayat fitnah (Al-Anfal: 25) bahawa mereka yang membisu daripada menegur kezaliman padahal memiliki kemampuan, dihukum sama seperti orang yang melakukan kezaliman tersebut.\n\n• Ustaz Syed Qutb (Fi Zilal al-Quran): Menjelaskan hakikat 'Qanun Azab Jama'i' (Sunnatullah Azab Kolektif): apabila kemungkaran menjadi sistem yang diterima umum, kemurkaan Allah akan melanda seluruh masyarakat termasuk orang-orang yang soleh.\n\n• Allamah Dr. Muhammad Iqbal: Membuktikan berlakunya 'Qanun At-Tamathul' (Undang-undang Persamaan Sejarah): hukum kebinasaan yang menimpa umat terdahulu akibat kealpaan amar makruf nahi mungkar pasti akan menimpa umat Islam hari ini jika mengambil sikap yang sama.\n\n• Hadis Ummul Mukminin Zainab binti Jahsy RA: Rasulullah SAW menegaskan bahawa kebinasaan tetap akan menimpa masyarakat yang memiliki orang soleh apabila kejahatan (al-khabath) telah melimpah-ruah tanpa ada pihak yang bangkit menyekatnya.\n\n⚔️ Tambahan Fiqh Amal Haraki & Dimensi Tarbawi (Aplikasi Gerakan):\n\n➤ Transformasi Dari Soleh Kepada Muslih: Kesolehan fardiyyah (abrar) yang sekadar berwirid dan beriktikaf di masjid tidak mampu menyelamatkan umat. Da'i wajib melangkah ke marhalah 'Muslih'—iaitu agen pembaikan yang terjun ke gelanggang masyarakat untuk memimpin perubahan.\n\n➤ Dosa Berdiam Diri (Syaithan Akhras): Membisu di hadapan kerosakan moral dan penyelewengan kuasa atas alasan 'menjaga kebersihan hati' adalah perangkap iblis. Diamnya orang berilmu adalah punca kebatilan merasa berkuasa.\n\n➤ Kebaikan Berselerak Pasti Tewas: Kebaikan yang berselerak tanpa kesatuan saf pasti dikalahkan oleh kebatilan yang berorganisasi. Penyelamat daripada qanun kemusnahan adalah bergabung dalam amal jama'i yang tersusun.\n\n—————————————————————————————————————————————",
@@ -2043,11 +2043,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dengan ini mereka telah mewarisi tugas Rasulullah SAW yang diutus kepada manusia untuk membawa khabar gembira dan ancaman dari Allah SWT. Dengan kata lain, mereka melakukan dakwah kepada Allah. atau dengan istilah sebahagian fuqaha, mereka ialah; Orang-orang yang melaksanakan tugas hisbah <sup class=\"fn-ref\" data-fn-id=\"59\" title=\"Hisbah ialah satu istilah Perundangan Islam yang bermaksud menguatkuasa bagi hukum syariah. (Pnt)\">[59]</sup> dengan mengharapkan pahala dan Allah dalam melakukan nasihat, menegakkan amar makruf dan nahi mungkar."
+          "text": "Dengan ini mereka telah mewarisi tugas Rasulullah SAW yang diutus kepada manusia untuk membawa khabar gembira dan ancaman dari Allah SWT. Dengan kata lain, mereka melakukan dakwah kepada Allah. atau dengan istilah sebahagian fuqaha, mereka ialah; Orang-orang yang melaksanakan tugas hisbah <sup class=\"fn-ref\" data-fn-id=\"59\" title=\"Hisbah: Institusi perundangan dan pengawasan syariah yang bertanggungjawab menyuruh kebaikan dan mencegah kemungkaran dalam masyarakat. (Pnt)\">[59]</sup> dengan mengharapkan pahala dan Allah dalam melakukan nasihat, menegakkan amar makruf dan nahi mungkar."
         },
         {
           "type": "text",
-          "text": "Ibnu Taimiyah telah menerangkan definisi dakwah dengan katanya: “Dakwah kepada Allah ialah menyeru manusia agar beriman dengan Allah serta beriman dengan apa yang telah dibawa oleh para Rasul-Nya, membenarkan apa yang telah diberitakan oleh mereka dan taat kepada perintah mereka.” <sup class=\"fn-ref\" data-fn-id=\"60\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, 15/157\">[60]</sup>"
+          "text": "Ibnu Taimiyah telah menerangkan definisi dakwah dengan katanya: “Dakwah kepada Allah ialah menyeru manusia agar beriman dengan Allah serta beriman dengan apa yang telah dibawa oleh para Rasul-Nya, membenarkan apa yang telah diberitakan oleh mereka dan taat kepada perintah mereka.” <sup class=\"fn-ref\" data-fn-id=\"60\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 15, hlm. 157.\">[60]</sup>"
         },
         {
           "type": "heading2",
@@ -2091,7 +2091,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Menurut Islam, orang yang menjalankan urusan dan memikul beban dakwah suapaya ianya sampai kepada manusia disebut sebagai الدَّاعِي al-da'i e” atau الدَّاعِيَةُ al-dai'yah”. “Al-da'i e” ialah kata nama pelaku iaitu kata nama bagi orang yang melakukan dakwah. Manakala “al-da'i yah” juga merupakan satu bentuk kata nama pelaku yang ditambah dengan huruf ta’ di hujungnya untuk menunjukkan erti bersangatan atau gigih berdakwah. Kata Jamaknya dikatakan دُعَاةٌ du'at” atau دَاعُونَ da'un” manakala bagi da'i wanita yang ramai kita katakan mereka sebagai دَاعِيَاتٌ da'i yat”. <sup class=\"fn-ref\" data-fn-id=\"61\" title=\"Petikan artikel oleh Ustaz Rasyid al-A'zami dalam Majalah ’al-Tarbiah al-Islamiah’ Jilid 5, m.s. 471\">[61]</sup>"
+          "text": "Menurut Islam, orang yang menjalankan urusan dan memikul beban dakwah suapaya ianya sampai kepada manusia disebut sebagai الدَّاعِي al-da'i e” atau الدَّاعِيَةُ al-dai'yah”. “Al-da'i e” ialah kata nama pelaku iaitu kata nama bagi orang yang melakukan dakwah. Manakala “al-da'i yah” juga merupakan satu bentuk kata nama pelaku yang ditambah dengan huruf ta’ di hujungnya untuk menunjukkan erti bersangatan atau gigih berdakwah. Kata Jamaknya dikatakan دُعَاةٌ du'at” atau دَاعُونَ da'un” manakala bagi da'i wanita yang ramai kita katakan mereka sebagai دَاعِيَاتٌ da'i yat”. <sup class=\"fn-ref\" data-fn-id=\"61\" title=\"Ustaz Rasyid al-A'zami, Majallah at-Tarbiyah al-Islamiyyah, jld. 5, hlm. 471 (dengan sedikit suntingan).\">[61]</sup>"
         },
         {
           "type": "heading2",
@@ -2100,7 +2100,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Al-Rasul SAW telah menjalankan kerja dakwah ini. Baginda memerintahkan mereka dengan apa ya ng diperintahkan Allah, melarang mereka dari melakukan perkara yang dilarang Allah, menyuruh mereka kepada kebaikan dan mencegah mereka dari segala kemungkaran.” <sup class=\"fn-ref\" data-fn-id=\"62\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 161\">[62]</sup> “Realitinya, tugas mengajak ke jalan Allah ini merupakan tugas setiap rasul-rasul Allah. Untuk itulah mereka diutuskan oleh Allah. Semua mereka mengajak manusia supaya beriman kepada Allah, beribadah kepada Allah sahaja dan menurut sebagaimana yang diturunkan kepada mereka. Allah SWT berfirman tentang Nuh AS:"
+          "text": "“Al-Rasul SAW telah menjalankan kerja dakwah ini. Baginda memerintahkan mereka dengan apa ya ng diperintahkan Allah, melarang mereka dari melakukan perkara yang dilarang Allah, menyuruh mereka kepada kebaikan dan mencegah mereka dari segala kemungkaran.” <sup class=\"fn-ref\" data-fn-id=\"62\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 15, hlm. 161.\">[62]</sup> “Realitinya, tugas mengajak ke jalan Allah ini merupakan tugas setiap rasul-rasul Allah. Untuk itulah mereka diutuskan oleh Allah. Semua mereka mengajak manusia supaya beriman kepada Allah, beribadah kepada Allah sahaja dan menurut sebagaimana yang diturunkan kepada mereka. Allah SWT berfirman tentang Nuh AS:"
         },
         {
           "type": "quran",
@@ -2124,11 +2124,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Oleh yang demikian, para Rasul adalah da'i yang menyeru manusia kepada Allah. Mereka itu dipilih untuk mendokong seruan Allah dan menyampaikan seruan tersebut kepada manusia.” <sup class=\"fn-ref\" data-fn-id=\"63\" title=\"Usul al-Da'wah, m.s. 268\">[63]</sup>"
+          "text": "Oleh yang demikian, para Rasul adalah da'i yang menyeru manusia kepada Allah. Mereka itu dipilih untuk mendokong seruan Allah dan menyampaikan seruan tersebut kepada manusia.” <sup class=\"fn-ref\" data-fn-id=\"63\" title=\"Dr. Abdul Karim Zaidan, Usul ad-Da'wah, hlm. 268.\">[63]</sup>"
         },
         {
           "type": "quote",
-          "text": "“Setiap perkara yang disukai oleh Allah dan Rasul-Nya sama ada wajib atau sunat, zahir atau batin adalah merupakan antara isi dakwah kepada Allah yang perlu kita ajak kepadanya. Begitu juga setiap perkara yang dibenci oleh Allah dan Rasul-Nya sama ada batin atau zahir adalah merupakan isi dakwah kepada Allah dan perkara yang perlu kita larang daripadanya. Dakwah tidak akan sempurna kecuali dengan mengajak manusia agar melaksanakan perkara yang dicintai Allah dan meninggalkan perkara yang dimurkai Allah sama ada ianya perkataan atau perbuatan, lahir mahupun batin.” <sup class=\"fn-ref\" data-fn-id=\"64\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 164\">[64]</sup>"
+          "text": "“Setiap perkara yang disukai oleh Allah dan Rasul-Nya sama ada wajib atau sunat, zahir atau batin adalah merupakan antara isi dakwah kepada Allah yang perlu kita ajak kepadanya. Begitu juga setiap perkara yang dibenci oleh Allah dan Rasul-Nya sama ada batin atau zahir adalah merupakan isi dakwah kepada Allah dan perkara yang perlu kita larang daripadanya. Dakwah tidak akan sempurna kecuali dengan mengajak manusia agar melaksanakan perkara yang dicintai Allah dan meninggalkan perkara yang dimurkai Allah sama ada ianya perkataan atau perbuatan, lahir mahupun batin.” <sup class=\"fn-ref\" data-fn-id=\"64\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 15, hlm. 164.\">[64]</sup>"
         },
         {
           "type": "heading2",
@@ -2169,7 +2169,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Seluruh umat Islam termasuk dalam perintah ayat ini. Ini kerana asasnya, perintah Allah kepada Rasul-Nya adalah juga perintah Allah kepada umatnya kecuali disebutkan pengecualian. Tetapi, di sini tiada sebarang pengecualian dari perintah Allah supaya mengerjakan tugas dakwah. Ini bermakna, Allah S.WT. memuliakan umat Islam dengan menempatkan mereka bersama-sama rasul-rasul dalam menjalankan tugas dakwah ke jalan Allah.” <sup class=\"fn-ref\" data-fn-id=\"65\" title=\"Usul al-Da'wah, m.s. 269\">[65]</sup>"
+          "text": "“Seluruh umat Islam termasuk dalam perintah ayat ini. Ini kerana asasnya, perintah Allah kepada Rasul-Nya adalah juga perintah Allah kepada umatnya kecuali disebutkan pengecualian. Tetapi, di sini tiada sebarang pengecualian dari perintah Allah supaya mengerjakan tugas dakwah. Ini bermakna, Allah S.WT. memuliakan umat Islam dengan menempatkan mereka bersama-sama rasul-rasul dalam menjalankan tugas dakwah ke jalan Allah.” <sup class=\"fn-ref\" data-fn-id=\"65\" title=\"Dr. Abdul Karim Zaidan, Usul ad-Da'wah, hlm. 269.\">[65]</sup>"
         },
         {
           "type": "text",
@@ -2185,7 +2185,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Menurut Imam al-Qurtubi, Allah telah menjadikan amar makruf nahi mungkar sebagai garis pemisah antara orang yang beriman dan orang munafik. Ia menjadi ciri utama orang beriman iaitu amar makruf nahi mungkar. Asas ciri tersebut ialah menyeru kepada Islam. <sup class=\"fn-ref\" data-fn-id=\"66\" title=\"Tafsir al-Qurtubi, Juzu’ 4, m.s. 47. (Dipetik dari Usul al-Da'wah)\">[66]</sup>"
+          "text": "Menurut Imam al-Qurtubi, Allah telah menjadikan amar makruf nahi mungkar sebagai garis pemisah antara orang yang beriman dan orang munafik. Ia menjadi ciri utama orang beriman iaitu amar makruf nahi mungkar. Asas ciri tersebut ialah menyeru kepada Islam. <sup class=\"fn-ref\" data-fn-id=\"66\" title=\"Al-Imam al-Qurtubi, Al-Jami' li Ahkam al-Qur'an, jld. 4, hlm. 47 (dipetik daripada Dr. Abdul Karim Zaidan, Usul ad-Da'wah).\">[66]</sup>"
         },
         {
           "type": "quote",
@@ -2205,7 +2205,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Allah SWT tidak akan mengakui kebaikan mereka semata-mata kerana mereka beriman kepada Allah dan hari akhirat sehinggalah ditambahkan cirinya dengan mengerjakan amar makruf dan nahi mungkar.” <sup class=\"fn-ref\" data-fn-id=\"67\" title=\"Ihya’ ‘Ulumuddin, Jilid 2, m.s. 307\">[67]</sup>"
+          "text": "Allah SWT tidak akan mengakui kebaikan mereka semata-mata kerana mereka beriman kepada Allah dan hari akhirat sehinggalah ditambahkan cirinya dengan mengerjakan amar makruf dan nahi mungkar.” <sup class=\"fn-ref\" data-fn-id=\"67\" title=\"Al-Imam al-Ghazali, Ihya' 'Ulumiddin, jld. 2, hlm. 307.\">[67]</sup>"
         },
         {
           "type": "quote",
@@ -2349,7 +2349,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Memerangi kaum yang zalim adalah salah satu bentuk mencegah kemungkaran.” <sup class=\"fn-ref\" data-fn-id=\"68\" title=\"Ibid\">[68]</sup>"
+          "text": "Memerangi kaum yang zalim adalah salah satu bentuk mencegah kemungkaran.” <sup class=\"fn-ref\" data-fn-id=\"68\" title=\"Ibid.\">[68]</sup>"
         },
         {
           "type": "text",
@@ -2361,11 +2361,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dakwah juga meliputi proses menyuruh manusia mengerjakan apa yang diperintah oleh Allah dan mencegah mereka daripada perkara yang dilarang oleh Allah. Ini kerana, dakwah mengandungi aspek suruhan iaitu menyuruh kepada yang makruf dan menegah daripada yang mungkar.” <sup class=\"fn-ref\" data-fn-id=\"69\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 165\">[69]</sup>"
+          "text": "Dakwah juga meliputi proses menyuruh manusia mengerjakan apa yang diperintah oleh Allah dan mencegah mereka daripada perkara yang dilarang oleh Allah. Ini kerana, dakwah mengandungi aspek suruhan iaitu menyuruh kepada yang makruf dan menegah daripada yang mungkar.” <sup class=\"fn-ref\" data-fn-id=\"69\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 15, hlm. 165.\">[69]</sup>"
         },
         {
           "type": "quote",
-          "text": "“Tugasan ini diwajibkan ke atas sekumpulan umat Islam. Itulah yang dinamakan oleh ulama sebagai fardu kifayah. Sekiranya ada satu golongan dalam kalangan umat Islam bangkit melaksanakan dakwah, gugurlah kewajipan memikul tugas tersebut dari umat yang selebihnya. Walaupun seluruh umat diperintahkan melaksanakan tugas ini, tetapi sekiranya ada satu golongan dari mereka menyempurnakannya gugurlah tanggungjawab ini dari yang lain.” <sup class=\"fn-ref\" data-fn-id=\"70\" title=\"Ibid\">[70]</sup>"
+          "text": "“Tugasan ini diwajibkan ke atas sekumpulan umat Islam. Itulah yang dinamakan oleh ulama sebagai fardu kifayah. Sekiranya ada satu golongan dalam kalangan umat Islam bangkit melaksanakan dakwah, gugurlah kewajipan memikul tugas tersebut dari umat yang selebihnya. Walaupun seluruh umat diperintahkan melaksanakan tugas ini, tetapi sekiranya ada satu golongan dari mereka menyempurnakannya gugurlah tanggungjawab ini dari yang lain.” <sup class=\"fn-ref\" data-fn-id=\"70\" title=\"Ibid.\">[70]</sup>"
         },
         {
           "type": "quote",
@@ -2385,7 +2385,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Dari sini semua jelaslah bahawa dakwah itu sendiri bererti menyeru manusia kepada kebaikan dan melarang mereka daripada kemungkaran. Da'i adalah penyeru, penuntut dan pengajak kepada apa yang diserunya. Itulah maksud amar kerana amar ialah meminta dilakukan apa yang disuruh. Oleh itu, menyeru kepada Allah ialah menyeru ke jalan-Nya. Mengikuti jalan-Nya adalah dengan membenarkan apa yang telah disampaikan dan taat pada segala yang diperintahkan.” <sup class=\"fn-ref\" data-fn-id=\"71\" title=\"Ibnu Taimiah, Majmu’ Fatawa, Jilid 15, m.s. 166\">[71]</sup>"
+          "text": "Dari sini semua jelaslah bahawa dakwah itu sendiri bererti menyeru manusia kepada kebaikan dan melarang mereka daripada kemungkaran. Da'i adalah penyeru, penuntut dan pengajak kepada apa yang diserunya. Itulah maksud amar kerana amar ialah meminta dilakukan apa yang disuruh. Oleh itu, menyeru kepada Allah ialah menyeru ke jalan-Nya. Mengikuti jalan-Nya adalah dengan membenarkan apa yang telah disampaikan dan taat pada segala yang diperintahkan.” <sup class=\"fn-ref\" data-fn-id=\"71\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 15, hlm. 166.\">[71]</sup>"
         },
         {
           "type": "heading2",
@@ -2461,7 +2461,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Meskipun kita katakan berdakwah kepada Allah itu wajib ke atas sebahagian orang Islam dan tidak wajib ke atas sebahagian yang lain kerana fardu kifayah, tetapi syarat untuk terlepas daripada tanggungjawab fardu kifayah hanya terhasil apabila ada orang yang menyelesaikan tanggungjawab tersebut. Bila fardu kifayah itu tidak selesai, maka wajiblah setiap orang Islam melakukannya menurut kemampuan masing-masing.” <sup class=\"fn-ref\" data-fn-id=\"72\" title=\"Usul al-Da'wah, m.s. 275\">[72]</sup>"
+          "text": "Meskipun kita katakan berdakwah kepada Allah itu wajib ke atas sebahagian orang Islam dan tidak wajib ke atas sebahagian yang lain kerana fardu kifayah, tetapi syarat untuk terlepas daripada tanggungjawab fardu kifayah hanya terhasil apabila ada orang yang menyelesaikan tanggungjawab tersebut. Bila fardu kifayah itu tidak selesai, maka wajiblah setiap orang Islam melakukannya menurut kemampuan masing-masing.” <sup class=\"fn-ref\" data-fn-id=\"72\" title=\"Dr. Abdul Karim Zaidan, Usul ad-Da'wah, hlm. 275.\">[72]</sup>"
         },
         {
           "type": "heading2",
@@ -2486,11 +2486,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Sesungguhnya tugas ini khusus buat ulama. Ini kerana untuk menyeru kepada kebaikan seseorang itu mesti tahu tentang perkara-perkara kebaikan, perkara yang makruf dan perkara yang mungkar. Oleh itu, tugas ini disarankan kepada golongan ulama, bukan kepada golongan yang jahil. Ulama adalah sebahagian daripada umat Islam.” <sup class=\"fn-ref\" data-fn-id=\"73\" title=\"Tafsir Ar-Razi, jilid 7, m.s. 177; Tafsir al-Qurtubi, Juzu’ 4, m.s. 165; Ahkam al-Quran li al-Jasas,\">[73]</sup>"
+          "text": "“Sesungguhnya tugas ini khusus buat ulama. Ini kerana untuk menyeru kepada kebaikan seseorang itu mesti tahu tentang perkara-perkara kebaikan, perkara yang makruf dan perkara yang mungkar. Oleh itu, tugas ini disarankan kepada golongan ulama, bukan kepada golongan yang jahil. Ulama adalah sebahagian daripada umat Islam.” <sup class=\"fn-ref\" data-fn-id=\"73\" title=\"Al-Imam ar-Razi, Mafatih al-Ghaib (at-Tafsir al-Kabir), jld. 7, hlm. 177; Al-Imam al-Qurtubi, Al-Jami' li Ahkam al-Qur'an, jld. 4, hlm. 165; Al-Imam al-Jashshash, Ahkam al-Qur'an, jld. 2, hlm. 29.\">[73]</sup>"
         },
         {
           "type": "text",
-          "text": "Pendapat al-Radzi ini sama dengan pandangan al-Qurtubi dan al-Jassas. <sup class=\"fn-ref\" data-fn-id=\"74\" title=\"Ibid\">[74]</sup> Dari sinilah lahir kesamaran tersebut."
+          "text": "Pendapat al-Radzi ini sama dengan pandangan al-Qurtubi dan al-Jassas. <sup class=\"fn-ref\" data-fn-id=\"74\" title=\"Ibid.\">[74]</sup> Dari sinilah lahir kesamaran tersebut."
         },
         {
           "type": "text",
@@ -2506,7 +2506,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Atas dasar inilah maka setiap orang Islam mesti menyeru kepada Allah sekadar apa yang diketahuinya sebagaimana yang akan kita jelaskan kemudian. Itulah yang dimaksudkan dalam kata -kata bahawa dakwah itu hanya ‘wajib keatas ulama dan tidak wajib kepada orang jahil’. Ertinya, wajib kepada siapa yang mengetahui sesuatu masalah dan mengetahui hukum masalah yang diserunya, sama ada dia orang biasa ataupun dia telah mempunyai ilmu agama yang banyak (ulama). Dari sini nyatalah kesalahan orang yang berkata bahawa maksud perkataan “ulama” ialah mereka yang mempunyai ilmu yang banyak sahaja. Kadang-kala mereka yang mempunyai ilmu ini digelar ‘orang agama’. Nama itu juga menepati setiap orang Islam, kerana setiap orang Islam itu adalah orang Islam. Oleh itu dakwah tidak terbatas kepada golongan tertentu sahaja, bahkan adalah profession semua individu Muslim.” <sup class=\"fn-ref\" data-fn-id=\"75\" title=\"Usul al-Da'wah, m.s. 274\">[75]</sup>"
+          "text": "Atas dasar inilah maka setiap orang Islam mesti menyeru kepada Allah sekadar apa yang diketahuinya sebagaimana yang akan kita jelaskan kemudian. Itulah yang dimaksudkan dalam kata -kata bahawa dakwah itu hanya ‘wajib keatas ulama dan tidak wajib kepada orang jahil’. Ertinya, wajib kepada siapa yang mengetahui sesuatu masalah dan mengetahui hukum masalah yang diserunya, sama ada dia orang biasa ataupun dia telah mempunyai ilmu agama yang banyak (ulama). Dari sini nyatalah kesalahan orang yang berkata bahawa maksud perkataan “ulama” ialah mereka yang mempunyai ilmu yang banyak sahaja. Kadang-kala mereka yang mempunyai ilmu ini digelar ‘orang agama’. Nama itu juga menepati setiap orang Islam, kerana setiap orang Islam itu adalah orang Islam. Oleh itu dakwah tidak terbatas kepada golongan tertentu sahaja, bahkan adalah profession semua individu Muslim.” <sup class=\"fn-ref\" data-fn-id=\"75\" title=\"Dr. Abdul Karim Zaidan, Usul ad-Da'wah, hlm. 274.\">[75]</sup>"
         },
         {
           "type": "heading2",
@@ -2531,7 +2531,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Keengganan menjalankan tugas mulia ini adalah sebesar-besar muslihat syaitan sebagaimana yang dikatakan oleh Ibnu al-Qayyim: “Syaitan mengajar mereka supaya meninggalkan dakwah, tidak menjalankan tugas amar makruf dan nahi mungkar dalam rangka berbaik- baik sesama insan, berakhlak baik terhadap mereka dan kononnya melaksanakan firman Allah: “Jagalah diri kamu” <sup class=\"fn-ref\" data-fn-id=\"76\" title=\"Ighathah al-Lahfan min Masaid al-Syaitan, Jilid 1, m.s. 130\">[76]</sup>"
+          "text": "“Keengganan menjalankan tugas mulia ini adalah sebesar-besar muslihat syaitan sebagaimana yang dikatakan oleh Ibnu al-Qayyim: “Syaitan mengajar mereka supaya meninggalkan dakwah, tidak menjalankan tugas amar makruf dan nahi mungkar dalam rangka berbaik- baik sesama insan, berakhlak baik terhadap mereka dan kononnya melaksanakan firman Allah: “Jagalah diri kamu” <sup class=\"fn-ref\" data-fn-id=\"76\" title=\"Ibn al-Qayyim, Ighathat al-Lahfan min Masa'id asy-Syaithan, jld. 1, hlm. 130.\">[76]</sup>"
         },
         {
           "type": "text",
@@ -2735,11 +2735,11 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sebaliknya pula terdapat segolongan yang bersikap cuai terhadap kebenaran atau apa yang diperintahkan atau terhadap pelaksanaan amar makruf dan nahi mungkar. Alangkah betulnya kata-kata seorang ahli salaf: “Setiap perkara yang diperintahkan oleh Allah pasti akan ditentang oleh syaitan dengan dua cara. Dia tidak peduli yang manakah antaranya yang lebih berkesan; melampau atau mengurangi perintah Allah.” <sup class=\"fn-ref\" data-fn-id=\"77\" title=\"Melebih-lebihkan sesuatu perkara atau mengabaikannya. (Pnt)\">[77]</sup>"
+          "text": "Sebaliknya pula terdapat segolongan yang bersikap cuai terhadap kebenaran atau apa yang diperintahkan atau terhadap pelaksanaan amar makruf dan nahi mungkar. Alangkah betulnya kata-kata seorang ahli salaf: “Setiap perkara yang diperintahkan oleh Allah pasti akan ditentang oleh syaitan dengan dua cara. Dia tidak peduli yang manakah antaranya yang lebih berkesan; melampau atau mengurangi perintah Allah.” <sup class=\"fn-ref\" data-fn-id=\"77\" title=\"Maksudnya: Ifrat (melampaui batas) atau tafrit (mengabaikan/mengurangkan hak). (Pnt)\">[77]</sup>"
         },
         {
           "type": "text",
-          "text": "Oleh itu, bila ada orang yang bekerjasama dalam dosa dan permusuhan, di sebaliknya ada pula orang yang tidak menolong pada kebaikan dan takwa. Ada orang yang menjalankan suruhan dan juga melakukan perkara yang dilarang di sebaliknya ada orang yang meninggalkan perkara yang dilarang dan sebahagian perkara yang disuruh. Moga Allah SWT menunjukkan kita jalan yang lurus. La haula wala quwwata illa billah. <sup class=\"fn-ref\" data-fn-id=\"78\" title=\"Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 14, m.s. 479\">[78]</sup>"
+          "text": "Oleh itu, bila ada orang yang bekerjasama dalam dosa dan permusuhan, di sebaliknya ada pula orang yang tidak menolong pada kebaikan dan takwa. Ada orang yang menjalankan suruhan dan juga melakukan perkara yang dilarang di sebaliknya ada orang yang meninggalkan perkara yang dilarang dan sebahagian perkara yang disuruh. Moga Allah SWT menunjukkan kita jalan yang lurus. La haula wala quwwata illa billah. <sup class=\"fn-ref\" data-fn-id=\"78\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 14, hlm. 479.\">[78]</sup>"
         },
         {
           "type": "text",
@@ -2747,7 +2747,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Perlu disedari bahawa ulama terdahulu yang membolehkan sikap berdiam diri apabila berhadapan dengan kekuatan golongan yang jahat dan penyiksaan, keharusan ini hanyalah untuk orang awam yang lemah. Sebaliknya, para da'i , pemimpin dan para ulama hendaklah mengambil jalan ‘azimah <sup class=\"fn-ref\" data-fn-id=\"79\" title=\"Lawan bagi rukhsah. (Pnt)\">[79]</sup> dalam menyatakan kebenaran sekali pun mereka disiksa, ditentang sehingga diancam dengan maut. Ianya telah dijelaskan oleh Ibnu Taimiyah yang akan kami sebutkan pada bab lain. Ia juga telah dijelaskan oleh ulama lain. Begitu juga sejarah yang berlaku kepada Imam Ibnu Hanbal semasa peristiwa fitnah yang menyatakan bahawa al-Quran itu makhluk. Perhatikanlah dari perspektif khusus kepentingan kata-kata Ibnu Taimiyah: “Hidayah itu tidak dapat diperolehi kecuali dengan mentaati Allah.”"
+          "text": "Perlu disedari bahawa ulama terdahulu yang membolehkan sikap berdiam diri apabila berhadapan dengan kekuatan golongan yang jahat dan penyiksaan, keharusan ini hanyalah untuk orang awam yang lemah. Sebaliknya, para da'i , pemimpin dan para ulama hendaklah mengambil jalan ‘azimah <sup class=\"fn-ref\" data-fn-id=\"79\" title=\"'Azimah: Hukum asal yang disyariatkan secara tegas, lawan bagi rukhsah (keringanan). (Pnt)\">[79]</sup> dalam menyatakan kebenaran sekali pun mereka disiksa, ditentang sehingga diancam dengan maut. Ianya telah dijelaskan oleh Ibnu Taimiyah yang akan kami sebutkan pada bab lain. Ia juga telah dijelaskan oleh ulama lain. Begitu juga sejarah yang berlaku kepada Imam Ibnu Hanbal semasa peristiwa fitnah yang menyatakan bahawa al-Quran itu makhluk. Perhatikanlah dari perspektif khusus kepentingan kata-kata Ibnu Taimiyah: “Hidayah itu tidak dapat diperolehi kecuali dengan mentaati Allah.”"
         },
         {
           "type": "quote",
@@ -2759,7 +2759,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Mesti ada usaha gigih, kadangkala dengan cara lembut jika golongan sesat hanyalah individu-individu yang memerlukan tunjuk ajar dan penerangan. Tetapi mesti menggunakan apa cara saja yang boleh dan dibenarkan oleh syarak jika menghadapi kuasa jahat yang menghalang manusia dari hidayah Allah, menyingkirkan agama Allah dan menghalang syariat Allah dari ditegakkan. Ketika itu sahajalah – dan bukannya sebelumnya- gugurlah tugas ini dari mereka yang beriman.” <sup class=\"fn-ref\" data-fn-id=\"80\" title=\"Al-Zilal, Juzu’ 7, Cetakan 1961, m.s. 59\">[80]</sup>"
+          "text": "Mesti ada usaha gigih, kadangkala dengan cara lembut jika golongan sesat hanyalah individu-individu yang memerlukan tunjuk ajar dan penerangan. Tetapi mesti menggunakan apa cara saja yang boleh dan dibenarkan oleh syarak jika menghadapi kuasa jahat yang menghalang manusia dari hidayah Allah, menyingkirkan agama Allah dan menghalang syariat Allah dari ditegakkan. Ketika itu sahajalah – dan bukannya sebelumnya- gugurlah tugas ini dari mereka yang beriman.” <sup class=\"fn-ref\" data-fn-id=\"80\" title=\"Sayyid Qutb, Fi Zilal al-Qur'an, jld. 3 (juzuk 7), cet. 1961, hlm. 59.\">[80]</sup>"
         },
         {
           "type": "text",
@@ -2795,101 +2795,101 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sesungguhnya ayat-ayat al-Quran yang dikemukakan tadi tidak menggugurkan tanggungjawab untuk terus memerangi kejahatan, menentang kesesatan dan mengalahkan taghut dari bahu individu dan umat Islam. Taghut yang paling jahat ialah taghut yang merampas sifat uluhiah Allah, merampas kekuasaan Allah dan memperhambakan manusia kepada syariat yang bukan syariat Allah. Tidak ada gunanya individu atau umat itu mendapat hidayah sedangkan kemungkaran itu masih berkuasa dan berleluasa.” <sup class=\"fn-ref\" data-fn-id=\"81\" title=\"Ibid, m.s. 59-60\">[81]</sup>"
+          "text": "Sesungguhnya ayat-ayat al-Quran yang dikemukakan tadi tidak menggugurkan tanggungjawab untuk terus memerangi kejahatan, menentang kesesatan dan mengalahkan taghut dari bahu individu dan umat Islam. Taghut yang paling jahat ialah taghut yang merampas sifat uluhiah Allah, merampas kekuasaan Allah dan memperhambakan manusia kepada syariat yang bukan syariat Allah. Tidak ada gunanya individu atau umat itu mendapat hidayah sedangkan kemungkaran itu masih berkuasa dan berleluasa.” <sup class=\"fn-ref\" data-fn-id=\"81\" title=\"Ibid., hlm. 59–60.\">[81]</sup>"
         }
       ],
       "footnotes": [
         {
           "id": 59,
-          "text": "Hisbah ialah satu istilah Perundangan Islam yang bermaksud menguatkuasa bagi hukum syariah. (Pnt)"
+          "text": "Hisbah: Institusi perundangan dan pengawasan syariah yang bertanggungjawab menyuruh kebaikan dan mencegah kemungkaran dalam masyarakat. (Pnt)"
         },
         {
           "id": 60,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, 15/157"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 15, hlm. 157."
         },
         {
           "id": 61,
-          "text": "Petikan artikel oleh Ustaz Rasyid al-A'zami dalam Majalah ’al-Tarbiah al-Islamiah’ Jilid 5, m.s. 471 dengan"
+          "text": "Ustaz Rasyid al-A'zami, *Majallah at-Tarbiyah al-Islamiyyah*, jld. 5, hlm. 471 (dengan sedikit suntingan)."
         },
         {
           "id": 62,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 161"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 15, hlm. 161."
         },
         {
           "id": 63,
-          "text": "Usul al-Da'wah, m.s. 268"
+          "text": "Dr. Abdul Karim Zaidan, *Usul ad-Da'wah*, hlm. 268."
         },
         {
           "id": 64,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 164"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 15, hlm. 164."
         },
         {
           "id": 65,
-          "text": "Usul al-Da'wah, m.s. 269"
+          "text": "Dr. Abdul Karim Zaidan, *Usul ad-Da'wah*, hlm. 269."
         },
         {
           "id": 66,
-          "text": "Tafsir al-Qurtubi, Juzu’ 4, m.s. 47. (Dipetik dari Usul al-Da'wah)"
+          "text": "Al-Imam al-Qurtubi, *Al-Jami' li Ahkam al-Qur'an*, jld. 4, hlm. 47 (dipetik daripada Dr. Abdul Karim Zaidan, *Usul ad-Da'wah*)."
         },
         {
           "id": 67,
-          "text": "Ihya’ ‘Ulumuddin, Jilid 2, m.s. 307"
+          "text": "Al-Imam al-Ghazali, *Ihya' 'Ulumiddin*, jld. 2, hlm. 307."
         },
         {
           "id": 68,
-          "text": "Ibid"
+          "text": "Ibid."
         },
         {
           "id": 69,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 15, m.s. 165"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 15, hlm. 165."
         },
         {
           "id": 70,
-          "text": "Ibid"
+          "text": "Ibid."
         },
         {
           "id": 71,
-          "text": "Ibnu Taimiah, Majmu’ Fatawa, Jilid 15, m.s. 166"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 15, hlm. 166."
         },
         {
           "id": 72,
-          "text": "Usul al-Da'wah, m.s. 275"
+          "text": "Dr. Abdul Karim Zaidan, *Usul ad-Da'wah*, hlm. 275."
         },
         {
           "id": 73,
-          "text": "Tafsir Ar-Razi, jilid 7, m.s. 177; Tafsir al-Qurtubi, Juzu’ 4, m.s. 165; Ahkam al-Quran li al-Jasas, Juzu’ 2, m.s. 29;"
+          "text": "Al-Imam ar-Razi, *Mafatih al-Ghaib (at-Tafsir al-Kabir)*, jld. 7, hlm. 177; Al-Imam al-Qurtubi, *Al-Jami' li Ahkam al-Qur'an*, jld. 4, hlm. 165; Al-Imam al-Jashshash, *Ahkam al-Qur'an*, jld. 2, hlm. 29."
         },
         {
           "id": 74,
-          "text": "Ibid"
+          "text": "Ibid."
         },
         {
           "id": 75,
-          "text": "Usul al-Da'wah, m.s. 274"
+          "text": "Dr. Abdul Karim Zaidan, *Usul ad-Da'wah*, hlm. 274."
         },
         {
           "id": 76,
-          "text": "Ighathah al-Lahfan min Masaid al-Syaitan, Jilid 1, m.s. 130"
+          "text": "Ibn al-Qayyim, *Ighathat al-Lahfan min Masa'id asy-Syaithan*, jld. 1, hlm. 130."
         },
         {
           "id": 77,
-          "text": "Melebih-lebihkan sesuatu perkara atau mengabaikannya. (Pnt)"
+          "text": "Maksudnya: Ifrat (melampaui batas) atau tafrit (mengabaikan/mengurangkan hak). (Pnt)"
         },
         {
           "id": 78,
-          "text": "Ibnu Taimiah, Majmu’ al-Fatawa, Jilid 14, m.s. 479"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 14, hlm. 479."
         },
         {
           "id": 79,
-          "text": "Lawan bagi rukhsah. (Pnt)"
+          "text": "'Azimah: Hukum asal yang disyariatkan secara tegas, lawan bagi rukhsah (keringanan). (Pnt)"
         },
         {
           "id": 80,
-          "text": "Al-Zilal, Juzu’ 7, Cetakan 1961, m.s. 59"
+          "text": "Sayyid Qutb, *Fi Zilal al-Qur'an*, jld. 3 (juzuk 7), cet. 1961, hlm. 59."
         },
         {
           "id": 81,
-          "text": "Ibid, m.s. 59-60"
+          "text": "Ibid., hlm. 59–60."
         }
       ],
       "summary": "📌 Ringkasan Bab Keempat: \"Kewajipan Berdakwah kepada Allah\"\n\nSelepas menjelaskan peri pentingnya menolak hawa nafsu, memahami sunnatullah dalam ujian, dan bahaya menjadi orang baik yang pasif, Al-Rasyid melangkah ke fasa seterusnya dengan menegaskan bahawa dakwah bukan lagi satu pilihan atau hobi, melainkan suatu kewajipan syarak yang mutlak bagi setiap Muslim.\n\n1. Dakwah Sebagai Fardhu (Kewajipan) Syarak, Bukan Tugasan Sukarela\n\nAl-Rasyid memulakan bab ini dengan membongkar salah faham sebahagian masyarakat yang menganggap dakwah hanyalah tugas sukarela untuk golongan ulama atau ustaz sahaja. Beliau menegaskan, berdasarkan nas-nas al-Quran dan al-Sunnah, tugas mengajak manusia kepada kebaikan dan mencegah kemungkaran (Amr Ma'ruf Nahi Munkar) adalah fardhu (wajib) ke atas setiap individu Muslim mengikut kadar kemampuan, ilmu, dan ruang yang ada pada dirinya.\n\n2. Kaitan Dakwah dengan Identiti Utama Umat Terbaik (Khairu Ummah)\n\nPenulis membawakan ayat al-Quran daripada Surah Ali 'Imran (ayat 110): \"Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, kerana kamu menyuruh berbuat yang makruf, dan mencegah daripada yang munkar...\". Al-Rasyid menjelaskan bahawa kemuliaan dan status \"umat terbaik\" itu tidak datang secara automatik hanya pada nama, tetapi ia bergantung sepenuhnya kepada pelaksanaan tugas dakwah dan islah tersebut. Jika dakwah ditinggalkan, umat akan kehilangan identiti dan maruahnya.\n\n3. Keberkatan Hidup dan Keamanan Negara Bergantung kepada Dakwah\n\nBab ini menekankan bahawa kelangsungan keamanan sesebuah masyarakat dan keberkatan hidup di dalamnya berkait rapat dengan aktiviti dakwah. Apabila budaya menegur kesilapan dan mengajak kepada kebaikan terhenti, maka maksiat serta kerosakan akan bermaharajalela. Kesannya, doa tidak lagi dimakbulkan dan kehancuran sosial serta bala bencana akan menimpa keseluruhan masyarakat tanpa memilih bulu.\n\n4. Menyahut Seruan untuk Menyumbang dalam Saf Perjuangan\n\nBerdakwah kepada Allah memerlukan komitmen total. Al-Rasyid menyeru para pembaca agar tidak lagi melengahkan masa dan segera menyahut seruan dakwah secara tersusun. Setiap orang mempunyai peranan—sama ada menyumbang melalui penulisan, kepakaran teknikal, harta benda, mahupun tenaga fizikal. Apa yang penting ialah penglibatan diri secara aktif dalam saf (barisan) yang tersusun demi menegakkan syiar Islam.\n\nKesimpulan Bab:\nMesej utama daripada bab ini ialah meninggalkan dakwah adalah satu dosa dan jalan pintas menuju kemurkaan Allah. Dakwah adalah nadi kehidupan umat Islam. Bergerak melaksanakan kewajipan ini bukan sekadar untuk menyelamatkan orang lain, tetapi ia adalah usaha pertama untuk menyelamatkan iman dan diri kita sendiri di hadapan Allah SWT.\n\n💎 Mutiara Kata-kata Tokoh & Salafussoleh (Nukilan Emas):\n\n• Imam Ibn al-Qayyim (Miftah Dar as-Sa'adah): “Kedudukan dakwah kepada Allah adalah semulia-mulia darjat hamba, kerana ia merupakan maqam para rasul dan para pewaris mereka yang sebenar di muka bumi.”\n\n• Khalifah Umar bin Abdul Aziz: “Sesungguhnya kemungkaran jika dilakukan secara rahsia, ia hanya memudaratkan pelakunya; tetapi apabila ia dizahirkan dan tiada siapa yang menegurnya, maka kemudaratan itu akan menimpa seluruh masyarakat umum.”\n\n⚔️ Tambahan Fiqh Amal Haraki & Dimensi Tarbawi (Aplikasi Gerakan):\n\n➤ Fardhu Kifayah Yang Berubah Menjadi Fardhu 'Ain: Menolak dakyah mereka yang berpeluk tubuh dengan alasan dakwah itu fardhu kifayah. Selagi kemungkaran sistemik belum terhapus dan syiar Islam belum tertegak, kewajipan menyertai usaha dakwah menjadi fardhu 'ain ke atas setiap muslim mengikut keupayaannya.\n\n➤ Dakwah Sebagai Profesion Hidup Sepanjang Hayat: Dakwah bukan tugas sambilan waktu lapang atau monopoli lepasan agama semata-mata. Setiap jurutera, doktor, guru, dan peniaga muslim wajib menjadikan medan kerjayanya sebagai platform dakwah dan sokongan harakah Islamiyah.\n\n➤ Tiada Kesempurnaan Hidayah Tanpa Nahi Mungkar: Hidayah peribadi tidak akan kekal terpelihara sekiranya persekitaran dibiarkan dicemari maksiat. Mempertahankan iman menuntut usaha berterusan membersihkan iklim masyarakat.\n\n—————————————————————————————————————————————",
@@ -2982,7 +2982,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Seorang ahli fikah daripada kalangan tabiin Kufah yang arif lagi bijaksana, Amir as-Sya'bi, meriwayatkan bahawa terdapat beberapa orang lelaki yang telah keluar dari Kufah lalu menetap di pinggir bandar untuk beribadah di sana. Apabila berita tersebut sampai ke pengetahuan Abdullah bin Mas'ud RA, beliau segera pergi menemui mereka. Kedatangan beliau disambut dengan penuh kegembiraan oleh kumpulan lelaki tersebut. Ibnu Mas'ud kemudiannya bertanya: “Apakah yang mendorong kamu bertindak sebegini?” Mereka menjawab: “Kami ingin menjauhkan diri daripada hingar-bingar dan hiruk-pikuk orang ramai demi menumpukan perhatian untuk beribadah.” Abdullah bin Mas'ud lantas membidas: “Jika semua orang bertindak seperti kamu, siapakah lagi yang akan memerangi musuh? Aku tidak akan berganjak dari tempat ini sehinggalah kamu semua pulang.” Kisah ini telah diriwayatkan oleh tokoh ulama hadis terkemuka, Abdullah bin al-Mubarak.’ <sup class=\"fn-ref\" data-fn-id=\"82\" title=\"Abdullah bin al-Mubarak, Kitab Al-Zuhd, m.s. 390\">[82]</sup>"
+          "text": "Seorang ahli fikah daripada kalangan tabiin Kufah yang arif lagi bijaksana, Amir as-Sya'bi, meriwayatkan bahawa terdapat beberapa orang lelaki yang telah keluar dari Kufah lalu menetap di pinggir bandar untuk beribadah di sana. Apabila berita tersebut sampai ke pengetahuan Abdullah bin Mas'ud RA, beliau segera pergi menemui mereka. Kedatangan beliau disambut dengan penuh kegembiraan oleh kumpulan lelaki tersebut. Ibnu Mas'ud kemudiannya bertanya: “Apakah yang mendorong kamu bertindak sebegini?” Mereka menjawab: “Kami ingin menjauhkan diri daripada hingar-bingar dan hiruk-pikuk orang ramai demi menumpukan perhatian untuk beribadah.” Abdullah bin Mas'ud lantas membidas: “Jika semua orang bertindak seperti kamu, siapakah lagi yang akan memerangi musuh? Aku tidak akan berganjak dari tempat ini sehinggalah kamu semua pulang.” Kisah ini telah diriwayatkan oleh tokoh ulama hadis terkemuka, Abdullah bin al-Mubarak.’ <sup class=\"fn-ref\" data-fn-id=\"82\" title=\"Al-Imam Abdullah bin al-Mubarak, Kitab az-Zuhd, hlm. 390.\">[82]</sup>"
         },
         {
           "type": "text",
@@ -3055,7 +3055,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Malah, Kitab Allah sendiri telah mengisytiharkan di hadapan kita,Bahawa orang yang mati syahid itu tidak mati, dan ini sesungguhnya bukan suatu pendustaan. <sup class=\"fn-ref\" data-fn-id=\"83\" title=\"Al-Subki, Tabaqat al-Syafiiyyah al-Kubra, Jilid 1, m.s. 287 (Hadis yang dimaksudkan oleh Ibnu al-Mub\">[83]</sup>"
+          "text": "Malah, Kitab Allah sendiri telah mengisytiharkan di hadapan kita,Bahawa orang yang mati syahid itu tidak mati, dan ini sesungguhnya bukan suatu pendustaan. <sup class=\"fn-ref\" data-fn-id=\"83\" title=\"Al-Imam Tajuddin as-Subki, Tabaqat asy-Syafi'iyyah al-Kubra, jld. 1, hlm. 287. (Hadis yang dimaksudkan oleh Ibnu al-Mubarak ini ialah hadis sahih riwayat at-Tirmizi, an-Nasa'i, Ibn Majah, Abu Daud dan Ahmad: “Tidak akan berhimpun debu di jalan Allah dengan asap neraka Jahannam.” – Pent./Editor)\">[83]</sup>"
         },
         {
           "type": "text",
@@ -3108,7 +3108,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Wahai orang zuhud di muka bumi, majulah kamu. Robohkanlah tempat pertapaan kamu dan marilah dekatku. Sesungguhnya kamu telah duduk di tempatmu itu tanpa dalil. Kamu tidak melakukan apa-apa kebaikan. Majulah kamu.” <sup class=\"fn-ref\" data-fn-id=\"84\" title=\"Syeikh Abdul Qadir, Al-Fath al-Rabbani, m.s. 73 (dengan sedikit pemotongan)\">[84]</sup>"
+          "text": "“Wahai orang zuhud di muka bumi, majulah kamu. Robohkanlah tempat pertapaan kamu dan marilah dekatku. Sesungguhnya kamu telah duduk di tempatmu itu tanpa dalil. Kamu tidak melakukan apa-apa kebaikan. Majulah kamu.” <sup class=\"fn-ref\" data-fn-id=\"84\" title=\"Syeikh Abdul Qadir al-Jilani, Al-Fath ar-Rabbani, hlm. 73 (dengan sedikit ringkasan).\">[84]</sup>"
         },
         {
           "type": "text",
@@ -3133,7 +3133,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Beliau terus bertegas dan terus terang. Beliau tampil ke hadapan dan berkata: “Ahli zuhud adalah bagaikan kumbang-kumbang yang menanam diri mereka, mengasingkan diri daripada manfaat manusia. Mengasingkan diri itu baik jika sekiranya itu tidak menghalangnya dari membuat kebaikan, berjemaah, mengiringi jenazah dan menziarahi orang sakit. Walaubagaimanapun pengasingan diri itu adalah sikap pengecut. Mereka yang berani adalah mereka yang belajar dan mengajar dan inilah sebenarnya kedudukan para-Nabi a.s.” <sup class=\"fn-ref\" data-fn-id=\"85\" title=\"Ibnu al-Jauzi, Said al-Khatir, m.s. 224, karangan Muhammad al-Ghazali\">[85]</sup>"
+          "text": "Beliau terus bertegas dan terus terang. Beliau tampil ke hadapan dan berkata: “Ahli zuhud adalah bagaikan kumbang-kumbang yang menanam diri mereka, mengasingkan diri daripada manfaat manusia. Mengasingkan diri itu baik jika sekiranya itu tidak menghalangnya dari membuat kebaikan, berjemaah, mengiringi jenazah dan menziarahi orang sakit. Walaubagaimanapun pengasingan diri itu adalah sikap pengecut. Mereka yang berani adalah mereka yang belajar dan mengajar dan inilah sebenarnya kedudukan para-Nabi a.s.” <sup class=\"fn-ref\" data-fn-id=\"85\" title=\"Ibn al-Jauzi, Said al-Khatir (tahqiq Syeikh Muhammad al-Ghazali), hlm. 224.\">[85]</sup>"
         },
         {
           "type": "text",
@@ -3169,7 +3169,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bukan kezaliman dan bukan kewewenangan <sup class=\"fn-ref\" data-fn-id=\"86\" title=\"Majalah al-Muslimun, Bil. 3, m.s. 199, (Petikan dari Qasidah yang panjang)\">[86]</sup>"
+          "text": "Bukan kezaliman dan bukan kewewenangan <sup class=\"fn-ref\" data-fn-id=\"86\" title=\"Majallah al-Muslimun, bil. 3, hlm. 199 (petikan daripada qasidah yang panjang).\">[86]</sup>"
         },
         {
           "type": "heading2",
@@ -3182,7 +3182,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Para perawi telah meriwayatkan kepada kita dari seorang sahabat Rasulullah SAW yang telah dijamin masuk syurga, iaitu Talhah bin Ubaidillah al-Quraisyi RA Beliau telah berkata: “Cukup jadi keaiban pada seseorang bila dia duduk diam di rumahnya.” <sup class=\"fn-ref\" data-fn-id=\"87\" title=\"Tabaqat Ibnu Saad, Jilid 3, m.s. 221\">[87]</sup>"
+          "text": "Para perawi telah meriwayatkan kepada kita dari seorang sahabat Rasulullah SAW yang telah dijamin masuk syurga, iaitu Talhah bin Ubaidillah al-Quraisyi RA Beliau telah berkata: “Cukup jadi keaiban pada seseorang bila dia duduk diam di rumahnya.” <sup class=\"fn-ref\" data-fn-id=\"87\" title=\"Ibn Sa'ad, Al-Tabaqat al-Kubra, jld. 3, hlm. 221.\">[87]</sup>"
         },
         {
           "type": "quote",
@@ -3194,7 +3194,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Sepatutnya ada seorang ulama atau faqih yang mengajar manusia tentang agama di setiap masjid dan kampung. Wajib ke atas setiap ahli fikah -yang telah selesai melaksanakan kewajiban fardu ain dan fardu kifayahnya- keluar ke negara berdekatan, sama ada ia didiami oleh manusia tidak kira bangsa Arab, kaum Kurdi atau kaum etnik lain bagi mengajar mereka tentang agama dan hukum-hukum syariat mereka.” <sup class=\"fn-ref\" data-fn-id=\"88\" title=\"Ihya’ Ulumuddin, Jilid 2, m.s. 242\">[88]</sup>"
+          "text": "Sepatutnya ada seorang ulama atau faqih yang mengajar manusia tentang agama di setiap masjid dan kampung. Wajib ke atas setiap ahli fikah -yang telah selesai melaksanakan kewajiban fardu ain dan fardu kifayahnya- keluar ke negara berdekatan, sama ada ia didiami oleh manusia tidak kira bangsa Arab, kaum Kurdi atau kaum etnik lain bagi mengajar mereka tentang agama dan hukum-hukum syariat mereka.” <sup class=\"fn-ref\" data-fn-id=\"88\" title=\"Al-Imam al-Ghazali, Ihya' 'Ulumiddin, jld. 2, hlm. 242.\">[88]</sup>"
         },
         {
           "type": "text",
@@ -3230,7 +3230,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "text",
-          "text": "Bangsa jin pula apabila mereka mendengar ayat al-Quran, “...mereka kembali kepada kaumnya, memberi peringatan. <sup class=\"fn-ref\" data-fn-id=\"89\" title=\"Seperti diceritakan oleh Allah di dalam surah Al-Ahqaf: 29\">[89]</sup> ” <sup class=\"fn-ref\" data-fn-id=\"90\" title=\"Ibnu Taimiah, Majmu’ Fatawa, Jilid 12, m.s. 327\">[90]</sup>"
+          "text": "Bangsa jin pula apabila mereka mendengar ayat al-Quran, “...mereka kembali kepada kaumnya, memberi peringatan. <sup class=\"fn-ref\" data-fn-id=\"89\" title=\"Rujuk firman Allah SWT dalam Surah al-Ahqaf: 29.\">[89]</sup> ” <sup class=\"fn-ref\" data-fn-id=\"90\" title=\"Syeikhul Islam Ibnu Taimiyah, Majmu' al-Fatawa, jld. 12, hlm. 327.\">[90]</sup>"
         },
         {
           "type": "text",
@@ -3242,7 +3242,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "“Bagi tokoh-tokoh agama yang alim dan memahami sunnah, halal haram, kebaikan dan kejahatan, pandai bergaul dengan orang ramai, mengajar dan menasihati dalam bab-bab agama lebih utama baginya dari mengasingkan diri dari orang ramai dan menghabiskan masa untuk bersolat, membaca al-Quran dan bertasbih semata-mata.” <sup class=\"fn-ref\" data-fn-id=\"91\" title=\"Ibnu al-Qayyim, Iddah al-Sabirin wa Dakhirah al-Syakirin, m.s. 93\">[91]</sup>"
+          "text": "“Bagi tokoh-tokoh agama yang alim dan memahami sunnah, halal haram, kebaikan dan kejahatan, pandai bergaul dengan orang ramai, mengajar dan menasihati dalam bab-bab agama lebih utama baginya dari mengasingkan diri dari orang ramai dan menghabiskan masa untuk bersolat, membaca al-Quran dan bertasbih semata-mata.” <sup class=\"fn-ref\" data-fn-id=\"91\" title=\"Ibn al-Qayyim, 'Uddat as-Sabirin wa Zakhirat asy-Syakirin, hlm. 93.\">[91]</sup>"
         },
         {
           "type": "text",
@@ -3270,7 +3270,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "type": "quote",
-          "text": "Orang badwi tersebut ketika memulakan soalannya dengan berkata: “Hai Muhammad, utusanmu telah datang kepada kami dan telah menyatakan kepada kami bahawa kamu mengatakan bahawa kamu adalah utusan Allah?” <sup class=\"fn-ref\" data-fn-id=\"92\" title=\"Sahih Muslim, Jilid 1, m.s. 32\">[92]</sup>"
+          "text": "Orang badwi tersebut ketika memulakan soalannya dengan berkata: “Hai Muhammad, utusanmu telah datang kepada kami dan telah menyatakan kepada kami bahawa kamu mengatakan bahawa kamu adalah utusan Allah?” <sup class=\"fn-ref\" data-fn-id=\"92\" title=\"Al-Imam Muslim, Sahih Muslim, jld. 1, hlm. 32.\">[92]</sup>"
         },
         {
           "type": "text",
@@ -3288,47 +3288,47 @@ var ALMUNTALAQ_DATA = {
       "footnotes": [
         {
           "id": 82,
-          "text": "Abdullah bin al-Mubarak, Kitab Al-Zuhd, m.s. 390"
+          "text": "Al-Imam Abdullah bin al-Mubarak, *Kitab az-Zuhd*, hlm. 390."
         },
         {
           "id": 83,
-          "text": "Al-Subki, Tabaqat al-Syafiiyyah al-Kubra, Jilid 1, m.s. 287 (Hadis yang dimaksudkan oleh Ibnu al-Mubarak ini ialah Hadis sahih riwayat Tarmizi, Nasa'I, Ibnu Majah, Abu Daud dan Ahmad: Tidak akan bertemu debu jihad dengan api neraka Jahannam-editor)"
+          "text": "Al-Imam Tajuddin as-Subki, *Tabaqat asy-Syafi'iyyah al-Kubra*, jld. 1, hlm. 287. (Hadis yang dimaksudkan oleh Ibnu al-Mubarak ini ialah hadis sahih riwayat at-Tirmizi, an-Nasa'i, Ibn Majah, Abu Daud dan Ahmad: *“Tidak akan berhimpun debu di jalan Allah dengan asap neraka Jahannam.”* – Pent./Editor)"
         },
         {
           "id": 84,
-          "text": "Syeikh Abdul Qadir, Al-Fath al-Rabbani, m.s. 73 (dengan sedikit pemotongan)"
+          "text": "Syeikh Abdul Qadir al-Jilani, *Al-Fath ar-Rabbani*, hlm. 73 (dengan sedikit ringkasan)."
         },
         {
           "id": 85,
-          "text": "Ibnu al-Jauzi, Said al-Khatir, m.s. 224, karangan Muhammad al-Ghazali"
+          "text": "Ibn al-Jauzi, *Said al-Khatir* (tahqiq Syeikh Muhammad al-Ghazali), hlm. 224."
         },
         {
           "id": 86,
-          "text": "Majalah al-Muslimun, Bil. 3, m.s. 199, (Petikan dari Qasidah yang panjang)"
+          "text": "*Majallah al-Muslimun*, bil. 3, hlm. 199 (petikan daripada qasidah yang panjang)."
         },
         {
           "id": 87,
-          "text": "Tabaqat Ibnu Saad, Jilid 3, m.s. 221"
+          "text": "Ibn Sa'ad, *Al-Tabaqat al-Kubra*, jld. 3, hlm. 221."
         },
         {
           "id": 88,
-          "text": "Ihya’ Ulumuddin, Jilid 2, m.s. 242"
+          "text": "Al-Imam al-Ghazali, *Ihya' 'Ulumiddin*, jld. 2, hlm. 242."
         },
         {
           "id": 89,
-          "text": "Seperti diceritakan oleh Allah di dalam surah Al-Ahqaf: 29"
+          "text": "Rujuk firman Allah SWT dalam Surah al-Ahqaf: 29."
         },
         {
           "id": 90,
-          "text": "Ibnu Taimiah, Majmu’ Fatawa, Jilid 12, m.s. 327"
+          "text": "Syeikhul Islam Ibnu Taimiyah, *Majmu' al-Fatawa*, jld. 12, hlm. 327."
         },
         {
           "id": 91,
-          "text": "Ibnu al-Qayyim, Iddah al-Sabirin wa Dakhirah al-Syakirin, m.s. 93"
+          "text": "Ibn al-Qayyim, *'Uddat as-Sabirin wa Zakhirat asy-Syakirin*, hlm. 93."
         },
         {
           "id": 92,
-          "text": "Sahih Muslim, Jilid 1, m.s. 32"
+          "text": "Al-Imam Muslim, *Sahih Muslim*, jld. 1, hlm. 32."
         }
       ],
       "summary": "📌 Ringkasan Bab Kelima: \"Para Ahli Ibadah yang Bermain-main\"\n\nDalam bab yang penuh dengan kritikan tajam ini, Al-Rasyid menyentuh satu lagi penyakit jiwa yang boleh melanda golongan yang aktif dalam urusan agama. Beliau membongkar fenomena ahli ibadah, penuntut ilmu, atau aktivis dakwah yang mencampuradukkan urusan akhirat dengan sikap tidak serius, bermain-main, dan membuang masa.\n\n1. Maksud \"Bermain-main\" (Al-La'ib) dalam Urusan Dakwah\n\nAl-Rasyid menjelaskan bahawa \"bermain-main\" di sini bukan bermaksud melakukan maksiat secara terang-terangan. Sebaliknya, ia merujuk kepada sikap sambil lewa, kurang fokus, tiada disiplin, dan hilangnya rasa gerun (haibah) terhadap amanah dakwah. Golongan ini menganggap penglibatan dalam jemaah atau majlis ilmu hanyalah sebagai aktiviti sampingan, hobi mengisi masa lapang, atau tempat untuk bersosial semata-mata, bukannya satu perjuangan hidup dan mati.\n\n2. Bahaya Sifat Sambil Lewa dan Hilang Ketegasan (Al-Hazm)\n\nPenulis menekankan bahawa jalan dakwah menuntut sifat Al-Hazm (ketegasan dan kesungguhan). Apabila sifat bermain-main mula meresap ke dalam saf, para da'i akan mula culas dalam menepati masa, kerap memberikan alasan untuk mengelak daripada tugasan, dan tidak menyempurnakan amanah tarbiah dengan standard yang sepatutnya. Sikap seperti ini merugikan masa jemaah dan membantutkan impak dakwah di medan masyarakat.\n\n3. Membazir Masa: Tanda Hilangnya Keberkatan Umur\n\nBab ini memberikan amaran keras tentang budaya membuang masa dalam perkara yang tidak mendatangkan manfaat nyata bagi Islam. Al-Rasyid mengkritik golongan yang boleh meluangkan masa berjam-jam untuk bersembang kosong, berdebat dalam perkara ranting (furu') yang tidak produktif, atau leka dengan hiburan, tetapi memberikan alasan \"sibuk\" dan \"tiada masa\" apabila diminta membaca, mengkaji, atau turun padang menyantuni masyarakat.\n\n4. Penawar: Menghidupkan Sifat \"Rabbani\" dan Rasa Bertanggungjawab\n\nBagi merawat penyakit ini, Al-Rasyid menyeru agar setiap Muslim kembali menghidupkan rasa muraqabah (merasa diawasi Allah) dan memahami nilai setiap detik umur yang berbaki. Setiap tugasan dakwah, sekecil mana sekalipun, mestilah dilaksanakan dengan penuh kualiti (itqan) dan kesungguhan, seolah-olah masa depan Islam bergantung pada tugasan tersebut.\n\nKesimpulan Bab:\nMesej utama bab ini ialah dakwah Islam adalah urusan yang sangat agung dan tidak boleh dipikul oleh jiwa-jiwa yang kerdil, rapuh, dan suka bermain-main. Seorang da'i yang benar wajib memisahkan dirinya daripada budaya suka membuang masa, serta mengubah sikap sambil lewa menjadi komitmen yang padu demi memastikan setiap hembusan nafasnya memberi nilai kepada Islam.\n\n💎 Mutiara Kata-kata Tokoh & Salafussoleh (Nukilan Emas):\n\n• Imam Mujahid Abdullah bin al-Mubarak: Mengutuskan surat bersyair kepada Fudhail bin 'Iyadh (yang beribadah di Masjidil Haram): « يَا عَابِدَ الْحَرَمَيْنِ لَوْ أَبْصَرْتَنَا .. لَعَلِمْتَ أَنَّكَ بِالْعِبَادَةِ تَلْعَبُ » — “Wahai ahli ibadah di dua tanah suci! Seandainya engkau melihat kami di medan jihad, nescaya engkau sedar bahawa engkau sedang bermain-main dengan ibadahmu!”\n\n• Sultanul Auliya' Syeikh Abdul Qadir al-Jailani: Menyeru para muridnya: “Tinggalkan rumahmu di belakang, tinggalkan zon selamatmu! Keluarlah mengembara mencari jiwa-jiwa manusia yang terperangkap dalam lumpur dosa untuk diselamatkan kepada Allah!”\n\n• Imam Ibn al-Jauzi (Shaid al-Khatir): Memuji rijal yang berani memikul amanah amar makruf nahi mungkar dan mencela mereka yang menyembunyikan diri dalam kezuhudan palsu kerana takut kehilangan kedudukan atau dicemuh masyarakat.\n\n⚔️ Tambahan Fiqh Amal Haraki & Dimensi Tarbawi (Aplikasi Gerakan):\n\n➤ Kritikan Terhadap 'Zuhud Kelesuan' (Tasawuf Pasif): Harakah Islamiyah menolak pemahaman tasawuf yang memencilkan diri (uzlah) daripada tanggungjawab membela umat dan menumbangkan kezaliman. Ibadah hakiki adalah ibadah yang membakar semangat jihad di lapangan.\n\n➤ Da'i Sebagai Pengembara Risalah (As-Sayyah): Sifat asasi pendakwah adalah proaktif mencari mad'u, menziarahi sasaran dakwah, dan merantau membuka cawangan-cawangan amal, bukannya sekadar menunggu orang datang menuntut ilmu di surau.\n\n➤ Awlawiyyat: Membina Kekuatan Ummah Mendahului Ibadah Sunat: Penyatuan tenaga untuk mendirikan syariat Allah memiliki darjat yang jauh lebih tinggi daripada memperbanyakkan amalan-amalan sunat peribadi yang tidak membawa impak kepada kebangkitan umat.\n\n—————————————————————————————————————————————",

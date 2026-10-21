@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v30-keep-floating-menu-on-accordion-20261022';
+const CACHE_NAME = 'almuntalaq-v31-phase1-footnotes-20261022';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
