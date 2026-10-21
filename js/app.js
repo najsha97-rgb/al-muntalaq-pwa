@@ -144,9 +144,17 @@ if (allHikmahQuotes.length === 0) {
       btn.addEventListener('click', () => {
         state.activeSearchQuery = null;
         removeFloatingSearchToolbar();
-        if (state.currentChapter === chIdx) {
-          li.classList.toggle('open');
+
+        const hasSubtopics = ch.subtopics && ch.subtopics.length > 0;
+        if (hasSubtopics) {
+          // Accordion toggle: buka/tutup senarai subtopik & pastikan drawer kekal terapung (TIDAK tutup drawer)
+          const isOpen = li.classList.contains('open');
+          document.querySelectorAll('.chapter-nav-item').forEach(item => item.classList.remove('open'));
+          if (!isOpen) {
+            li.classList.add('open');
+          }
         } else {
+          // Bab tanpa subtopik: terus navigasi dan tutup drawer di HP
           navigateTo(chIdx);
           if (window.innerWidth <= 900) {
             toggleMobileNav(false);
@@ -178,6 +186,11 @@ if (allHikmahQuotes.length === 0) {
             if (state.layer !== 'layer1') {
               setLayer('layer1');
             }
+            // Sorot subtopik aktif
+            document.querySelectorAll('.subtopic-nav-btn').forEach(b => b.classList.remove('active-sub'));
+            subBtn.classList.add('active-sub');
+
+            // Tutup drawer terapung HANYA selepas subtopik dipilih oleh pengguna
             if (window.innerWidth <= 900) {
               toggleMobileNav(false);
             }
