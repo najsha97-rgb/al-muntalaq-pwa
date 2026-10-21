@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v27-dbp-20261020';
+const CACHE_NAME = 'almuntalaq-v28-enlarge-mobile-menu-btn-20261021';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
