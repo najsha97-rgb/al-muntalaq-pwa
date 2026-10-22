@@ -417,7 +417,7 @@ if (allHikmahQuotes.length === 0) {
                       <span class="fn-card-badge-num">[${fn.id}]</span>
                     </button>
                   </div>
-                  <div class="fn-card-body">${fn.text}</div>
+                  <div class="fn-card-body">${formatFootnoteBody(fn.text)}</div>
                 </div>
               `).join('')}
             </div>
@@ -449,7 +449,7 @@ if (allHikmahQuotes.length === 0) {
             }
             const fnData = ch.footnotes ? ch.footnotes.find(f => f.id == fnId) : null;
             if (fnData) {
-              showToast(`[${fnId}] ${fnData.text}`);
+              showToast(`[${fnId}] ${fnData.text.replace(/\*/g, '')}`);
             }
           });
         });
@@ -1591,6 +1591,15 @@ if (allHikmahQuotes.length === 0) {
 
   // Toast Helper
   let toastTimer = null;
+  
+  // Helper to format Footnote text with proper Italic book titles and bold
+  function formatFootnoteBody(text) {
+    if (!text) return '';
+    return text
+      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.*?)\*/g, '<em class="book-ref-title">$1</em>');
+  }
+
   function showToast(msg) {
     if (!toast || !toastMsg) return;
     toastMsg.textContent = msg;

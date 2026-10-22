@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v34-all-footnotes-standardized-20261022';
+const CACHE_NAME = 'almuntalaq-v35-italic-footnotes-20261022';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
