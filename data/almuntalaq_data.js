@@ -1,4 +1,4 @@
-const ALMUNTALAQ_DATA = {
+var ALMUNTALAQ_DATA = {
   "bookTitle": "AL-MUNTALAQ",
   "bookTitleMalay": "Al-Muntalaq: Titik Tolak Dakwah & Landasan Harakah Islamiyah",
   "author": "As-Syeikh Muhammad Ahmad Ar-Rasyid (الشيخ محمد أحمد الراشد رحمه الله)",
@@ -8634,3 +8634,4 @@ const ALMUNTALAQ_DATA = {
     }
   ]
 };
+if (typeof window !== 'undefined') { window.ALMUNTALAQ_DATA = ALMUNTALAQ_DATA; }
