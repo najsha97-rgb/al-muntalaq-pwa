@@ -63,6 +63,7 @@ if (allHikmahQuotes.length === 0) {
   // App State
   const state = {
     currentChapter: 0,
+    currentSubtopic: 0,
     activeSearchQuery: '',
     activeMatchIndex: -1,
     searchResults: [],
@@ -120,14 +121,14 @@ if (allHikmahQuotes.length === 0) {
       .catch(err => console.log('Service Worker Failed:', err));
   }
 
-  // 4. Render Sidebar List with Subtopics Support
+  // 4. Render Sidebar List with Subtopics Support (Persis al-Masar)
   function renderSidebar() {
     chapterNavList.innerHTML = '';
 
     data.chapters.forEach((ch, chIdx) => {
       const isCurrent = (chIdx === state.currentChapter);
       const li = document.createElement('li');
-      li.className = `chapter-nav-item ${isCurrent ? 'active-chapter open' : ''}`;
+      li.className = `chapter-nav-item ${isCurrent ? 'active-chapter' : ''}`;
       li.id = `nav-ch-${chIdx}`;
 
       const btn = document.createElement('button');
@@ -138,27 +139,24 @@ if (allHikmahQuotes.length === 0) {
           <div class="chapter-title-text" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="${ch.title}">${ch.title}</div>
           <small style="color: var(--gold-light); font-family: 'Amiri', serif; font-size: 0.85rem;">${ch.title_ar || ''}</small>
         </div>
-        ${ch.subtopics && ch.subtopics.length > 0 ? '<span class="chevron-icon">›</span>' : ''}
+        <span class="chevron-icon">›</span>
       `;
 
       btn.addEventListener('click', () => {
         state.activeSearchQuery = null;
         removeFloatingSearchToolbar();
 
-        const hasSubtopics = ch.subtopics && ch.subtopics.length > 0;
-        if (hasSubtopics) {
-          // Accordion toggle: buka/tutup senarai subtopik & pastikan drawer kekal terapung (TIDAK tutup drawer)
-          const isOpen = li.classList.contains('open');
-          document.querySelectorAll('.chapter-nav-item').forEach(item => item.classList.remove('open'));
-          if (!isOpen) {
-            li.classList.add('open');
-          }
-        } else {
-          // Bab tanpa subtopik: terus navigasi dan tutup drawer di HP
-          navigateTo(chIdx);
-          if (window.innerWidth <= 900) {
-            toggleMobileNav(false);
-          }
+        const isOpen = li.classList.contains('open');
+        document.querySelectorAll('.chapter-nav-item').forEach(item => item.classList.remove('open'));
+        if (!isOpen) {
+          li.classList.add('open');
+        }
+
+        // Apabila Tajuk Bab di'klik', terus buka & navigasi ke Mukadimah Bab (Subtopik 0)
+        // Ini memastikan paparan kanan terus keluar kandungannya dan tidak kosong
+        navigateTo(chIdx, 0);
+        if (window.innerWidth <= 900) {
+          toggleMobileNav(false);
         }
       });
 
@@ -169,40 +167,24 @@ if (allHikmahQuotes.length === 0) {
         const subUl = document.createElement('ul');
         subUl.className = 'subtopic-list';
 
-        ch.subtopics.forEach((subTitle, sIdx) => {
+        ch.subtopics.forEach((sub, sIdx) => {
           const subLi = document.createElement('li');
           const subBtn = document.createElement('button');
-          subBtn.className = 'subtopic-nav-btn';
+          subBtn.className = `subtopic-nav-btn ${chIdx === state.currentChapter && sIdx === state.currentSubtopic ? 'active-sub' : ''}`;
           subBtn.innerHTML = `
-            <span class="subtopic-bullet">❖</span>
-            <span class="subtopic-title-text">${subTitle}</span>
+            <span class="subtopic-num">${sIdx + 1}.</span>
+            <span class="subtopic-title-text">${sub.title}</span>
           `;
-          subBtn.title = subTitle;
+          subBtn.title = sub.title;
 
           subBtn.addEventListener('click', (e) => {
             e.stopPropagation();
             state.activeSearchQuery = null;
             removeFloatingSearchToolbar();
-            if (state.currentChapter !== chIdx) {
-              navigateTo(chIdx);
-            }
-            if (state.layer !== 'layer1') {
-              setLayer('layer1');
-            }
-            // Sorot subtopik aktif
-            document.querySelectorAll('.subtopic-nav-btn').forEach(b => b.classList.remove('active-sub'));
-            subBtn.classList.add('active-sub');
-
-            // Tutup drawer terapung HANYA selepas subtopik dipilih oleh pengguna
+            navigateTo(chIdx, sIdx);
             if (window.innerWidth <= 900) {
               toggleMobileNav(false);
             }
-            setTimeout(() => {
-              const targetEl = document.getElementById(`sub-${chIdx}-${sIdx}`);
-              if (targetEl) {
-                targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
-              }
-            }, 100);
           });
 
           subLi.appendChild(subBtn);
@@ -214,11 +196,25 @@ if (allHikmahQuotes.length === 0) {
 
       chapterNavList.appendChild(li);
     });
+
+    // Auto-open current chapter in sidebar accordion
+    const currentNavItem = document.getElementById(`nav-ch-${state.currentChapter}`);
+    if (currentNavItem) {
+      currentNavItem.classList.add('open');
+    }
   }
 
-  // 5. Navigate to Chapter
-  function navigateTo(chIdx, targetLayer = null) {
+  // 5. Navigate to Chapter and Subtopic (Persis al-Masar)
+  window.navigateTo = function(chIdx, sIdx = 0, targetLayer = null) { return navigateTo(chIdx, sIdx, targetLayer); };
+  function navigateTo(chIdx, sIdx = 0, targetLayer = null) {
     if (chIdx < 0 || chIdx >= data.chapters.length) return;
+    state.currentChapter = chIdx;
+
+    const ch = data.chapters[chIdx];
+    if (typeof sIdx !== 'number' || sIdx < 0 || (ch.subtopics && sIdx >= ch.subtopics.length)) {
+      sIdx = 0;
+    }
+    state.currentSubtopic = sIdx;
 
     if (targetLayer && (targetLayer === 'layer1' || targetLayer === 'layer2')) {
       state.layer = targetLayer;
@@ -227,8 +223,6 @@ if (allHikmahQuotes.length === 0) {
       layerBtnRingkasan.classList.toggle('active', targetLayer === 'layer2');
       if (layerBtnHikmah) layerBtnHikmah.classList.remove('active');
     }
-    if (chIdx < 0 || chIdx >= data.chapters.length) return;
-    state.currentChapter = chIdx;
 
     if (state.layer === 'layer3') {
       state.layer = 'layer1';
@@ -245,17 +239,35 @@ if (allHikmahQuotes.length === 0) {
     document.querySelectorAll('.chapter-nav-item').forEach((item, idx) => {
       const isCur = (idx === chIdx);
       item.classList.toggle('active-chapter', isCur);
-      item.classList.toggle('open', isCur);
+      if (isCur) item.classList.add('open');
     });
+
+    document.querySelectorAll('.subtopic-nav-btn').forEach(btn => {
+      btn.classList.remove('active-sub');
+    });
+
+    const activeChElem = document.getElementById(`nav-ch-${chIdx}`);
+    if (activeChElem) {
+      const subBtns = activeChElem.querySelectorAll('.subtopic-nav-btn');
+      if (subBtns && subBtns[sIdx]) {
+        subBtns[sIdx].classList.add('active-sub');
+      }
+    }
 
     renderContent();
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  // 6. Render Reader Content
+  // 6. Render Reader Content: Papar bahagian subtopik yang dipilih SAHAJA (Persis al-Masar)
   function renderContent() {
     const ch = data.chapters[state.currentChapter];
     if (!ch) return;
+
+    const sub = (ch.subtopics && ch.subtopics[state.currentSubtopic]) || (ch.subtopics ? ch.subtopics[0] : null) || {
+      title: ch.title,
+      paragraphs: ch.paragraphs || [],
+      footnotes: ch.footnotes || []
+    };
 
     if (state.layer === 'layer3') {
       heroCard.style.display = 'none';
@@ -264,6 +276,8 @@ if (allHikmahQuotes.length === 0) {
       document.getElementById('chBadgePill').textContent = '💎 KOLEKSI EMAS DAKWAH';
       document.getElementById('chArabicTitle').textContent = 'درر الحكمة والدعوة';
       document.getElementById('chapterMainTitle').textContent = 'Mutiara Hikmah & Kata-Kata Tokoh';
+      const subTitleEl = document.getElementById('subtopicMainTitle');
+      if (subTitleEl) subTitleEl.textContent = 'Mutiara Hadis & Kalam Rijal';
 
       const modeBadge = document.getElementById('activeModeBadge');
       modeBadge.textContent = `${allHikmahQuotes.length} Mutiara Kata (Hadis Nabi SAW + Tokoh & Pejuang)`;
@@ -276,8 +290,8 @@ if (allHikmahQuotes.length === 0) {
       return;
     }
 
-    // Hero visible only on Mukadimah
-    heroCard.style.display = (state.currentChapter === 0) ? 'block' : 'none';
+    // Hero visible only on Mukadimah Chapter & Subtopik 0
+    heroCard.style.display = (state.currentChapter === 0 && state.currentSubtopic === 0) ? 'block' : 'none';
     readerContainer.style.display = 'block';
 
     // Banner metadata
@@ -285,10 +299,17 @@ if (allHikmahQuotes.length === 0) {
     document.getElementById('chArabicTitle').textContent = ch.title_ar || '';
     document.getElementById('chapterMainTitle').textContent = ch.title;
 
+    const subTitleEl = document.getElementById('subtopicMainTitle');
+    if (subTitleEl) {
+      subTitleEl.textContent = sub.title;
+      subTitleEl.style.display = 'block';
+    }
+
     // Active layer indicator text
     const modeBadge = document.getElementById('activeModeBadge');
+    const subFnCount = (sub.footnotes && sub.footnotes.length > 0) ? sub.footnotes.length : 0;
     modeBadge.textContent = state.layer === 'layer1' 
-      ? `Versi Lengkap (${ch.paragraphs ? ch.paragraphs.length : 0} Perenggan & ${ch.footnotes ? ch.footnotes.length : 0} Nota Kaki)` 
+      ? `Versi Lengkap (${sub.paragraphs ? sub.paragraphs.length : 0} Perenggan${subFnCount > 0 ? ` & ${subFnCount} Nota Kaki` : ''})` 
       : 'Ringkasan Eksklusif (Layer 2 - Fiqh Haraki & Intipati)';
 
     // Update bookmark status
@@ -299,69 +320,22 @@ if (allHikmahQuotes.length === 0) {
     contentBody.innerHTML = '';
 
     if (state.layer === 'layer1') {
-      // ==================== LAYER 1: VERSI PENUH ====================
-      if (ch.paragraphs && ch.paragraphs.length > 0) {
-        let subCounter = 0;
-
-        ch.paragraphs.forEach(para => {
+      // ==================== LAYER 1: VERSI PENUH SUBTOPIK INI SAHAJA ====================
+      if (sub.paragraphs && sub.paragraphs.length > 0) {
+        sub.paragraphs.forEach(para => {
           const pType = para.type || 'text';
           const pText = para.text || '';
 
           if (pType === 'heading2') {
             const h3 = document.createElement('h3');
             h3.className = 'reader-subheading';
-            h3.id = `sub-${state.currentChapter}-${subCounter}`;
-            
-            const thisSubCounter = subCounter;
-            const hasSummary = Boolean(para.sub_summary);
-            
             h3.innerHTML = `
               <div class="sub-heading-content">
                 <span class="sub-ornament">❖</span>
                 <span class="sub-heading-text">${pText}</span>
               </div>
-              ${hasSummary ? `<button type="button" class="btn-sub-summary-toggle" data-sub-idx="${thisSubCounter}" title="Buka/Tutup Intipati Ringkasan Sub-Tajuk Ini">⚡ Intipati Ringkasan</button>` : ''}
             `;
             contentBody.appendChild(h3);
-
-            if (hasSummary) {
-              const sumBox = document.createElement('div');
-              sumBox.className = 'sub-summary-box';
-              sumBox.id = `sub-sum-box-${state.currentChapter}-${thisSubCounter}`;
-              sumBox.style.display = 'none';
-              sumBox.innerHTML = `
-                <div class="sub-summary-box-inner">
-                  <div class="sub-summary-box-title">
-                    <span>⚡ <b>Intipati Ringkasan:</b> ${pText}</span>
-                    <button type="button" class="btn-close-subsum" aria-label="Tutup Ringkasan">✕</button>
-                  </div>
-                  <div class="sub-summary-box-body">
-                    ${formatMarkdownSummary(para.sub_summary)}
-                  </div>
-                </div>
-              `;
-              contentBody.appendChild(sumBox);
-
-              const toggleBtn = h3.querySelector('.btn-sub-summary-toggle');
-              if (toggleBtn) {
-                toggleBtn.addEventListener('click', (e) => {
-                  e.stopPropagation();
-                  const isHidden = (sumBox.style.display === 'none');
-                  sumBox.style.display = isHidden ? 'block' : 'none';
-                  toggleBtn.innerHTML = isHidden ? '▲ Tutup Ringkasan' : '⚡ Intipati Ringkasan';
-                });
-              }
-
-              const closeBtn = sumBox.querySelector('.btn-close-subsum');
-              if (closeBtn) {
-                closeBtn.addEventListener('click', () => {
-                  sumBox.style.display = 'none';
-                  if (toggleBtn) toggleBtn.innerHTML = '⚡ Intipati Ringkasan';
-                });
-              }
-            }
-
-            subCounter++;
           } else if (pType === 'quran') {
             const qBox = document.createElement('div');
             qBox.className = 'reader-quran-box';
@@ -385,8 +359,8 @@ if (allHikmahQuotes.length === 0) {
           }
         });
 
-        // Render Footnotes Section at the bottom of the chapter
-        if (ch.footnotes && ch.footnotes.length > 0) {
+        // ==================== NOTA KAKI BAGI BAHAGIAN SUBTOPIK INI SAHAJA ====================
+        if (sub.footnotes && sub.footnotes.length > 0) {
           const fnSection = document.createElement('div');
           fnSection.className = 'chapter-footnotes-section';
           fnSection.id = 'chapterFootnotes';
@@ -405,10 +379,10 @@ if (allHikmahQuotes.length === 0) {
                   <span class="fn-arabic-subtitle">المراجع والهوامش</span>
                 </div>
               </div>
-              <span class="fn-total-pill">${ch.footnotes.length} Rujukan</span>
+              <span class="fn-total-pill">${sub.footnotes.length} Rujukan Bahagian Ini</span>
             </div>
             <div class="footnotes-list-box">
-              ${ch.footnotes.map(fn => `
+              ${sub.footnotes.map(fn => `
                 <div id="fn-item-${fn.id}" class="footnote-card">
                   <div class="fn-card-topbar">
                     <button type="button" class="fn-card-badge-btn" data-fn-id="${fn.id}" aria-label="Kembali ke perenggan [${fn.id}] untuk sambung bacaan" title="Kembali ke perenggan [${fn.id}] (Klik untuk sambung bacaan)">
@@ -428,7 +402,6 @@ if (allHikmahQuotes.length === 0) {
 
           contentBody.appendChild(fnSection);
         }
-
 
         // 1. Attach interactive Click Handlers on in-text Footnote Citations (.fn-ref)
         contentBody.querySelectorAll('.fn-ref').forEach(el => {
@@ -450,7 +423,7 @@ if (allHikmahQuotes.length === 0) {
               targetFn.classList.add('fn-highlight');
               setTimeout(() => targetFn.classList.remove('fn-highlight'), 3000);
             }
-            const fnData = ch.footnotes ? ch.footnotes.find(f => f.id == fnId) : null;
+            const fnData = sub.footnotes ? sub.footnotes.find(f => f.id == fnId) : null;
             if (fnData) {
               showToast(`[${fnId}] ${fnData.text.replace(/\*/g, '')}`);
             }
@@ -466,13 +439,11 @@ if (allHikmahQuotes.length === 0) {
             if (targetRef) {
               targetRef.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
-              // Denyutan warna emas/hijau pada nombor rujukan dalam perenggan
               targetRef.classList.remove('fn-ref-return-highlight');
-              void targetRef.offsetWidth; // trigger reflow
+              void targetRef.offsetWidth;
               targetRef.classList.add('fn-ref-return-highlight');
               setTimeout(() => targetRef.classList.remove('fn-ref-return-highlight'), 3200);
 
-              // Kilauan lembut pada perenggan agar mudah menyambung bacaan
               const parentBlock = targetRef.closest('.reader-paragraph, .reader-quran-box, .quote-highlight-box, .arabic-text, p');
               if (parentBlock) {
                 parentBlock.classList.remove('para-return-glow');
@@ -488,64 +459,62 @@ if (allHikmahQuotes.length === 0) {
           });
         });
 
-
       } else {
-        contentBody.innerHTML = '<p class="text-muted">Tiada teks lanjutan bagi bab ini.</p>';
+        contentBody.innerHTML = '<p class="text-muted">Tiada teks lanjutan bagi bahagian ini.</p>';
       }
     } else {
-      // ==================== LAYER 2: RINGKASAN EKSKLUSIF ====================
+      // ==================== LAYER 2: RINGKASAN EKSKLUSIF SUBTOPIK INI ====================
       const summaryBox = document.createElement('div');
       summaryBox.className = 'summary-container';
 
-      if (ch.summary && ch.summary.trim() !== '') {
-        summaryBox.innerHTML = formatMarkdownSummary(ch.summary);
-      } else {
+      const hasSubSummary = sub.summary && sub.summary.trim() !== '';
+      if (hasSubSummary) {
         summaryBox.innerHTML = `
-          <div style="text-align: center; padding: 2rem;">
-            <p style="color: var(--gold-light); font-weight: 600;">Ringkasan Bab Sedang Dikemas Kini</p>
-            <p style="color: var(--text-muted); font-size: 0.9rem;">Sahabat boleh membaca Versi Lengkap (Layer 1).</p>
+          <div class="subtopic-summary-card-direct" style="background: rgba(6, 21, 18, 0.7); border: 1px solid rgba(212, 175, 55, 0.35); border-radius: 12px; padding: 22px 26px; margin-bottom: 2rem; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);">
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 1.2rem; padding-bottom: 0.8rem; border-bottom: 1px solid rgba(212, 175, 55, 0.25);">
+              <span style="font-size: 1.35rem;">⚡</span>
+              <div>
+                <h3 style="color: var(--gold-light); margin: 0; font-size: 1.2rem;">Intipati Ringkasan Bahagian Ini</h3>
+                <span style="color: var(--emerald-light); font-size: 0.88rem;">${sub.title}</span>
+              </div>
+            </div>
+            <div style="font-size: 1.02rem; line-height: 1.8; color: var(--text-main);">
+              ${formatMarkdownSummary(sub.summary)}
+            </div>
           </div>
         `;
       }
 
-      // Render Subtopics Summaries Accordion (Intipati Ringkasan Setiap Sub-Tajuk)
-      if (ch.subtopics_data && ch.subtopics_data.length > 0) {
-        const subWrap = document.createElement('div');
-        subWrap.className = 'subtopics-summary-wrapper';
-        subWrap.style.marginTop = '2.5rem';
-        subWrap.innerHTML = `
-          <div class="subtopics-summary-header" style="display: flex; align-items: center; gap: 10px; margin-bottom: 1.5rem; padding-bottom: 0.8rem; border-bottom: 2px solid rgba(212, 175, 55, 0.3);">
-            <span style="font-size: 1.4rem;">📑</span>
+      // Jika Subtopik 0 (Mukadimah Bab), tampilkan juga Rumusan Keseluruhan Bab
+      if (state.currentSubtopic === 0 && ch.summary && ch.summary.trim() !== '') {
+        const chSumWrap = document.createElement('div');
+        chSumWrap.style.marginTop = hasSubSummary ? '2.5rem' : '0';
+        chSumWrap.innerHTML = `
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 1.2rem; padding-bottom: 0.8rem; border-bottom: 2px solid rgba(16, 185, 129, 0.35);">
+            <span style="font-size: 1.4rem;">📖</span>
             <div>
-              <h3 style="color: var(--gold-light); margin: 0; font-size: 1.25rem;">Intipati Ringkasan Setiap Sub-Tajuk</h3>
-              <span style="color: var(--text-muted); font-size: 0.85rem;">Fiqh Haraki, Dalil & Aplikasi Pengurusan Gerakan</span>
+              <h3 style="color: var(--emerald-light); margin: 0; font-size: 1.25rem;">Rumusan Keseluruhan Bab (${ch.number})</h3>
+              <span style="color: var(--text-muted); font-size: 0.85rem;">Dimensi Asas & Pemetaan Fiqh Haraki</span>
             </div>
-            <span style="margin-left: auto; background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(52, 211, 153, 0.3); padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">${ch.subtopics_data.length} Sub-Tajuk</span>
           </div>
-          <div class="subtopics-summary-accordion">
-            ${ch.subtopics_data.map((sub, sIdx) => `
-              <details class="subtopic-summary-card" ${sIdx === 0 ? 'open' : ''} style="background: rgba(6, 21, 18, 0.6); border: 1px solid rgba(212, 175, 55, 0.25); border-radius: 10px; margin-bottom: 1rem; overflow: hidden; transition: all 0.25s ease;">
-                <summary style="padding: 14px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; font-weight: 600; color: var(--gold-light); list-style: none; user-select: none;">
-                  <span style="display: flex; align-items: center; gap: 8px;">
-                    <span style="color: #34d399; font-size: 0.9rem;">❖</span>
-                    <span>${sub.summary_title || sub.title}</span>
-                  </span>
-                  <span class="sub-toggle-arrow" style="font-size: 0.8rem; color: var(--text-muted);">▼</span>
-                </summary>
-                <div style="padding: 16px 20px; border-top: 1px solid rgba(212, 175, 55, 0.15); background: rgba(0, 0, 0, 0.2); font-size: 0.95rem; line-height: 1.75; color: var(--text-main);">
-                  ${formatMarkdownSummary(sub.summary)}
-                </div>
-              </details>
-            `).join('')}
+          <div style="font-size: 1rem; line-height: 1.75; color: var(--text-main);">
+            ${formatMarkdownSummary(ch.summary)}
           </div>
         `;
-        summaryBox.appendChild(subWrap);
+        summaryBox.appendChild(chSumWrap);
+      } else if (!hasSubSummary) {
+        summaryBox.innerHTML = `
+          <div style="text-align: center; padding: 2.5rem;">
+            <p style="color: var(--gold-light); font-weight: 600; font-size: 1.1rem;">Ringkasan Bahagian Ini Sedang Dikemas Kini</p>
+            <p style="color: var(--text-muted); font-size: 0.92rem;">Sahabat boleh membaca Versi Lengkap (Layer 1) sementara ringkasan dimantapkan sepenuhnya.</p>
+          </div>
+        `;
       }
 
       contentBody.appendChild(summaryBox);
     }
 
-    // Paparan Jalur Mutiara Hikmah Bab Ini (jika bab mengandungi mutiara hikmah)
+    // Paparan Jalur Mutiara Hikmah Bab Ini (jika ada mutiara hikmah berkaitan)
     const currentChQuotes = allHikmahQuotes.filter(q => q.chapterIndex === state.currentChapter);
     if (currentChQuotes.length > 0 && (state.layer === 'layer1' || state.layer === 'layer2')) {
       const chHikmahWrap = document.createElement('div');
@@ -573,36 +542,13 @@ if (allHikmahQuotes.length === 0) {
       }
     }
 
-    // Update Bottom Navigation buttons
+    // Update Bottom Navigation buttons (Navigasi Antara Subtopik)
     updateBottomNav();
 
     // Sorotan Carian Dalam Laman & Navigasi Baris (In-Page Search Highlight)
     if (state.activeSearchQuery && (state.layer === 'layer1' || state.layer === 'layer2')) {
       setTimeout(() => {
         let matchCount = highlightTextInElement(contentBody, state.activeSearchQuery);
-
-        // Jika tiada padanan dalam mod semasa, semak mod satu lagi secara automatik
-        if (matchCount === 0) {
-          const otherLayer = (state.layer === 'layer1') ? 'layer2' : 'layer1';
-          const ch = data.chapters[state.currentChapter];
-          let foundInOther = false;
-
-          if (otherLayer === 'layer2') {
-            const inSum = ch.summary && ch.summary.toLowerCase().includes(state.activeSearchQuery.toLowerCase());
-            const inSubSum = ch.subtopics_data && ch.subtopics_data.some(s => (s.summary || '').toLowerCase().includes(state.activeSearchQuery.toLowerCase()));
-            if (inSum || inSubSum) foundInOther = true;
-          } else {
-            const inParas = ch.paragraphs && ch.paragraphs.some(p => (typeof p === 'string' ? p : p.text || '').toLowerCase().includes(state.activeSearchQuery.toLowerCase()));
-            if (inParas) foundInOther = true;
-          }
-
-          if (foundInOther) {
-            setLayer(otherLayer);
-            showToast(`Kata kunci ditemui dalam ${otherLayer === 'layer2' ? 'Ringkasan Eksklusif' : 'Versi Lengkap'}`);
-            return;
-          }
-        }
-
         if (matchCount > 0) {
           showFloatingSearchToolbar(state.activeSearchQuery, matchCount);
           setTimeout(() => {
@@ -617,6 +563,81 @@ if (allHikmahQuotes.length === 0) {
     }
   }
 
+  // 7. Bottom Navigation (Prev / Next Subtopic - Persis al-Masar)
+  function updateBottomNav() {
+    if (state.layer === 'layer3') {
+      prevChapterBtn.disabled = false;
+      nextChapterBtn.disabled = false;
+      prevChapterBtn.innerHTML = '← Baca Versi Lengkap';
+      prevChapterBtn.title = 'Buka Versi Lengkap Bab Semasa';
+      nextChapterBtn.innerHTML = 'Baca Ringkasan Bab →';
+      nextChapterBtn.title = 'Buka Ringkasan Bab Semasa';
+      return;
+    }
+
+    const ch = data.chapters[state.currentChapter];
+    if (!ch || !ch.subtopics) return;
+
+    // Tombol Sebelumnya (Previous)
+    if (state.currentSubtopic > 0) {
+      prevChapterBtn.disabled = false;
+      const pSub = ch.subtopics[state.currentSubtopic - 1];
+      prevChapterBtn.innerHTML = `← ${pSub.title}`;
+      prevChapterBtn.title = pSub.title;
+    } else if (state.currentChapter > 0) {
+      const prevCh = data.chapters[state.currentChapter - 1];
+      prevChapterBtn.disabled = false;
+      prevChapterBtn.innerHTML = `← ${prevCh.number}: ${prevCh.title}`;
+      prevChapterBtn.title = prevCh.title;
+    } else {
+      prevChapterBtn.disabled = true;
+      prevChapterBtn.innerHTML = '← Permulaan Kitab';
+    }
+
+    // Tombol Seterusnya (Next)
+    if (state.currentSubtopic < ch.subtopics.length - 1) {
+      nextChapterBtn.disabled = false;
+      const nSub = ch.subtopics[state.currentSubtopic + 1];
+      nextChapterBtn.innerHTML = `${nSub.title} →`;
+      nextChapterBtn.title = nSub.title;
+    } else if (state.currentChapter < data.chapters.length - 1) {
+      const nextCh = data.chapters[state.currentChapter + 1];
+      nextChapterBtn.disabled = false;
+      nextChapterBtn.innerHTML = `${nextCh.number}: ${nextCh.title} →`;
+      nextChapterBtn.title = nextCh.title;
+    } else {
+      nextChapterBtn.disabled = true;
+      nextChapterBtn.innerHTML = 'Tamat Kitab ✓';
+    }
+  }
+
+  prevChapterBtn.addEventListener('click', () => {
+    if (state.layer === 'layer3') {
+      setLayer('layer1');
+      return;
+    }
+    if (state.currentSubtopic > 0) {
+      navigateTo(state.currentChapter, state.currentSubtopic - 1);
+    } else if (state.currentChapter > 0) {
+      const prevChIdx = state.currentChapter - 1;
+      const prevCh = data.chapters[prevChIdx];
+      const lastSubIdx = (prevCh.subtopics && prevCh.subtopics.length > 0) ? prevCh.subtopics.length - 1 : 0;
+      navigateTo(prevChIdx, lastSubIdx);
+    }
+  });
+
+  nextChapterBtn.addEventListener('click', () => {
+    if (state.layer === 'layer3') {
+      setLayer('layer2');
+      return;
+    }
+    const ch = data.chapters[state.currentChapter];
+    if (ch && state.currentSubtopic < ch.subtopics.length - 1) {
+      navigateTo(state.currentChapter, state.currentSubtopic + 1);
+    } else if (state.currentChapter < data.chapters.length - 1) {
+      navigateTo(state.currentChapter + 1, 0);
+    }
+  });
 
   // ================= IN-PAGE SEARCH HIGHLIGHTING (Penyelidikan Lapangan) =================
   function highlightTextInElement(element, query) {
@@ -1130,90 +1151,63 @@ if (allHikmahQuotes.length === 0) {
     if (!normQuery) return;
 
     data.chapters.forEach((ch, chIdx) => {
-      let foundInParas = false;
+      // Cari dalam setiap subtopik
+      if (ch.subtopics && ch.subtopics.length > 0) {
+        ch.subtopics.forEach((sub, sIdx) => {
+          let foundInSub = false;
 
-      // 1. KEUTAMAAN UTAMA (DEFAULT): Versi Penuh (Layer 1)
-      if (ch.paragraphs) {
-        for (let pObj of ch.paragraphs) {
-          const pStr = (typeof pObj === 'string') ? pObj : (pObj.text || '');
-          const normPStr = normalizeSearchText(pStr);
-          if (normPStr.includes(normQuery)) {
-            const cleanStr = pStr.replace(/<[^>]+>/g, '');
-            const normCleanStr = normalizeSearchText(cleanStr);
-            const startIdx = Math.max(0, normCleanStr.indexOf(normQuery) - 35);
-            const snippet = cleanStr.substring(startIdx, startIdx + 130);
-            results.push({
-              chIdx,
-              targetLayer: 'layer1',
-              layerLabel: 'Versi Penuh',
-              title: `${ch.number}: ${ch.title}`,
-              snippet: highlightText(snippet, query)
-            });
-            foundInParas = true;
-            break;
-          }
-        }
-      }
-
-      // Semak tajuk atau sub-tajuk jika belum jumpa dalam perenggan
-      if (!foundInParas && (normalizeSearchText(ch.title).includes(normQuery) || (ch.title_ar && ch.title_ar.includes(query)))) {
-        results.push({
-          chIdx,
-          targetLayer: 'layer1',
-          layerLabel: 'Versi Penuh',
-          title: `${ch.number}: ${ch.title}`,
-          snippet: `Tajuk sepadan: ${ch.title} (${ch.title_ar || ''})`
-        });
-        foundInParas = true;
-      }
-
-      if (!foundInParas && ch.subtopics) {
-        for (let st of ch.subtopics) {
-          if (normalizeSearchText(st).includes(normQuery)) {
-            results.push({
-              chIdx,
-              targetLayer: 'layer1',
-              layerLabel: 'Versi Penuh',
-              title: `${ch.number}: ${ch.title}`,
-              snippet: `Sub-tajuk: ${highlightText(st, query)}`
-            });
-            foundInParas = true;
-            break;
-          }
-        }
-      }
-
-      // 2. KEUTAMAAN KEDUA: Ringkasan Eksklusif (Layer 2)
-      // Hanya jika kata kunci TIDAK ditemui dalam Versi Penuh
-      if (!foundInParas) {
-        if (ch.summary && normalizeSearchText(ch.summary).includes(normQuery)) {
-          const normSum = normalizeSearchText(ch.summary);
-          const startIdx = Math.max(0, normSum.indexOf(normQuery) - 30);
-          const snippet = ch.summary.substring(startIdx, startIdx + 120);
-          results.push({
-            chIdx,
-            targetLayer: 'layer2',
-            layerLabel: 'Ringkasan',
-            title: `${ch.number}: ${ch.title}`,
-            snippet: highlightText(snippet, query)
-          });
-        } else if (ch.subtopics_data) {
-          for (let sub of ch.subtopics_data) {
-            if (sub.summary && normalizeSearchText(sub.summary).includes(normQuery)) {
-              const normSubSum = normalizeSearchText(sub.summary);
-              const startIdx = Math.max(0, normSubSum.indexOf(normQuery) - 30);
-              const snippet = sub.summary.substring(startIdx, startIdx + 120);
-              results.push({
-                chIdx,
-                targetLayer: 'layer2',
-                layerLabel: 'Ringkasan',
-                title: `${ch.number}: ${sub.title || ch.title}`,
-                snippet: highlightText(snippet, query)
-              });
-              break;
+          // 1. Semak perenggan subtopik (Layer 1)
+          if (sub.paragraphs) {
+            for (let pObj of sub.paragraphs) {
+              const pStr = (typeof pObj === 'string') ? pObj : (pObj.text || '');
+              const normPStr = normalizeSearchText(pStr);
+              if (normPStr.includes(normQuery)) {
+                const cleanStr = pStr.replace(/<[^>]+>/g, '');
+                const normCleanStr = normalizeSearchText(cleanStr);
+                const startIdx = Math.max(0, normCleanStr.indexOf(normQuery) - 35);
+                const snippet = cleanStr.substring(startIdx, startIdx + 130);
+                results.push({
+                  chIdx,
+                  subIdx: sIdx,
+                  targetLayer: 'layer1',
+                  layerLabel: 'Versi Penuh',
+                  title: `${ch.number} • ${sub.title}`,
+                  snippet: highlightText(snippet, query)
+                });
+                foundInSub = true;
+                break;
+              }
             }
           }
-        }
+
+          // 2. Semak tajuk subtopik jika belum jumpa
+          if (!foundInSub && normalizeSearchText(sub.title).includes(normQuery)) {
+            results.push({
+              chIdx,
+              subIdx: sIdx,
+              targetLayer: 'layer1',
+              layerLabel: 'Versi Penuh',
+              title: `${ch.number} • ${sub.title}`,
+              snippet: `Tajuk sepadan: ${highlightText(sub.title, query)}`
+            });
+            foundInSub = true;
+          }
+
+          // 3. Semak ringkasan subtopik (Layer 2) jika belum jumpa
+          if (!foundInSub && sub.summary && normalizeSearchText(sub.summary).includes(normQuery)) {
+            const normSubSum = normalizeSearchText(sub.summary);
+            const startIdx = Math.max(0, normSubSum.indexOf(normQuery) - 30);
+            const snippet = sub.summary.substring(startIdx, startIdx + 120);
+            results.push({
+              chIdx,
+              subIdx: sIdx,
+              targetLayer: 'layer2',
+              layerLabel: 'Ringkasan',
+              title: `${ch.number} • ${sub.title}`,
+              snippet: highlightText(snippet, query)
+            });
+          }
+        });
       }
     });
 
@@ -1270,7 +1264,7 @@ if (allHikmahQuotes.length === 0) {
           
           // Default ke targetLayer (Versi Penuh didahulukan)
           const chosenLayer = res.targetLayer || 'layer1';
-          navigateTo(res.chIdx, chosenLayer);
+          navigateTo(res.chIdx, res.subIdx || 0, chosenLayer);
         });
         searchResultsList.appendChild(item);
       });
