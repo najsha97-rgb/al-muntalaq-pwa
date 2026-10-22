@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v37-subtopic-view-20261022';
+const CACHE_NAME = 'almuntalaq-v38-dbp-al-standard-20261022';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

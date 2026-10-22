@@ -83,11 +83,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "MARI KITA DUDUK SEBENTAR... KITA BERIMAN SEJENAK...",
     "ch_title": "MARI KITA DUDUK SEBENTAR... KITA BERIMAN SEJENAK...",
     "subtopicTitle": "Bersama Fitrah Keindahan",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Dakwah Islamiyah ini selari dengan fitrah estetika dan keindahan. Janganlah engkau tampilkan agama ini dalam wajah yang kusam dan menakutkan, sedangkan Allah itu Maha Indah dan amat mencintai keindahan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Dakwah Islamiyah ini selari dengan fitrah estetika dan keindahan. Janganlah engkau tampilkan agama ini dalam wajah yang kusam dan menakutkan, sedangkan Allah itu Maha Indah dan amat mencintai keindahan.\" — Syeikh Muhammad Ahmad Al-Rasyid (MUKADIMAH: Bersama Fitrah Keindahan)"
+    "fullText": "\"Dakwah Islamiyah ini selari dengan fitrah estetika dan keindahan. Janganlah engkau tampilkan agama ini dalam wajah yang kusam dan menakutkan, sedangkan Allah itu Maha Indah dan amat mencintai keindahan.\" — Syeikh Muhammad Ahmad al-Rasyid (MUKADIMAH: Bersama Fitrah Keindahan)"
   },
   {
     "id": 7,
@@ -113,11 +113,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "MARI KITA DUDUK SEBENTAR... KITA BERIMAN SEJENAK...",
     "ch_title": "MARI KITA DUDUK SEBENTAR... KITA BERIMAN SEJENAK...",
     "subtopicTitle": "Semangat Pemuda Islam di Permulaan Abad Baru",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Fikiran-fikiran baru hanya akan berjaya apabila lahir pemuda yang memiliki keimanan yang mendalam, keikhlasan yang tulus, semangat yang berkobar-kobar, dan kesediaan berkorban tanpa batas.",
     "quote_ar": "إنما تنجح الفكرة إذا قوي الإيمان بها",
     "category": "haraki",
-    "fullText": "\"Fikiran-fikiran baru hanya akan berjaya apabila lahir pemuda yang memiliki keimanan yang mendalam, keikhlasan yang tulus, semangat yang berkobar-kobar, dan kesediaan berkorban tanpa batas.\" — Imam Asy-Syahid Hasan Al-Banna (MUKADIMAH: Semangat Pemuda Islam di Permulaan Abad Baru)"
+    "fullText": "\"Fikiran-fikiran baru hanya akan berjaya apabila lahir pemuda yang memiliki keimanan yang mendalam, keikhlasan yang tulus, semangat yang berkobar-kobar, dan kesediaan berkorban tanpa batas.\" — Imam Asy-Syahid Hasan al-Banna (MUKADIMAH: Semangat Pemuda Islam di Permulaan Abad Baru)"
   },
   {
     "id": 9,
@@ -158,11 +158,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "ch_title": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "subtopicTitle": "Tiada Jalan Tengah Antara Syariat dan Keinginan",
-    "speaker": "Imam Asy-Syatibi (Al-I'tisham)",
+    "speaker": "Imam Asy-Syatibi (al-I'tisham)",
     "quote": "Sesungguhnya syariat itu diturunkan semata-mata untuk mengeluarkan seorang hamba daripada belenggu dorongan hawa nafsunya, agar dia menjadi hamba Allah dengan penuh kerelaan sebagaimana dia adalah hamba Allah secara fitrah kejadian.",
     "quote_ar": "",
     "category": "ulama",
-    "fullText": "\"Sesungguhnya syariat itu diturunkan semata-mata untuk mengeluarkan seorang hamba daripada belenggu dorongan hawa nafsunya, agar dia menjadi hamba Allah dengan penuh kerelaan sebagaimana dia adalah hamba Allah secara fitrah kejadian.\" — Imam Asy-Syatibi (Al-I'tisham) (BAB 1: Tiada Jalan Tengah Antara Syariat dan Keinginan)"
+    "fullText": "\"Sesungguhnya syariat itu diturunkan semata-mata untuk mengeluarkan seorang hamba daripada belenggu dorongan hawa nafsunya, agar dia menjadi hamba Allah dengan penuh kerelaan sebagaimana dia adalah hamba Allah secara fitrah kejadian.\" — Imam Asy-Syatibi (al-I'tisham) (BAB 1: Tiada Jalan Tengah Antara Syariat dan Keinginan)"
   },
   {
     "id": 12,
@@ -203,11 +203,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "ch_title": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "subtopicTitle": "Kita Tidak Akan Mengkafirkan Seseorang Muslim Tanpa Bukti",
-    "speaker": "Imam Al-Haramain Al-Juwaini",
+    "speaker": "Imam al-Haramain Al-Juwaini",
     "quote": "Memasukkan seribu orang kafir ke dalam Islam kerana tersilap bersangka baik adalah jauh lebih ringan bahayanya di sisi Allah berbanding mengeluarkan seorang muslim daripada agamanya kerana silap menjatuhkan hukuman kafir.",
     "quote_ar": "",
     "category": "ulama",
-    "fullText": "\"Memasukkan seribu orang kafir ke dalam Islam kerana tersilap bersangka baik adalah jauh lebih ringan bahayanya di sisi Allah berbanding mengeluarkan seorang muslim daripada agamanya kerana silap menjatuhkan hukuman kafir.\" — Imam Al-Haramain Al-Juwaini (BAB 1: Kita Tidak Akan Mengkafirkan Seseorang Muslim Tanpa Bukti)"
+    "fullText": "\"Memasukkan seribu orang kafir ke dalam Islam kerana tersilap bersangka baik adalah jauh lebih ringan bahayanya di sisi Allah berbanding mengeluarkan seorang muslim daripada agamanya kerana silap menjatuhkan hukuman kafir.\" — Imam al-Haramain Al-Juwaini (BAB 1: Kita Tidak Akan Mengkafirkan Seseorang Muslim Tanpa Bukti)"
   },
   {
     "id": 15,
@@ -233,11 +233,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "ch_title": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "subtopicTitle": "Generasi Kita yang Terpedaya (Mangsa Keadaan!)",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Musuh-musuh Islam tidak memusnahkan generasi muda kita dengan pedang, tetapi mereka meracuni minda pemuda kita dengan ideologi kebaratan, muzik pelala, dan gaya hidup hedonistik sehingga hilang jatidiri keagungan Islam.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Musuh-musuh Islam tidak memusnahkan generasi muda kita dengan pedang, tetapi mereka meracuni minda pemuda kita dengan ideologi kebaratan, muzik pelala, dan gaya hidup hedonistik sehingga hilang jatidiri keagungan Islam.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 1: Generasi Kita yang Terpedaya (Mangsa Keadaan!))"
+    "fullText": "\"Musuh-musuh Islam tidak memusnahkan generasi muda kita dengan pedang, tetapi mereka meracuni minda pemuda kita dengan ideologi kebaratan, muzik pelala, dan gaya hidup hedonistik sehingga hilang jatidiri keagungan Islam.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 1: Generasi Kita yang Terpedaya (Mangsa Keadaan!))"
   },
   {
     "id": 17,
@@ -248,11 +248,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "ch_title": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "subtopicTitle": "Anak Singa Diubah Menjadi Kijang yang Pengecut",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Anak singa yang dididik dalam sangkar pengecut akan lupa ngauman pemburu datuk neneknya. Tugas murabbi adalah mengembalikan anak singa itu ke hutan belantara perjuangan agar ia kembali menjadi singa dakwah yang menggentarkan musuh!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Anak singa yang dididik dalam sangkar pengecut akan lupa ngauman pemburu datuk neneknya. Tugas murabbi adalah mengembalikan anak singa itu ke hutan belantara perjuangan agar ia kembali menjadi singa dakwah yang menggentarkan musuh!\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 1: Anak Singa Diubah Menjadi Kijang yang Pengecut)"
+    "fullText": "\"Anak singa yang dididik dalam sangkar pengecut akan lupa ngauman pemburu datuk neneknya. Tugas murabbi adalah mengembalikan anak singa itu ke hutan belantara perjuangan agar ia kembali menjadi singa dakwah yang menggentarkan musuh!\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 1: Anak Singa Diubah Menjadi Kijang yang Pengecut)"
   },
   {
     "id": 18,
@@ -263,11 +263,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "ch_title": "KITA MENOLAK 'AL-HAWA' (HAWA NAFSU)",
     "subtopicTitle": "Bergerak Dalam Pelbagai Pendekatan",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Jadilah engkau seperti pohon buah-buahan yang lebat: apabila orang melemparmu dengan batu, engkau membalas lemparan mereka dengan menjatuhkan buah yang manis dan menyegarkan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Jadilah engkau seperti pohon buah-buahan yang lebat: apabila orang melemparmu dengan batu, engkau membalas lemparan mereka dengan menjatuhkan buah yang manis dan menyegarkan.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 1: Bergerak Dalam Pelbagai Pendekatan)"
+    "fullText": "\"Jadilah engkau seperti pohon buah-buahan yang lebat: apabila orang melemparmu dengan batu, engkau membalas lemparan mereka dengan menjatuhkan buah yang manis dan menyegarkan.\" — Imam Asy-Syahid Hasan al-Banna (BAB 1: Bergerak Dalam Pelbagai Pendekatan)"
   },
   {
     "id": 19,
@@ -353,11 +353,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "HANYA GERHANA, BUKAN TERBENAMNYA MATAHARI",
     "ch_title": "HANYA GERHANA, BUKAN TERBENAMNYA MATAHARI",
     "subtopicTitle": "Fiqh Optimisme & Sunnatullah Perjuangan",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Kelemahan umat hari ini adalah sakit demam seorang perkasa, bukannya nafas terakhir seorang yang nazak. Di sebalik setiap gerhana ada janji kembalinya pancaran mentari yang lebih gemilang.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Kelemahan umat hari ini adalah sakit demam seorang perkasa, bukannya nafas terakhir seorang yang nazak. Di sebalik setiap gerhana ada janji kembalinya pancaran mentari yang lebih gemilang.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 2: Fiqh Optimisme & Sunnatullah Perjuangan)"
+    "fullText": "\"Kelemahan umat hari ini adalah sakit demam seorang perkasa, bukannya nafas terakhir seorang yang nazak. Di sebalik setiap gerhana ada janji kembalinya pancaran mentari yang lebih gemilang.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 2: Fiqh Optimisme & Sunnatullah Perjuangan)"
   },
   {
     "id": 25,
@@ -383,11 +383,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "HANYA GERHANA, BUKAN TERBENAMNYA MATAHARI",
     "ch_title": "HANYA GERHANA, BUKAN TERBENAMNYA MATAHARI",
     "subtopicTitle": "Fiqh Optimisme & Sunnatullah Perjuangan",
-    "speaker": "Sayyidina Abu Bakr As-Siddiq RA",
+    "speaker": "Sayyidina Abu Bakr as-Siddiq RA",
     "quote": "Jangan sekali-kali engkau berputus asa daripada rahmat Allah ketika seluruh jalan kelihatan tertutup rapat. Kerana pertolongan Allah itu tiba tepat pada saat hamba-Nya menyerahkan kebergantungan total kepada-Nya.",
     "quote_ar": "",
     "category": "sahabat",
-    "fullText": "\"Jangan sekali-kali engkau berputus asa daripada rahmat Allah ketika seluruh jalan kelihatan tertutup rapat. Kerana pertolongan Allah itu tiba tepat pada saat hamba-Nya menyerahkan kebergantungan total kepada-Nya.\" — Sayyidina Abu Bakr As-Siddiq RA (BAB 2: Fiqh Optimisme & Sunnatullah Perjuangan)"
+    "fullText": "\"Jangan sekali-kali engkau berputus asa daripada rahmat Allah ketika seluruh jalan kelihatan tertutup rapat. Kerana pertolongan Allah itu tiba tepat pada saat hamba-Nya menyerahkan kebergantungan total kepada-Nya.\" — Sayyidina Abu Bakr as-Siddiq RA (BAB 2: Fiqh Optimisme & Sunnatullah Perjuangan)"
   },
   {
     "id": 27,
@@ -458,11 +458,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "GOLONGAN BAIK YANG BINASA",
     "ch_title": "GOLONGAN BAIK YANG BINASA",
     "subtopicTitle": "Bahaya Kesolehan Pasif & Qanun Azab Jama'i",
-    "speaker": "Sayyidina Abu Bakr As-Siddiq RA",
+    "speaker": "Sayyidina Abu Bakr as-Siddiq RA",
     "quote": "Wahai manusia! Kamu membaca ayat: 'Jagalah dirimu, tiadalah orang sesat memudaratkanmu jika kamu mendapat petunjuk.' Tetapi aku mendengar Rasulullah SAW bersabda: Jika manusia melihat orang zalim lalu tidak menahannya, dikhuatiri Allah meratakan azab ke atas mereka semua!",
     "quote_ar": "",
     "category": "sahabat",
-    "fullText": "\"Wahai manusia! Kamu membaca ayat: 'Jagalah dirimu, tiadalah orang sesat memudaratkanmu jika kamu mendapat petunjuk.' Tetapi aku mendengar Rasulullah SAW bersabda: Jika manusia melihat orang zalim lalu tidak menahannya, dikhuatiri Allah meratakan azab ke atas mereka semua!\" — Sayyidina Abu Bakr As-Siddiq RA (BAB 3: Bahaya Kesolehan Pasif & Qanun Azab Jama'i)"
+    "fullText": "\"Wahai manusia! Kamu membaca ayat: 'Jagalah dirimu, tiadalah orang sesat memudaratkanmu jika kamu mendapat petunjuk.' Tetapi aku mendengar Rasulullah SAW bersabda: Jika manusia melihat orang zalim lalu tidak menahannya, dikhuatiri Allah meratakan azab ke atas mereka semua!\" — Sayyidina Abu Bakr as-Siddiq RA (BAB 3: Bahaya Kesolehan Pasif & Qanun Azab Jama'i)"
   },
   {
     "id": 32,
@@ -473,11 +473,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "GOLONGAN BAIK YANG BINASA",
     "ch_title": "GOLONGAN BAIK YANG BINASA",
     "subtopicTitle": "Bahaya Kesolehan Pasif & Qanun Azab Jama'i",
-    "speaker": "Imam Al-Ghazali (Ihya' Ulumiddin)",
+    "speaker": "Imam al-Ghazali (Ihya' Ulumiddin)",
     "quote": "Amar makruf nahi mungkar adalah kutub terbesar dalam agama Islam. Apabila lipatannya digulung dan ilmunya diamalkan secara sambil lewa, lenyaplah syiar kenabian, meruaplah kejahilan, dan runtuhlah sendi sesebuah tamadun.",
     "quote_ar": "",
     "category": "ulama",
-    "fullText": "\"Amar makruf nahi mungkar adalah kutub terbesar dalam agama Islam. Apabila lipatannya digulung dan ilmunya diamalkan secara sambil lewa, lenyaplah syiar kenabian, meruaplah kejahilan, dan runtuhlah sendi sesebuah tamadun.\" — Imam Al-Ghazali (Ihya' Ulumiddin) (BAB 3: Bahaya Kesolehan Pasif & Qanun Azab Jama'i)"
+    "fullText": "\"Amar makruf nahi mungkar adalah kutub terbesar dalam agama Islam. Apabila lipatannya digulung dan ilmunya diamalkan secara sambil lewa, lenyaplah syiar kenabian, meruaplah kejahilan, dan runtuhlah sendi sesebuah tamadun.\" — Imam al-Ghazali (Ihya' Ulumiddin) (BAB 3: Bahaya Kesolehan Pasif & Qanun Azab Jama'i)"
   },
   {
     "id": 33,
@@ -503,11 +503,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "GOLONGAN BAIK YANG BINASA",
     "ch_title": "GOLONGAN BAIK YANG BINASA",
     "subtopicTitle": "Bahaya Kesolehan Pasif & Qanun Azab Jama'i",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Kesolehan pasif yang terkurung dalam bilik zikir tanpa keberanian menegur kerosakan di jalanan adalah racun yang menidurkan umat. Yang kita perlukan hari ini ialah kesolehan muslih yang bergerak membaiki kerosakan masyarakat!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Kesolehan pasif yang terkurung dalam bilik zikir tanpa keberanian menegur kerosakan di jalanan adalah racun yang menidurkan umat. Yang kita perlukan hari ini ialah kesolehan muslih yang bergerak membaiki kerosakan masyarakat!\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 3: Bahaya Kesolehan Pasif & Qanun Azab Jama'i)"
+    "fullText": "\"Kesolehan pasif yang terkurung dalam bilik zikir tanpa keberanian menegur kerosakan di jalanan adalah racun yang menidurkan umat. Yang kita perlukan hari ini ialah kesolehan muslih yang bergerak membaiki kerosakan masyarakat!\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 3: Bahaya Kesolehan Pasif & Qanun Azab Jama'i)"
   },
   {
     "id": 35,
@@ -593,11 +593,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KEWAJIPAN DAKWAH KE JALAN ALLAH",
     "ch_title": "KEWAJIPAN DAKWAH KE JALAN ALLAH",
     "subtopicTitle": "Erti Profesion Dakwah Adalah Kerja Ulama....",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Dakwah Islam bukanlah kerjaya bergaji untuk golongan tertentu atau pakaian rasmi jabatan. Dakwah adalah nafas kehidupan bagi setiap mukmin: jurutera, doktor, guru, peniaga, dan petani semuanya adalah da'i sebelum menjadi apa-apa profesion!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Dakwah Islam bukanlah kerjaya bergaji untuk golongan tertentu atau pakaian rasmi jabatan. Dakwah adalah nafas kehidupan bagi setiap mukmin: jurutera, doktor, guru, peniaga, dan petani semuanya adalah da'i sebelum menjadi apa-apa profesion!\" — Imam Asy-Syahid Hasan Al-Banna (BAB 4: Erti Profesion Dakwah Adalah Kerja Ulama....)"
+    "fullText": "\"Dakwah Islam bukanlah kerjaya bergaji untuk golongan tertentu atau pakaian rasmi jabatan. Dakwah adalah nafas kehidupan bagi setiap mukmin: jurutera, doktor, guru, peniaga, dan petani semuanya adalah da'i sebelum menjadi apa-apa profesion!\" — Imam Asy-Syahid Hasan al-Banna (BAB 4: Erti Profesion Dakwah Adalah Kerja Ulama....)"
   },
   {
     "id": 41,
@@ -653,11 +653,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KEWAJIPAN DAKWAH KE JALAN ALLAH",
     "ch_title": "KEWAJIPAN DAKWAH KE JALAN ALLAH",
     "subtopicTitle": "Makna Fardu Kifayah – Menolak Alasan Berpeluk Tubuh",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Jangan engkau jadikan istilah 'fardu kifayah' sebagai tilam empuk untuk engkau tidur lena daripada berjuang! Bangkitlah menjadi orang pertama yang menyempurnakan kifayah tersebut di zaman keruntuhan ini.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Jangan engkau jadikan istilah 'fardu kifayah' sebagai tilam empuk untuk engkau tidur lena daripada berjuang! Bangkitlah menjadi orang pertama yang menyempurnakan kifayah tersebut di zaman keruntuhan ini.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 4: Makna Fardu Kifayah – Menolak Alasan Berpeluk Tubuh)"
+    "fullText": "\"Jangan engkau jadikan istilah 'fardu kifayah' sebagai tilam empuk untuk engkau tidur lena daripada berjuang! Bangkitlah menjadi orang pertama yang menyempurnakan kifayah tersebut di zaman keruntuhan ini.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 4: Makna Fardu Kifayah – Menolak Alasan Berpeluk Tubuh)"
   },
   {
     "id": 45,
@@ -743,11 +743,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "AHLI IBADAT YANG BERMAIN-MAIN",
     "ch_title": "AHLI IBADAT YANG BERMAIN-MAIN",
     "subtopicTitle": "Da'i Adalah Pengembara",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Seorang da'i sejati adalah pengembara di jalan Allah yang membawa bekalan cahaya. Di mana sahaja dia singgah, di situlah fajar keimanan menyala; dan apabila dia berangkat pergi, harum wangian dakwahnya tetap kekal mewangi.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Seorang da'i sejati adalah pengembara di jalan Allah yang membawa bekalan cahaya. Di mana sahaja dia singgah, di situlah fajar keimanan menyala; dan apabila dia berangkat pergi, harum wangian dakwahnya tetap kekal mewangi.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 5: Da'i Adalah Pengembara)"
+    "fullText": "\"Seorang da'i sejati adalah pengembara di jalan Allah yang membawa bekalan cahaya. Di mana sahaja dia singgah, di situlah fajar keimanan menyala; dan apabila dia berangkat pergi, harum wangian dakwahnya tetap kekal mewangi.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 5: Da'i Adalah Pengembara)"
   },
   {
     "id": 51,
@@ -788,11 +788,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "AHLI IBADAT YANG BERMAIN-MAIN",
     "ch_title": "AHLI IBADAT YANG BERMAIN-MAIN",
     "subtopicTitle": "Da'i Adalah Pengembara",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Kewajipan kita adalah jauh lebih banyak daripada waktu yang kita miliki. Maka janganlah engkau bazirkan usiamu pada kerehatan yang menipu, kerana kubur adalah tempat rehat yang abadi bagi seorang pejuang.",
     "quote_ar": "الواجبات أكثر من الأوقات",
     "category": "haraki",
-    "fullText": "\"Kewajipan kita adalah jauh lebih banyak daripada waktu yang kita miliki. Maka janganlah engkau bazirkan usiamu pada kerehatan yang menipu, kerana kubur adalah tempat rehat yang abadi bagi seorang pejuang.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 5: Da'i Adalah Pengembara)"
+    "fullText": "\"Kewajipan kita adalah jauh lebih banyak daripada waktu yang kita miliki. Maka janganlah engkau bazirkan usiamu pada kerehatan yang menipu, kerana kubur adalah tempat rehat yang abadi bagi seorang pejuang.\" — Imam Asy-Syahid Hasan al-Banna (BAB 5: Da'i Adalah Pengembara)"
   },
   {
     "id": 54,
@@ -908,11 +908,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "HENTAKAN KESEDARAN DARIPADA PARA CENDIAKAWAN",
     "ch_title": "HENTAKAN KESEDARAN DARIPADA PARA CENDIAKAWAN",
     "subtopicTitle": "Konsep Hentakan Kesedaran (Ghattah Tarbiah)",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Jiwa pemuda yang lalai memerlukan 'ghattah'—iaitu hentakan tarbiah yang menyentak kesedarannya, meruntuhkan keegoannya, dan membangkitkannya daripada lamunan angan-angan kosong kepada alam realiti dakwah.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Jiwa pemuda yang lalai memerlukan 'ghattah'—iaitu hentakan tarbiah yang menyentak kesedarannya, meruntuhkan keegoannya, dan membangkitkannya daripada lamunan angan-angan kosong kepada alam realiti dakwah.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 6: Konsep Hentakan Kesedaran (Ghattah Tarbiah))"
+    "fullText": "\"Jiwa pemuda yang lalai memerlukan 'ghattah'—iaitu hentakan tarbiah yang menyentak kesedarannya, meruntuhkan keegoannya, dan membangkitkannya daripada lamunan angan-angan kosong kepada alam realiti dakwah.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 6: Konsep Hentakan Kesedaran (Ghattah Tarbiah))"
   },
   {
     "id": 62,
@@ -1073,11 +1073,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "JIHAD DENGAN HUJAH",
     "ch_title": "JIHAD DENGAN HUJAH",
     "subtopicTitle": "Surah al-'Asr Sudah Memadai",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Empat rukun keselamatan dalam Surah al-'Asr: Iman, Amal Salih, Saling Berpesan dengan Kebenaran, dan Saling Berpesan dengan Kesabaran. Mengabaikan rukun dakwah dan sabar bermakna menjerumuskan diri ke dalam gaung kerugian mutlak!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Empat rukun keselamatan dalam Surah al-'Asr: Iman, Amal Salih, Saling Berpesan dengan Kebenaran, dan Saling Berpesan dengan Kesabaran. Mengabaikan rukun dakwah dan sabar bermakna menjerumuskan diri ke dalam gaung kerugian mutlak!\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 7: Surah al-'Asr Sudah Memadai)"
+    "fullText": "\"Empat rukun keselamatan dalam Surah al-'Asr: Iman, Amal Salih, Saling Berpesan dengan Kebenaran, dan Saling Berpesan dengan Kesabaran. Mengabaikan rukun dakwah dan sabar bermakna menjerumuskan diri ke dalam gaung kerugian mutlak!\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 7: Surah al-'Asr Sudah Memadai)"
   },
   {
     "id": 73,
@@ -1103,11 +1103,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "JIHAD DENGAN HUJAH",
     "ch_title": "JIHAD DENGAN HUJAH",
     "subtopicTitle": "Keutamaan Jihad al-Bayan & Intelek",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Senjata lisanmu mestilah diasah dengan zikir dan kefahaman mendalam. Jangan berdebat untuk memenangi ego, tetapi berhujahlah untuk menyelamatkan jiwa saudaramu daripada kesesatan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Senjata lisanmu mestilah diasah dengan zikir dan kefahaman mendalam. Jangan berdebat untuk memenangi ego, tetapi berhujahlah untuk menyelamatkan jiwa saudaramu daripada kesesatan.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 7: Keutamaan Jihad al-Bayan & Intelek)"
+    "fullText": "\"Senjata lisanmu mestilah diasah dengan zikir dan kefahaman mendalam. Jangan berdebat untuk memenangi ego, tetapi berhujahlah untuk menyelamatkan jiwa saudaramu daripada kesesatan.\" — Imam Asy-Syahid Hasan al-Banna (BAB 7: Keutamaan Jihad al-Bayan & Intelek)"
   },
   {
     "id": 75,
@@ -1178,11 +1178,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "ch_title": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "subtopicTitle": "Jadilah Rijal 'Ammah",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Jangan engkau menjadi da'i elit yang terasing di menara gading! Jadilah 'Rijal 'Ammah'—iaitu pemimpin yang membaur dengan denyut nadi rakyat terbanyak, berkongsi kepayahan mereka, dan membimbing mereka ke jalan Allah.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Jangan engkau menjadi da'i elit yang terasing di menara gading! Jadilah 'Rijal 'Ammah'—iaitu pemimpin yang membaur dengan denyut nadi rakyat terbanyak, berkongsi kepayahan mereka, dan membimbing mereka ke jalan Allah.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 8: Jadilah Rijal 'Ammah)"
+    "fullText": "\"Jangan engkau menjadi da'i elit yang terasing di menara gading! Jadilah 'Rijal 'Ammah'—iaitu pemimpin yang membaur dengan denyut nadi rakyat terbanyak, berkongsi kepayahan mereka, dan membimbing mereka ke jalan Allah.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 8: Jadilah Rijal 'Ammah)"
   },
   {
     "id": 80,
@@ -1193,11 +1193,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "ch_title": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "subtopicTitle": "Akar Usul Amal Jama'i Dalam Tradisi Salaf",
-    "speaker": "Imam Al-Hasan al-Basri",
+    "speaker": "Imam al-Hasan al-Basri",
     "quote": "Tangan Allah bersama jemaah. Serigala hanya akan menerkam kambing yang bersendirian dan terpisah daripada kumpulannya. Demikianlah syaitan dengan mudah menjatuhkan aktivis yang menyendiri tanpa tanzim.",
     "quote_ar": "",
     "category": "salaf",
-    "fullText": "\"Tangan Allah bersama jemaah. Serigala hanya akan menerkam kambing yang bersendirian dan terpisah daripada kumpulannya. Demikianlah syaitan dengan mudah menjatuhkan aktivis yang menyendiri tanpa tanzim.\" — Imam Al-Hasan al-Basri (BAB 8: Akar Usul Amal Jama'i Dalam Tradisi Salaf)"
+    "fullText": "\"Tangan Allah bersama jemaah. Serigala hanya akan menerkam kambing yang bersendirian dan terpisah daripada kumpulannya. Demikianlah syaitan dengan mudah menjatuhkan aktivis yang menyendiri tanpa tanzim.\" — Imam al-Hasan al-Basri (BAB 8: Akar Usul Amal Jama'i Dalam Tradisi Salaf)"
   },
   {
     "id": 81,
@@ -1253,11 +1253,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "ch_title": "PRINSIP-PRINSIP USUL FIQH AMAL JAMA'I DI SISI SALAF",
     "subtopicTitle": "Akar Usul Amal Jama'i Dalam Tradisi Salaf",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Amal fardi (individu) hanya membina peribadi soleh; tetapi amal jama'i yang tersusun membina ummah yang berdaulat dan memimpin dunia mengikut acuan Ilahi.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Amal fardi (individu) hanya membina peribadi soleh; tetapi amal jama'i yang tersusun membina ummah yang berdaulat dan memimpin dunia mengikut acuan Ilahi.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 8: Akar Usul Amal Jama'i Dalam Tradisi Salaf)"
+    "fullText": "\"Amal fardi (individu) hanya membina peribadi soleh; tetapi amal jama'i yang tersusun membina ummah yang berdaulat dan memimpin dunia mengikut acuan Ilahi.\" — Imam Asy-Syahid Hasan al-Banna (BAB 8: Akar Usul Amal Jama'i Dalam Tradisi Salaf)"
   },
   {
     "id": 85,
@@ -1268,11 +1268,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP FIQH AMAL JAMA'I DALAM ACUAN MODEN",
     "ch_title": "PRINSIP-PRINSIP FIQH AMAL JAMA'I DALAM ACUAN MODEN",
     "subtopicTitle": "Kelahiran Harakah Islamiyyah Moden",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Katakanlah: 'Inilah jalanku, aku dan orang-orang yang mengikutiku mengajak kamu kepada Allah dengan hujah yang nyata.' Inilah dakwah kami: dakwah salafiyyah, thariqah sunniyyah, hakikat sufiyyah, pertubuhan siasiyyah, dan jemaah riyadhiyyah!",
     "quote_ar": "قل هذه سبيلي أدعو إلى الله على بصيرة",
     "category": "haraki",
-    "fullText": "\"Katakanlah: 'Inilah jalanku, aku dan orang-orang yang mengikutiku mengajak kamu kepada Allah dengan hujah yang nyata.' Inilah dakwah kami: dakwah salafiyyah, thariqah sunniyyah, hakikat sufiyyah, pertubuhan siasiyyah, dan jemaah riyadhiyyah!\" — Imam Asy-Syahid Hasan Al-Banna (BAB 9: Kelahiran Harakah Islamiyyah Moden)"
+    "fullText": "\"Katakanlah: 'Inilah jalanku, aku dan orang-orang yang mengikutiku mengajak kamu kepada Allah dengan hujah yang nyata.' Inilah dakwah kami: dakwah salafiyyah, thariqah sunniyyah, hakikat sufiyyah, pertubuhan siasiyyah, dan jemaah riyadhiyyah!\" — Imam Asy-Syahid Hasan al-Banna (BAB 9: Kelahiran Harakah Islamiyyah Moden)"
   },
   {
     "id": 86,
@@ -1328,11 +1328,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP FIQH AMAL JAMA'I DALAM ACUAN MODEN",
     "ch_title": "PRINSIP-PRINSIP FIQH AMAL JAMA'I DALAM ACUAN MODEN",
     "subtopicTitle": "'Inilah Aku' ...Kata Imam Hasan al-Banna",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Aku adalah seorang pengembara yang mencari kebenaran, seorang manusia yang mencari erti kemanusiaan di celah-celah kezaliman, dan seorang pejuang yang mendambakan keredaan Allah di atas jalan dakwah ini.",
     "quote_ar": "أنا سائح يبحث عن الحقيقة",
     "category": "haraki",
-    "fullText": "\"Aku adalah seorang pengembara yang mencari kebenaran, seorang manusia yang mencari erti kemanusiaan di celah-celah kezaliman, dan seorang pejuang yang mendambakan keredaan Allah di atas jalan dakwah ini.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 9: 'Inilah Aku' ...Kata Imam Hasan al-Banna)"
+    "fullText": "\"Aku adalah seorang pengembara yang mencari kebenaran, seorang manusia yang mencari erti kemanusiaan di celah-celah kezaliman, dan seorang pejuang yang mendambakan keredaan Allah di atas jalan dakwah ini.\" — Imam Asy-Syahid Hasan al-Banna (BAB 9: 'Inilah Aku' ...Kata Imam Hasan al-Banna)"
   },
   {
     "id": 90,
@@ -1373,11 +1373,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PRINSIP-PRINSIP FIQH AMAL JAMA'I DALAM ACUAN MODEN",
     "ch_title": "PRINSIP-PRINSIP FIQH AMAL JAMA'I DALAM ACUAN MODEN",
     "subtopicTitle": "Para Perintis Menjelaskan Sifat-sifat Jalan Dakwah",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Acuan moden memerlukan kepintaran strategi (al-wa'yu al-haraki) tanpa mengorbankan ketulenan usul (ashalah). Keanjalan uslub adalah kebijaksanaan, manakala keanjalan prinsip adalah pengkhianatan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Acuan moden memerlukan kepintaran strategi (al-wa'yu al-haraki) tanpa mengorbankan ketulenan usul (ashalah). Keanjalan uslub adalah kebijaksanaan, manakala keanjalan prinsip adalah pengkhianatan.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 9: Para Perintis Menjelaskan Sifat-sifat Jalan Dakwah)"
+    "fullText": "\"Acuan moden memerlukan kepintaran strategi (al-wa'yu al-haraki) tanpa mengorbankan ketulenan usul (ashalah). Keanjalan uslub adalah kebijaksanaan, manakala keanjalan prinsip adalah pengkhianatan.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 9: Para Perintis Menjelaskan Sifat-sifat Jalan Dakwah)"
   },
   {
     "id": 93,
@@ -1418,11 +1418,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KESELARASAN DAN KESYUMULAN",
     "ch_title": "KESELARASAN DAN KESYUMULAN",
     "subtopicTitle": "Fiqh Tansiq & Syumuliyyah",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Islam adalah risalah yang syumul (menyeluruh): ia merangkumi akidah dan ibadah, tanah air dan bangsa, akhlak dan kekuatan, kasih sayang dan keadilan, kebudayaan dan undang-undang, serta jihad dan dakwah.",
     "quote_ar": "الإسلام نظام شامل",
     "category": "haraki",
-    "fullText": "\"Islam adalah risalah yang syumul (menyeluruh): ia merangkumi akidah dan ibadah, tanah air dan bangsa, akhlak dan kekuatan, kasih sayang dan keadilan, kebudayaan dan undang-undang, serta jihad dan dakwah.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 10: Fiqh Tansiq & Syumuliyyah)"
+    "fullText": "\"Islam adalah risalah yang syumul (menyeluruh): ia merangkumi akidah dan ibadah, tanah air dan bangsa, akhlak dan kekuatan, kasih sayang dan keadilan, kebudayaan dan undang-undang, serta jihad dan dakwah.\" — Imam Asy-Syahid Hasan al-Banna (BAB 10: Fiqh Tansiq & Syumuliyyah)"
   },
   {
     "id": 96,
@@ -1508,11 +1508,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KESELARASAN DAN KESYUMULAN",
     "ch_title": "KESELARASAN DAN KESYUMULAN",
     "subtopicTitle": "Aliran Pengembangan Seimbang Lahir Dari Pusat Tetap",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Sebuah jemaah dakwah yang sihat mestilah mengimbangi antara pengukuhan tarbiah ruhiyyah di bahagian dalaman dengan peluasan khidmat kemasyarakatan di bahagian luaran. Jika hilang salah satu, pincanglah bahtera perjuangan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Sebuah jemaah dakwah yang sihat mestilah mengimbangi antara pengukuhan tarbiah ruhiyyah di bahagian dalaman dengan peluasan khidmat kemasyarakatan di bahagian luaran. Jika hilang salah satu, pincanglah bahtera perjuangan.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 10: Aliran Pengembangan Seimbang Lahir Dari Pusat Tetap)"
+    "fullText": "\"Sebuah jemaah dakwah yang sihat mestilah mengimbangi antara pengukuhan tarbiah ruhiyyah di bahagian dalaman dengan peluasan khidmat kemasyarakatan di bahagian luaran. Jika hilang salah satu, pincanglah bahtera perjuangan.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 10: Aliran Pengembangan Seimbang Lahir Dari Pusat Tetap)"
   },
   {
     "id": 102,
@@ -1583,11 +1583,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PANJI KEBAIKAN",
     "ch_title": "PANJI KEBAIKAN",
     "subtopicTitle": "Graviti Da'i",
-    "speaker": "Imam Al-Hasan al-Basri",
+    "speaker": "Imam al-Hasan al-Basri",
     "quote": "Serulah manusia ke jalan Allah dengan diammu! Orang bertanya: 'Bagaimanakah menyeru dengan diam?' Beliau menjawab: 'Iaitu melalui keindahan akhlakmu, keikhlasan amalmu, dan kemuliaan peribadimu.'",
     "quote_ar": "",
     "category": "salaf",
-    "fullText": "\"Serulah manusia ke jalan Allah dengan diammu! Orang bertanya: 'Bagaimanakah menyeru dengan diam?' Beliau menjawab: 'Iaitu melalui keindahan akhlakmu, keikhlasan amalmu, dan kemuliaan peribadimu.'\" — Imam Al-Hasan al-Basri (BAB 11: Graviti Da'i)"
+    "fullText": "\"Serulah manusia ke jalan Allah dengan diammu! Orang bertanya: 'Bagaimanakah menyeru dengan diam?' Beliau menjawab: 'Iaitu melalui keindahan akhlakmu, keikhlasan amalmu, dan kemuliaan peribadimu.'\" — Imam al-Hasan al-Basri (BAB 11: Graviti Da'i)"
   },
   {
     "id": 107,
@@ -1613,11 +1613,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PANJI KEBAIKAN",
     "ch_title": "PANJI KEBAIKAN",
     "subtopicTitle": "Hijrah Yang 'Mafdhulah' (Kurang Keutamaannya)",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Meninggalkan medan dakwah di tanah air semata-mata kerana mencari gaji lumayan di luar negara adalah satu 'hijrah mafdhulah' (hijrah yang rendah nilainya). Da'i sejati bertahan di tanah tumpah darahnya untuk membakar obor kebangkitan umat!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Meninggalkan medan dakwah di tanah air semata-mata kerana mencari gaji lumayan di luar negara adalah satu 'hijrah mafdhulah' (hijrah yang rendah nilainya). Da'i sejati bertahan di tanah tumpah darahnya untuk membakar obor kebangkitan umat!\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 11: Hijrah Yang 'Mafdhulah' (Kurang Keutamaannya))"
+    "fullText": "\"Meninggalkan medan dakwah di tanah air semata-mata kerana mencari gaji lumayan di luar negara adalah satu 'hijrah mafdhulah' (hijrah yang rendah nilainya). Da'i sejati bertahan di tanah tumpah darahnya untuk membakar obor kebangkitan umat!\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 11: Hijrah Yang 'Mafdhulah' (Kurang Keutamaannya))"
   },
   {
     "id": 109,
@@ -1643,11 +1643,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PANJI KEBAIKAN",
     "ch_title": "PANJI KEBAIKAN",
     "subtopicTitle": "Graviti Da'i",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Da'i yang mempunyai daya graviti keimanan akan menarik hati manusia kepadanya seperti magnet menarik serpihan besi. Daya graviti itu tidak boleh dibeli dengan wang, tetapi ia lahir daripada linangan air mata di waktu tahajud.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Da'i yang mempunyai daya graviti keimanan akan menarik hati manusia kepadanya seperti magnet menarik serpihan besi. Daya graviti itu tidak boleh dibeli dengan wang, tetapi ia lahir daripada linangan air mata di waktu tahajud.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 11: Graviti Da'i)"
+    "fullText": "\"Da'i yang mempunyai daya graviti keimanan akan menarik hati manusia kepadanya seperti magnet menarik serpihan besi. Daya graviti itu tidak boleh dibeli dengan wang, tetapi ia lahir daripada linangan air mata di waktu tahajud.\" — Imam Asy-Syahid Hasan al-Banna (BAB 11: Graviti Da'i)"
   },
   {
     "id": 111,
@@ -1778,11 +1778,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "FORMULA HANYA DIFAHAMI OLEH RIJAL",
     "ch_title": "FORMULA HANYA DIFAHAMI OLEH RIJAL",
     "subtopicTitle": "Ia Hanya Kerja Rijal...!",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Membina semula peradaban Islam bukanlah kerja orang-orang yang berangan-angan kosong di kedai kopi. Ia adalah kerja rijal—iaitu lelaki-lelaki sejati yang tidak dilalaikan oleh perniagaan daripada mengingati Allah dan berjihad di jalan-Nya!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Membina semula peradaban Islam bukanlah kerja orang-orang yang berangan-angan kosong di kedai kopi. Ia adalah kerja rijal—iaitu lelaki-lelaki sejati yang tidak dilalaikan oleh perniagaan daripada mengingati Allah dan berjihad di jalan-Nya!\" — Imam Asy-Syahid Hasan Al-Banna (BAB 12: Ia Hanya Kerja Rijal...!)"
+    "fullText": "\"Membina semula peradaban Islam bukanlah kerja orang-orang yang berangan-angan kosong di kedai kopi. Ia adalah kerja rijal—iaitu lelaki-lelaki sejati yang tidak dilalaikan oleh perniagaan daripada mengingati Allah dan berjihad di jalan-Nya!\" — Imam Asy-Syahid Hasan al-Banna (BAB 12: Ia Hanya Kerja Rijal...!)"
   },
   {
     "id": 120,
@@ -1808,11 +1808,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "FORMULA HANYA DIFAHAMI OLEH RIJAL",
     "ch_title": "FORMULA HANYA DIFAHAMI OLEH RIJAL",
     "subtopicTitle": "Ia Hanya Kerja Rijal...!",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Formula dakwah ini tidak dapat difahami oleh jiwa-jiwa yang kerdil dan penakut. Ia hanya mampu dihayati oleh rijal yang bersedia menanggung beban kepayahan, tidur beralaskan lengan, dan memandang syahid sebagai puncak kemuliaan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Formula dakwah ini tidak dapat difahami oleh jiwa-jiwa yang kerdil dan penakut. Ia hanya mampu dihayati oleh rijal yang bersedia menanggung beban kepayahan, tidur beralaskan lengan, dan memandang syahid sebagai puncak kemuliaan.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 12: Ia Hanya Kerja Rijal...!)"
+    "fullText": "\"Formula dakwah ini tidak dapat difahami oleh jiwa-jiwa yang kerdil dan penakut. Ia hanya mampu dihayati oleh rijal yang bersedia menanggung beban kepayahan, tidur beralaskan lengan, dan memandang syahid sebagai puncak kemuliaan.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 12: Ia Hanya Kerja Rijal...!)"
   },
   {
     "id": 122,
@@ -1868,11 +1868,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PERJANJIAN (AL-AHD & BAI'AH)",
     "ch_title": "PERJANJIAN (AL-AHD & BAI'AH)",
     "subtopicTitle": "Hakikat Bai'ah & Perjanjian Setia",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna (Risalah At-Ta'alim)",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna (Risalah at-Ta'alim)",
     "quote": "Rukun bai'ah kami ada sepuluh: Faham, Ikhlas, Amal, Jihad, Pengorbanan, Taat, Thabat (Teguh), Tajarrud (Penyerahan Total), Ukhuwah, dan Thiqah (Keyakinan Penuh). Sesiapa yang menyempurnakan rukun ini, dialah rijal sejati dakwah kami!",
     "quote_ar": "أركان بيعتنا عشرة: فهم وإخلاص وعمل...",
     "category": "haraki",
-    "fullText": "\"Rukun bai'ah kami ada sepuluh: Faham, Ikhlas, Amal, Jihad, Pengorbanan, Taat, Thabat (Teguh), Tajarrud (Penyerahan Total), Ukhuwah, dan Thiqah (Keyakinan Penuh). Sesiapa yang menyempurnakan rukun ini, dialah rijal sejati dakwah kami!\" — Imam Asy-Syahid Hasan Al-Banna (Risalah At-Ta'alim) (BAB 13: Hakikat Bai'ah & Perjanjian Setia)"
+    "fullText": "\"Rukun bai'ah kami ada sepuluh: Faham, Ikhlas, Amal, Jihad, Pengorbanan, Taat, Thabat (Teguh), Tajarrud (Penyerahan Total), Ukhuwah, dan Thiqah (Keyakinan Penuh). Sesiapa yang menyempurnakan rukun ini, dialah rijal sejati dakwah kami!\" — Imam Asy-Syahid Hasan al-Banna (Risalah at-Ta'alim) (BAB 13: Hakikat Bai'ah & Perjanjian Setia)"
   },
   {
     "id": 126,
@@ -1883,11 +1883,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PERJANJIAN (AL-AHD & BAI'AH)",
     "ch_title": "PERJANJIAN (AL-AHD & BAI'AH)",
     "subtopicTitle": "Ia Adalah Terus Terang Islam",
-    "speaker": "Allamah Abul A'la Al-Maududi",
+    "speaker": "Allamah Abul A'la al-Maududi",
     "quote": "Perjanjian dengan Allah bukanlah transaksi separuh jalan. Ia menuntut seorang muslim menyerahkan seluruh cita-cita, harta, masa, dan nyawanya untuk menegakkan sistem pemerintahan Islam di muka bumi.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Perjanjian dengan Allah bukanlah transaksi separuh jalan. Ia menuntut seorang muslim menyerahkan seluruh cita-cita, harta, masa, dan nyawanya untuk menegakkan sistem pemerintahan Islam di muka bumi.\" — Allamah Abul A'la Al-Maududi (BAB 13: Ia Adalah Terus Terang Islam)"
+    "fullText": "\"Perjanjian dengan Allah bukanlah transaksi separuh jalan. Ia menuntut seorang muslim menyerahkan seluruh cita-cita, harta, masa, dan nyawanya untuk menegakkan sistem pemerintahan Islam di muka bumi.\" — Allamah Abul A'la al-Maududi (BAB 13: Ia Adalah Terus Terang Islam)"
   },
   {
     "id": 127,
@@ -1928,11 +1928,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PERJANJIAN (AL-AHD & BAI'AH)",
     "ch_title": "PERJANJIAN (AL-AHD & BAI'AH)",
     "subtopicTitle": "Imam Hasan al-Banna Mendaki Puncak Kesedaran",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Wahai ikhwan! Janji setia ini bukanlah kata-kata manis di bibir, tetapi ia adalah sumpah darah dan jiwa yang disaksikan oleh para malaikat di langit. Peliharalah perjanjianmu kepada Allah!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Wahai ikhwan! Janji setia ini bukanlah kata-kata manis di bibir, tetapi ia adalah sumpah darah dan jiwa yang disaksikan oleh para malaikat di langit. Peliharalah perjanjianmu kepada Allah!\" — Imam Asy-Syahid Hasan Al-Banna (BAB 13: Imam Hasan al-Banna Mendaki Puncak Kesedaran)"
+    "fullText": "\"Wahai ikhwan! Janji setia ini bukanlah kata-kata manis di bibir, tetapi ia adalah sumpah darah dan jiwa yang disaksikan oleh para malaikat di langit. Peliharalah perjanjianmu kepada Allah!\" — Imam Asy-Syahid Hasan al-Banna (BAB 13: Imam Hasan al-Banna Mendaki Puncak Kesedaran)"
   },
   {
     "id": 130,
@@ -1943,11 +1943,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PERJANJIAN (AL-AHD & BAI'AH)",
     "ch_title": "PERJANJIAN (AL-AHD & BAI'AH)",
     "subtopicTitle": "Teman di Sepanjang Perjalanan",
-    "speaker": "Sayyidina Abu Bakr As-Siddiq RA (Dalam Gua Thaur)",
+    "speaker": "Sayyidina Abu Bakr as-Siddiq RA (Dalam Gua Thaur)",
     "quote": "Ketika melihat musuh berada di hadapan gua, Rasulullah SAW menenangkan sahabat setianya: 'Janganlah engkau bersedih, sesungguhnya Allah bersama kita!' Itulah kemuncak ukhuwah dan kepercayaan dalam perjalanan dakwah.",
     "quote_ar": "لا تحزن إن الله معنا",
     "category": "sahabat",
-    "fullText": "\"Ketika melihat musuh berada di hadapan gua, Rasulullah SAW menenangkan sahabat setianya: 'Janganlah engkau bersedih, sesungguhnya Allah bersama kita!' Itulah kemuncak ukhuwah dan kepercayaan dalam perjalanan dakwah.\" — Sayyidina Abu Bakr As-Siddiq RA (Dalam Gua Thaur) (BAB 13: Teman di Sepanjang Perjalanan)"
+    "fullText": "\"Ketika melihat musuh berada di hadapan gua, Rasulullah SAW menenangkan sahabat setianya: 'Janganlah engkau bersedih, sesungguhnya Allah bersama kita!' Itulah kemuncak ukhuwah dan kepercayaan dalam perjalanan dakwah.\" — Sayyidina Abu Bakr as-Siddiq RA (Dalam Gua Thaur) (BAB 13: Teman di Sepanjang Perjalanan)"
   },
   {
     "id": 131,
@@ -1958,11 +1958,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PERJANJIAN (AL-AHD & BAI'AH)",
     "ch_title": "PERJANJIAN (AL-AHD & BAI'AH)",
     "subtopicTitle": "Al-Maududi Menjelaskan Segala Marhalah",
-    "speaker": "Allamah Abul A'la Al-Maududi",
+    "speaker": "Allamah Abul A'la al-Maududi",
     "quote": "Dakwah melalui marhalah yang bertahap: pembinaan kefahaman, penyusunan saf yang berdisiplin, dan seterusnya pelaksanaan di medan masyarakat. Melangkaui marhalah sebelum bersedia akan membawa bencana.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Dakwah melalui marhalah yang bertahap: pembinaan kefahaman, penyusunan saf yang berdisiplin, dan seterusnya pelaksanaan di medan masyarakat. Melangkaui marhalah sebelum bersedia akan membawa bencana.\" — Allamah Abul A'la Al-Maududi (BAB 13: Al-Maududi Menjelaskan Segala Marhalah)"
+    "fullText": "\"Dakwah melalui marhalah yang bertahap: pembinaan kefahaman, penyusunan saf yang berdisiplin, dan seterusnya pelaksanaan di medan masyarakat. Melangkaui marhalah sebelum bersedia akan membawa bencana.\" — Allamah Abul A'la al-Maududi (BAB 13: al-Maududi Menjelaskan Segala Marhalah)"
   },
   {
     "id": 132,
@@ -1973,11 +1973,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PERJANJIAN (AL-AHD & BAI'AH)",
     "ch_title": "PERJANJIAN (AL-AHD & BAI'AH)",
     "subtopicTitle": "Hakikat Bai'ah & Perjanjian Setia",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Bai'ah dalam harakah Islam bukanlah ketaatan buta kepada individu, tetapi ia adalah kontrak komitmen bersama qiyadah untuk saling menasihati, beriltizam dengan syariat, dan memikul amanah kebangkitan umat.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Bai'ah dalam harakah Islam bukanlah ketaatan buta kepada individu, tetapi ia adalah kontrak komitmen bersama qiyadah untuk saling menasihati, beriltizam dengan syariat, dan memikul amanah kebangkitan umat.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 13: Hakikat Bai'ah & Perjanjian Setia)"
+    "fullText": "\"Bai'ah dalam harakah Islam bukanlah ketaatan buta kepada individu, tetapi ia adalah kontrak komitmen bersama qiyadah untuk saling menasihati, beriltizam dengan syariat, dan memikul amanah kebangkitan umat.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 13: Hakikat Bai'ah & Perjanjian Setia)"
   },
   {
     "id": 133,
@@ -2048,11 +2048,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KARAKTER GENERASI PENGASAS",
     "ch_title": "KARAKTER GENERASI PENGASAS",
     "subtopicTitle": "Jangan Sibuk Dengan Kerja Tidak Berguna (Turrahat)!",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Waspadalah daripada terjerumus ke dalam 'turrahat'—iaitu perbincangan kosong, perdebatan furuk yang memecah-belahkan, dan kerja-kerja sia-sia yang menghabiskan tenaga tanpa menghasilkan sebarang kemajuan untuk dakwah.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Waspadalah daripada terjerumus ke dalam 'turrahat'—iaitu perbincangan kosong, perdebatan furuk yang memecah-belahkan, dan kerja-kerja sia-sia yang menghabiskan tenaga tanpa menghasilkan sebarang kemajuan untuk dakwah.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 14: Jangan Sibuk Dengan Kerja Tidak Berguna (Turrahat)!)"
+    "fullText": "\"Waspadalah daripada terjerumus ke dalam 'turrahat'—iaitu perbincangan kosong, perdebatan furuk yang memecah-belahkan, dan kerja-kerja sia-sia yang menghabiskan tenaga tanpa menghasilkan sebarang kemajuan untuk dakwah.\" — Imam Asy-Syahid Hasan al-Banna (BAB 14: Jangan Sibuk Dengan Kerja Tidak Berguna (Turrahat)!)"
   },
   {
     "id": 138,
@@ -2063,11 +2063,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KARAKTER GENERASI PENGASAS",
     "ch_title": "KARAKTER GENERASI PENGASAS",
     "subtopicTitle": "Sembang Mereka Yang Berehat (Relaks)",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Gerakan Islam tidak dimusnahkan oleh kekuatan senjata musuh, tetapi ia dilemahkan dari dalam oleh 'sembang relaks' golongan aktivis yang telah hilang kesungguhan, lalu menghabiskan masa bergosip dan mengkritik qiyadah tanpa beramal.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Gerakan Islam tidak dimusnahkan oleh kekuatan senjata musuh, tetapi ia dilemahkan dari dalam oleh 'sembang relaks' golongan aktivis yang telah hilang kesungguhan, lalu menghabiskan masa bergosip dan mengkritik qiyadah tanpa beramal.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 14: Sembang Mereka Yang Berehat (Relaks))"
+    "fullText": "\"Gerakan Islam tidak dimusnahkan oleh kekuatan senjata musuh, tetapi ia dilemahkan dari dalam oleh 'sembang relaks' golongan aktivis yang telah hilang kesungguhan, lalu menghabiskan masa bergosip dan mengkritik qiyadah tanpa beramal.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 14: Sembang Mereka Yang Berehat (Relaks))"
   },
   {
     "id": 139,
@@ -2078,11 +2078,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "KARAKTER GENERASI PENGASAS",
     "ch_title": "KARAKTER GENERASI PENGASAS",
     "subtopicTitle": "Tiga Peringkat Pembinaan",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Marhalah dakwah bermula dengan Ta'rif (Mengenalkan Fikrah), diikuti Takwin (Membina & Memilih Rijal), dan berakhir dengan Tanfiz (Pelaksanaan di Medan). Sesiapa yang mendahului tanfiz sebelum menyempurnakan takwin, dia membina mahligai di atas pasir!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Marhalah dakwah bermula dengan Ta'rif (Mengenalkan Fikrah), diikuti Takwin (Membina & Memilih Rijal), dan berakhir dengan Tanfiz (Pelaksanaan di Medan). Sesiapa yang mendahului tanfiz sebelum menyempurnakan takwin, dia membina mahligai di atas pasir!\" — Imam Asy-Syahid Hasan Al-Banna (BAB 14: Tiga Peringkat Pembinaan)"
+    "fullText": "\"Marhalah dakwah bermula dengan Ta'rif (Mengenalkan Fikrah), diikuti Takwin (Membina & Memilih Rijal), dan berakhir dengan Tanfiz (Pelaksanaan di Medan). Sesiapa yang mendahului tanfiz sebelum menyempurnakan takwin, dia membina mahligai di atas pasir!\" — Imam Asy-Syahid Hasan al-Banna (BAB 14: Tiga Peringkat Pembinaan)"
   },
   {
     "id": 140,
@@ -2167,12 +2167,12 @@ var ALMUNTALAQ_QUOTES = [
     "ch_num": "BAB 15",
     "chapterTitle": "PELUASAN YANG SEIMBANG DAN PENYEBARAN SECARA BERHATI-HATI",
     "ch_title": "PELUASAN YANG SEIMBANG DAN PENYEBARAN SECARA BERHATI-HATI",
-    "subtopicTitle": "Fiqh At-Tawassu' Al-Mauzun",
+    "subtopicTitle": "Fiqh at-Tawassu' Al-Mauzun",
     "speaker": "Khalifah Umar bin Abdul Aziz",
     "quote": "Ketika anaknya Abdul Malik mendesak agar menghapuskan semua bid'ah dalam satu hari, Umar berkata: 'Jangan tergesa-gesa anakku! Allah mencela arak dalam al-Quran dua kali secara bertahap dan hanya mengharamkannya pada kali ketiga. Aku bimbang jika aku memaksakan kebenaran sekali gus kepada manusia, mereka akan menolaknya sekali gus!'",
     "quote_ar": "",
     "category": "salaf",
-    "fullText": "\"Ketika anaknya Abdul Malik mendesak agar menghapuskan semua bid'ah dalam satu hari, Umar berkata: 'Jangan tergesa-gesa anakku! Allah mencela arak dalam al-Quran dua kali secara bertahap dan hanya mengharamkannya pada kali ketiga. Aku bimbang jika aku memaksakan kebenaran sekali gus kepada manusia, mereka akan menolaknya sekali gus!'\" — Khalifah Umar bin Abdul Aziz (BAB 15: Fiqh At-Tawassu' Al-Mauzun)"
+    "fullText": "\"Ketika anaknya Abdul Malik mendesak agar menghapuskan semua bid'ah dalam satu hari, Umar berkata: 'Jangan tergesa-gesa anakku! Allah mencela arak dalam al-Quran dua kali secara bertahap dan hanya mengharamkannya pada kali ketiga. Aku bimbang jika aku memaksakan kebenaran sekali gus kepada manusia, mereka akan menolaknya sekali gus!'\" — Khalifah Umar bin Abdul Aziz (BAB 15: Fiqh at-Tawassu' Al-Mauzun)"
   },
   {
     "id": 146,
@@ -2183,11 +2183,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PELUASAN YANG SEIMBANG DAN PENYEBARAN SECARA BERHATI-HATI",
     "ch_title": "PELUASAN YANG SEIMBANG DAN PENYEBARAN SECARA BERHATI-HATI",
     "subtopicTitle": "Mendaki Anak Tangga Bersama Orang Yang Berjalan...",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Mendakilah anak tangga bersama orang yang berjalan perlahan-lahan... Janganlah engkau melompat anak tangga kerana bimbang engkau akan tergelincir jatuh lalu mematahkan tulang kakimu dan mematahkan saf perjuangan!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Mendakilah anak tangga bersama orang yang berjalan perlahan-lahan... Janganlah engkau melompat anak tangga kerana bimbang engkau akan tergelincir jatuh lalu mematahkan tulang kakimu dan mematahkan saf perjuangan!\" — Imam Asy-Syahid Hasan Al-Banna (BAB 15: Mendaki Anak Tangga Bersama Orang Yang Berjalan...)"
+    "fullText": "\"Mendakilah anak tangga bersama orang yang berjalan perlahan-lahan... Janganlah engkau melompat anak tangga kerana bimbang engkau akan tergelincir jatuh lalu mematahkan tulang kakimu dan mematahkan saf perjuangan!\" — Imam Asy-Syahid Hasan al-Banna (BAB 15: Mendaki Anak Tangga Bersama Orang Yang Berjalan...)"
   },
   {
     "id": 147,
@@ -2198,11 +2198,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PELUASAN YANG SEIMBANG DAN PENYEBARAN SECARA BERHATI-HATI",
     "ch_title": "PELUASAN YANG SEIMBANG DAN PENYEBARAN SECARA BERHATI-HATI",
     "subtopicTitle": "Perluasan Tajmi' Perlu Seimbang Dengan Tenaga Tarbiah",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Peluasan keanggotaan (tajmi') yang terlalu laju tanpa diimbangi oleh kapasiti murabbi yang mencukupi untuk mentarbiah adalah malapetaka bagi tanzim. Ia melahirkan jemaah yang gemuk dengan lemak bilangan tetapi kurus dengan otot ketaatan dan kefahaman.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Peluasan keanggotaan (tajmi') yang terlalu laju tanpa diimbangi oleh kapasiti murabbi yang mencukupi untuk mentarbiah adalah malapetaka bagi tanzim. Ia melahirkan jemaah yang gemuk dengan lemak bilangan tetapi kurus dengan otot ketaatan dan kefahaman.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 15: Perluasan Tajmi' Perlu Seimbang Dengan Tenaga Tarbiah)"
+    "fullText": "\"Peluasan keanggotaan (tajmi') yang terlalu laju tanpa diimbangi oleh kapasiti murabbi yang mencukupi untuk mentarbiah adalah malapetaka bagi tanzim. Ia melahirkan jemaah yang gemuk dengan lemak bilangan tetapi kurus dengan otot ketaatan dan kefahaman.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 15: Perluasan Tajmi' Perlu Seimbang Dengan Tenaga Tarbiah)"
   },
   {
     "id": 148,
@@ -2247,7 +2247,7 @@ var ALMUNTALAQ_QUOTES = [
     "quote": "Al-Quran ini tidak diturunkan untuk menjadi jampi serapah di dinding rumah, tetapi ia adalah manual revolusi rohani dan undang-undang kehidupan yang menggoncang kezaliman dan menegakkan keadilan mutlak.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Al-Quran ini tidak diturunkan untuk menjadi jampi serapah di dinding rumah, tetapi ia adalah manual revolusi rohani dan undang-undang kehidupan yang menggoncang kezaliman dan menegakkan keadilan mutlak.\" — Ustaz Syed Qutb (BAB 15: Al-Quran... Dan Kekuatan Yang Hebat...)"
+    "fullText": "\"Al-Quran ini tidak diturunkan untuk menjadi jampi serapah di dinding rumah, tetapi ia adalah manual revolusi rohani dan undang-undang kehidupan yang menggoncang kezaliman dan menegakkan keadilan mutlak.\" — Ustaz Syed Qutb (BAB 15: al-Quran... Dan Kekuatan Yang Hebat...)"
   },
   {
     "id": 151,
@@ -2378,11 +2378,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PEMILIHAN TELITI MEMELIHARA DARIPADA KEJATUHAN",
     "ch_title": "PEMILIHAN TELITI MEMELIHARA DARIPADA KEJATUHAN",
     "subtopicTitle": "Tiada Pemisahan Antara Pengurusan dan Tarbiah",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Pengurusan dalam dakwah kami adalah tarbiah, dan tarbiah kami adalah pengurusan yang berdisiplin. Jangan pisahkan antara kecekapan organisasi dengan keluhuran akhlak tauhid.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Pengurusan dalam dakwah kami adalah tarbiah, dan tarbiah kami adalah pengurusan yang berdisiplin. Jangan pisahkan antara kecekapan organisasi dengan keluhuran akhlak tauhid.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 16: Tiada Pemisahan Antara Pengurusan dan Tarbiah)"
+    "fullText": "\"Pengurusan dalam dakwah kami adalah tarbiah, dan tarbiah kami adalah pengurusan yang berdisiplin. Jangan pisahkan antara kecekapan organisasi dengan keluhuran akhlak tauhid.\" — Imam Asy-Syahid Hasan al-Banna (BAB 16: Tiada Pemisahan Antara Pengurusan dan Tarbiah)"
   },
   {
     "id": 160,
@@ -2393,11 +2393,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "PEMILIHAN TELITI MEMELIHARA DARIPADA KEJATUHAN",
     "ch_title": "PEMILIHAN TELITI MEMELIHARA DARIPADA KEJATUHAN",
     "subtopicTitle": "Sensitif Markaz Qudwah",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Pemimpin adalah cermin ikutan (markaz qudwah). Keterlanjuran kecil seorang pemimpin dakwah akan dipandang besar oleh masyarakat dan boleh mematahkan semangat ribuan kader yang sedang mencari teladan.",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Pemimpin adalah cermin ikutan (markaz qudwah). Keterlanjuran kecil seorang pemimpin dakwah akan dipandang besar oleh masyarakat dan boleh mematahkan semangat ribuan kader yang sedang mencari teladan.\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 16: Sensitif Markaz Qudwah)"
+    "fullText": "\"Pemimpin adalah cermin ikutan (markaz qudwah). Keterlanjuran kecil seorang pemimpin dakwah akan dipandang besar oleh masyarakat dan boleh mematahkan semangat ribuan kader yang sedang mencari teladan.\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 16: Sensitif Markaz Qudwah)"
   },
   {
     "id": 161,
@@ -2467,12 +2467,12 @@ var ALMUNTALAQ_QUOTES = [
     "ch_num": "BAB 17",
     "chapterTitle": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "ch_title": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
-    "subtopicTitle": "Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti)",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid",
+    "subtopicTitle": "Fiqh at-Tarkiz (Fokus Kualiti vs Kuantiti)",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid",
     "quote": "Fokuslah kepada pembinaan kualiti keimanan dan keteguhan rijal! Berapalah gunanya buih di lautan yang banyak bilangannya tetapi hanyut dihempas badai? Yang kita cari adalah mutiara berharga di dasar lautan yang mampu menerangi kegelapan!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Fokuslah kepada pembinaan kualiti keimanan dan keteguhan rijal! Berapalah gunanya buih di lautan yang banyak bilangannya tetapi hanyut dihempas badai? Yang kita cari adalah mutiara berharga di dasar lautan yang mampu menerangi kegelapan!\" — Syeikh Muhammad Ahmad Al-Rasyid (BAB 17: Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti))"
+    "fullText": "\"Fokuslah kepada pembinaan kualiti keimanan dan keteguhan rijal! Berapalah gunanya buih di lautan yang banyak bilangannya tetapi hanyut dihempas badai? Yang kita cari adalah mutiara berharga di dasar lautan yang mampu menerangi kegelapan!\" — Syeikh Muhammad Ahmad al-Rasyid (BAB 17: Fiqh at-Tarkiz (Fokus Kualiti vs Kuantiti))"
   },
   {
     "id": 166,
@@ -2513,11 +2513,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "ch_title": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "subtopicTitle": "Peranan Organisasi Dalam Penyempurnaan Tarbiah",
-    "speaker": "Imam Asy-Syahid Hasan Al-Banna",
+    "speaker": "Imam Asy-Syahid Hasan al-Banna",
     "quote": "Bangunlah sebuah binaan yang tersusun rapi (*bunyanun marsus*)! Setiap bata saling menguatkan bata yang lain. Jangan biarkan ada celah retakan dalam saf dakwah yang boleh dimasuki oleh musuh.",
     "quote_ar": "كأنهم بنيان مرصوص",
     "category": "haraki",
-    "fullText": "\"Bangunlah sebuah binaan yang tersusun rapi (*bunyanun marsus*)! Setiap bata saling menguatkan bata yang lain. Jangan biarkan ada celah retakan dalam saf dakwah yang boleh dimasuki oleh musuh.\" — Imam Asy-Syahid Hasan Al-Banna (BAB 17: Peranan Organisasi Dalam Penyempurnaan Tarbiah)"
+    "fullText": "\"Bangunlah sebuah binaan yang tersusun rapi (*bunyanun marsus*)! Setiap bata saling menguatkan bata yang lain. Jangan biarkan ada celah retakan dalam saf dakwah yang boleh dimasuki oleh musuh.\" — Imam Asy-Syahid Hasan al-Banna (BAB 17: Peranan Organisasi Dalam Penyempurnaan Tarbiah)"
   },
   {
     "id": 169,
@@ -2528,11 +2528,11 @@ var ALMUNTALAQ_QUOTES = [
     "chapterTitle": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "ch_title": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "subtopicTitle": "Tiada Usaha Yang Sia-sia, Cuma Kejayaan Lewat Tiba",
-    "speaker": "Allamah Abul A'la Al-Maududi",
+    "speaker": "Allamah Abul A'la al-Maududi",
     "quote": "Tiada sebutir peluh pejuang pun yang gugur di jalan dakwah ini akan disia-siakan oleh Allah. Jika kemenangan belum tiba di tangan generasimu, ketahuilah bahawa engkau sedang meletakkan batu asas yang kukuh untuk kemenangan generasi anak cucumu!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Tiada sebutir peluh pejuang pun yang gugur di jalan dakwah ini akan disia-siakan oleh Allah. Jika kemenangan belum tiba di tangan generasimu, ketahuilah bahawa engkau sedang meletakkan batu asas yang kukuh untuk kemenangan generasi anak cucumu!\" — Allamah Abul A'la Al-Maududi (BAB 17: Tiada Usaha Yang Sia-sia, Cuma Kejayaan Lewat Tiba)"
+    "fullText": "\"Tiada sebutir peluh pejuang pun yang gugur di jalan dakwah ini akan disia-siakan oleh Allah. Jika kemenangan belum tiba di tangan generasimu, ketahuilah bahawa engkau sedang meletakkan batu asas yang kukuh untuk kemenangan generasi anak cucumu!\" — Allamah Abul A'la al-Maududi (BAB 17: Tiada Usaha Yang Sia-sia, Cuma Kejayaan Lewat Tiba)"
   },
   {
     "id": 170,
@@ -2542,12 +2542,12 @@ var ALMUNTALAQ_QUOTES = [
     "ch_num": "BAB 17",
     "chapterTitle": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "ch_title": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
-    "subtopicTitle": "Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti)",
+    "subtopicTitle": "Fiqh at-Tarkiz (Fokus Kualiti vs Kuantiti)",
     "speaker": "Sayyidina Ali bin Abi Talib RA",
     "quote": "Kebenaran yang tidak tersusun rapi akan dapat dikalahkan oleh kebatilan yang tersusun dengan disiplin.",
     "quote_ar": "الحق بلا نظام يغلبه الباطل بنظام",
     "category": "sahabat",
-    "fullText": "\"Kebenaran yang tidak tersusun rapi akan dapat dikalahkan oleh kebatilan yang tersusun dengan disiplin.\" — Sayyidina Ali bin Abi Talib RA (BAB 17: Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti))"
+    "fullText": "\"Kebenaran yang tidak tersusun rapi akan dapat dikalahkan oleh kebatilan yang tersusun dengan disiplin.\" — Sayyidina Ali bin Abi Talib RA (BAB 17: Fiqh at-Tarkiz (Fokus Kualiti vs Kuantiti))"
   },
   {
     "id": 171,
@@ -2602,11 +2602,11 @@ var ALMUNTALAQ_QUOTES = [
     "ch_num": "BAB 17",
     "chapterTitle": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
     "ch_title": "FOKUS, TIDAK HANYA MENAMBAH BILANGAN",
-    "subtopicTitle": "Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti)",
-    "speaker": "Syeikh Muhammad Ahmad Al-Rasyid (Khatimah Al-Muntalaq)",
-    "quote": "Maka melangkahlah wahai saudaraku di atas jalan Al-Muntalaq ini dengan tapak yang teguh! Jangan engkau menoleh ke belakang, jangan engkau gentar dengan sedikitnya teman perjalanan, kerana di hujung jalan ini menantimu keredaan Allah dan syurga yang abadi!",
+    "subtopicTitle": "Fiqh at-Tarkiz (Fokus Kualiti vs Kuantiti)",
+    "speaker": "Syeikh Muhammad Ahmad al-Rasyid (Khatimah al-Muntalaq)",
+    "quote": "Maka melangkahlah wahai saudaraku di atas jalan al-Muntalaq ini dengan tapak yang teguh! Jangan engkau menoleh ke belakang, jangan engkau gentar dengan sedikitnya teman perjalanan, kerana di hujung jalan ini menantimu keredaan Allah dan syurga yang abadi!",
     "quote_ar": "",
     "category": "haraki",
-    "fullText": "\"Maka melangkahlah wahai saudaraku di atas jalan Al-Muntalaq ini dengan tapak yang teguh! Jangan engkau menoleh ke belakang, jangan engkau gentar dengan sedikitnya teman perjalanan, kerana di hujung jalan ini menantimu keredaan Allah dan syurga yang abadi!\" — Syeikh Muhammad Ahmad Al-Rasyid (Khatimah Al-Muntalaq) (BAB 17: Fiqh At-Tarkiz (Fokus Kualiti vs Kuantiti))"
+    "fullText": "\"Maka melangkahlah wahai saudaraku di atas jalan al-Muntalaq ini dengan tapak yang teguh! Jangan engkau menoleh ke belakang, jangan engkau gentar dengan sedikitnya teman perjalanan, kerana di hujung jalan ini menantimu keredaan Allah dan syurga yang abadi!\" — Syeikh Muhammad Ahmad al-Rasyid (Khatimah al-Muntalaq) (BAB 17: Fiqh at-Tarkiz (Fokus Kualiti vs Kuantiti))"
   }
 ];
