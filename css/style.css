@@ -459,7 +459,37 @@ body {
   text-align: left;
   cursor: pointer;
   transition: var(--transition);
-  display: block;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.subtopic-bullet,
+.subtopic-num {
+  flex-shrink: 0;
+  line-height: 1.45;
+  color: inherit;
+  opacity: 0.85;
+}
+
+.subtopic-bullet {
+  font-size: 0.82rem;
+  margin-top: 2px;
+  color: var(--emerald-primary);
+}
+
+.subtopic-num {
+  min-width: 1.45rem;
+  font-weight: 600;
+  text-align: left;
+}
+
+.subtopic-title-text {
+  flex: 1;
+  text-align: left;
+  line-height: 1.45;
   white-space: normal;
   word-break: break-word;
 }
@@ -476,10 +506,21 @@ body {
   border-left: 3px solid var(--emerald-primary);
 }
 
+.subtopic-nav-btn.active-sub .subtopic-bullet,
+.subtopic-nav-btn.active-sub .subtopic-num {
+  color: var(--gold-light);
+  opacity: 1;
+}
+
 [data-theme="light"] .subtopic-nav-btn.active-sub {
   color: #065f46;
   background: #d1fae5;
   border-left-color: #059669;
+}
+
+[data-theme="light"] .subtopic-nav-btn.active-sub .subtopic-bullet,
+[data-theme="light"] .subtopic-nav-btn.active-sub .subtopic-num {
+  color: #047857;
 }
 
 /* ================= CONTENT AREA ================= */
@@ -963,6 +1004,14 @@ body {
     padding: 11px 14px !important; /* Sentuhan jari lebih lapang & selesa */
     line-height: 1.48 !important;
     margin-bottom: 5px !important;
+    gap: 9px !important;
+  }
+  .subtopic-bullet,
+  .subtopic-num {
+    line-height: 1.48 !important;
+  }
+  .subtopic-title-text {
+    line-height: 1.48 !important;
   }
   .search-input {
     font-size: 0.98rem !important;

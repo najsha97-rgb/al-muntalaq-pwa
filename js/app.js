@@ -173,7 +173,10 @@ if (allHikmahQuotes.length === 0) {
           const subLi = document.createElement('li');
           const subBtn = document.createElement('button');
           subBtn.className = 'subtopic-nav-btn';
-          subBtn.innerHTML = `❖ ${subTitle}`;
+          subBtn.innerHTML = `
+            <span class="subtopic-bullet">❖</span>
+            <span class="subtopic-title-text">${subTitle}</span>
+          `;
           subBtn.title = subTitle;
 
           subBtn.addEventListener('click', (e) => {
