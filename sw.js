@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v39-disable-full-pdf-20261023';
+const CACHE_NAME = 'almuntalaq-v40-content-protection-20261023';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

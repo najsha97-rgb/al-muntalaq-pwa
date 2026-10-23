@@ -2592,4 +2592,34 @@ mark.content-search-match.active-match {
     color: #92400e;
     border-color: rgba(245, 158, 11, 0.3);
   }
+}
+
+/* ==========================================================================
+   KESELAMATAN KANDUNGAN & KUNCI ANTI-SALIN (CONTENT PROTECTION)
+   ========================================================================== */
+body,
+.app-container,
+.content-body,
+.reader-container,
+.single-subtopic-view,
+.subtopic-paragraphs,
+.chapter-summary-card,
+.hikmah-card,
+.modal-content {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+  -webkit-touch-callout: none !important;
+}
+
+/* Pengecualian Khas: Ruangan input carian boleh ditaip & dipilih teksnya */
+input,
+textarea,
+.search-input {
+  -webkit-user-select: text !important;
+  -moz-user-select: text !important;
+  -ms-user-select: text !important;
+  user-select: text !important;
+}
 

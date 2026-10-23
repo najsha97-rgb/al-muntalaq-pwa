@@ -1102,24 +1102,44 @@ if (allHikmahQuotes.length === 0) {
     updateBookmarkBtnStatus();
   });
 
-  // 12. Copy Content
-  copyBtn.addEventListener('click', () => {
-    if (state.layer === 'layer3') {
-      const item = allHikmahQuotes[currentFeaturedHikmahIndex] || allHikmahQuotes[0];
-      copyHikmahToClipboard(item);
-      return;
-    }
+  // 12. Copy Content (Dimatikan untuk teks bacaan bagi melindungi hak karya)
+  if (copyBtn) {
+    copyBtn.addEventListener('click', () => {
+      if (state.layer === 'layer3') {
+        const item = allHikmahQuotes[currentFeaturedHikmahIndex] || allHikmahQuotes[0];
+        copyHikmahToClipboard(item);
+      }
+    });
+  }
 
-    const ch = data.chapters[state.currentChapter];
-    const textToCopy = `Al-Muntalaq (${ch.number}: ${ch.title})\n\n` + 
-      (state.layer === 'layer1' && ch.paragraphs ? ch.paragraphs.slice(0, 3).map(p => (typeof p === 'string' ? p : p.text)).join('\n\n') : ch.summary);
+  // =========================================================================
+  // KESELAMATAN KANDUNGAN: SEKAT KLIK-KANAN, SALIN & PINTASAN KEYBOARD
+  // =========================================================================
+  document.addEventListener('contextmenu', (e) => {
+    if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+    e.preventDefault();
+    showToast('Kandungan dilindungi. Sila baca secara terus dalam aplikasi 📖');
+  });
 
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(textToCopy)
-        .then(() => showToast('Petikan bab berjaya disalin!'))
-        .catch(() => fallbackCopyText(textToCopy));
-    } else {
-      fallbackCopyText(textToCopy);
+  document.addEventListener('copy', (e) => {
+    if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+    e.preventDefault();
+    showToast('Fungsi salin dimatikan bagi memelihara integriti naskhah ilmiah 🛡️');
+  });
+
+  document.addEventListener('cut', (e) => {
+    if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+    e.preventDefault();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+    // Sekat Ctrl+C, Ctrl+A, Ctrl+U, Ctrl+S, dsb. (dan Meta/Cmd pada Mac)
+    if ((e.ctrlKey || e.metaKey) && ['c', 'C', 'a', 'A', 'u', 'U', 's', 'S'].includes(e.key)) {
+      e.preventDefault();
+      if (['c', 'C', 'a', 'A'].includes(e.key)) {
+        showToast('Fungsi salin dimatikan bagi memelihara integriti naskhah ilmiah 🛡️');
+      }
     }
   });
 
