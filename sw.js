@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v42-arabic-typography-upright-20261023';
+const CACHE_NAME = 'almuntalaq-v43-tatabahasa-dbp-daripada-20261023';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
