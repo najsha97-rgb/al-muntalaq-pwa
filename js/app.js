@@ -898,13 +898,14 @@ if (allHikmahQuotes.length === 0) {
       } else if (l.startsWith('• ') || l.startsWith('- ') || l.startsWith('* ')) {
         if (!inUl) { html += '<ul style="padding-left: 1.5rem; margin-bottom: 1rem;">'; inUl = true; }
         let bulletContent = l.substring(2)
-          .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>')
-          .replace(/\*(.*?)\*/g, '<em>$1</em>');
+          .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>');
+        bulletContent = formatSmartItalicHtml(bulletContent);
         html += `<li style="margin-bottom: 8px;">${bulletContent}</li>`;
       } else if (l.startsWith('➤ ')) {
         if (inUl) { html += '</ul>'; inUl = false; }
         let itemContent = l.substring(2)
           .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>');
+        itemContent = formatSmartItalicHtml(itemContent);
         html += `<div style="background: rgba(41, 128, 185, 0.1); border-left: 3px solid var(--gold-primary); padding: 8px 12px; margin-bottom: 8px; border-radius: 4px;">➤ ${itemContent}</div>`;
       } else if (l.startsWith('—')) {
         if (inUl) { html += '</ul>'; inUl = false; }
@@ -912,8 +913,8 @@ if (allHikmahQuotes.length === 0) {
       } else {
         if (inUl) { html += '</ul>'; inUl = false; }
         let pContent = l
-          .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>')
-          .replace(/\*(.*?)\*/g, '<em>$1</em>');
+          .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>');
+        pContent = formatSmartItalicHtml(pContent);
         html += `<p style="margin-bottom: 1rem; line-height: 1.8;">${pContent}</p>`;
       }
     });
@@ -942,6 +943,9 @@ if (allHikmahQuotes.length === 0) {
       const regex = new RegExp(`(${name})`, 'gi');
       formatted = formatted.replace(regex, '<span class="tokoh-name" style="color: var(--gold-light); font-weight: 600;">$1</span>');
     });
+
+    // Format Arabic quote brackets « ... » without italics
+    formatted = formatted.replace(/«\s*(.*?)\s*»/g, '<span class="ar-quote" dir="rtl" style="font-style: normal !important; transform: none !important; font-family: \'Amiri\', serif;">« $1 »</span>');
 
     // Restore protected HTML tags
     return formatted.replace(/___HTML_TOKEN_(\d+)___/g, (_, i) => tokens[parseInt(i, 10)]);
@@ -1562,8 +1566,8 @@ if (allHikmahQuotes.length === 0) {
   function formatHikmahQuote(text) {
     if (!text) return '';
     let formatted = text;
-    // Highlight Arabic quotation brackets « ... » with distinct Arabic quote block
-    formatted = formatted.replace(/«\s*(.*?)\s*»/g, '<span class="ar-quote">« $1 »</span>');
+    // Highlight Arabic quotation brackets « ... » with distinct Arabic upright quote block
+    formatted = formatted.replace(/«\s*(.*?)\s*»/g, '<span class="ar-quote" dir="rtl" style="font-style: normal !important; transform: none !important; font-family: \'Amiri\', serif;">« $1 »</span>');
     // Highlight Malay / English quoted speech “...”
     formatted = formatted.replace(/“\s*(.*?)\s*”/g, '<strong style="color: var(--gold-light);">“$1”</strong>');
     return formatted;
@@ -1609,12 +1613,24 @@ if (allHikmahQuotes.length === 0) {
   // Toast Helper
   let toastTimer = null;
   
+  // Helper to format text with proper Italic for Latin book titles, keeping Arabic upright
+  function formatSmartItalicHtml(str) {
+    if (!str) return '';
+    return str.replace(/\*(.*?)\*/g, (match, p1) => {
+      const arCount = (p1.match(/[\u0600-\u06FF]/g) || []).length;
+      const latinCount = (p1.match(/[a-zA-Z]/g) || []).length;
+      if (arCount > 0 && arCount >= latinCount) {
+        return `<span class="arabic-ref-title" dir="rtl" style="font-style: normal !important; transform: none !important; font-family: 'Amiri', serif;">${p1}</span>`;
+      }
+      return `<em class="book-ref-title">${p1}</em>`;
+    });
+  }
+
   // Helper to format Footnote text with proper Italic book titles and bold
   function formatFootnoteBody(text) {
     if (!text) return '';
-    return text
-      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*(.*?)\*/g, '<em class="book-ref-title">$1</em>');
+    const bolded = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    return formatSmartItalicHtml(bolded);
   }
 
   function showToast(msg) {
