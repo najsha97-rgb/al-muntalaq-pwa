@@ -1061,7 +1061,7 @@ var ALMUNTALAQ_DATA = {
             },
             {
               "id": 24,
-              "text": "*al-Syarh al-'Iraqi li al-Usul al-'Isyrin*, hlm. 55."
+              "text": "*Al-Syarh al-'Iraqi li al-Usul al-'Isyrin*, hlm. 55."
             }
           ]
         },
@@ -2103,7 +2103,7 @@ var ALMUNTALAQ_DATA = {
         },
         {
           "id": 24,
-          "text": "*al-Syarh al-'Iraqi li al-Usul al-'Isyrin*, hlm. 55."
+          "text": "*Al-Syarh al-'Iraqi li al-Usul al-'Isyrin*, hlm. 55."
         },
         {
           "id": 25,
@@ -17257,4 +17257,4 @@ var ALMUNTALAQ_DATA = {
     }
   ]
 };
-if (typeof window !== 'undefined') { window.ALMUNTALAQ_DATA = ALMUNTALAQ_DATA; }
+if (typeof window !== "undefined") { window.ALMUNTALAQ_DATA = ALMUNTALAQ_DATA; }

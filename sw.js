@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v40-content-protection-20261023';
+const CACHE_NAME = 'almuntalaq-v41-fn24-capital-al-20261023';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
