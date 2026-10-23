@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v38-dbp-al-standard-20261022';
+const CACHE_NAME = 'almuntalaq-v39-disable-full-pdf-20261023';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
