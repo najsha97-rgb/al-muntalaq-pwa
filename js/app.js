@@ -1,3 +1,19 @@
+// === Global Early Modal Trigger Helpers ===
+window.openPeradabanModal = window.openPeradabanModal || function() {
+  const m = document.getElementById('modalPeradabanSpotlight');
+  if (m) {
+    m.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+  }
+};
+window.togglePeradabanModal = window.togglePeradabanModal || function(show) {
+  const m = document.getElementById('modalPeradabanSpotlight');
+  if (m) {
+    m.style.display = show ? 'flex' : 'none';
+    document.body.style.overflow = show ? 'hidden' : '';
+  }
+};
+
 /**
  * AL-MUNTALAQ PWA - CORE LOGIC V2 (EDISI LENGKAP & SEMAKAN RASMI)
  * Titik Tolak Dakwah & Landasan Harakah Islamiyyah
@@ -1032,38 +1048,6 @@ if (allHikmahQuotes.length === 0) {
     });
   }
 
-  const togglePeradabanModal = (show) => {
-    if (!modalPeradabanSpotlight) return;
-    if (show) {
-      modalPeradabanSpotlight.style.display = 'flex';
-      document.body.style.overflow = 'hidden';
-    } else {
-      modalPeradabanSpotlight.style.display = 'none';
-      document.body.style.overflow = '';
-    }
-  };
-
-  if (sidebarPeradabanBtn) {
-    sidebarPeradabanBtn.addEventListener('click', () => {
-      togglePeradabanModal(true);
-      if (state.mobileNavOpen) toggleMobileNav();
-    });
-  }
-  if (btnHeaderPeradaban) {
-    btnHeaderPeradaban.addEventListener('click', () => togglePeradabanModal(true));
-  }
-  if (btnClosePeradabanModal) {
-    btnClosePeradabanModal.addEventListener('click', () => togglePeradabanModal(false));
-  }
-  if (btnPeradabanModalCloseFooter) {
-    btnPeradabanModalCloseFooter.addEventListener('click', () => togglePeradabanModal(false));
-  }
-  if (modalPeradabanSpotlight) {
-    modalPeradabanSpotlight.addEventListener('click', (e) => {
-      if (e.target === modalPeradabanSpotlight) togglePeradabanModal(false);
-    });
-  }
-
   function setLayer(layer) {
     state.layer = layer;
     localStorage.setItem('almuntalaq_layer', layer);
@@ -1679,6 +1663,66 @@ if (allHikmahQuotes.length === 0) {
       toast.classList.remove('show');
     }, 2800);
   }
+
+  // === Open / Close Peradaban Spotlight Modal (Ummah Fadhilah & PBI) ===
+  function togglePeradabanModal(show) {
+    const modal = document.getElementById('modalPeradabanSpotlight');
+    if (!modal) return;
+    modal.style.display = show ? 'flex' : 'none';
+    document.body.style.overflow = show ? 'hidden' : '';
+    if (show && typeof state !== 'undefined' && state.mobileNavOpen) {
+      if (typeof toggleMobileNav === 'function') {
+        try { toggleMobileNav(false); } catch (e) { toggleMobileNav(); }
+      }
+    }
+  }
+  window.openPeradabanModal = () => togglePeradabanModal(true);
+  window.togglePeradabanModal = togglePeradabanModal;
+
+  const peradabanSidebarTrigger = document.getElementById('sidebarPeradabanBtn');
+  if (peradabanSidebarTrigger) {
+    peradabanSidebarTrigger.addEventListener('click', (e) => {
+      e.preventDefault();
+      togglePeradabanModal(true);
+    });
+  }
+  const peradabanHeaderTrigger = document.getElementById('btnHeaderPeradaban');
+  if (peradabanHeaderTrigger) {
+    peradabanHeaderTrigger.addEventListener('click', (e) => {
+      e.preventDefault();
+      togglePeradabanModal(true);
+    });
+  }
+  const peradabanCloseX = document.getElementById('btnClosePeradabanModal');
+  if (peradabanCloseX) {
+    peradabanCloseX.addEventListener('click', (e) => {
+      e.preventDefault();
+      togglePeradabanModal(false);
+    });
+  }
+  const peradabanCloseFooter = document.getElementById('btnPeradabanModalCloseFooter');
+  if (peradabanCloseFooter) {
+    peradabanCloseFooter.addEventListener('click', (e) => {
+      e.preventDefault();
+      togglePeradabanModal(false);
+    });
+  }
+  const peradabanModalEl = document.getElementById('modalPeradabanSpotlight');
+  if (peradabanModalEl) {
+    peradabanModalEl.addEventListener('click', (e) => {
+      if (e.target === peradabanModalEl) togglePeradabanModal(false);
+    });
+  }
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      const modal = document.getElementById('modalPeradabanSpotlight');
+      if (modal && modal.style.display === 'flex') {
+        togglePeradabanModal(false);
+      }
+    }
+  });
+
+
 
   // Initial setup
   renderSidebar();
