@@ -85,6 +85,11 @@ if (allHikmahQuotes.length === 0) {
   const layerBtnRingkasan = document.getElementById('btnLayerRingkasan');
   const layerBtnHikmah = document.getElementById('btnLayerHikmah');
   const sidebarHikmahBtn = document.getElementById('sidebarHikmahBtn');
+  const sidebarPeradabanBtn = document.getElementById('sidebarPeradabanBtn');
+  const btnHeaderPeradaban = document.getElementById('btnHeaderPeradaban');
+  const modalPeradabanSpotlight = document.getElementById('modalPeradabanSpotlight');
+  const btnClosePeradabanModal = document.getElementById('btnClosePeradabanModal');
+  const btnPeradabanModalCloseFooter = document.getElementById('btnPeradabanModalCloseFooter');
   const themeToggleBtn = document.getElementById('themeToggleBtn');
   const fontDecBtn = document.getElementById('fontDecBtn');
   const fontIncBtn = document.getElementById('fontIncBtn');
@@ -1024,6 +1029,38 @@ if (allHikmahQuotes.length === 0) {
       if (state.mobileNavOpen) {
         toggleMobileNav();
       }
+    });
+  }
+
+  const togglePeradabanModal = (show) => {
+    if (!modalPeradabanSpotlight) return;
+    if (show) {
+      modalPeradabanSpotlight.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    } else {
+      modalPeradabanSpotlight.style.display = 'none';
+      document.body.style.overflow = '';
+    }
+  };
+
+  if (sidebarPeradabanBtn) {
+    sidebarPeradabanBtn.addEventListener('click', () => {
+      togglePeradabanModal(true);
+      if (state.mobileNavOpen) toggleMobileNav();
+    });
+  }
+  if (btnHeaderPeradaban) {
+    btnHeaderPeradaban.addEventListener('click', () => togglePeradabanModal(true));
+  }
+  if (btnClosePeradabanModal) {
+    btnClosePeradabanModal.addEventListener('click', () => togglePeradabanModal(false));
+  }
+  if (btnPeradabanModalCloseFooter) {
+    btnPeradabanModalCloseFooter.addEventListener('click', () => togglePeradabanModal(false));
+  }
+  if (modalPeradabanSpotlight) {
+    modalPeradabanSpotlight.addEventListener('click', (e) => {
+      if (e.target === modalPeradabanSpotlight) togglePeradabanModal(false);
     });
   }
 

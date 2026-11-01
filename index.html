@@ -12,7 +12,7 @@
   <link rel="icon" type="image/jpeg" href="./almuntalaq_islamic_icon.jpg">
   <link rel="apple-touch-icon" href="./almuntalaq_islamic_icon.jpg">
   <link rel="manifest" href="./manifest.json">
-  <link rel="stylesheet" href="./css/style.css?v=20261023_v40_content_protect">
+  <link rel="stylesheet" href="./css/style.css?v=20261101_v62_ummah_pbi">
   <style id="hikmah-curved-styles">
     /* ==========================================================================
        GAYA BUTANG MELENGKUNG PERSIS NOTA KAKI - MUTIARA HIKMAH DAKWAH
@@ -242,6 +242,9 @@
         <button class="layer-btn" id="btnLayerHikmah" role="tab" aria-selected="false">
           💎 <span>Mutiara Hikmah</span>
         </button>
+        <button class="layer-btn" id="btnHeaderPeradaban" role="tab" aria-selected="false" title="Wawasan Ummah Fadhilah &amp; PBI (Sumbangan al-Muntalaq)">
+          🌍 <span>Ummah &amp; PBI</span>
+        </button>
       </div>
 
       <button class="icon-btn" id="themeToggleBtn" title="Tukar Tema (Gelap/Cerah)" aria-label="Tukar Tema">
@@ -276,6 +279,16 @@
           <span class="hikmah-promo-sub">(Hadis Nabi SAW + Tokoh & Pejuang)</span>
         </div>
         <span class="hikmah-promo-badge">Rawak</span>
+      </div>
+
+      <!-- Quick Access: Ummah Fadhilah & PBI (Sumbangan al-Muntalaq) -->
+      <div class="sidebar-peradaban-promo" id="sidebarPeradabanBtn" role="button" tabindex="0" title="Buka Wawasan Ummah Fadhilah &amp; Peradaban Baru Islam (PBI)">
+        <div class="peradaban-promo-icon">🌍</div>
+        <div class="peradaban-promo-info">
+          <span class="peradaban-promo-title">Ummah Fadhilah &amp; PBI</span>
+          <span class="peradaban-promo-sub">(Sumbangan al-Muntalaq)</span>
+        </div>
+        <span class="peradaban-promo-badge">Wawasan</span>
       </div>
 
       <!-- Chapter Navigation List -->
@@ -378,6 +391,205 @@
   <!-- Scripts -->
   <script src="./data/almuntalaq_quotes.js?v=20261022_v32"></script>
   <script src="./data/almuntalaq_data.js?v=20261023_v43_dbp_daripada"></script>
-  <script src="./js/app.js?v=20261023_v42_arabic_upright"></script>
+  <script src="./js/app.js?v=20261101_v62_ummah_pbi"></script>
+
+  <!-- ================= MODAL UMMAH FADHILAH & PBI (SUMBANGAN AL-MUNTALAQ) ================= -->
+  <div class="tarbiah-modal-overlay peradaban-modal-overlay" id="modalPeradabanSpotlight" style="display: none;">
+    <div class="tarbiah-modal-box peradaban-modal-box">
+      <div class="tarbiah-modal-header peradaban-modal-header">
+        <div class="peradaban-modal-badge">🌍 WAWASAN 100 TAHUN KEDUA (PBI)</div>
+        <button class="icon-btn tarbiah-modal-close" id="btnClosePeradabanModal" aria-label="Tutup">✕</button>
+      </div>
+      <h3 class="tarbiah-modal-title peradaban-modal-title">Ummah Fadhilah &amp; Peradaban Baru Islam</h3>
+      <p class="tarbiah-modal-subtitle peradaban-modal-subtitle">Sumbangan Kitab Al-Muntalaq (As-Syeikh Muhammad Ahmad al-Rasyid) Sebagai Titik Tolak Fikrah &amp; Keaslian Syariat</p>
+
+      <!-- Pautan Fail Dokumen Sedia Digunakan (Word & PDF) -->
+      <div class="peradaban-download-panel">
+        <div class="download-panel-title">📥 Pautan Fail Dokumen Sedia Digunakan:</div>
+        
+        <!-- Bahagian 1: Dokumen Pengenalan Am -->
+        <div style="font-size:0.75rem; color:#93c5fd; font-weight:700; margin: 4px 0 6px 0; letter-spacing:0.3px;">
+          📌 DOKUMEN PENGENALAN AM (GAGASAN UMMAH FADHILAH &amp; TETRALOGI):
+        </div>
+        <div class="download-buttons-group">
+          <a href="./Gagasan_Ummah_Fadhilah_Kuasa_Nasional_dan_Tetralogi_Al-Rasyid.docx" download class="peradaban-doc-btn docx-btn">
+            <span class="doc-icon">📄</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Am Word (.docx)</span>
+              <span class="doc-sub-text">Pengenalan Am Gagasan (42 KB)</span>
+            </div>
+          </a>
+          <a href="./Gagasan_Ummah_Fadhilah_Kuasa_Nasional_dan_Tetralogi_Al-Rasyid.pdf" target="_blank" class="peradaban-doc-btn pdf-btn">
+            <span class="doc-icon">📕</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Am PDF (.pdf)</span>
+              <span class="doc-sub-text">Format E-Buku Sedia Cetak (886 KB)</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- Bahagian 2: Dokumen Khas Al-Muntalaq -->
+        <div style="font-size:0.75rem; color:var(--gold-light); font-weight:700; margin: 10px 0 6px 0; letter-spacing:0.3px;">
+          💎 DOKUMEN KHAS AL-MUNTALAQ (SUMBANGAN DALAM KUASA WATAN):
+        </div>
+        <div class="download-buttons-group">
+          <a href="./Sumbangan_Al_Muntalaq_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.docx" download class="peradaban-doc-btn docx-btn">
+            <span class="doc-icon">📄</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Khas Word (.docx)</span>
+              <span class="doc-sub-text">Sumbangan Al-Muntalaq (38 KB)</span>
+            </div>
+          </a>
+          <a href="./Sumbangan_Al_Muntalaq_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.pdf" target="_blank" class="peradaban-doc-btn pdf-btn">
+            <span class="doc-icon">📕</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Khas PDF (.pdf)</span>
+              <span class="doc-sub-text">Format E-Buku Sedia Cetak (4.3 MB)</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <div class="tarbiah-modal-body peradaban-modal-body">
+        <!-- 1. Kedudukan Strategik -->
+        <div class="peradaban-card-highlight">
+          <div class="peradaban-card-header">
+            <span class="peradaban-card-icon">🧭</span>
+            <div>
+              <h4 style="margin:0; font-size:1.05rem; color:var(--gold-light);">Kedudukan Al-Muntalaq dalam Strategi Peradaban</h4>
+              <span style="font-size:0.75rem; color:#93c5fd;">Titik Tolak Fikrah &amp; Menjawab Soalan: "Dari Mana Kita Bermula?"</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Kitab <strong>Al-Muntalaq</strong> (Titik Tolak) adalah asas paling fundamental kepada Fiqh al-Da'wah wa al-Harakah. Syeikh al-Rasyid meletakkan karya ini untuk menjawab persoalan mutlak: <em>"Dari mana dan atas asas apa kita bermula?"</em>
+          </p>
+          <p class="peradaban-desc-text" style="color:#cbd5e1; margin-top:0.5rem;">
+            Dalam membina Ummah Fadhilah ke arah Kuasa Nasional, Al-Muntalaq memastikan bahawa kebangkitan umat tidak meniru acuan ideologi Barat (liberalisme dan sekularisme), sebaliknya bermula daripada ketulenan wahyu dan keaslian syariat (<em>al-aṣālah</em>) serta penyerahan mutlak hanya kepada Allah SWT.
+          </p>
+        </div>
+
+        <!-- 2. Lima Teras Al-Muntalaq -->
+        <h4 style="color:var(--gold-light); margin:0.5rem 0 0.25rem 0; font-size:1rem; display:flex; align-items:center; gap:6px;">
+          <span>📌</span> <span>Lima Teras Sumbangan Al-Muntalaq dalam Kuasa Nasional</span>
+        </h4>
+
+        <!-- Teras 1 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">⚖️</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>1. Menolak Hawa Nafsu Sebagai Asas Kenegaraan (Bab 1)</h4>
+              <span class="tarbiah-pillar-tag">Prinsip Penyerahan Mutlak (At-Taslīm)</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Falsafah Barat menobatkan kebebasan hawa nafsu sebagai tuhan penentu dasar kenegaraan. Al-Muntalaq menegaskan bahawa kebangkitan Ummah Fadhilah wajib bermula dengan penolakan mutlak terhadap hawa nafsu moden. Menetapkan prinsip penyerahan mutlak kepada syariat Allah sebagai asas Tonggak 1 Kuasa Nasional (Tasawur &amp; Akidah).
+          </p>
+        </div>
+
+        <!-- Teras 2 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">🌅</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>2. Fiqh Ibtila' &amp; Keyakinan Kemenangan (Bab 2)</h4>
+              <span class="tarbiah-pillar-tag">Gerhana Bukan Terbenamnya Matahari</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Mendidik aktivis bahawa tekanan musuh, fitnah geopolitik, dan kejatuhan kuasa 1924 bukanlah penamat sejarah. Menolak penyakit putus asa (<em>al-ya's</em>) dan menyuburkan keyakinan teguh kepada janji pertolongan Allah (<em>al-thiqah billāh</em>).
+          </p>
+        </div>
+
+        <!-- Teras 3 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">👥</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>3. Transformasi Daripada 'Soleh' Kepada 'Muslih Haraki' (Bab 3)</h4>
+              <span class="tarbiah-pillar-tag">Orang-Orang Baik yang Binasa</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Menggariskan hukum sosiologi al-Quran: kebaikan yang berselerak pasti dikalahkan oleh kebatilan yang tersusun rapi. Ummah Fadhilah menolak fahaman kesolehan pasif yang mementingkan diri sendiri. Yang dituntut ialah menjadi muslih yang berdisiplin di dalam satu saf tanzim yang padu (Tonggak 5: Kesatuan Ummah).
+          </p>
+        </div>
+
+        <!-- Teras 4 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">📢</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>4. Fardhu Dakwah Penjamin Keselamatan Watan (Bab 4)</h4>
+              <span class="tarbiah-pillar-tag">Pencegah Azab &amp; Kerosakan Tamadun</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Dakwah amar makruf nahi mungkar adalah fardhu syarak penjamin keamanan dan keberkatan watan. Apabila budaya menegur kesilapan terhenti, kerosakan moral akan membiak dan mengundang bala kemusnahan sosial. Dakwah adalah nadi membina Khaira Ummah.
+          </p>
+        </div>
+
+        <!-- Teras 5 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">🛡️</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>5. Menolak Sikap Bermain-main Dalam Perjuangan (Bab 5)</h4>
+              <span class="tarbiah-pillar-tag">Ahli Ibadah yang Bermain-main</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Memberi amaran keras terhadap sikap mengambil mudah urusan perjuangan Islam, membuang masa, atau memperalatkan dakwah demi kepentingan peribadi. Menuntut kesungguhan penuh dalam memikul amanah kebangkitan watan.
+          </p>
+        </div>
+
+        <!-- 3. Rantaian Simbiotik Segi Tiga -->
+        <div class="peradaban-card-highlight" style="border-color: rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(30, 27, 75, 0.6) 0%, rgba(69, 26, 3, 0.4) 100%);">
+          <div class="peradaban-card-header">
+            <span class="peradaban-card-icon">🔄</span>
+            <div>
+              <h4 style="margin:0; font-size:1.05rem; color:var(--gold-light);">Hubungan Simbiotik Segi Tiga Peradaban</h4>
+              <span style="font-size:0.75rem; color:#fde047;">Rantaian Strategik Menuju 100 Tahun Kedua</span>
+            </div>
+          </div>
+          <div class="simbiotik-chain-grid">
+            <div class="chain-box">
+              <div class="chain-badge">1. ASAS &amp; JIWA</div>
+              <strong style="color:#7dd3fc; font-size:0.88rem;">Ummah Fadhilah</strong>
+              <p style="font-size:0.75rem; color:#cbd5e1; margin-top:4px;">Masyarakat bertakwa, berakhlak mulia, berukhuwah itsar, dan mandiri di akar umbi.</p>
+            </div>
+            <div class="chain-arrow">➔</div>
+            <div class="chain-box">
+              <div class="chain-badge">2. KUASA &amp; STRUKTUR</div>
+              <strong style="color:#fde047; font-size:0.88rem;">Kuasa Nasional</strong>
+              <p style="font-size:0.75rem; color:#cbd5e1; margin-top:4px;">Kedaulatan politik, institusi berteraskan syura, dan keupayaan pertahanan watan.</p>
+            </div>
+            <div class="chain-arrow">➔</div>
+            <div class="chain-box">
+              <div class="chain-badge">3. KEMUNCAK GLOBAL</div>
+              <strong style="color:#6ee7b7; font-size:0.88rem;">Peradaban Baru Islam</strong>
+              <p style="font-size:0.75rem; color:#cbd5e1; margin-top:4px;">Prototaip sistem alternatif sejagat yang adil, makmur, dan berkat untuk kemanusiaan.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4. Harmonisasi Tetralogi Syeikh Muhammad Ahmad al-Rasyid -->
+        <div class="tetralogi-summary-box">
+          <h4 style="margin:0 0 0.5rem 0; color:var(--gold-light); font-size:0.95rem;">📚 Harmonisasi 4 Karya Tetralogi Syeikh Muhammad Ahmad al-Rasyid:</h4>
+          <ul class="tetralogi-list">
+            <li><strong>Al-Muntalaq:</strong> Menetapkan titik mula kesedaran, memurnikan tauhid, dan membentuk minda dakwah komprehensif.</li>
+            <li><strong>Al-‘Awā’iq:</strong> Mengesan ranjau nafsu, halangan keperibadian, dan penyakit fitnah di jalan dakwah.</li>
+            <li><strong>Al-Raqā'iq:</strong> Menyiram roh pejuang dengan tazkiyah, ukhuwah, dan tawaduk demi mengelakkan ghuluw siasah.</li>
+            <li><strong>Al-Masār:</strong> Merangka seni bina perancangan, polisi pentadbiran, dan strategi peradaban watan.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tarbiah-modal-footer">
+        <button class="tarbiah-modal-btn peradaban-close-footer-btn" id="btnPeradabanModalCloseFooter">Tutup &amp; Hayati Wawasan</button>
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v43-tatabahasa-dbp-daripada-20261023';
+const CACHE_NAME = 'almuntalaq-cache-v62-ummah-pbi';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
