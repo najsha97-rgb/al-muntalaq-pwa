@@ -1664,19 +1664,42 @@ if (allHikmahQuotes.length === 0) {
     }, 2800);
   }
 
+  // Initial setup
+  renderSidebar();
+  if (state.layer === 'layer3') {
+    setLayer('layer3');
+  } else {
+    setLayer(state.layer);
+    navigateTo(0);
+  }
+
+
+  
+
   // === Open / Close Peradaban Spotlight Modal (Ummah Fadhilah & PBI) ===
   function togglePeradabanModal(show) {
     const modal = document.getElementById('modalPeradabanSpotlight');
     if (!modal) return;
-    modal.style.display = show ? 'flex' : 'none';
-    document.body.style.overflow = show ? 'hidden' : '';
+    if (show) {
+      modal.classList.add('show');
+      modal.style.setProperty('display', 'flex', 'important');
+      document.body.style.overflow = 'hidden';
+      const bodyEl = modal.querySelector('.peradaban-modal-body, .tarbiah-modal-body');
+      if (bodyEl) bodyEl.scrollTop = 0;
+    } else {
+      modal.classList.remove('show');
+      modal.style.setProperty('display', 'none', 'important');
+      document.body.style.overflow = '';
+    }
     if (show && typeof state !== 'undefined' && state.mobileNavOpen) {
       if (typeof toggleMobileNav === 'function') {
         try { toggleMobileNav(false); } catch (e) { toggleMobileNav(); }
       }
     }
   }
+
   window.openPeradabanModal = () => togglePeradabanModal(true);
+  window.closePeradabanModal = () => togglePeradabanModal(false);
   window.togglePeradabanModal = togglePeradabanModal;
 
   const peradabanSidebarTrigger = document.getElementById('sidebarPeradabanBtn');
@@ -1716,20 +1739,10 @@ if (allHikmahQuotes.length === 0) {
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       const modal = document.getElementById('modalPeradabanSpotlight');
-      if (modal && modal.style.display === 'flex') {
+      if (modal && (modal.classList.contains('show') || modal.style.display === 'flex')) {
         togglePeradabanModal(false);
       }
     }
   });
 
-
-
-  // Initial setup
-  renderSidebar();
-  if (state.layer === 'layer3') {
-    setLayer('layer3');
-  } else {
-    setLayer(state.layer);
-    navigateTo(0);
-  }
 });
