@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-cache-v62-ummah-pbi';
+const CACHE_NAME = 'almuntalaq-cache-v64-wawasan-3lajur';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
