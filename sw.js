@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-cache-v64-wawasan-3lajur';
+const CACHE_NAME = 'almuntalaq-cache-v65-pdf-only';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
