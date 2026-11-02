@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v74-pengecualian-dbp';
+const CACHE_NAME = 'almuntalaq-v75-tamayyuz-tasayyub';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
