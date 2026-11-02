@@ -16,7 +16,7 @@ window.togglePeradabanModal = window.togglePeradabanModal || function(show) {
 
 /**
  * AL-MUNTALAQ PWA - CORE LOGIC V2 (EDISI LENGKAP & SEMAKAN RASMI)
- * Titik Tolak Dakwah & Landasan Harakah Islamiyyah
+ * Titik Tolak Dakwah & Landasan Harakah Islamiyah
  * As-Syeikh Muhammad Ahmad Ar-Rasyid (رحمه الله)
  */
 
@@ -954,10 +954,10 @@ if (allHikmahQuotes.length === 0) {
     });
 
     const names = [
-      'Rasulullah SAW', 'Nabi SAW', 'Sayyidina Umar', 'Umar bin al-Khattab',
+      'Rasulullah SAW', 'Nabi SAW', 'Sayidina Umar', 'Umar bin al-Khattab',
       'Muadz bin Jabal', 'Mu\'az bin Jabal', 'Ibnu Taimiyah',
       'Iqbal', 'Muhammad Iqbal', 'Imam Ahmad', 'Fudhail bin \'Iyadh',
-      'Abdullah bin al-Mubarak', 'Yahya bin Mu\'aaz', 'Ibnu al-Qayyim',
+      'Abdullah bin al-Mubarak', 'Yahya bin Mu\'aaz', 'Ibnu al-Qayim',
       'Maimun bin Mahran', 'Asy-Syatibi', 'Hasan al-Banna', 'Hasan al-Hudhaibi', 'Syed Qutb'
     ];
     names.forEach(name => {
@@ -1379,7 +1379,7 @@ if (allHikmahQuotes.length === 0) {
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'all' ? 'active' : ''}" data-cat="all">Semua (${allHikmahQuotes.length})</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'sahabat' ? 'active' : ''}" data-cat="sahabat">Sahabat & Khulafa' RA</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'banna' ? 'active' : ''}" data-cat="banna">Imam Hasan Al-Banna</button>
-        <button class="hikmah-chip-btn ${activeHikmahCategory === 'qutb' ? 'active' : ''}" data-cat="qutb">Sayyid Qutb</button>
+        <button class="hikmah-chip-btn ${activeHikmahCategory === 'qutb' ? 'active' : ''}" data-cat="qutb">Sayid Qutb</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'salaf' ? 'active' : ''}" data-cat="salaf">Aimmah & Ulama Salaf</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'syair' ? 'active' : ''}" data-cat="syair">Syair Perjuangan</button>
         <button class="hikmah-chip-btn ${activeHikmahCategory === 'hadis' ? 'active' : ''}" data-cat="hadis">Hadis & Atsar</button>

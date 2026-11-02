@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v72-retrans-muntalaq';
+const CACHE_NAME = 'almuntalaq-v73-single-y-sync';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
