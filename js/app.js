@@ -954,10 +954,10 @@ if (allHikmahQuotes.length === 0) {
     });
 
     const names = [
-      'Rasulullah SAW', 'Nabi SAW', 'Sayidina Umar', 'Umar bin al-Khattab',
+      'Rasulullah SAW', 'Nabi SAW', 'Saidina Umar', 'Umar bin al-Khattab',
       'Muadz bin Jabal', 'Mu\'az bin Jabal', 'Ibnu Taimiyah',
       'Iqbal', 'Muhammad Iqbal', 'Imam Ahmad', 'Fudhail bin \'Iyadh',
-      'Abdullah bin al-Mubarak', 'Yahya bin Mu\'aaz', 'Ibnu al-Qayim',
+      'Abdullah bin al-Mubarak', 'Yahya bin Mu\'aaz', 'Ibnu al-Qayyim',
       'Maimun bin Mahran', 'Asy-Syatibi', 'Hasan al-Banna', 'Hasan al-Hudhaibi', 'Syed Qutb'
     ];
     names.forEach(name => {
