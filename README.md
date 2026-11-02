@@ -1,5 +1,5 @@
 # Al-Muntalaq PWA (المنطلق)
-### Titik Tolak Dakwah & Landasan Harakah Islamiyyah
+### Titik Tolak Dakwah & Landasan Harakah Islamiyah
 **Karya Asal:** As-Syeikh Muhammad Ahmad Ar-Rasyid (رحمه الله)
 
 ---
