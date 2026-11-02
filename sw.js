@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v68-modal-close-fix';
+const CACHE_NAME = 'almuntalaq-v71-hikmah-amiri-vocalised';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
