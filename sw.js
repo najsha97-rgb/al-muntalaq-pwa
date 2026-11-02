@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v71-hikmah-amiri-vocalised';
+const CACHE_NAME = 'almuntalaq-v72-retrans-muntalaq';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
