@@ -7,8 +7,8 @@
 ## 🌟 Ciri-Ciri Utama Aplikasi
 
 1. **Dual-Layer Knowledge System:**
-   - **Layer 1 (Versi Penuh):** Mengandungi keseluruhan 18 bab (Mukadimah + 17 Bab) dengan 900+ perenggan lengkap terjemahan tanpa diringkaskan.
-   - **Layer 2 (Ringkasan Eksklusif):** Format ringkasan berstruktur merangkumi *Intipati & Fiqh Haraki*, *Aplikasi & Tuntutan Harakah*, dan *Mutiara Dalil & Nukilan Tokoh*.
+   - **Layer 1 (Versi Penuh):** Mengandungi keseluruhan 18 bahagian (Mukadimah + 17 Bab Utama), 107 sub-tajuk berstruktur rapi, 245 nota kaki ilmiah, dan 1,645 perenggan lengkap terjemahan tanpa diringkaskan.
+   - **Layer 2 (Ringkasan Eksklusif):** Format ringkasan berstruktur merangkumi *Intipati & Fiqh Haraki*, *Aplikasi & Tuntutan Harakah*, serta koleksi 174 Mutiara Hikmah Tokoh & Salafussoleh.
 2. **Fungsi Carian Pantas (Instant Search):**
    - Mengimbas seluruh tajuk, intisari, dan setiap perenggan dengan kata kunci berhighlight.
 3. **Sokongan Penuh Luar Talian (Offline-First PWA):**

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'almuntalaq-v75-tamayyuz-tasayyub';
+const CACHE_NAME = 'almuntalaq-v76-edisi-sempurna-tetralogi';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
